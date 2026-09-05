@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>会員サイト｜エラベル</title>
+<meta name="description" content="エラベルの会員サイトです。当社が承認した企業のみ、担当者の所属と詳しい経歴をご覧いただけます。">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+
+<style>
+  :root{
+    --paper:#F5F6F8;--surface:#FFFFFF;--surface-2:#ECEEF2;
+    --ink:#141A24;--ink-soft:#4C566A;--ink-faint:#858F9E;
+    --line:#E2E6EC;--line-strong:#C9D0DA;
+    --accent:#E4572E;--accent-strong:#C6431D;--accent-ink:#A73716;--accent-tint:#FCE9E1;
+    --navy:#0B1A32;--on-navy:#EAF0F8;--on-navy-soft:#9CB0CB;--on-navy-line:#20324D;
+    --sans:"Hiragino Kaku Gothic ProN","Hiragino Sans","Yu Gothic",YuGothic,"Noto Sans JP","Segoe UI",sans-serif;
+    --mono:"SFMono-Regular","SF Mono","Cascadia Code",Consolas,"Roboto Mono",monospace;
+    --maxw:1060px;--radius:16px;
+    --shadow:0 1px 2px rgba(20,26,36,.05),0 16px 38px -20px rgba(20,26,36,.26);
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.8;
+    -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;overflow-x:hidden}
+  h1,h2,h3,h4,p{margin:0}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px}
+
+  .btn{display:inline-flex;align-items:center;gap:9px;font-weight:800;font-size:.95rem;padding:14px 26px;border-radius:11px;
+    cursor:pointer;border:1px solid transparent;transition:transform .15s ease,background .2s ease,box-shadow .2s ease;white-space:nowrap}
+  .btn-primary{background:var(--accent);color:#fff;box-shadow:0 10px 26px -10px var(--accent)}
+  .btn-primary:hover{background:var(--accent-strong);transform:translateY(-2px)}
+  .btn-onnavy{border-color:var(--on-navy-line);color:var(--on-navy);background:rgba(255,255,255,.06)}
+  .btn-onnavy:hover{border-color:var(--accent);color:#fff}
+  .btn-lg{padding:17px 34px;font-size:1.02rem}
+  .btn .arw{font-family:var(--mono)}
+
+  /* nav */
+  header.nav{position:sticky;top:0;z-index:50;background:rgba(245,246,248,.88);
+    backdrop-filter:saturate(1.4) blur(12px);border-bottom:1px solid var(--line)}
+  .nav-in{display:flex;align-items:center;justify-content:space-between;height:64px;gap:16px}
+  .brand{display:flex;align-items:center;gap:11px;font-weight:800}
+  .brand .mk{width:32px;height:32px;border-radius:9px;flex:none;background:var(--navy);display:grid;place-items:center}
+  .brand .mk svg{display:block}
+  .brand .nm{font-size:1.05rem;line-height:1.2;letter-spacing:.02em}
+  .brand .nm small{display:block;font-family:var(--mono);font-size:.56rem;letter-spacing:.14em;color:var(--ink-faint);font-weight:600}
+  .nav .cta-mini{font-size:.9rem;padding:10px 20px}
+  @media (max-width:560px){.brand .nm small{display:none}}
+
+  /* hero */
+  .hero{position:relative;background:var(--navy);color:var(--on-navy);overflow:hidden;border-bottom:1px solid var(--on-navy-line)}
+  .hero::before{content:"";position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(48% 44% at 84% 4%,rgba(228,87,46,.26),transparent 62%),
+      radial-gradient(42% 42% at 4% 96%,rgba(120,150,200,.16),transparent 64%)}
+  .hero-grid{position:absolute;inset:0;opacity:.5;pointer-events:none;
+    background-image:linear-gradient(var(--on-navy-line) 1px,transparent 1px);background-size:100% 48px;
+    -webkit-mask-image:linear-gradient(180deg,transparent,#000 16%,#000 74%,transparent);
+            mask-image:linear-gradient(180deg,transparent,#000 16%,#000 74%,transparent)}
+  .hero-in{position:relative;padding:70px 0 58px}
+  .hero-eyebrow{display:inline-flex;align-items:center;gap:9px;font-size:.76rem;letter-spacing:.06em;
+    color:var(--on-navy);font-weight:700;background:rgba(228,87,46,.16);
+    border:1px solid rgba(228,87,46,.42);padding:7px 15px;border-radius:999px}
+  h1.hero-title{font-weight:900;letter-spacing:.005em;font-size:clamp(2rem,5.4vw,3.4rem);line-height:1.3;margin:24px 0 0;text-wrap:balance}
+  h1.hero-title .hl{color:var(--accent)}
+  .hero-lead{margin:24px 0 0;max-width:36em;color:var(--on-navy-soft);font-size:1.06rem}
+  .hero-cta{display:flex;flex-wrap:wrap;gap:14px;margin:32px 0 0;align-items:center}
+  .hero-trust{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:46px 0 0}
+  .htile{background:rgba(255,255,255,.04);border:1px solid var(--on-navy-line);border-radius:13px;padding:18px}
+  .htile .n{font-weight:800;font-size:1.02rem;line-height:1.4;color:var(--on-navy)}
+  .htile .l{font-size:.78rem;color:var(--on-navy-soft);margin-top:7px;line-height:1.6}
+  @media (max-width:760px){.hero-trust{grid-template-columns:repeat(2,1fr)}}
+
+  /* sections */
+  section{padding:78px 0}
+  .band{background:var(--surface-2);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .sec-head{display:flex;flex-direction:column;gap:12px;margin-bottom:42px;max-width:46em}
+  .sec-head .kick{font-family:var(--mono);font-size:.7rem;letter-spacing:.16em;text-transform:uppercase;color:var(--accent-ink);font-weight:700}
+  .sec-head.center{margin:0 auto 44px;text-align:center;align-items:center}
+  h2{font-weight:900;font-size:clamp(1.55rem,3.5vw,2.3rem);line-height:1.36;text-wrap:balance}
+  .sec-head p{color:var(--ink-soft);font-size:1.02rem}
+  .lede{color:var(--ink-soft);font-size:1.02rem;max-width:44em}
+
+  /* 対比 */
+  .vs{display:grid;grid-template-columns:1fr auto 1fr;gap:20px;align-items:stretch;max-width:900px;margin:0 auto}
+  .vs-col{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:26px;box-shadow:var(--shadow)}
+  .vs-col.on{border-color:var(--accent);box-shadow:0 1px 2px rgba(20,26,36,.05),0 18px 40px -20px rgba(228,87,46,.5)}
+  .vs-col h4{font-size:1.02rem;font-weight:800;margin-bottom:16px;padding-bottom:12px;border-bottom:1px solid var(--line)}
+  .vs-col.on h4{color:var(--accent-ink)}
+  .vs-col ol{margin:0;padding-left:1.2em;color:var(--ink-soft);font-size:.95rem}
+  .vs-col ol li{margin-bottom:9px}
+  .vs-col ol li b{color:var(--ink)}
+  .vs-mid{display:grid;place-items:center;color:var(--ink-faint);font-family:var(--mono);font-size:.8rem;font-weight:700}
+  @media (max-width:760px){.vs{grid-template-columns:1fr}.vs-mid{padding:4px 0}}
+
+  /* カード */
+  .grid2{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+  .pcard{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:28px;box-shadow:var(--shadow)}
+  .pcard .ico{width:44px;height:44px;border-radius:11px;background:var(--accent-tint);color:var(--accent-ink);
+    display:grid;place-items:center;margin-bottom:16px}
+  .pcard h4{font-size:1.1rem;font-weight:800;margin-bottom:9px}
+  .pcard p{color:var(--ink-soft);font-size:.95rem}
+  @media (max-width:760px){.grid2{grid-template-columns:1fr}}
+
+  /* 業務チェックリスト */
+  .tasks{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;max-width:860px}
+  .task{display:flex;gap:13px;align-items:flex-start;background:var(--surface);border:1px solid var(--line);
+    border-radius:12px;padding:17px 19px}
+  .task .ck{flex:none;width:22px;height:22px;border-radius:7px;background:var(--accent-tint);color:var(--accent-ink);
+    display:grid;place-items:center;margin-top:3px}
+  .task b{display:block;font-size:.98rem;font-weight:800}
+  .task span{display:block;color:var(--ink-soft);font-size:.87rem;line-height:1.65}
+  @media (max-width:760px){.tasks{grid-template-columns:1fr}}
+
+  /* プロフィールのサンプル */
+  .sample-note{display:inline-flex;align-items:center;gap:8px;font-size:.78rem;font-weight:700;color:var(--ink-faint);
+    border:1px dashed var(--line-strong);border-radius:999px;padding:6px 14px;margin-bottom:22px}
+  .pf{max-width:400px;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+    box-shadow:var(--shadow);overflow:hidden}
+  .pf-top{padding:24px 24px 20px;border-bottom:1px solid var(--line)}
+  .pf-id{display:flex;align-items:center;gap:14px}
+  .pf-av{width:54px;height:54px;border-radius:50%;flex:none;background:var(--surface-2);border:1px solid var(--line);
+    display:grid;place-items:center;color:var(--ink-faint);font-weight:800;font-size:1rem}
+  .pf-nm{font-weight:800;font-size:1.06rem;line-height:1.3}
+  .pf-nm small{display:block;font-size:.76rem;color:var(--ink-faint);font-weight:600}
+  .pf-catch{margin-top:16px;font-size:.96rem;color:var(--ink-soft)}
+  .pf-tags{display:flex;flex-wrap:wrap;gap:7px;margin-top:16px}
+  .tag{font-size:.76rem;font-weight:700;color:var(--accent-ink);background:var(--accent-tint);border-radius:999px;padding:5px 12px}
+  .pf-rows{padding:8px 24px 20px}
+  .pf-row{display:flex;justify-content:space-between;gap:14px;padding:11px 0;border-bottom:1px solid var(--line);font-size:.9rem}
+  .pf-row:last-child{border-bottom:0}
+  .pf-row .k{color:var(--ink-faint);font-weight:600;flex:none}
+  .pf-row .v{font-weight:800;text-align:right}
+  .pf-row .v em{font-style:normal;font-weight:600;color:var(--ink-soft);font-size:.84rem;display:block}
+  .pf-foot{padding:0 24px 24px}
+  .pf-foot .btn{width:100%;justify-content:center;pointer-events:none}
+  .pf-lay{display:grid;grid-template-columns:400px 1fr;gap:40px;align-items:start}
+  @media (max-width:860px){.pf-lay{grid-template-columns:1fr}.pf{max-width:none}}
+  .pf-exp li{margin-bottom:14px;color:var(--ink-soft);font-size:.95rem}
+  .pf-exp li b{color:var(--ink);display:block}
+
+  /* 流れ */
+  .flow{display:grid;gap:14px;max-width:880px}
+  .fstep{display:grid;grid-template-columns:auto 1fr;gap:20px;align-items:flex-start;background:var(--surface);
+    border:1px solid var(--line);border-radius:var(--radius);padding:24px 26px}
+  .fstep .no{width:38px;height:38px;border-radius:10px;flex:none;background:var(--navy);color:#fff;
+    display:grid;place-items:center;font-family:var(--mono);font-weight:800;font-size:.95rem}
+  .fstep h4{font-size:1.06rem;font-weight:800;margin-bottom:6px}
+  .fstep p{color:var(--ink-soft);font-size:.94rem}
+  .fstep .hint{display:inline-block;margin-top:10px;font-size:.83rem;font-weight:700;color:var(--accent-ink);
+    background:var(--accent-tint);border-radius:8px;padding:6px 12px}
+
+  /* 募集要項 */
+  .req{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--line);
+    border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow)}
+  .req th,.req td{text-align:left;padding:18px 22px;border-bottom:1px solid var(--line);font-size:.95rem;vertical-align:top}
+  .req th{width:200px;background:var(--surface-2);font-weight:800;color:var(--ink)}
+  .req td{color:var(--ink-soft)}
+  .req tr:last-child th,.req tr:last-child td{border-bottom:0}
+  @media (max-width:700px){.req th,.req td{display:block;width:auto}.req th{border-bottom:0;padding-bottom:6px}}
+
+  /* FAQ */
+  .faq{max-width:820px}
+  .qa{background:var(--surface);border:1px solid var(--line);border-radius:13px;margin-bottom:11px;overflow:hidden}
+  .qa summary{cursor:pointer;list-style:none;padding:20px 24px;font-weight:800;font-size:1rem;
+    display:flex;justify-content:space-between;gap:16px;align-items:center}
+  .qa summary::-webkit-details-marker{display:none}
+  .qa summary::after{content:"+";font-family:var(--mono);font-size:1.3rem;color:var(--accent);flex:none;transition:transform .2s}
+  .qa[open] summary::after{transform:rotate(45deg)}
+  .qa .a{padding:0 24px 22px;color:var(--ink-soft);font-size:.95rem}
+
+  /* フォーム */
+  .form-sec{background:var(--navy);color:var(--on-navy)}
+  .form-sec h2{color:#fff}
+  .form-sec .sec-head p{color:var(--on-navy-soft)}
+  .form-card{background:var(--surface);color:var(--ink);border-radius:var(--radius);padding:34px;max-width:760px;margin:0 auto;
+    box-shadow:0 24px 60px -30px rgba(0,0,0,.6)}
+  .fld{margin-bottom:20px}
+  .fld label{display:block;font-weight:800;font-size:.92rem;margin-bottom:8px}
+  .fld label .must{font-size:.7rem;font-weight:700;color:#fff;background:var(--accent);border-radius:5px;padding:2px 7px;margin-left:8px;vertical-align:2px}
+  .fld label .opt{font-size:.7rem;font-weight:700;color:var(--ink-faint);border:1px solid var(--line-strong);border-radius:5px;padding:2px 7px;margin-left:8px;vertical-align:2px}
+  .fld input[type=text],.fld input[type=email],.fld select,.fld textarea{
+    width:100%;padding:13px 15px;border:1px solid var(--line-strong);border-radius:10px;font-family:inherit;font-size:.97rem;
+    background:var(--surface);color:var(--ink)}
+  .fld textarea{min-height:120px;resize:vertical;line-height:1.7}
+  .fld input:focus,.fld select:focus,.fld textarea:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:transparent}
+  .fld .help{font-size:.84rem;color:var(--ink-faint);margin-top:7px}
+  .chk-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:9px}
+  .chk{display:flex;align-items:center;gap:9px;border:1px solid var(--line-strong);border-radius:10px;padding:12px 14px;
+    font-size:.92rem;cursor:pointer;background:var(--surface)}
+  .chk:hover{border-color:var(--accent)}
+  .chk input{accent-color:var(--accent);width:17px;height:17px;flex:none}
+  @media (max-width:640px){.chk-grid{grid-template-columns:1fr}}
+  .form-foot{margin-top:26px;text-align:center}
+  .form-foot .btn{width:100%;justify-content:center}
+  .form-foot .privacy{font-size:.84rem;color:var(--ink-faint);margin-top:14px}
+  .form-msg{display:none;margin-top:16px;padding:14px 18px;border-radius:10px;font-size:.92rem;font-weight:700}
+  .form-msg.err{display:block;background:#FDECEA;color:#9B2C1C;border:1px solid #F5C6BD}
+  .thanks{display:none;text-align:center;padding:20px 0}
+  .thanks h3{font-size:1.4rem;font-weight:900;margin-bottom:14px}
+  .thanks p{color:var(--ink-soft)}
+
+  /* footer */
+  footer{background:var(--navy);color:var(--on-navy-soft);border-top:1px solid var(--on-navy-line);padding:46px 0 40px;font-size:.88rem}
+  .foot-in{display:flex;flex-wrap:wrap;gap:24px;justify-content:space-between;align-items:flex-start}
+  .foot-brand{font-weight:800;color:var(--on-navy);font-size:1.02rem}
+  .foot-links{display:flex;flex-wrap:wrap;gap:18px}
+  .foot-links a:hover{color:var(--accent)}
+  .foot-copy{margin-top:28px;padding-top:20px;border-top:1px solid var(--on-navy-line);font-size:.8rem}
+
+  /* reveal */
+  .rv{opacity:0;transform:translateY(16px);transition:opacity .7s ease,transform .7s ease}
+  .rv.on{opacity:1;transform:none}
+  @media (prefers-reduced-motion:reduce){.rv{opacity:1;transform:none;transition:none}}
+</style>
+<noscript><style>.rv{opacity:1;transform:none}</style></noscript>
+<style>
+  .nav-right{display:flex;align-items:center;gap:12px}
+  .nav-mail{font-size:.84rem;color:var(--ink-faint);font-weight:600;max-width:38vw;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .btn-ghost{border-color:var(--line-strong);color:var(--ink);background:var(--surface)}
+  .btn-ghost:hover{border-color:var(--accent);color:var(--accent-ink)}
+
+  .gate-sec{padding:70px 0 90px}
+  .gate{max-width:520px;margin:0 auto;background:var(--surface);border:1px solid var(--line);
+    border-radius:var(--radius);padding:38px;box-shadow:var(--shadow)}
+  .gate .kick{font-family:var(--mono);font-size:.7rem;letter-spacing:.16em;text-transform:uppercase;
+    color:var(--accent-ink);font-weight:700;display:block;margin-bottom:12px}
+  .gate h1{font-weight:900;font-size:1.5rem;line-height:1.4;margin-bottom:14px}
+  .gate-lead{color:var(--ink-soft);font-size:.97rem;margin-bottom:26px}
+  .gate-muted{color:var(--ink-faint);font-size:.9rem}
+  .gate-foot{margin-top:22px;padding-top:18px;border-top:1px solid var(--line);
+    font-size:.86rem;color:var(--ink-faint)}
+  .gate-foot a{color:var(--accent-ink);font-weight:700;text-decoration:underline}
+  .gate .btn{width:100%;justify-content:center}
+  .chk-wide{align-items:flex-start;gap:11px;line-height:1.65;font-size:.9rem}
+  .chk-wide input{margin-top:3px}
+  .form-msg.ok{display:block;background:#EAF6EE;color:#1E6B3A;border:1px solid #BFE3CC}
+
+  .filters{display:flex;flex-wrap:wrap;gap:14px;align-items:flex-end;background:var(--surface);
+    border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px;margin-bottom:26px}
+  .fgroup{display:flex;flex-direction:column;gap:6px;min-width:150px}
+  .fgroup.grow{flex:1 1 220px}
+  .fgroup label{font-size:.78rem;font-weight:800;color:var(--ink-faint)}
+  .fgroup select,.fgroup input{padding:10px 12px;border:1px solid var(--line-strong);border-radius:9px;
+    font-family:inherit;font-size:.92rem;background:var(--surface);color:var(--ink);width:100%}
+  .fgroup select:focus,.fgroup input:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:transparent}
+  .fcount{margin-left:auto;font-weight:800;font-size:.9rem;color:var(--ink-faint);padding-bottom:10px}
+  @media (max-width:640px){.fcount{margin-left:0}}
+
+  .plist{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:18px}
+  .plist .pf{max-width:none}
+  .pf-code{margin-left:auto;font-family:var(--mono);font-size:.72rem;font-weight:700;
+    color:var(--ink-faint);border:1px solid var(--line-strong);border-radius:7px;padding:4px 9px;flex:none}
+  .pf-more{border-top:1px solid var(--line)}
+  .pf-more summary{cursor:pointer;list-style:none;padding:14px 24px;font-weight:800;font-size:.9rem;
+    color:var(--accent-ink);display:flex;justify-content:space-between;align-items:center}
+  .pf-more summary::-webkit-details-marker{display:none}
+  .pf-more summary::after{content:"+";font-family:var(--mono);font-size:1.2rem;transition:transform .2s}
+  .pf-more[open] summary::after{transform:rotate(45deg)}
+  .pf-priv{padding:0 24px 22px}
+  .pf-priv-b{margin-bottom:16px}
+  .pf-priv-b:last-child{margin-bottom:0}
+  .pf-priv-b b{display:block;font-size:.82rem;color:var(--ink-faint);margin-bottom:5px}
+  .pf-priv-b p{font-size:.93rem;color:var(--ink-soft);white-space:pre-wrap}
+
+  .privacy-note{margin-top:34px;padding:16px 20px;background:var(--accent-tint);border-radius:12px;
+    font-size:.87rem;color:var(--accent-ink);font-weight:600;line-height:1.75}
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="index.html">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>MEMBERS</small></span>
+    </a>
+    <div class="nav-right" id="navRight"></div>
+  </div>
+</header>
+
+<!-- ============ 読み込み中 ============ -->
+<section class="gate-sec" id="viewLoading">
+  <div class="wrap">
+    <div class="gate">
+      <p class="gate-muted">読み込んでいます…</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ ログイン ============ -->
+<section class="gate-sec" id="viewLogin" hidden>
+  <div class="wrap">
+    <div class="gate">
+      <span class="kick">Members</span>
+      <h1>担当者の詳しい情報をご覧いただけます</h1>
+      <p class="gate-lead">ご利用には当社の承認が必要です。メールアドレスを入力していただくと、ログイン用のリンクをお送りします。パスワードはありません。</p>
+      <div class="fld">
+        <label for="loginEmail">メールアドレス</label>
+        <input type="email" id="loginEmail" autocomplete="email" placeholder="you@example.co.jp">
+        <div class="help">会社のメールアドレスをご入力ください。フリーメールの場合、承認までにお時間をいただくことがあります。</div>
+      </div>
+      <button type="button" class="btn btn-primary btn-lg" id="loginBtn">ログイン用のリンクを送る <span class="arw">&rarr;</span></button>
+      <div class="form-msg" id="loginMsg"></div>
+      <p class="gate-foot">はじめての方も同じ操作で進めます。リンクを開いたあと、利用申請の画面が表示されます。</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 利用申請 ============ -->
+<section class="gate-sec" id="viewApply" hidden>
+  <div class="wrap">
+    <div class="gate">
+      <span class="kick">Application</span>
+      <h1>利用申請</h1>
+      <p class="gate-lead">担当者の情報には、所属や詳しい経歴が含まれます。ご覧いただく前に、簡単な確認をさせてください。</p>
+      <div class="fld">
+        <label for="apCompany">会社名<span class="must">必須</span></label>
+        <input type="text" id="apCompany" autocomplete="organization" placeholder="株式会社〇〇">
+      </div>
+      <div class="fld">
+        <label for="apName">お名前<span class="must">必須</span></label>
+        <input type="text" id="apName" autocomplete="name" placeholder="山田 太郎">
+      </div>
+      <div class="fld">
+        <label for="apUrl">会社のWebサイト<span class="opt">任意</span></label>
+        <input type="text" id="apUrl" placeholder="https://example.co.jp">
+        <div class="help">ご入力いただくと、承認が早くなります。</div>
+      </div>
+      <div class="fld">
+        <label for="apPurpose">採用したい職種・時期<span class="opt">任意</span></label>
+        <textarea id="apPurpose" placeholder="例：エンジニアを2名、年内に。いまは社内の人事1名で回しています。"></textarea>
+      </div>
+      <label class="chk chk-wide"><input type="checkbox" id="apAgree"><span>担当者の個人情報を、自社の採用検討の目的のみに使用し、第三者に提供しないことに同意します</span></label>
+      <button type="button" class="btn btn-primary btn-lg" id="applyBtn" style="margin-top:20px">この内容で申請する <span class="arw">&rarr;</span></button>
+      <div class="form-msg" id="applyMsg"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 審査中 ============ -->
+<section class="gate-sec" id="viewPending" hidden>
+  <div class="wrap">
+    <div class="gate">
+      <span class="kick">Reviewing</span>
+      <h1>申請を受け付けました</h1>
+      <p class="gate-lead">内容を確認しております。3営業日以内に、承認のご連絡をメールでお送りします。承認後は、このページを開くだけで担当者の情報をご覧いただけます。</p>
+      <p class="gate-muted" id="pendingWho"></p>
+      <p class="gate-foot">お急ぎの場合や、ご質問がある場合は <a href="index.html#consult">こちらからご連絡ください</a>。</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 承認されなかった場合 ============ -->
+<section class="gate-sec" id="viewRejected" hidden>
+  <div class="wrap">
+    <div class="gate">
+      <h1>ご利用いただけません</h1>
+      <p class="gate-lead">申し訳ございませんが、今回はご利用の承認ができませんでした。ご事情によっては再度ご相談を承ります。</p>
+      <p class="gate-foot"><a href="index.html#consult">お問い合わせはこちら</a></p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 担当者一覧 ============ -->
+<section id="viewList" hidden>
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="kick">Partners</span>
+      <h2>担当者一覧</h2>
+      <p>気になる担当者が見つかりましたら、担当者番号を添えてご連絡ください。面談を設定します。氏名と顔写真は、担当者の多くが在職中のため、面談の場でお伝えしています。</p>
+    </div>
+
+    <div class="filters">
+      <div class="fgroup">
+        <label for="fType">タイプ</label>
+        <select id="fType">
+          <option value="">すべて</option>
+          <option value="pro">採用実務のプロ</option>
+          <option value="field">現場を知る人</option>
+        </select>
+      </div>
+      <div class="fgroup">
+        <label for="fDomain">職種</label>
+        <select id="fDomain"><option value="">すべて</option></select>
+      </div>
+      <div class="fgroup">
+        <label for="fFull">正社員化</label>
+        <select id="fFull">
+          <option value="">すべて</option>
+          <option value="1">相談できる担当者のみ</option>
+        </select>
+      </div>
+      <div class="fgroup grow">
+        <label for="fWord">キーワード</label>
+        <input type="text" id="fWord" placeholder="媒体名、職種、経歴など">
+      </div>
+      <div class="fcount" id="fCount"></div>
+    </div>
+
+    <div class="plist" id="plist"></div>
+    <p class="gate-muted" id="listEmpty" hidden>条件に合う担当者がいませんでした。条件を変えてお試しください。</p>
+
+    <p class="privacy-note">このページに表示されている情報には、担当者ご本人の個人情報が含まれます。自社の採用検討の目的のみにご使用いただき、第三者への提供・転載はお控えください。</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="index.html">サービス紹介</a>
+        <a href="company.html#fee">費用</a>
+        <a href="index.html#consult">お問い合わせ</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト</div>
+  </div>
+</footer>
+
+<script>
+/* =========================================================================
+   エラベル 会員サイト
+   ・メールアドレスだけでログイン（パスワードなし／Supabase のマジックリンク）
+   ・当社が承認した企業だけが担当者の情報を見られる
+   ・「見えない」の担保は Supabase 側の RLS。ここの画面制御は見た目だけなので、
+     RLS を緩めると承認していない相手にも中身が渡ります。設定は
+     ERABERU_SUPABASE_SETUP.md を参照。
+   ========================================================================= */
+const SUPABASE_URL      = "https://pxjgtazmqousgtznolxj.supabase.co";   /* 例: https://xxxx.supabase.co */
+const SUPABASE_ANON_KEY = "sb_publishable_oQ4JQWEjDSAXEvoheMfZkw_O-lHTD6Y";   /* publishable キー */
+
+/* 会員サイトで見せるのは partners テーブルだけ。
+   氏名・顔写真・連絡先は partner_private テーブルに分けてあり、
+   会員には読み取り権限を与えていません（直接連絡を防ぐため）。
+   ここのコードから参照していないのではなく、そもそも取得できません。 */
+
+(function(){
+  var $ = function(s){ return document.querySelector(s); };
+  var sb = null, me = null, member = null, partners = [];
+
+  var VIEWS = ["viewLoading","viewLogin","viewApply","viewPending","viewRejected","viewList"];
+  function show(id){
+    VIEWS.forEach(function(v){ var el = document.getElementById(v); if(el) el.hidden = (v !== id); });
+  }
+  function msg(el, text, ok){
+    el.textContent = text;
+    el.className = "form-msg " + (ok ? "ok" : "err");
+  }
+  function esc(s){
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function(c){
+      return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];
+    });
+  }
+  function loadScript(src){
+    return new Promise(function(res, rej){
+      var s = document.createElement("script");
+      s.src = src; s.onload = res; s.onerror = rej;
+      document.head.appendChild(s);
+    });
+  }
+
+  /* ---------- ヘッダー右側 ---------- */
+  function paintNav(){
+    var el = $("#navRight");
+    if(me){
+      el.innerHTML = '<span class="nav-mail">' + esc(me.email) + '</span>' +
+                     '<button type="button" class="btn btn-ghost cta-mini" id="logoutBtn">ログアウト</button>';
+      $("#logoutBtn").addEventListener("click", function(){
+        sb.auth.signOut().then(function(){ location.reload(); });
+      });
+    }else{
+      el.innerHTML = '<a class="btn btn-ghost cta-mini" href="index.html">サービス紹介</a>';
+    }
+  }
+
+  /* ---------- ログイン ---------- */
+  function initLogin(){
+    $("#loginBtn").addEventListener("click", async function(){
+      var box = $("#loginMsg"), btn = this;
+      var email = $("#loginEmail").value.trim();
+      if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){
+        msg(box, "メールアドレスの形式をご確認ください。", false); return;
+      }
+      btn.disabled = true; btn.textContent = "送信中…";
+      try{
+        var r = await sb.auth.signInWithOtp({
+          email: email,
+          options: { emailRedirectTo: location.origin + location.pathname }
+        });
+        if(r.error) throw r.error;
+        msg(box, "ログイン用のリンクをお送りしました。メールをご確認ください。", true);
+      }catch(e){
+        console.warn(e);
+        msg(box, "送信できませんでした。時間をおいて、もう一度お試しください。", false);
+      }finally{
+        btn.disabled = false;
+        btn.innerHTML = 'ログイン用のリンクを送る <span class="arw">&rarr;</span>';
+      }
+    });
+  }
+
+  /* ---------- 利用申請 ---------- */
+  function initApply(){
+    $("#applyBtn").addEventListener("click", async function(){
+      var box = $("#applyMsg"), btn = this;
+      var company = $("#apCompany").value.trim();
+      var name    = $("#apName").value.trim();
+      if(!company){ msg(box, "会社名を入力してください。", false); return; }
+      if(!name){ msg(box, "お名前を入力してください。", false); return; }
+      if(!$("#apAgree").checked){ msg(box, "個人情報の取り扱いにご同意ください。", false); return; }
+
+      btn.disabled = true; btn.textContent = "送信中…";
+      try{
+        var r = await sb.from("member_companies").insert({
+          user_id:      me.id,
+          email:        me.email,
+          company_name: company,
+          contact_name: name,
+          website:      $("#apUrl").value.trim() || null,
+          purpose:      $("#apPurpose").value.trim() || null,
+          status:       "pending"
+        }).select().single();
+        if(r.error) throw r.error;
+        member = r.data;
+        route();
+      }catch(e){
+        console.warn(e);
+        msg(box, "送信できませんでした。時間をおいて、もう一度お試しください。", false);
+        btn.disabled = false;
+        btn.innerHTML = 'この内容で申請する <span class="arw">&rarr;</span>';
+      }
+    });
+  }
+
+  /* ---------- 担当者一覧 ---------- */
+  function rows(p){
+    var out = [
+      ["所属",        p.affiliation],
+      ["担当領域",    p.area],
+      ["実績",        p.track_record],
+      ["使用経験のある媒体", p.media],
+      ["稼働できる量", p.capacity],
+      ["報酬",        p.fee],
+      ["対応できない領域", p.cannot],
+      ["正社員化",    p.fulltime_ok ? "相談できます" : "対象外です"]
+    ];
+    return out.filter(function(r){ return r[1]; }).map(function(r){
+      return '<div class="pf-row"><span class="k">' + esc(r[0]) + '</span><span class="v">' + esc(r[1]) + '</span></div>';
+    }).join("");
+  }
+
+  function card(p){
+    var tags = (p.domains || []).map(function(t){ return '<span class="tag">' + esc(t) + '</span>'; }).join("");
+    var typeLabel = p.partner_type === "field" ? "現場を知る人" : "採用実務のプロ";
+    var avatar = '<div class="pf-av">' + esc(p.initials || "—") + '</div>';
+    var priv = p.resume
+      ? '<div class="pf-priv"><div class="pf-priv-b"><b>これまでの経歴</b><p>' + esc(p.resume) + '</p></div></div>'
+      : "";
+    return '<div class="pf">' +
+      '<div class="pf-top">' +
+        '<div class="pf-id">' + avatar +
+          '<div class="pf-nm">' + esc(p.initials || "—") + ' さん' +
+            '<small>' + esc(typeLabel) + (p.years ? "・" + esc(p.years) : "") + '</small>' +
+          '</div>' +
+          (p.code ? '<span class="pf-code">' + esc(p.code) + '</span>' : "") +
+        '</div>' +
+        (p.headline ? '<p class="pf-catch">' + esc(p.headline) + '</p>' : "") +
+        (tags ? '<div class="pf-tags">' + tags + '</div>' : "") +
+      '</div>' +
+      '<div class="pf-rows">' + rows(p) + '</div>' +
+      (priv ? '<details class="pf-more"><summary>詳しく見る</summary>' + priv + '</details>' : "") +
+    '</div>';
+  }
+
+  function applyFilters(){
+    var t = $("#fType").value, d = $("#fDomain").value, f = $("#fFull").value;
+    var w = $("#fWord").value.trim().toLowerCase();
+    var hit = partners.filter(function(p){
+      if(t && p.partner_type !== t) return false;
+      if(d && (p.domains || []).indexOf(d) < 0) return false;
+      if(f === "1" && !p.fulltime_ok) return false;
+      if(w){
+        var hay = [p.initials, p.headline, p.affiliation, p.area, p.track_record,
+                   p.media, p.cannot, p.resume, (p.domains || []).join(" ")].join(" ").toLowerCase();
+        if(hay.indexOf(w) < 0) return false;
+      }
+      return true;
+    });
+    $("#plist").innerHTML = hit.map(card).join("");
+    $("#listEmpty").hidden = hit.length > 0;
+    $("#fCount").textContent = hit.length + "名";
+  }
+
+  async function loadPartners(){
+    var r = await sb.from("partners").select("*").eq("published", true).order("created_at", { ascending: false });
+    if(r.error){ console.warn(r.error); partners = []; }
+    else partners = r.data || [];
+
+    var set = {};
+    partners.forEach(function(p){ (p.domains || []).forEach(function(d){ set[d] = 1; }); });
+    var sel = $("#fDomain");
+    Object.keys(set).sort().forEach(function(d){
+      var o = document.createElement("option"); o.value = d; o.textContent = d; sel.appendChild(o);
+    });
+
+    ["fType","fDomain","fFull"].forEach(function(id){
+      document.getElementById(id).addEventListener("change", applyFilters);
+    });
+    $("#fWord").addEventListener("input", applyFilters);
+    applyFilters();
+  }
+
+  /* ---------- 画面の振り分け ---------- */
+  async function route(){
+    paintNav();
+    if(!me){ show("viewLogin"); return; }
+    if(!member){ show("viewApply"); return; }
+    if(member.status === "approved"){
+      show("viewList");
+      await loadPartners();
+      return;
+    }
+    if(member.status === "rejected"){ show("viewRejected"); return; }
+    $("#pendingWho").textContent = member.company_name ? "申請内容：" + member.company_name : "";
+    show("viewPending");
+  }
+
+  async function afterSignIn(user){
+    me = user;
+    var r = await sb.from("member_companies").select("*").eq("user_id", user.id).maybeSingle();
+    member = (r && r.data) ? r.data : null;
+    if(r && r.error) console.warn(r.error);
+    await route();
+  }
+
+  /* ---------- 起動 ---------- */
+  (async function init(){
+    initLogin();
+    initApply();
+
+    if(!SUPABASE_URL || !SUPABASE_ANON_KEY){
+      show("viewLogin");
+      msg($("#loginMsg"), "現在、会員サイトは準備中です。お手数ですが、もうしばらくお待ちください。", false);
+      $("#loginBtn").disabled = true;
+      return;
+    }
+    try{
+      await loadScript("https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js");
+      sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+      sb.auth.onAuthStateChange(function(ev, session){
+        if(session && session.user) afterSignIn(session.user);
+        else if(ev === "SIGNED_OUT"){ me = null; member = null; route(); }
+      });
+      var s = await sb.auth.getSession();
+      if(s.data && s.data.session) await afterSignIn(s.data.session.user);
+      else await route();
+      if(location.hash.indexOf("access_token") >= 0){
+        history.replaceState(null, "", location.pathname + location.search);
+      }
+    }catch(e){
+      console.warn(e);
+      show("viewLogin");
+      msg($("#loginMsg"), "接続できませんでした。時間をおいて、もう一度お試しください。", false);
+    }
+  })();
+})();
+</script>
+</body>
+</html>

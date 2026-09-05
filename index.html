@@ -1,0 +1,693 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>エラベル｜採用代行の担当者を選べる窓口</title>
+<meta name="description" content="エラベルは、採用代行の担当者を選べる窓口です。基準を満たした担当者だけをご紹介し、誰に任せるかは企業が決めます。相談は無料、費用は採用が決まったときの1名10万円のみ。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="エラベル｜採用代行の担当者を選べる窓口">
+<meta property="og:description" content="採用代行に頼みたい。でも、誰が担当するかは契約するまで分からない。エラベルは担当者を見てから決められる窓口です。">
+<meta property="og:locale" content="ja_JP">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+
+<style>
+  :root{
+    --paper:#F5F6F8;--surface:#FFFFFF;--surface-2:#ECEEF2;
+    --ink:#141A24;--ink-soft:#4C566A;--ink-faint:#858F9E;
+    --line:#E2E6EC;--line-strong:#C9D0DA;
+    --accent:#E4572E;--accent-strong:#C6431D;--accent-ink:#A73716;--accent-tint:#FCE9E1;
+    --navy:#0B1A32;--on-navy:#EAF0F8;--on-navy-soft:#9CB0CB;--on-navy-line:#20324D;
+    --sans:"Hiragino Kaku Gothic ProN","Hiragino Sans","Yu Gothic",YuGothic,"Noto Sans JP","Segoe UI",sans-serif;
+    --mono:"SFMono-Regular","SF Mono","Cascadia Code",Consolas,"Roboto Mono",monospace;
+    --maxw:1060px;--radius:16px;
+    --shadow:0 1px 2px rgba(20,26,36,.05),0 16px 38px -20px rgba(20,26,36,.26);
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.8;
+    -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;overflow-x:hidden}
+  h1,h2,h3,h4,p{margin:0}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px}
+
+  .btn{display:inline-flex;align-items:center;gap:9px;font-weight:800;font-size:.95rem;padding:14px 26px;border-radius:11px;
+    cursor:pointer;border:1px solid transparent;transition:transform .15s ease,background .2s ease,box-shadow .2s ease;white-space:nowrap}
+  .btn-primary{background:var(--accent);color:#fff;box-shadow:0 10px 26px -10px var(--accent)}
+  .btn-primary:hover{background:var(--accent-strong);transform:translateY(-2px)}
+  .btn-onnavy{border-color:var(--on-navy-line);color:var(--on-navy);background:rgba(255,255,255,.06)}
+  .btn-onnavy:hover{border-color:var(--accent);color:#fff}
+  .btn-lg{padding:17px 34px;font-size:1.02rem}
+  .btn .arw{font-family:var(--mono)}
+
+  /* nav */
+  header.nav{position:sticky;top:0;z-index:50;background:rgba(245,246,248,.88);
+    backdrop-filter:saturate(1.4) blur(12px);border-bottom:1px solid var(--line)}
+  .nav-in{display:flex;align-items:center;justify-content:space-between;height:64px;gap:16px}
+  .brand{display:flex;align-items:center;gap:11px;font-weight:800}
+  .brand .mk{width:32px;height:32px;border-radius:9px;flex:none;background:var(--navy);display:grid;place-items:center}
+  .brand .mk svg{display:block}
+  .brand .nm{font-size:1.05rem;line-height:1.2;letter-spacing:.02em}
+  .brand .nm small{display:block;font-family:var(--mono);font-size:.56rem;letter-spacing:.14em;color:var(--ink-faint);font-weight:600}
+  .nav .cta-mini{font-size:.9rem;padding:10px 20px}
+  @media (max-width:560px){.brand .nm small{display:none}}
+
+  /* hero */
+  .hero{position:relative;background:var(--navy);color:var(--on-navy);overflow:hidden;border-bottom:1px solid var(--on-navy-line)}
+  .hero::before{content:"";position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(48% 44% at 84% 4%,rgba(228,87,46,.26),transparent 62%),
+      radial-gradient(42% 42% at 4% 96%,rgba(120,150,200,.16),transparent 64%)}
+  .hero-grid{position:absolute;inset:0;opacity:.5;pointer-events:none;
+    background-image:linear-gradient(var(--on-navy-line) 1px,transparent 1px);background-size:100% 48px;
+    -webkit-mask-image:linear-gradient(180deg,transparent,#000 16%,#000 74%,transparent);
+            mask-image:linear-gradient(180deg,transparent,#000 16%,#000 74%,transparent)}
+  .hero-in{position:relative;padding:70px 0 58px}
+  .hero-eyebrow{display:inline-flex;align-items:center;gap:9px;font-size:.76rem;letter-spacing:.06em;
+    color:var(--on-navy);font-weight:700;background:rgba(228,87,46,.16);
+    border:1px solid rgba(228,87,46,.42);padding:7px 15px;border-radius:999px}
+  h1.hero-title{font-weight:900;letter-spacing:.005em;font-size:clamp(2rem,5.4vw,3.4rem);line-height:1.3;margin:24px 0 0;text-wrap:balance}
+  h1.hero-title .hl{color:var(--accent)}
+  .hero-lead{margin:24px 0 0;max-width:36em;color:var(--on-navy-soft);font-size:1.06rem}
+  .hero-cta{display:flex;flex-wrap:wrap;gap:14px;margin:32px 0 0;align-items:center}
+  .hero-trust{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:46px 0 0}
+  .htile{background:rgba(255,255,255,.04);border:1px solid var(--on-navy-line);border-radius:13px;padding:18px}
+  .htile .n{font-weight:800;font-size:1.02rem;line-height:1.4;color:var(--on-navy)}
+  .htile .l{font-size:.78rem;color:var(--on-navy-soft);margin-top:7px;line-height:1.6}
+  @media (max-width:760px){.hero-trust{grid-template-columns:repeat(2,1fr)}}
+
+  /* sections */
+  section{padding:78px 0}
+  .band{background:var(--surface-2);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .sec-head{display:flex;flex-direction:column;gap:12px;margin-bottom:42px;max-width:46em}
+  .sec-head .kick{font-family:var(--mono);font-size:.7rem;letter-spacing:.16em;text-transform:uppercase;color:var(--accent-ink);font-weight:700}
+  .sec-head.center{margin:0 auto 44px;text-align:center;align-items:center}
+  h2{font-weight:900;font-size:clamp(1.55rem,3.5vw,2.3rem);line-height:1.36;text-wrap:balance}
+  .sec-head p{color:var(--ink-soft);font-size:1.02rem}
+  .lede{color:var(--ink-soft);font-size:1.02rem;max-width:44em}
+
+  /* 対比 */
+  .vs{display:grid;grid-template-columns:1fr auto 1fr;gap:20px;align-items:stretch;max-width:900px;margin:0 auto}
+  .vs-col{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:26px;box-shadow:var(--shadow)}
+  .vs-col.on{border-color:var(--accent);box-shadow:0 1px 2px rgba(20,26,36,.05),0 18px 40px -20px rgba(228,87,46,.5)}
+  .vs-col h4{font-size:1.02rem;font-weight:800;margin-bottom:16px;padding-bottom:12px;border-bottom:1px solid var(--line)}
+  .vs-col.on h4{color:var(--accent-ink)}
+  .vs-col ol{margin:0;padding-left:1.2em;color:var(--ink-soft);font-size:.95rem}
+  .vs-col ol li{margin-bottom:9px}
+  .vs-col ol li b{color:var(--ink)}
+  .vs-mid{display:grid;place-items:center;color:var(--ink-faint);font-family:var(--mono);font-size:.8rem;font-weight:700}
+  @media (max-width:760px){.vs{grid-template-columns:1fr}.vs-mid{padding:4px 0}}
+
+  /* カード */
+  .grid2{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+  .pcard{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:28px;box-shadow:var(--shadow)}
+  .pcard .ico{width:44px;height:44px;border-radius:11px;background:var(--accent-tint);color:var(--accent-ink);
+    display:grid;place-items:center;margin-bottom:16px}
+  .pcard h4{font-size:1.1rem;font-weight:800;margin-bottom:9px}
+  .pcard p{color:var(--ink-soft);font-size:.95rem}
+  @media (max-width:760px){.grid2{grid-template-columns:1fr}}
+
+  /* 業務チェックリスト */
+  .tasks{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;max-width:860px}
+  .task{display:flex;gap:13px;align-items:flex-start;background:var(--surface);border:1px solid var(--line);
+    border-radius:12px;padding:17px 19px}
+  .task .ck{flex:none;width:22px;height:22px;border-radius:7px;background:var(--accent-tint);color:var(--accent-ink);
+    display:grid;place-items:center;margin-top:3px}
+  .task b{display:block;font-size:.98rem;font-weight:800}
+  .task span{display:block;color:var(--ink-soft);font-size:.87rem;line-height:1.65}
+  @media (max-width:760px){.tasks{grid-template-columns:1fr}}
+
+  /* プロフィールのサンプル */
+  .sample-note{display:inline-flex;align-items:center;gap:8px;font-size:.78rem;font-weight:700;color:var(--ink-faint);
+    border:1px dashed var(--line-strong);border-radius:999px;padding:6px 14px;margin-bottom:22px}
+  .pf{max-width:400px;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+    box-shadow:var(--shadow);overflow:hidden}
+  .pf-top{padding:24px 24px 20px;border-bottom:1px solid var(--line)}
+  .pf-id{display:flex;align-items:center;gap:14px}
+  .pf-av{width:54px;height:54px;border-radius:50%;flex:none;background:var(--surface-2);border:1px solid var(--line);
+    display:grid;place-items:center;color:var(--ink-faint);font-weight:800;font-size:1rem}
+  .pf-nm{font-weight:800;font-size:1.06rem;line-height:1.3}
+  .pf-nm small{display:block;font-size:.76rem;color:var(--ink-faint);font-weight:600}
+  .pf-catch{margin-top:16px;font-size:.96rem;color:var(--ink-soft)}
+  .pf-tags{display:flex;flex-wrap:wrap;gap:7px;margin-top:16px}
+  .tag{font-size:.76rem;font-weight:700;color:var(--accent-ink);background:var(--accent-tint);border-radius:999px;padding:5px 12px}
+  .pf-rows{padding:8px 24px 20px}
+  .pf-row{display:flex;justify-content:space-between;gap:14px;padding:11px 0;border-bottom:1px solid var(--line);font-size:.9rem}
+  .pf-row:last-child{border-bottom:0}
+  .pf-row .k{color:var(--ink-faint);font-weight:600;flex:none}
+  .pf-row .v{font-weight:800;text-align:right}
+  .pf-row .v em{font-style:normal;font-weight:600;color:var(--ink-soft);font-size:.84rem;display:block}
+  .pf-foot{padding:0 24px 24px}
+  .pf-foot .btn{width:100%;justify-content:center;pointer-events:none}
+  .pf-lay{display:grid;grid-template-columns:400px 1fr;gap:40px;align-items:start}
+  @media (max-width:860px){.pf-lay{grid-template-columns:1fr}.pf{max-width:none}}
+  .pf-exp li{margin-bottom:14px;color:var(--ink-soft);font-size:.95rem}
+  .pf-exp li b{color:var(--ink);display:block}
+
+  /* 流れ */
+  .flow{display:grid;gap:14px;max-width:880px}
+  .fstep{display:grid;grid-template-columns:auto 1fr;gap:20px;align-items:flex-start;background:var(--surface);
+    border:1px solid var(--line);border-radius:var(--radius);padding:24px 26px}
+  .fstep .no{width:38px;height:38px;border-radius:10px;flex:none;background:var(--navy);color:#fff;
+    display:grid;place-items:center;font-family:var(--mono);font-weight:800;font-size:.95rem}
+  .fstep h4{font-size:1.06rem;font-weight:800;margin-bottom:6px}
+  .fstep p{color:var(--ink-soft);font-size:.94rem}
+  .fstep .hint{display:inline-block;margin-top:10px;font-size:.83rem;font-weight:700;color:var(--accent-ink);
+    background:var(--accent-tint);border-radius:8px;padding:6px 12px}
+
+  /* 募集要項 */
+  .req{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--line);
+    border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow)}
+  .req th,.req td{text-align:left;padding:18px 22px;border-bottom:1px solid var(--line);font-size:.95rem;vertical-align:top}
+  .req th{width:200px;background:var(--surface-2);font-weight:800;color:var(--ink)}
+  .req td{color:var(--ink-soft)}
+  .req tr:last-child th,.req tr:last-child td{border-bottom:0}
+  @media (max-width:700px){.req th,.req td{display:block;width:auto}.req th{border-bottom:0;padding-bottom:6px}}
+
+  /* FAQ */
+  .faq{max-width:820px}
+  .qa{background:var(--surface);border:1px solid var(--line);border-radius:13px;margin-bottom:11px;overflow:hidden}
+  .qa summary{cursor:pointer;list-style:none;padding:20px 24px;font-weight:800;font-size:1rem;
+    display:flex;justify-content:space-between;gap:16px;align-items:center}
+  .qa summary::-webkit-details-marker{display:none}
+  .qa summary::after{content:"+";font-family:var(--mono);font-size:1.3rem;color:var(--accent);flex:none;transition:transform .2s}
+  .qa[open] summary::after{transform:rotate(45deg)}
+  .qa .a{padding:0 24px 22px;color:var(--ink-soft);font-size:.95rem}
+
+  /* フォーム */
+  .form-sec{background:var(--navy);color:var(--on-navy)}
+  .form-sec h2{color:#fff}
+  .form-sec .sec-head p{color:var(--on-navy-soft)}
+  .form-card{background:var(--surface);color:var(--ink);border-radius:var(--radius);padding:34px;max-width:760px;margin:0 auto;
+    box-shadow:0 24px 60px -30px rgba(0,0,0,.6)}
+  .fld{margin-bottom:20px}
+  .fld label{display:block;font-weight:800;font-size:.92rem;margin-bottom:8px}
+  .fld label .must{font-size:.7rem;font-weight:700;color:#fff;background:var(--accent);border-radius:5px;padding:2px 7px;margin-left:8px;vertical-align:2px}
+  .fld label .opt{font-size:.7rem;font-weight:700;color:var(--ink-faint);border:1px solid var(--line-strong);border-radius:5px;padding:2px 7px;margin-left:8px;vertical-align:2px}
+  .fld input[type=text],.fld input[type=email],.fld select,.fld textarea{
+    width:100%;padding:13px 15px;border:1px solid var(--line-strong);border-radius:10px;font-family:inherit;font-size:.97rem;
+    background:var(--surface);color:var(--ink)}
+  .fld textarea{min-height:120px;resize:vertical;line-height:1.7}
+  .fld input:focus,.fld select:focus,.fld textarea:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:transparent}
+  .fld .help{font-size:.84rem;color:var(--ink-faint);margin-top:7px}
+  .chk-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:9px}
+  .chk{display:flex;align-items:center;gap:9px;border:1px solid var(--line-strong);border-radius:10px;padding:12px 14px;
+    font-size:.92rem;cursor:pointer;background:var(--surface)}
+  .chk:hover{border-color:var(--accent)}
+  .chk input{accent-color:var(--accent);width:17px;height:17px;flex:none}
+  @media (max-width:640px){.chk-grid{grid-template-columns:1fr}}
+  .form-foot{margin-top:26px;text-align:center}
+  .form-foot .btn{width:100%;justify-content:center}
+  .form-foot .privacy{font-size:.84rem;color:var(--ink-faint);margin-top:14px}
+  .form-msg{display:none;margin-top:16px;padding:14px 18px;border-radius:10px;font-size:.92rem;font-weight:700}
+  .form-msg.err{display:block;background:#FDECEA;color:#9B2C1C;border:1px solid #F5C6BD}
+  .thanks{display:none;text-align:center;padding:20px 0}
+  .thanks h3{font-size:1.4rem;font-weight:900;margin-bottom:14px}
+  .thanks p{color:var(--ink-soft)}
+
+  /* footer */
+  footer{background:var(--navy);color:var(--on-navy-soft);border-top:1px solid var(--on-navy-line);padding:46px 0 40px;font-size:.88rem}
+  .foot-in{display:flex;flex-wrap:wrap;gap:24px;justify-content:space-between;align-items:flex-start}
+  .foot-brand{font-weight:800;color:var(--on-navy);font-size:1.02rem}
+  .foot-links{display:flex;flex-wrap:wrap;gap:18px}
+  .foot-links a:hover{color:var(--accent)}
+  .foot-copy{margin-top:28px;padding-top:20px;border-top:1px solid var(--on-navy-line);font-size:.8rem}
+
+  /* reveal */
+  .rv{opacity:0;transform:translateY(16px);transition:opacity .7s ease,transform .7s ease}
+  .rv.on{opacity:1;transform:none}
+  @media (prefers-reduced-motion:reduce){.rv{opacity:1;transform:none;transition:none}}
+</style>
+<noscript><style>.rv{opacity:1;transform:none}</style></noscript>
+<style>
+  .pf-two{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;max-width:860px}
+  .pf-two .pf{max-width:none}
+  @media (max-width:860px){.pf-two{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="#top">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <a class="btn btn-primary cta-mini" href="#consult">無料で相談する</a>
+  </div>
+</header>
+
+<!-- ============ ヒーロー ============ -->
+<div class="hero" id="top">
+  <div class="hero-grid"></div>
+  <div class="wrap hero-in">
+    <span class="hero-eyebrow">採用代行の窓口</span>
+    <h1 class="hero-title">採用代行に頼みたい。<br>でも、<span class="hl">誰が担当するか</span>は<br>契約するまで分からない。</h1>
+    <p class="hero-lead">エラベルは、採用代行の担当者を選べる窓口です。基準を満たした担当者だけをご紹介し、誰に任せるかは貴社が決めます。ご相談は無料。費用がかかるのは、採用が決まったときだけです。</p>
+    <div class="hero-cta">
+      <a class="btn btn-primary btn-lg" href="#consult">無料で相談する <span class="arw">&rarr;</span></a>
+      <a class="btn btn-onnavy btn-lg" href="#fee">費用を見る</a>
+    </div>
+    <div class="hero-trust">
+      <div class="htile"><div class="n">相談は無料</div><div class="l">ご提案・面談まで費用はかかりません</div></div>
+      <div class="htile"><div class="n">1名決まって10万円</div><div class="l">採用が決まるまでは0円です</div></div>
+      <div class="htile"><div class="n">現場を知る人がいます</div><div class="l">人事のプロだけではありません</div></div>
+      <div class="htile"><div class="n">正社員として迎えられます</div><div class="l">一緒に働いてから決められます</div></div>
+    </div>
+  </div>
+</div>
+
+<!-- ============ エラベルとは ============ -->
+<section>
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="kick">What is ERABERU</span>
+      <h2>エラベルは、採用代行会社ではありません</h2>
+      <p>採用代行を探している企業と、実際に手を動かす担当者をつなぐ窓口です。自社で採用代行を請け負うことはしません。</p>
+    </div>
+    <p class="lede">採用代行を頼むとき、比べているのは会社です。実績、料金プラン、対応範囲。けれど実際にスカウトを打ち、候補者に会い、日程を調整するのは、契約したあとに割り当てられる担当者です。<br><br>同じ会社に同じ料金を払っても、担当者によって結果は変わります。それを事前に選べないことが、採用代行のいちばん大きな不満だと考えました。<br><br>エラベルは、<b>会社ではなく担当者を見て決められる</b>状態をつくります。</p>
+  </div>
+</section>
+
+<!-- ============ 従来との違い ============ -->
+<section class="band">
+  <div class="wrap">
+    <div class="sec-head center">
+      <span class="kick">Difference</span>
+      <h2>従来の採用代行との違い</h2>
+    </div>
+    <div class="vs">
+      <div class="vs-col rv">
+        <h4>従来の採用代行</h4>
+        <ol>
+          <li><b>会社を選ぶと、担当者は選べない</b>誰が担当するかは契約後に決まります</li>
+          <li><b>担当者の質にばらつきがある</b>同じ料金でも成果が変わります</li>
+          <li><b>自社が売りたいプランを勧められる</b>提案する側と請け負う側が同じです</li>
+          <li><b>合わないと分かるのは契約後</b>月額は先に出ていきます</li>
+        </ol>
+      </div>
+      <div class="vs-mid">VS</div>
+      <div class="vs-col on rv">
+        <h4>エラベル</h4>
+        <ol>
+          <li><b>担当者を見てから決められる</b>経歴・実績・稼働量を見て指名できます</li>
+          <li><b>基準を満たした担当者だけ</b>5つの基準で確認したうえでご紹介します</li>
+          <li><b>採用代行会社から報酬を受け取らない</b>だから特定の会社を勧める理由がありません</li>
+          <li><b>決まるまで費用はゼロ</b>合う担当者がいなければ、無理に勧めません</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 選ばれる理由 ============ -->
+<section>
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="kick">Reasons</span>
+      <h2>エラベルが選ばれる理由</h2>
+    </div>
+    <div class="grid2">
+      <div class="pcard rv">
+        <div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 3.6-6 8-6s8 2 8 6"/></svg></div>
+        <h4>会社ではなく、人で選べる</h4>
+        <p>実際に手を動かす担当者の経歴、得意な職種、使ってきた媒体、稼働できる量を見たうえで指名できます。契約してから誰が来るかを知る、ということがありません。</p>
+      </div>
+      <div class="pcard rv">
+        <div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v6c0 4.4-3 7.6-7 9-4-1.4-7-4.6-7-9V6z"/><path d="M9 12l2 2 4-4"/></svg></div>
+        <h4>その仕事を知っている人に頼めます</h4>
+        <p>採用実務のプロだけでなく、営業やエンジニアとして現場をやってきた人が、副業として採用に関わっています。候補者の見極めと口説き方が変わります。</p>
+      </div>
+      <div class="pcard rv">
+        <div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 3v18"/><path d="M6 8h12"/><path d="M6 8l-3 7a3.5 3.5 0 007 0z"/><path d="M18 8l-3 7a3.5 3.5 0 007 0z"/></svg></div>
+        <h4>採用代行会社から報酬を受け取りません</h4>
+        <p>ご紹介先から手数料や広告費をいただく仕組みにしていません。だから、特定の会社や担当者を優先して勧める理由がありません。費用は貴社からのみ、それも採用が決まったときだけです。</p>
+      </div>
+      <div class="pcard rv">
+        <div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 00-4-4H6a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M19 8v6M22 11h-6"/></svg></div>
+        <h4>正社員として迎えることもできます</h4>
+        <p>業務委託で一緒に動いたあと、その担当者を正社員としてお迎えいただけます。書類と面接だけで判断するより確かです。ご本人の意向が前提です。</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ どんな担当者がいるか ============ -->
+<section class="band">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="kick">Who</span>
+      <h2>採用のプロだけではありません</h2>
+      <p>エラベルに登録している担当者には、大きく2つのタイプがあります。</p>
+    </div>
+    <div class="grid2">
+      <div class="pcard rv">
+        <div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7h18v13H3z"/><path d="M8 7V5a2 2 0 012-2h4a2 2 0 012 2v2"/></svg></div>
+        <h4>採用実務のプロ</h4>
+        <p>事業会社の人事、人材紹介会社、採用代行会社で採用を担当してきた人です。母集団のつくり方、媒体ごとの勝ち筋、選考設計を持っています。</p>
+      </div>
+      <div class="pcard rv">
+        <div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l3 6 6 .9-4.4 4.3 1 6.1-5.6-3-5.6 3 1-6.1L3 8.9 9 8z"/></svg></div>
+        <h4>その職種を実際にやってきた人</h4>
+        <p>営業、エンジニア、企画。現場をやってきた人が、副業として採用に関わっています。自分が培ったドメイン知識を、採用の場で活かしたいという方々です。</p>
+      </div>
+    </div>
+    <p class="lede" style="margin-top:26px">候補者を見極められるのは、その仕事をやったことがある人です。営業を採るなら、営業だった人のほうが経歴の良し悪しも分かりますし、口説く言葉も持っています。<b>とくにスカウトの返信率と、面接での見極めに差が出ます。</b>採用のプロと現場を知る人、どちらが合うかは採りたい職種によって変わるので、ご相談のうえでご提案します。</p>
+  </div>
+</section>
+
+<!-- ============ 担当者プロフィール ============ -->
+<section>
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="kick">Profile</span>
+      <h2>ご覧いただく担当者の情報</h2>
+    </div>
+    <div class="sample-note">サンプル（実在の担当者ではありません）</div>
+    <div class="pf-two">
+      <div class="pf rv">
+        <div class="pf-top">
+          <div class="pf-id">
+            <div class="pf-av">K.T</div>
+            <div class="pf-nm">K.T さん<small>採用実務 8年</small></div>
+          </div>
+          <p class="pf-catch">エンジニア採用のスカウト運用が中心です。返信が来る文面をつくるところから入ります。</p>
+          <div class="pf-tags"><span class="tag">採用実務のプロ</span><span class="tag">エンジニア採用</span><span class="tag">中途</span></div>
+        </div>
+        <div class="pf-rows">
+          <div class="pf-row"><span class="k">所属</span><span class="v">会員登録後に表示<em>メールアドレスだけ</em></span></div>
+          <div class="pf-row"><span class="k">担当領域</span><span class="v">バックエンド・SRE<em>中途採用</em></span></div>
+          <div class="pf-row"><span class="k">実績</span><span class="v">年間20名を3年<em>従業員300名規模</em></span></div>
+          <div class="pf-row"><span class="k">使用経験のある媒体</span><span class="v">ビズリーチ／Green<em>ほか3媒体</em></span></div>
+          <div class="pf-row"><span class="k">稼働できる量</span><span class="v">週10時間まで<em>11月から</em></span></div>
+          <div class="pf-row"><span class="k">報酬</span><span class="v">月25万円<em>週10時間相当</em></span></div>
+          <div class="pf-row"><span class="k">対応できない領域</span><span class="v">新卒／管理職<em>経験がありません</em></span></div>
+          <div class="pf-row"><span class="k">正社員化</span><span class="v">相談できます<em>本人の意向次第です</em></span></div>
+        </div>
+        <div class="pf-foot"><span class="btn btn-primary">この担当者に相談する</span></div>
+      </div>
+
+      <div class="pf rv">
+        <div class="pf-top">
+          <div class="pf-id">
+            <div class="pf-av">M.S</div>
+            <div class="pf-nm">M.S さん<small>法人営業 11年</small></div>
+          </div>
+          <p class="pf-catch">SaaSの法人営業をしてきました。営業職のスカウトと一次面接をお手伝いします。</p>
+          <div class="pf-tags"><span class="tag">現場を知る人</span><span class="tag">営業採用</span><span class="tag">SaaS</span></div>
+        </div>
+        <div class="pf-rows">
+          <div class="pf-row"><span class="k">所属</span><span class="v">会員登録後に表示<em>メールアドレスだけ</em></span></div>
+          <div class="pf-row"><span class="k">担当領域</span><span class="v">法人営業・CS<em>中途採用</em></span></div>
+          <div class="pf-row"><span class="k">実績</span><span class="v">自社で年6名の採用に関与<em>面接官として3年</em></span></div>
+          <div class="pf-row"><span class="k">使用経験のある媒体</span><span class="v">Green／Wantedly</span></div>
+          <div class="pf-row"><span class="k">稼働できる量</span><span class="v">週5時間まで<em>すぐに</em></span></div>
+          <div class="pf-row"><span class="k">報酬</span><span class="v">月12万円<em>週5時間相当</em></span></div>
+          <div class="pf-row"><span class="k">対応できない領域</span><span class="v">エンジニア／人事制度<em>経験がありません</em></span></div>
+          <div class="pf-row"><span class="k">正社員化</span><span class="v">相談できます<em>本人の意向次第です</em></span></div>
+        </div>
+        <div class="pf-foot"><span class="btn btn-primary">この担当者に相談する</span></div>
+      </div>
+    </div>
+
+    <ul class="pf-exp" style="margin-top:38px;max-width:52em">
+      <li><b>所属は、ご登録いただいた企業にお見せします</b>フリーランスの方も、採用代行会社に所属している方もいます。このページでは伏せていますが、<a href="members.html">会員登録</a>のうえ承認させていただいた企業には、所属も詳しい経歴もご覧いただけます。</li>
+      <li><b>氏名と顔写真は、面談の場でお伝えします</b>担当者の多くが在職中のためです。会員サイトでもイニシャルのままにしています。</li>
+      <li><b>「対応できない領域」を必ず書いてもらいます</b>できることだけが並んだプロフィールは、選ぶ材料になりません。何をやってこなかったかが分かって、はじめて任せる範囲を決められます。</li>
+      <li><b>使ってきた媒体を具体的に出します</b>採用実務の力がいちばん正直に出るところです。媒体が違えば、通用するやり方も変わります。</li>
+      <li><b>実績は規模とセットで書きます</b>「年間20名」だけでは分かりません。何名規模の会社で、どの職種を、何年やったのか。そこまで揃えて比べられるようにしています。</li>
+      <li><b>顔写真は任意です</b>在職中に副業として登録している方がいるためです。写真の有無は、その方の実力とは関係ありません。</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============ 審査基準 ============ -->
+<section class="band">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="kick">Criteria</span>
+      <h2>担当者を確認している5つの基準</h2>
+      <p>採用代行は「動いてくれたかどうか」では測れません。企業にとっての結果につながる項目だけを見ています。</p>
+    </div>
+    <div class="tasks">
+      <div class="task rv"><span class="ck"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12l6 6L20 6"/></svg></span><span><b>打ち合わせの質</b><span>依頼した企業が、話が早いと感じたかどうか</span></span></div>
+      <div class="task rv"><span class="ck"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12l6 6L20 6"/></svg></span><span><b>母集団の質</b><span>会いたいと思える候補者が実際に来たかどうか</span></span></div>
+      <div class="task rv"><span class="ck"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12l6 6L20 6"/></svg></span><span><b>スカウト返信率・書類通過率</b><span>実務の数字。文面と候補者選定の精度が出ます</span></span></div>
+      <div class="task rv"><span class="ck"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12l6 6L20 6"/></svg></span><span><b>入社後の定着</b><span>決めて終わりにしていないかどうか</span></span></div>
+      <div class="task rv"><span class="ck"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12l6 6L20 6"/></svg></span><span><b>途中離脱・連絡の遅れ</b><span>ここは減点として見ています</span></span></div>
+    </div>
+    <p class="lede" style="margin-top:26px">現場を知る担当者については、採用実務の年数ではなく、<b>その職種の実務経験と、自社の採用に関わった経験</b>で確認しています。採用のやり方はエラベルが支えます。</p>
+  </div>
+</section>
+
+<!-- ============ 正社員化 ============ -->
+<section>
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="kick">Hire</span>
+      <h2>一緒に働いてから、採用できます</h2>
+      <p>業務委託で数か月動いてもらったあと、その担当者を正社員としてお迎えいただけます。</p>
+    </div>
+    <p class="lede">書類と面接だけで人を決めるのは、いつまでも難しいままです。エラベルの担当者は、まず業務委託として貴社の採用に関わります。<b>仕事のしかた、詰めの細かさ、社内での動き方を見たうえで、正社員として迎えるかどうかを決められます。</b><br><br>担当者の側にも意味があります。転職活動をしなくても、副業として他社の現場に入り、合えばそのまま移れる。だからこそ、いま在職中の方が登録しています。</p>
+    <div class="flow" style="margin-top:34px">
+      <div class="fstep rv"><div class="no">01</div><div><h4>業務委託として稼働</h4><p>週5〜10時間程度から。採用業務を一緒に進めます。</p></div></div>
+      <div class="fstep rv"><div class="no">02</div><div><h4>正社員化のご相談</h4><p>貴社と担当者ご本人の双方に意向があれば、当社が間に入って条件を調整します。</p><span class="hint">ご本人の意向が前提です</span></div></div>
+      <div class="fstep rv"><div class="no">03</div><div><h4>入社</h4><p>入社が決まった時点で、1名90万円をご請求します。</p><span class="hint">対象は副業・フリーランスの担当者に限ります</span></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 流れ ============ -->
+<section class="band">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="kick">Flow</span>
+      <h2>ご利用の流れ</h2>
+    </div>
+    <div class="flow">
+      <div class="fstep rv"><div class="no">01</div><div><h4>ご相談（オンライン・30分）</h4><p>採りたい職種、時期、いまの採用体制、これまでうまくいかなかったことをうかがいます。採用代行が必要ない場合は、その旨をお伝えします。</p><span class="hint">無料・その場でのご契約はありません</span></div></div>
+      <div class="fstep rv"><div class="no">02</div><div><h4>担当者のご提案</h4><p>条件に合う担当者を複数ご提案します。プロフィールをご覧いただき、気になった方と面談できます。合う方がいなければ、無理にご紹介しません。</p><span class="hint">無料・面談まで費用はかかりません</span></div></div>
+      <div class="fstep rv"><div class="no">03</div><div><h4>ご契約・稼働開始</h4><p>契約は、担当者ご本人（または所属先）と貴社のあいだで直接結んでいただきます。エラベルは契約に入りません。稼働後もご相談は無料で承ります。</p><span class="hint">採用が決まった時点で1名10万円</span></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 料金 ============ -->
+<section id="fee">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="kick">Fee</span>
+      <h2>費用</h2>
+      <p>エラベルにお支払いいただくのは、採用が決まったときだけです。</p>
+    </div>
+    <table class="req">
+      <tr><th>ご相談</th><td><b>0円</b><br>職種・時期・体制のヒアリング。回数の制限はありません</td></tr>
+      <tr><th>担当者のご提案</th><td><b>0円</b><br>条件に合う担当者のご提案と、担当者との面談まで</td></tr>
+      <tr><th>採用が決まったとき</th><td><b>1名につき 10万円（税別）</b><br>ご紹介した担当者が関わったポジションで、候補者が入社を承諾した時点でご請求します</td></tr>
+      <tr><th>担当者を正社員化したとき</th><td><b>1名につき 90万円（税別）</b><br>業務委託で稼働した担当者を、正社員としてお迎えいただいた場合。対象は副業・フリーランスの担当者に限ります</td></tr>
+      <tr><th>担当者への業務委託費</th><td><b>エラベルは受け取りません</b><br>担当者ご本人（または所属先）へ直接お支払いいただきます。金額は担当者ごとに異なり、ご提案時にお伝えします</td></tr>
+      <tr><th>採用代行会社から</th><td><b>1円も受け取っていません</b><br>ご紹介先からの手数料・広告費・掲載料はいただいていません</td></tr>
+    </table>
+    <p class="lede" style="margin-top:22px">担当者への業務委託費と、エラベルへの費用は別のものです。担当者に月額をお支払いいただいたうえで、採用が決まった場合にエラベルへ10万円をいただく形になります。ご相談の段階で必ずご説明します。</p>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="band">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="kick">FAQ</span>
+      <h2>よくある質問</h2>
+    </div>
+    <div class="faq">
+      <details class="qa"><summary>採用代行の費用とは別に、エラベルにも払うのですか</summary><div class="a">はい。担当者への業務委託費は、担当者ご本人または所属先へ直接お支払いいただきます。エラベルへお支払いいただくのは、採用が1名決まったときの10万円だけです。ご相談・ご提案・面談の段階では費用は発生しません。</div></details>
+      <details class="qa"><summary>「採用が決まった」とは、いつのことですか</summary><div class="a">ご紹介した担当者が関わったポジションで、候補者が入社を承諾した時点です。内定を出しただけの段階ではご請求しません。対象となるポジションは、ご契約時に書面で確認させていただきます。</div></details>
+      <details class="qa"><summary>採用のプロではない人に、採用を任せて大丈夫ですか</summary><div class="a">任せる範囲を分けています。現場を知る担当者には、候補者の見極め、スカウト文面の中身、一次面接といった「その仕事が分かっていないとできないこと」をお願いします。媒体の運用設計や選考フローの設計が必要な場合は、採用実務のプロをご提案します。両方の担当者を組み合わせることもできます。</div></details>
+      <details class="qa"><summary>担当者の所属や経歴を、もっと詳しく見られませんか</summary><div class="a">会員サイトでご覧いただけます。ご登録はメールアドレスのみで、パスワードはありません。担当者の個人情報を扱うため、当社で内容を確認したうえで承認させていただいております。<a href="members.html">会員登録はこちら</a>。<br><br>なお、氏名と顔写真は会員サイトでも伏せています。担当者の多くが在職中のためで、面談の場でお伝えします。</div></details>
+      <details class="qa"><summary>担当者を正社員として採用したい場合は</summary><div class="a">ご相談ください。担当者ご本人の意向を確認したうえで、当社が条件の調整に入ります。入社が決まった時点で1名90万円をご請求します。なお、採用代行会社に所属している担当者は対象外です。</div></details>
+      <details class="qa"><summary>合う担当者がいなかった場合はどうなりますか</summary><div class="a">その旨をお伝えします。無理にご紹介することはしませんし、費用も発生しません。採用代行そのものが必要ない状況だと判断した場合も、正直にお伝えします。</div></details>
+      <details class="qa"><summary>紹介された担当者が合わなかったら</summary><div class="a">別の担当者をご提案します。稼働開始後であっても、ご相談ください。ただし契約は貴社と担当者のあいだで結ばれているため、解約の条件はその契約に従います。</div></details>
+      <details class="qa"><summary>何名くらい提案してもらえますか</summary><div class="a">職種と時期によりますが、通常2〜3名です。条件が絞られる場合は1名になることもありますし、該当者がいないこともあります。</div></details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 相談フォーム ============ -->
+<section class="form-sec" id="consult">
+  <div class="wrap">
+    <div class="sec-head center">
+      <span class="kick" style="color:var(--accent)">Contact</span>
+      <h2>無料で相談する</h2>
+      <p>入力は2分ほどで終わります。その場でのご契約はありません。</p>
+    </div>
+    <div class="form-card">
+      <form id="consultForm" novalidate>
+        <div class="fld">
+          <label for="f-company">会社名<span class="must">必須</span></label>
+          <input type="text" id="f-company" name="company" autocomplete="organization" placeholder="株式会社〇〇">
+        </div>
+        <div class="fld">
+          <label for="f-name">お名前<span class="must">必須</span></label>
+          <input type="text" id="f-name" name="name" autocomplete="name" placeholder="山田 太郎">
+        </div>
+        <div class="fld">
+          <label for="f-mail">メールアドレス<span class="must">必須</span></label>
+          <input type="email" id="f-mail" name="email" autocomplete="email" placeholder="you@example.co.jp">
+        </div>
+        <div class="fld">
+          <label>採用したい職種<span class="opt">任意・複数可</span></label>
+          <div class="chk-grid">
+            <label class="chk"><input type="checkbox" name="role" value="エンジニア">エンジニア</label>
+            <label class="chk"><input type="checkbox" name="role" value="営業">営業</label>
+            <label class="chk"><input type="checkbox" name="role" value="企画・マーケティング">企画・マーケティング</label>
+            <label class="chk"><input type="checkbox" name="role" value="コーポレート">コーポレート</label>
+            <label class="chk"><input type="checkbox" name="role" value="管理職・専門職">管理職・専門職</label>
+            <label class="chk"><input type="checkbox" name="role" value="その他">その他</label>
+          </div>
+        </div>
+        <div class="fld">
+          <label for="f-count">採用予定人数<span class="opt">任意</span></label>
+          <select id="f-count" name="count">
+            <option value="">選択してください</option>
+            <option>1名</option><option>2〜3名</option><option>4〜9名</option><option>10名以上</option><option>未定</option>
+          </select>
+        </div>
+        <div class="fld">
+          <label for="f-when">採用したい時期<span class="opt">任意</span></label>
+          <select id="f-when" name="when">
+            <option value="">選択してください</option>
+            <option>すぐに</option><option>3か月以内</option><option>半年以内</option><option>まだ決まっていない</option>
+          </select>
+        </div>
+        <div class="fld">
+          <label for="f-now">いまの採用代行の利用状況<span class="opt">任意</span></label>
+          <select id="f-now" name="now">
+            <option value="">選択してください</option>
+            <option>使っていない</option><option>使っているが変えたい</option><option>使っていて追加を検討</option><option>過去に使ってやめた</option>
+          </select>
+        </div>
+        <div class="fld">
+          <label for="f-note">ご相談内容<span class="opt">任意</span></label>
+          <textarea id="f-note" name="note" placeholder="うまくいっていないこと、これまで試したこと、社内の採用体制などを書いていただけると、当日の話が早くなります。"></textarea>
+        </div>
+        <div class="form-foot">
+          <button type="submit" class="btn btn-primary btn-lg">この内容で相談する <span class="arw">&rarr;</span></button>
+          <p class="privacy">ご入力いただいた情報は、ご相談への対応のためにのみ使用します。採用代行会社に共有することはありません。</p>
+          <div class="form-msg" id="formMsg"></div>
+        </div>
+      </form>
+      <div class="thanks" id="thanks">
+        <h3>ご相談を受け付けました</h3>
+        <p>3営業日以内に、日程のご案内をメールでお送りします。<br>届かない場合は迷惑メールフォルダをご確認ください。</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="#fee">費用</a>
+        <a href="#consult">無料で相談する</a>
+        <a href="members.html">会員サイト</a>
+        <a href="partner.html">担当者として登録する</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト</div>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var rv = document.querySelectorAll('.rv');
+  if('IntersectionObserver' in window){
+    var io = new IntersectionObserver(function(es){
+      es.forEach(function(e){ if(e.isIntersecting){ e.target.classList.add('on'); io.unobserve(e.target); } });
+    },{rootMargin:'0px 0px -8% 0px',threshold:.08});
+    Array.prototype.forEach.call(rv,function(el,i){ el.style.transitionDelay = ((i%4)*60)+'ms'; io.observe(el); });
+  } else {
+    Array.prototype.forEach.call(rv,function(el){ el.classList.add('on'); });
+  }
+
+  /* ---- 相談フォーム（Supabase に保存） ----
+     鍵が空のあいだは「準備中」と出ます。設定は MEMBERS_SETUP.md を参照。 */
+  var SUPABASE_URL      = 'https://pxjgtazmqousgtznolxj.supabase.co';
+  var SUPABASE_ANON_KEY = 'sb_publishable_oQ4JQWEjDSAXEvoheMfZkw_O-lHTD6Y';
+
+  var form   = document.getElementById('consultForm');
+  var msg    = document.getElementById('formMsg');
+  var thanks = document.getElementById('thanks');
+  var sb     = null;
+
+  function val(id){ var el = document.getElementById(id); return el ? el.value.trim() : ''; }
+  function show(t){ msg.textContent = t; msg.className = 'form-msg err'; }
+
+  function loadScript(src){
+    return new Promise(function(res, rej){
+      var el = document.createElement('script');
+      el.src = src; el.onload = res; el.onerror = rej;
+      document.head.appendChild(el);
+    });
+  }
+
+  form.addEventListener('submit', async function(ev){
+    ev.preventDefault();
+    msg.className = 'form-msg';
+
+    var company = val('f-company');
+    var name    = val('f-name');
+    var mail    = val('f-mail');
+    if(!company){ show('会社名を入力してください'); return; }
+    if(!name){ show('お名前を入力してください'); return; }
+    if(!mail || mail.indexOf('@') < 1){ show('メールアドレスを正しく入力してください'); return; }
+
+    if(!SUPABASE_URL || !SUPABASE_ANON_KEY){
+      show('現在、相談フォームは準備中です。お手数ですが、もうしばらくお待ちください。');
+      return;
+    }
+
+    var btn = form.querySelector('button[type=submit]');
+    btn.disabled = true; btn.textContent = '送信中…';
+
+    var roles = [];
+    Array.prototype.forEach.call(form.querySelectorAll('input[name="role"]:checked'), function(c){ roles.push(c.value); });
+
+    try{
+      if(!sb){
+        await loadScript('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js');
+        sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+      }
+      var r = await sb.from('consultations').insert({
+        company:      company,
+        contact_name: name,
+        email:        mail,
+        roles:        roles.join(' / ') || null,
+        headcount:    val('f-count') || null,
+        timing:       val('f-when')  || null,
+        current_use:  val('f-now')   || null,
+        note:         val('f-note')  || null,
+        status:       'new'
+      });
+      if(r.error) throw r.error;
+      form.style.display = 'none';
+      thanks.style.display = 'block';
+    }catch(e){
+      console.warn(e);
+      show('送信に失敗しました。時間をおいて、もう一度お試しください。');
+      btn.disabled = false;
+      btn.innerHTML = 'この内容で相談する <span class="arw">&rarr;</span>';
+    }
+  });
+})();
+</script>
+</body>
+</html>
