@@ -53,6 +53,10 @@
   .brand .mk svg{display:block}
   .brand .nm{font-size:1.05rem;line-height:1.2;letter-spacing:.02em}
   .brand .nm small{display:block;font-family:var(--mono);font-size:.56rem;letter-spacing:.14em;color:var(--ink-faint);font-weight:600}
+  /* ヘッダーからオウンドメディアへ。狭い画面では隠す（相談・応募のボタンを優先する） */
+  .nav-media{font-size:.88rem;font-weight:700;color:var(--ink-soft);margin-left:auto;margin-right:4px}
+  .nav-media:hover{color:var(--accent-ink)}
+  @media (max-width:560px){.nav-media{display:none}}
   .nav .cta-mini{font-size:.9rem;padding:10px 20px}
   @media (max-width:560px){.brand .nm small{display:none}}
 
@@ -231,6 +235,7 @@
       <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
       <span class="nm">エラベル<small>ERABERU</small></span>
     </a>
+    <a class="nav-media" href="media/fukugyo/">メディア</a>
     <a class="btn btn-primary cta-mini" href="#entry">応募する</a>
   </div>
 </header>
@@ -548,6 +553,7 @@
       <div class="foot-links">
         <a href="#work">仕事内容</a>
         <a href="#entry">応募する</a>
+        <a href="media/fukugyo/">人事副業のメディア</a>
         <a href="index.html">企業の方はこちら</a>
         <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
       </div>

@@ -53,6 +53,10 @@
   .brand .mk svg{display:block}
   .brand .nm{font-size:1.05rem;line-height:1.2;letter-spacing:.02em}
   .brand .nm small{display:block;font-family:var(--mono);font-size:.56rem;letter-spacing:.14em;color:var(--ink-faint);font-weight:600}
+  /* ヘッダーからオウンドメディアへ。狭い画面では隠す（相談・応募のボタンを優先する） */
+  .nav-media{font-size:.88rem;font-weight:700;color:var(--ink-soft);margin-left:auto;margin-right:4px}
+  .nav-media:hover{color:var(--accent-ink)}
+  @media (max-width:560px){.nav-media{display:none}}
   .nav .cta-mini{font-size:.9rem;padding:10px 20px}
   @media (max-width:560px){.brand .nm small{display:none}}
 
@@ -236,6 +240,7 @@
       <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
       <span class="nm">エラベル<small>ERABERU</small></span>
     </a>
+    <a class="nav-media" href="media/">メディア</a>
     <a class="btn btn-primary cta-mini" href="#consult">無料で相談する</a>
   </div>
 </header>
@@ -595,6 +600,9 @@
         <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
       </div>
       <div class="foot-links">
+        <a href="media/">メディア</a>
+        <a href="media/rpo/">採用代行</a>
+        <a href="media/scout/">スカウト代行</a>
         <a href="#fee">費用</a>
         <a href="#consult">無料で相談する</a>
         <a href="members.html">会員サイト</a>
