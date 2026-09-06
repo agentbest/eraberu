@@ -20,6 +20,8 @@ const SRC = path.join(DIR, 'media', '_articles');
 const OUT = path.join(DIR, 'media');
 const SITE = 'https://eraberusaiyodaiko.com';
 const PER_PAGE = 24;
+/* 計測。既存12サイトと同じプロパティに相乗りし、サイト別はホスト名で分けて見る（[[ga4-operations]]） */
+const GA_ID = 'G-1XXMP8Y1B4';
 
 /* 柱（記事の大分類）。URL・ハブページ・パンくずの元になる。
    ⚠ ここのキーは記事の frontmatter の pillar と一致させること。 */
@@ -199,10 +201,19 @@ function head(o) {
 <meta property="og:description" content="${escAttr(o.desc)}">
 <meta property="og:url" content="${escAttr(canon)}">
 <meta property="og:locale" content="ja_JP">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="${SITE}/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="/media/assets/media.css">
 ${o.jsonld ? `<script type="application/ld+json">${JSON.stringify(o.jsonld)}</script>` : ''}
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','${GA_ID}');
+</script>
 </head>
 <body>
 <header class="nav">
@@ -232,6 +243,7 @@ function foot() {
         <a href="/#consult">無料で相談する</a>
         <a href="/members.html">会員サイト</a>
         <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
         <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
       </div>
     </div>
@@ -574,7 +586,7 @@ function main() {
   }
 
   /* sitemap（本体3ページ＋メディア全部） */
-  const urls = ['/', '/partner.html', '/media/']
+  const urls = ['/', '/partner.html', '/privacy.html', '/media/']
     .concat(PILLARS.map(p => `/media/${p.key}/`))
     .concat(all.map(a => `/media/${a.slug}/`));
   fs.writeFileSync(path.join(DIR, 'sitemap.xml'),
