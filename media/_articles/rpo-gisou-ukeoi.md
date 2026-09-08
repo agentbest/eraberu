@@ -9,7 +9,7 @@ tags: ["偽装請負", "37号告示", "労働者派遣", "業務委託", "契約
 pubDate: 2026-09-06
 reviewedAt: 2026-09-06
 slug: "rpo-gisou-ukeoi"
-related: ["rpo-shokuan-hou", "rpo-toha"]
+related: ["rpo-chuuto-kaiyaku", "rpo-hakenmoto-sekinin", "rpo-jidou-koushin", "rpo-saitei-keiyaku-kikan"]
 sources:
   - name: "厚生労働省「労働者派遣事業と請負により行われる事業との区分に関する基準」（昭和61年労働省告示第37号／最終改正 平成24年厚生労働省告示第518号）"
     url: "https://www.mhlw.go.jp/content/000780136.pdf"

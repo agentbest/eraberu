@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>半分だけ内製にする設計｜エラベル</title>
+<meta name="description" content="スカウトの工程を分けて、一部を社内、一部を外注にする形の設計です。分け方の三つのパターン、受け渡しの設計、判断の基準、注意点を実務の順番で整理しました。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/scout-daikou-hanbun-uchisei/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="半分だけ内製にする設計｜エラベル">
+<meta property="og:description" content="スカウトの工程を分けて、一部を社内、一部を外注にする形の設計です。分け方の三つのパターン、受け渡しの設計、判断の基準、注意点を実務の順番で整理しました。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/scout-daikou-hanbun-uchisei/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"半分だけ内製にする設計","description":"スカウトの工程を分けて、一部を社内、一部を外注にする形の設計です。分け方の三つのパターン、受け渡しの設計、判断の基準、注意点を実務の順番で整理しました。","datePublished":"2026-09-08","dateModified":"2026-09-08","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/scout-daikou-hanbun-uchisei/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/scout/">スカウト代行</a><i>›</i><span>半分だけ内製にする設計</span></div></nav><main class="wrap article">
+  <p class="art__kicker">スカウト代行 / スカウト代行</p>
+  <h1>半分だけ内製にする設計</h1>
+  <p class="art__meta">公開 2026-09-08</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">三つのパターン</a></li><li><a href="#h2">三番目が噛み合う理由</a></li><li><a href="#h3">受け渡しの設計</a></li><li><a href="#h4">判断の基準</a></li><li><a href="#h5">費用と時間の比較</a></li><li><a href="#h6">注意点</a></li><li><a href="#h7">移行の順番</a></li><li><a href="#h8">まとめ</a></li><li><a href="#h9">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>スカウトの運用を、全部任せるか全部内製にするかの二択で考える必要はありません。<strong>工程を分けて、一部を社内、一部を外注にする形が成立します</strong>。そして、この形のほうが費用も抑えられ、社内に理解も残ります。この記事では、分け方のパターンと、受け渡しの設計を整理します。任せる範囲の全体は<a href="/media/scout-daikou-hanni/">任せる範囲の決め方</a>にまとめています。</p>
+<h2 id="h1">三つのパターン</h2>
+<p><strong>一.設計は社内、実行は外注</strong></p>
+<ul><li>社内：検索条件の設計、文面の型、ターゲットの判断</li><li>外注：候補者の選定、送信、返信対応、日程調整</li></ul>
+<p><strong>社内に設計できる人がいて、手が足りない場合に噛み合います</strong>。</p>
+<p><strong>二.実行は社内、設計は外注</strong></p>
+<ul><li>社内：送信、返信対応、日程調整</li><li>外注：条件の設計、文面の型、改善の提案</li></ul>
+<p><strong>手はあるが進め方が分からない場合</strong>。稼働は少なく済みます。</p>
+<p><strong>三.工程の途中で分ける</strong></p>
+<ul><li>外注：検索、選定、送信</li><li>社内：返信対応、面談の設定</li></ul>
+<p><strong>返信の質を社内で保ちたい場合</strong>。返信の件数が多くなければ成立します。</p>
+<p><strong>この三つのうち、三番目が結果に効くことがあります</strong>。<strong>返信対応は面談化率を分ける工程です</strong>。</p>
+<h2 id="h2">三番目が噛み合う理由</h2>
+<p><strong>返信は、既に関心を示している候補者です</strong>。ここでの一往復が、面談に至るかどうかを決めます。</p>
+<p><strong>そして、良い返信を書くには自社の情報が要ります</strong>。事業の状況、現場の様子、その職種で任される範囲。</p>
+<p><strong>社内の人が返すと、この情報が自然に入ります</strong>。</p>
+<p><strong>さらに、返信の件数は送信数ほど多くありません</strong>。<strong>一日に数件なら、社内で対応できることもあります</strong>。</p>
+<p><strong>送信は外に、返信は社内に</strong>。この分け方が噛み合う場面は少なくありません。</p>
+<p><strong>ただし、日中に対応できる体制が要ります</strong>。返信は関心が高い瞬間なので、遅れると温度が下がります。</p>
+<aside class="cta-inline">
+  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>半分だけ内製にする形で、<strong>「社内が持つ工程を、判断が要る部分にしてください」</strong>。ここが設計の要点です。</p>
+<p>社内に残す工程を、量のある事務にすると意味が薄い。<strong>日程調整や送信を社内で持っても、負担が減らないだけです</strong>。</p>
+<p>一方、<strong>判断が要る工程を社内に残すと、理解が蓄積します</strong>。</p>
+<p><strong>ターゲットの判断</strong>。誰に送るかを決める。候補者の経歴を読む機会になります。</p>
+<p><strong>返信への対応</strong>。候補者が何を気にしているかが分かります。</p>
+<p><strong>条件の見直し</strong>。数字を見て、どこを調整するか。</p>
+<p><strong>この三つを社内が持つと、採用の理解が深まります</strong>。そして、将来内製に移すときの土台になります。</p>
+<p><strong>逆に、判断をすべて外に出して事務だけを社内に残すと、費用も下がらず理解も残りません</strong>。</p>
+<p><strong>分けるときの基準は、「判断が要る工程を社内に」</strong>。この原則で設計してください。</p>
+<p>そして、社内が判断を持つなら、<strong>その判断を速く返す責任も持つことになります</strong>。遅れると、外注側の稼働が空きます。</p>
+<h2 id="h3">受け渡しの設計</h2>
+<p><strong>分けると、工程間の受け渡しが発生します</strong>。</p>
+<p><strong>社内が条件を作り、外注が送る場合</strong></p>
+<ul><li>条件をどの形式で渡すか（<strong>画面の写しではなく、条件の内容を文書で</strong>）</li><li>更新したときの伝え方</li><li>母数が足りないときの調整を誰がするか</li></ul>
+<p><strong>外注が送り、社内が返信を持つ場合</strong></p>
+<ul><li>返信が来たときの<strong>通知の方法</strong></li><li><strong>見落としを防ぐ仕組み</strong></li><li>対応の期限</li><li>面談が決まった後の連絡を誰がするか</li></ul>
+<p><strong>外注が選定し、社内が承認する場合</strong></p>
+<ul><li>選定した候補者の一覧をどう渡すか</li><li>承認の期限</li><li><strong>期限内に返せない場合の扱い</strong></li></ul>
+<p><strong>この三つのうち、二番目の一番目が実務では重要です</strong>。返信に気づかないまま時間が経つと、候補者の関心は下がります。</p>
+<h2 id="h4">判断の基準</h2>
+<p><strong>社内に設計できる人がいるか</strong>。いるなら、設計を社内に残せます。</p>
+<p><strong>社内に日中に対応できる人がいるか</strong>。いるなら、返信を社内で持てます。</p>
+<p><strong>返信の件数</strong>。多いと、社内では対応しきれません。</p>
+<p><strong>費用</strong>。範囲を絞れば費用は下がります。<strong>ただし、社内の時間が増えます</strong>。</p>
+<p><strong>将来の内製化</strong>。移行を考えているなら、<strong>判断が要る工程を先に社内に持つ</strong>形が噛み合います。</p>
+<p><strong>この五つで判断してください</strong>。</p>
+<h2 id="h5">費用と時間の比較</h2>
+<p><strong>外注の範囲を絞ると、費用は下がります</strong>。</p>
+<p><strong>ただし、社内の時間が増えます</strong>。この時間を金額に換算して、合計で比べてください。</p>
+<p><strong>そして、判断が要る工程を社内で持つ場合、時間だけでなく力量も要ります</strong>。<strong>担当できる人がいるかを確認してください</strong>。</p>
+<p><strong>担当できる人がいないまま社内に残すと、その工程が滞ります</strong>。そして、外注した工程も止まります。</p>
+<h2 id="h6">注意点</h2>
+<p><strong>社内の工程が律速にならないか</strong>。条件の更新、返信への対応、承認。<strong>社内が遅れると、全体が止まります</strong>。</p>
+<p><strong>情報が分断されないか</strong>。社内と外注で、それぞれが持つ情報が違う状態。<strong>接触の記録は一箇所に集約してください</strong>。</p>
+<p><strong>責任の所在が曖昧にならないか</strong>。数字が動かないとき、どちらの工程の問題か。<strong>工程ごとに数字を分けて見られる形にします</strong>。</p>
+<p><strong>改善が回るか</strong>。社内が条件を持ち、外注が送る形だと、<strong>外注は条件を変えられません</strong>。社内が数字を見て改善する体制が要ります。</p>
+<p><strong>四番目が最も多い問題です</strong>。範囲を絞って費用を抑えたが、誰も改善しないまま数か月が過ぎる。</p>
+<h2 id="h7">移行の順番</h2>
+<p><strong>最初は広く任せて、徐々に社内に戻す</strong></p>
+<ul><li>運用の型ができてから、判断の工程を社内に移す</li><li><strong>移す工程が回ってから、次に進む</strong></li></ul>
+<p><strong>最初から分けて始める</strong></p>
+<ul><li>社内に担える人がいる場合</li><li><strong>受け渡しの設計を先に決める必要があります</strong></li></ul>
+<p><strong>多くの場合、前者のほうが安全です</strong>。運用の型がない状態で分けると、受け渡しの設計もできません。</p>
+<p><strong>そして、移す順番は判断の少ない工程からではなく、判断が要る工程からです</strong>。<strong>内製化とは逆の順番になります</strong>。</p>
+<p>理由は、<strong>判断を社内が持つことに意味があるためです</strong>。事務は外注のままでよい。</p>
+<aside class="cta-inline">
+  <p>担当者の経歴を見てから決められます</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>半分だけ内製にする形で、<strong>外注側の稼働が細切れにならないよう注意してください</strong>。</p>
+<p>工程を分けると、外注側の作業も分断されます。条件を待って、送信して、次の指示を待つ。<strong>待ち時間が発生します</strong>。</p>
+<p>そして、<strong>待ち時間は稼働に数えられないことが多い</strong>。代行側から見ると、稼働の効率が下がります。</p>
+<p><strong>その結果、単価が上がるか、優先度が下がることがあります</strong>。</p>
+<p>だから、<strong>分ける場合は、外注側がまとまった作業をできる形にしてください</strong>。</p>
+<p>具体的には、<strong>条件をまとめて渡す</strong>。週に一度、次の一週間分の条件を渡す。都度渡すのではなく、まとめる。</p>
+<p><strong>承認もまとめる</strong>。選定した候補者を、まとめて確認する。</p>
+<p><strong>そして、社内の判断の期限を決める</strong>。「条件の更新は毎週この曜日まで」。<strong>リズムを作ると、待ち時間が減ります</strong>。</p>
+<p><strong>分ける設計は、外注側の効率も考えて作ってください</strong>。効率が下がると、費用に跳ね返ります。</p>
+<h2 id="h8">まとめ</h2>
+<ul><li>パターンは三つ。<strong>設計は社内・実行は社内・工程の途中で分ける</strong></li><li><strong>返信対応を社内に残す</strong>形が、結果に効くことがある</li><li>社内が持つ工程は、<strong>判断が要る部分に</strong>。事務を残しても意味は薄い</li><li>受け渡しでは、<strong>返信の通知と見落としを防ぐ仕組み</strong>が重要</li><li>判断は、<strong>設計できる人・日中の対応・返信の件数・費用・将来の内製化</strong>で決める</li><li>注意点は、<strong>社内が律速にならないか・情報の分断・責任の所在・改善が回るか</strong></li><li>移行は、運用の型ができてから。<strong>判断が要る工程から社内に移す</strong></li><li>外注側の稼働が<strong>細切れにならないよう</strong>、まとめて渡すリズムを作る</li></ul>
+<h2 id="h9">よくある質問</h2>
+<h3>費用はどのくらい下がりますか</h3>
+<p>外注の範囲を絞った分だけ下がります。ただし、社内の時間が増えるため、その時間を金額に換算して合計で比べてください。判断が要る工程を社内で持つ場合は、担当できる人がいるかも確認してください。</p>
+<h3>返信対応を社内で持てますか</h3>
+<p>返信の件数と、日中に対応できる体制で決まります。一日に数件なら社内でも対応できます。ただし、遅れると候補者の関心が下がるため、対応の期限と、不在時の代替を決めておいてください。</p>
+<h3>分けると管理が複雑になりませんか</h3>
+<p>受け渡しの設計を先に決めておけば、回ります。条件の渡し方、返信の通知、承認の期限。この三つを決めておいてください。あわせて、接触の記録は自社の環境に集約し、情報が分断されない形にします。</p>
+  </div>
+  
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/scout-daikou-hanni/">スカウト代行に任せる範囲の決め方</a></li><li><a href="/media/scout-daikou-henshin-taiou/">返信が来たあとの対応分担</a></li><li><a href="/media/scout-daikou-jinin/">何名体制で回すか</a></li><li><a href="/media/scout-daikou-shokushu-betsu/">職種ごとに担当を分けるか</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

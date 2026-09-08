@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>日程調整まで任せる場合の設計｜エラベル</title>
+<meta name="description" content="日程調整を代行に任せるには、面接官の枠とカレンダーの権限を先に決めます。候補日の出し方、変更やキャンセルの扱い、リマインド、当日の連絡までを実務の順番で整理しました。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/scout-daikou-nittei/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="日程調整まで任せる場合の設計｜エラベル">
+<meta property="og:description" content="日程調整を代行に任せるには、面接官の枠とカレンダーの権限を先に決めます。候補日の出し方、変更やキャンセルの扱い、リマインド、当日の連絡までを実務の順番で整理しました。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/scout-daikou-nittei/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"日程調整まで任せる場合の設計","description":"日程調整を代行に任せるには、面接官の枠とカレンダーの権限を先に決めます。候補日の出し方、変更やキャンセルの扱い、リマインド、当日の連絡までを実務の順番で整理しました。","datePublished":"2026-09-08","dateModified":"2026-09-08","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/scout-daikou-nittei/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/scout/">スカウト代行</a><i>›</i><span>日程調整まで任せる場合の設計</span></div></nav><main class="wrap article">
+  <p class="art__kicker">スカウト代行 / スカウト代行</p>
+  <h1>日程調整まで任せる場合の設計</h1>
+  <p class="art__meta">公開 2026-09-08</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">先に決める三つ</a></li><li><a href="#h2">面接官の枠の確保</a></li><li><a href="#h3">カレンダーの権限</a></li><li><a href="#h4">候補日の出し方</a></li><li><a href="#h5">変更とキャンセル</a></li><li><a href="#h6">リマインドと当日の連絡</a></li><li><a href="#h7">面談の後</a></li><li><a href="#h8">記録すること</a></li><li><a href="#h9">自動化との組み合わせ</a></li><li><a href="#h10">まとめ</a></li><li><a href="#h11">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>スカウトの返信から面談までの日程調整を、代行に任せる。<strong>量があり判断も少ないため、任せやすい工程です</strong>。ただし、面接官の予定にアクセスする必要があり、権限と運用の設計が要ります。この記事では、任せる場合に決めておくことを整理します。返信対応の分担は<a href="/media/scout-daikou-henshin-taiou/">返信が来たあとの対応分担</a>にまとめています。</p>
+<h2 id="h1">先に決める三つ</h2>
+<p><strong>一.面接官の枠をどう確保するか</strong>。空いている時間を探す形か、あらかじめ枠を押さえる形か。</p>
+<p><strong>二.カレンダーの権限をどう渡すか</strong>。閲覧のみか、予定の登録までか。</p>
+<p><strong>三.候補日をどう出すか</strong>。何日分、何時間帯を提示するか。</p>
+<p><strong>この三つが決まっていないと、日程調整は任せられません</strong>。<strong>代行は面接官の予定を知る手段がないためです</strong>。</p>
+<h2 id="h2">面接官の枠の確保</h2>
+<p><strong>枠を先に押さえる形</strong></p>
+<ul><li>「この曜日のこの時間帯は面談用」と決めておく</li><li><strong>候補日を速く出せます</strong></li><li>使わなかった枠は解放する</li></ul>
+<p><strong>空いている時間を探す形</strong></p>
+<ul><li>面接官の予定から空きを探す</li><li><strong>柔軟だが、候補日を出すまでに時間がかかります</strong></li><li>直前の予定変更に弱い</li></ul>
+<p><strong>候補日を速く出したいなら、前者が噛み合います</strong>。<strong>候補者は他社の選考も進めています</strong>。候補日の提示が遅れると、その間に日程が埋まります。</p>
+<p><strong>そして、枠を押さえる形にすると、代行の作業も単純になります</strong>。空いている枠から提示するだけで済みます。</p>
+<h2 id="h3">カレンダーの権限</h2>
+<p><strong>閲覧のみを渡す場合</strong></p>
+<ul><li>代行が空きを確認し、候補日を提示</li><li><strong>確定した予定の登録は自社が行う</strong></li><li>権限は絞れるが、作業が残る</li></ul>
+<p><strong>登録まで渡す場合</strong></p>
+<ul><li>代行が予定を入れられる</li><li><strong>確定までが速い</strong></li><li>誤操作のリスクがある</li></ul>
+<p><strong>多くの場合は、後者のほうが運用は速くなります</strong>。ただし、次を決めておいてください。</p>
+<ul><li>登録してよい範囲（<strong>面談の予定のみ</strong>）</li><li>誤って登録した場合の連絡</li><li>面接官への通知の方法</li></ul>
+<p><strong>そして、権限の一覧に含めて管理してください</strong>。四半期に一度の棚卸しの対象です。設計は<a href="/media/scout-daikou-kengen/">媒体アカウントの権限設定</a>にまとめています。</p>
+<h2 id="h4">候補日の出し方</h2>
+<p><strong>何日分を出すか</strong>。少なすぎると合わず、多すぎると面接官の予定が埋まります。</p>
+<p><strong>時間帯の幅</strong>。候補者は在職中のことが多いため、<strong>始業前や終業後、昼の時間帯を含めるか</strong>を決めます。</p>
+<p><strong>オンラインか対面か</strong>。オンラインなら移動の時間が不要で、枠も取りやすくなります。</p>
+<p><strong>確定までの期限</strong>。候補日を出してから、返答を待つ期間。<strong>期限を過ぎたら枠を解放します</strong>。</p>
+<p><strong>この四つのうち、二番目が面談化率に効きます</strong>。<strong>日中しか枠がないと、在職中の候補者は調整が難しくなります</strong>。</p>
+<aside class="cta-inline">
+  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>日程調整を任せるときに、<strong>「面接官の枠が確保されているか」を先に確認してください</strong>。ここが最大の律速です。</p>
+<p>代行に任せても、面接官の予定が取れなければ候補日は出せません。<strong>そして、候補日が出せない理由は、代行側からは指摘しにくい</strong>。</p>
+<p>「候補日の提示に時間がかかっています」と伝えても、原因が自社の面接官の予定にあることは、外からは言いにくい。</p>
+<p>だから、<strong>自社で確認してください</strong>。返信から候補日の提示までにかかった日数。<strong>記録を見れば分かります</strong>。</p>
+<p>そして、遅れているなら<strong>枠の確保の形を変えてください</strong>。</p>
+<p>具体的には、面談用の枠をあらかじめ押さえる。「毎週この曜日のこの時間帯は面談用」。<strong>使わなければ解放すればよい</strong>。</p>
+<p>この形にすると、候補日は即座に出せます。<strong>返信が来たその日に候補日を提示できると、面談化率は上がります</strong>。</p>
+<p><strong>日程調整の速さは、代行の力量ではなく自社の準備で決まります</strong>。任せる前に、ここを整えてください。</p>
+<h2 id="h5">変更とキャンセル</h2>
+<p><strong>候補者からの変更依頼</strong>。誰が対応するか、どこまで柔軟に応じるか。</p>
+<p><strong>面接官の都合による変更</strong>。<strong>謝罪の連絡と、代替の日程の提示</strong>。誰が行うか。</p>
+<p><strong>当日のキャンセル</strong>。連絡の経路、代替の日程を提示するか。</p>
+<p><strong>無断欠席</strong>。連絡するか、しないか。<strong>記録に残す</strong>。</p>
+<p><strong>この四つのうち、二番目が候補者の印象に影響します</strong>。<strong>自社側の都合での変更は、丁寧な対応が要ります</strong>。</p>
+<p><strong>そして、変更の記録を残してください</strong>。頻度が高いなら、枠の確保に問題があります。</p>
+<h2 id="h6">リマインドと当日の連絡</h2>
+<p><strong>面談の前日または当日にリマインドを送る</strong>。<strong>欠席が減ることがあります</strong>。</p>
+<p><strong>内容に含めるもの</strong></p>
+<ul><li>日時と方法（オンラインの接続情報、対面の場所）</li><li>当日の担当者</li><li>所要時間</li><li>持ち物や準備するもの（あれば）</li></ul>
+<p><strong>そして、当日の担当者を伝えてください</strong>。<strong>送信者名と面談の担当が違う場合、ここで伝えると違和感がなくなります</strong>。扱いは<a href="/media/scout-daikou-namae/">誰の名前で送るか</a>にまとめています。</p>
+<p><strong>リマインドは自動化しやすい工程です</strong>。仕組みで送る形にすると、漏れが減ります。</p>
+<h2 id="h7">面談の後</h2>
+<p><strong>面談が終わった後の流れも決めておいてください</strong>。</p>
+<p><strong>次の選考の案内</strong>。誰が、いつまでに送るか。</p>
+<p><strong>見送りの連絡</strong>。<strong>代行が送るか、自社が送るか</strong>。文面の型を用意します。</p>
+<p><strong>候補者からの質問</strong>。面談後に出てくることがあります。</p>
+<p><strong>記録</strong>。面談の実施、結果、次の予定。<strong>採用管理システムに残します</strong>。</p>
+<p><strong>二番目は、丁寧さが印象に残る場面です</strong>。面談まで来た候補者への連絡は、定型文だけで済ませない形を検討してください。</p>
+<h2 id="h8">記録すること</h2>
+<p><strong>返信から候補日の提示までの日数</strong>。<strong>自社側の律速が見えます</strong>。</p>
+<p><strong>候補日の提示から確定までの日数</strong>。</p>
+<p><strong>面談の設定率</strong>（返信のうち、面談に至った割合）。</p>
+<p><strong>面談の実施率</strong>（設定のうち、実施された割合）。</p>
+<p><strong>変更とキャンセルの件数と理由</strong>。</p>
+<p><strong>この五つを月ごとに追ってください</strong>。<strong>どこで落ちているかが分かります</strong>。</p>
+<p><strong>特に、四番目が低い場合は、設定から実施までの期間が長い可能性があります</strong>。日程が先すぎると、その間に他社に決まります。</p>
+<h2 id="h9">自動化との組み合わせ</h2>
+<p><strong>日程調整のツールを使う形もあります</strong>。候補者が空いている時間を選べる仕組み。</p>
+<p><strong>利点</strong></p>
+<ul><li>往復のやりとりが減る</li><li><strong>候補者にとっても便利</strong></li><li>代行の作業も減る</li></ul>
+<p><strong>注意点</strong></p>
+<ul><li>例外の対応は人が行う</li><li>面接官の枠が正確に反映されている必要がある</li><li><strong>候補者から見た体裁</strong>（自社の名前で表示されるか）</li></ul>
+<p><strong>そして、ツールを使う場合も、面接官の枠の確保は変わりません</strong>。<strong>空いている枠がなければ、ツールでも候補日は出せません</strong>。</p>
+<p>自動化の判断は<a href="/media/rpo-jidouka/">採用業務の自動化でできること</a>にまとめています。</p>
+<aside class="cta-inline">
+  <p>担当者の経歴を見てから決められます</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>日程調整を任せるときに、<strong>「面談までの期間」を指標として見てください</strong>。ここが候補者の離脱に直結します。</p>
+<p>返信が来て、候補日を出し、確定して、面談を実施する。<strong>この期間が長いほど、候補者は他社の選考を進めます</strong>。</p>
+<p>そして、期間の長さは工程ごとに分解できます。<strong>返信から候補日の提示まで、提示から確定まで、確定から実施まで</strong>。</p>
+<p><strong>この三つのうち、どこが長いかで打ち手が変わります</strong>。</p>
+<p>一番目が長いなら、面接官の枠の確保の問題。二番目が長いなら、候補者側の事情か、候補日の出し方の問題。三番目が長いなら、直近の枠がない問題です。</p>
+<p><strong>多くの場合、一番目と三番目が長い</strong>。どちらも面接官の枠の問題です。</p>
+<p>だから、<strong>日程調整の改善は、面接官の枠から始めてください</strong>。代行の作業を速くしても、枠がなければ変わりません。</p>
+<p>そして、枠を確保することは現場の協力が要ります。<strong>「候補者を待たせると辞退につながる」という説明を、数字とともに伝えてください</strong>。</p>
+<p><strong>日程調整は代行に任せられますが、枠の確保は自社の仕事です</strong>。</p>
+<h2 id="h10">まとめ</h2>
+<ul><li>先に決めるのは、<strong>面接官の枠の確保・カレンダーの権限・候補日の出し方</strong></li><li>枠は<strong>先に押さえる形</strong>にすると、候補日を速く出せる</li><li>権限は登録まで渡すほうが速いが、<strong>範囲と誤操作時の連絡</strong>を決める</li><li>候補日は、<strong>時間帯の幅</strong>が面談化率に効く。在職中の候補者を想定する</li><li>変更とキャンセルの扱いを決める。<strong>自社都合の変更は丁寧に</strong></li><li>リマインドで<strong>当日の担当者</strong>を伝えると、名前の不一致がなくなる</li><li>記録は、<strong>返信から提示まで・提示から確定まで・設定率・実施率・変更件数</strong></li><li>改善は<strong>面接官の枠から</strong>。代行の作業を速くしても枠がなければ変わらない</li></ul>
+<h2 id="h11">よくある質問</h2>
+<h3>カレンダーの権限を渡すのが不安です</h3>
+<p>閲覧のみを渡し、確定した予定の登録は自社が行う形も取れます。ただし、その分の作業が残ります。登録まで渡す場合は、範囲を面談の予定に限定し、権限の一覧で管理してください。四半期に一度の棚卸しの対象にします。</p>
+<h3>面接官の予定が押さえられません</h3>
+<p>面談用の枠をあらかじめ確保する形を検討してください。「毎週この曜日のこの時間帯」。使わなければ解放すればよい形にすると、負担は小さくなります。あわせて、候補者を待たせることの損失を数字で示すと、協力が得られやすくなります。</p>
+<h3>日程調整のツールを使えば代行は不要ですか</h3>
+<p>往復のやりとりは減りますが、例外の対応は残ります。候補者の事情、面接官の急な変更、複数人の日程調整。これらは人が対応することになります。あわせて、面接官の枠の確保は、ツールでも変わりません。</p>
+  </div>
+  
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/scout-daikou-kaizen/">改善提案をどこまで求めるか</a></li><li><a href="/media/scout-daikou-mendan-doseki/">面談への同席は必要か</a></li><li><a href="/media/scout-baitai-kirikae/">媒体を切り替える判断</a></li><li><a href="/media/scout-baitai-kumiawase/">媒体の組み合わせ方</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

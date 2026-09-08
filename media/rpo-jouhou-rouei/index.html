@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>採用代行からの情報漏えいを防ぐ設計｜エラベル</title>
+<meta name="description" content="採用代行での情報事故は、悪意より運用の隙間から起きます。置き場所を一つにする、権限を最小にする、受け渡しをなくすという三つの原則と、退任フロー、事故時の初動を整理しました。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/rpo-jouhou-rouei/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="採用代行からの情報漏えいを防ぐ設計｜エラベル">
+<meta property="og:description" content="採用代行での情報事故は、悪意より運用の隙間から起きます。置き場所を一つにする、権限を最小にする、受け渡しをなくすという三つの原則と、退任フロー、事故時の初動を整理しました。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/rpo-jouhou-rouei/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"採用代行からの情報漏えいを防ぐ設計","description":"採用代行での情報事故は、悪意より運用の隙間から起きます。置き場所を一つにする、権限を最小にする、受け渡しをなくすという三つの原則と、退任フロー、事故時の初動を整理しました。","datePublished":"2026-09-07","dateModified":"2026-09-07","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/rpo-jouhou-rouei/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/rpo/">採用代行</a><i>›</i><span>採用代行からの情報漏えいを防ぐ設計</span></div></nav><main class="wrap article">
+  <p class="art__kicker">採用代行 / 費用・契約・法務</p>
+  <h1>採用代行からの情報漏えいを防ぐ設計</h1>
+  <p class="art__meta">公開 2026-09-07</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">三つの原則</a></li><li><a href="#h2">受け渡しをなくす設計</a></li><li><a href="#h3">退任と交代のフロー</a></li><li><a href="#h4">端末と環境の取り決め</a></li><li><a href="#h5">事故が起きたときの初動</a></li><li><a href="#h6">まとめ</a></li><li><a href="#h7">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>採用代行に業務を任せると、候補者の情報が社外の担当者の手に渡ります。ここで起きる事故は、<strong>悪意によるものより、運用の隙間から起きるもののほうが多い</strong>というのが実務の感覚です。誤送信、共有リンクの放置、退任した担当者のアカウントが残ったまま。これらは仕組みで減らせます。この記事では、設計の三つの原則と、退任時と事故時の手順を整理します。なお、具体的な対応は自社の管理体制によって変わるため、<strong>個別の判断は専門家にご確認ください</strong>。</p>
+<h2 id="h1">三つの原則</h2>
+<p><strong>一.置き場所を一つにする</strong>。候補者の情報を、自社の採用管理システムに集約します。代行会社の環境、担当者の端末、メールの添付、共有ドライブ。散らばるほど、把握も削除もできなくなります。</p>
+<p><strong>二.権限を最小にする</strong>。任せる業務に必要な範囲だけを渡します。管理者権限を渡さない、見せなくてよい情報は見せない。権限の設計は<a href="/media/rpo-ats-kengen/">渡すATSの権限範囲</a>にまとめています。</p>
+<p><strong>三.受け渡しをなくす</strong>。ファイルを送る運用をやめ、同じ場所を見る運用にします。送るという行為がなくなれば、誤送信も、送り先での放置も起きません。</p>
+<p><strong>三番目が、事故を減らす効果としては最も大きい</strong>。応募書類をメールで送る運用が残っていると、宛先の間違いは確率の問題として起きます。</p>
+<h2 id="h2">受け渡しをなくす設計</h2>
+<p>具体的には、次のように置き換えます。</p>
+<div class="tw"><table><thead><tr><th>よくある運用</th><th>置き換え</th></tr></thead><tbody><tr><td>応募書類をメールで送る</td><td>採用管理システムで閲覧してもらう</td></tr><tr><td>候補者一覧を表計算で送る</td><td>共有の環境に置き、権限で見せる</td></tr><tr><td>評価コメントをチャットに貼る</td><td>システム内の該当候補者に記録する</td></tr><tr><td>面接の日程を個別にやりとり</td><td>日程調整の機能を使う</td></tr><tr><td>選考結果をメールで通知</td><td>ステータスの変更で伝える</td></tr></tbody></table></div>
+<p><strong>置き換えられない場面もあります</strong>。システムに機能がない、代行側の環境が対応していない。その場合は、共有リンクの期限を切る、パスワードを分けて送る、といった補い方をします。</p>
+<p><strong>補い方より、そもそも送らずに済む形を探すほうが確実です</strong>。運用を設計する段階で、どこにファイルの移動が発生するかを洗い出しておきます。</p>
+<h2 id="h3">退任と交代のフロー</h2>
+<p>事故が起きやすいのは、人が入れ替わるときです。手順を決めておきます。</p>
+<p><strong>入るとき</strong></p>
+<ol><li>誰が、どの業務を担当するかを確認する</li><li>必要な権限を洗い出す（採用管理システム、媒体、メール、チャット）</li><li>権限を発行し、一覧に記録する</li><li>情報の取り扱いのルールを渡す（置き場所、受け渡しの方法、禁止事項）</li></ol>
+<p><strong>出るとき</strong></p>
+<ol><li>必要なデータが自社の環境にあるか確認する</li><li>担当していた候補者の状況を引き継ぐ</li><li>すべての権限を削除する（採用管理システム、媒体、メール、チャット、共有ドライブ）</li><li>一覧を更新する</li></ol>
+<p><strong>四番目の権限が漏れやすい</strong>。採用管理システムは削除したが、媒体のアカウントが残っていた。チャットのチャンネルに入ったままだった。<strong>一覧を作っておくと、この漏れが防げます</strong>。</p>
+<aside class="cta-inline">
+  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>情報管理の設計で、実効性を分ける要素が一つあります。<strong>棚卸しの頻度</strong>です。</p>
+<p>契約時にどれだけ丁寧に権限を設計しても、運用が続くうちに実態はずれます。担当者が増える、パートナーが入る、一時的に権限を広げたまま戻し忘れる。これらは悪意なく起きます。</p>
+<p>だから、<strong>四半期に一度、一覧と実際のアカウントを突き合わせる時間</strong>を運用に組み込んでください。作業自体は短時間で終わります。採用管理システム、媒体、メール、チャット。それぞれのユーザー一覧を出して、手元の記録と照らすだけです。</p>
+<p>この作業には副次的な効果もあります。知らない名前が出てきたら、担当者の交代か再委託が起きているということです。<strong>契約で通知を求めていても、通知が来ないことはあります</strong>。棚卸しは、その把握の手段にもなります。</p>
+<p>そして、この定期確認は委託先の監督の実態を作る作業でもあります。取り扱いの整理は<a href="/media/rpo-kojin-jouhou/">個人情報保護法と委託先の監督</a>にまとめています。<strong>記録として残しておくことに意味があります</strong>。</p>
+<h2 id="h4">端末と環境の取り決め</h2>
+<p>どの環境から情報にアクセスするかも、設計の対象です。契約や覚書で取り決める項目です。</p>
+<ul><li>業務に使う端末（会社支給か、個人の端末か）</li><li>アクセスする場所（自宅、共用スペース、外出先）</li><li>二段階認証などの設定が有効になっているか</li><li>画面の共有や、公共の場での作業についての取り決め</li><li>端末に情報を保存しない運用になっているか</li></ul>
+<p><strong>業務委託のパートナーが実務を担う場合、この確認は特に意味を持ちます</strong>。会社の管理下にある端末とは限らないためです。再委託の扱いは<a href="/media/rpo-hakenmoto-sekinin/">再委託はどこまで許容するか</a>で扱っています。</p>
+<p>すべてを厳しくすると業務が回らなくなるので、<strong>扱う情報の深さに応じて水準を決めます</strong>。日程調整だけなら軽く、選考の評価に触れるなら厚く、という考え方です。</p>
+<h2 id="h5">事故が起きたときの初動</h2>
+<p>起きないことが前提ですが、備えは要ります。決めておくのは次のあたりです。</p>
+<p><strong>報告の速さ</strong>。代行会社から自社へ、どのくらいで報告が来るか。契約に定めを置いておきます。</p>
+<p><strong>社内の受け手</strong>。誰が受け、誰が判断するか。採用担当が一人で抱える形にしないよう、管理部門への経路を決めておきます。</p>
+<p><strong>影響範囲の確認</strong>。どのデータが、どの範囲に及んだか。置き場所が一つにまとまっていると、この確認が速く終わります。</p>
+<p><strong>候補者への連絡</strong>。必要な場合の文面と経路。</p>
+<p><strong>関係機関への対応</strong>。報告や通知が求められる場面については、事案の内容によって扱いが変わります。<strong>判断が必要な局面では、社内の管理部門と専門家に速やかに相談してください</strong>。</p>
+<p><strong>初動の速さは、置き場所の設計に依存します</strong>。情報が散らばっていると、何がどこにあったかの確認だけで時間がかかります。</p>
+<aside class="cta-inline">
+  <p>担当者の経歴を見てから決められます</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>情報管理を厳しくすると業務が遅くなる、という前提で考えられがちですが、<strong>実際には逆になる設計があります</strong>。</p>
+<p>置き場所を一つにする設計がそれです。候補者の情報が採用管理システムに集約されていれば、代行の担当者は必要なときに自分で見られます。ファイルを依頼する必要も、届くのを待つ必要もない。権限を渡すという一手間で、日々のやりとりが減ります。</p>
+<p>逆に、権限を絞りすぎて「必要なときに送ってもらう」運用にすると、依頼と送付のやりとりが毎回発生します。その時間は稼働として消費され、しかもファイルが移動する分だけ事故の余地も増える。<strong>管理を厳しくしたつもりが、遅くて危ない設計になっている</strong>という状態です。</p>
+<p>だから、権限を絞る方向だけで考えないでください。<strong>必要な人が必要な情報に直接届く形を作り、代わりに把握と棚卸しを徹底する</strong>。この組み合わせのほうが、速さと安全の両方が成り立ちます。</p>
+<p>情報管理の設計は、制限の設計ではなく経路の設計です。</p>
+<h2 id="h6">まとめ</h2>
+<ul><li>事故は悪意より<strong>運用の隙間</strong>から起きる。仕組みで減らせる</li><li>原則は<strong>置き場所を一つにする・権限を最小にする・受け渡しをなくす</strong></li><li><strong>受け渡しをなくす</strong>設計が、事故を減らす効果としては最も大きい</li><li>人が入れ替わるときが危ない。<strong>入るとき・出るときの手順</strong>を決める</li><li>権限は<strong>一覧で管理し、四半期に一度棚卸し</strong>する。交代や再委託の把握にもなる</li><li>端末と環境の取り決めは、<strong>扱う情報の深さに応じて水準を決める</strong></li><li>事故時の<strong>報告の速さと社内の受け手</strong>を先に決める。初動は置き場所の設計に依存する</li><li>権限を絞るだけでは遅くて危うい。<strong>直接届く形＋徹底した把握</strong>の組み合わせにする</li></ul>
+<h2 id="h7">よくある質問</h2>
+<h3>代行会社の情報管理体制はどう確認すればよいですか</h3>
+<p>商談の段階で、社内の管理体制、従業員への教育、再委託の有無、端末の管理方法を聞き、回答を記録に残します。契約後は、四半期または契約更新の前にチェックシートで確認する形が現実的です。確認の記録を残しておくことに意味があります。</p>
+<h3>個人情報を扱う以上、代行に任せないほうが安全ではありませんか</h3>
+<p>社内で扱う場合も事故は起きます。むしろ、外部に委託する機会に置き場所と権限を整理すると、社内の運用も一緒に改善することがあります。判断は、任せる業務の範囲と、自社の管理体制の実態を照らして決めてください。</p>
+<h3>誤送信が起きてしまった場合、まず何をすればよいですか</h3>
+<p>事実関係の確認が先です。何が、どの範囲に送られたか。そのうえで、社内の管理部門に速やかに報告し、対応を判断します。関係機関への報告や本人への通知が求められるかは事案によって変わるため、専門家にご確認ください。あわせて、同じ経路で再発しない仕組みを検討します。</p>
+  </div>
+  
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/rpo-ats-kengen/">採用代行に渡すATSの権限範囲</a></li><li><a href="/media/rpo-kougai-kinshi/">採用代行との競業避止・引き抜き禁止条項</a></li><li><a href="/media/rpo-mail-account/">採用代行に会社メールアドレスを渡すべきか</a></li><li><a href="/media/rpo-media-account/">媒体アカウントを代行に渡すときの注意点</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

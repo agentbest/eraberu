@@ -9,7 +9,7 @@ tags: ["職業安定法", "委託募集", "採用代行", "法務", "契約"]
 pubDate: 2026-09-06
 reviewedAt: 2026-09-06
 slug: "rpo-shokuan-hou"
-related: ["rpo-gisou-ukeoi", "rpo-toha"]
+related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-freelance-itaku"]
 sources:
   - name: "職業安定法 第36条・第39条・第40条（労働新聞社 労働法検索）"
     url: "https://www.rodo.co.jp/laws/117561/"

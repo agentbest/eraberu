@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>稼働時間の精算方法（上限・繰越・超過）｜エラベル</title>
+<meta name="description" content="時間単価型の採用代行では、上限・下限・繰越・超過の四つを決めないと請求が読めません。それぞれの決め方、月をまたぐ作業の扱い、端数と締め日の設計を実務の順番で整理しました。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/rpo-jikan-seisan/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="稼働時間の精算方法（上限・繰越・超過）｜エラベル">
+<meta property="og:description" content="時間単価型の採用代行では、上限・下限・繰越・超過の四つを決めないと請求が読めません。それぞれの決め方、月をまたぐ作業の扱い、端数と締め日の設計を実務の順番で整理しました。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/rpo-jikan-seisan/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"稼働時間の精算方法（上限・繰越・超過）","description":"時間単価型の採用代行では、上限・下限・繰越・超過の四つを決めないと請求が読めません。それぞれの決め方、月をまたぐ作業の扱い、端数と締め日の設計を実務の順番で整理しました。","datePublished":"2026-09-07","dateModified":"2026-09-07","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/rpo-jikan-seisan/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/rpo/">採用代行</a><i>›</i><span>稼働時間の精算方法（上限・繰越・超過）</span></div></nav><main class="wrap article">
+  <p class="art__kicker">採用代行 / 費用・契約・法務</p>
+  <h1>稼働時間の精算方法（上限・繰越・超過）</h1>
+  <p class="art__meta">公開 2026-09-07</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">四つのルールを決める</a></li><li><a href="#h2">上限の決め方</a></li><li><a href="#h3">繰越をどう扱うか</a></li><li><a href="#h4">超過の扱い</a></li><li><a href="#h5">月をまたぐ作業の扱い</a></li><li><a href="#h6">まとめ</a></li><li><a href="#h7">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>時間単価で採用代行を契約すると、毎月の請求額が変動します。<strong>変動幅を管理するのが、上限・下限・繰越・超過の四つのルール</strong>です。これらを決めずに始めると、予算が読めず、月末に想定外の請求が来ることになります。この記事では、四つのルールの決め方と、月をまたぐ作業の扱いを整理します。</p>
+<h2 id="h1">四つのルールを決める</h2>
+<p><strong>一.上限</strong>。月あたりに稼働できる時間の上限です。予算の上限がそのまま決まるので、置いておく項目になります。上限に近づいたときに連絡が来る運用にしておくと、超過を事前に判断できます。</p>
+<p><strong>二.下限（最低稼働）</strong>。月あたりの最低時間です。代行側が稼働枠を確保する対価として置かれることがあります。<strong>採用が止まった月も、この分は発生します</strong>。</p>
+<p><strong>三.繰越</strong>。使わなかった時間を翌月に持ち越せるか。持ち越せると、月ごとの波を吸収できます。</p>
+<p><strong>四.超過</strong>。上限を超えた場合の扱い。同じ単価か、割増か、そもそも超えない運用にするか。</p>
+<p><strong>この四つがそろうと、月ごとの請求額の幅が読めます</strong>。下限から上限までの間に収まるので、予算はその幅で置けます。</p>
+<h2 id="h2">上限の決め方</h2>
+<p>上限は、<strong>業務量から積み上げて置く</strong>のが基本です。</p>
+<ul><li>依頼する工程を並べる</li><li>それぞれに想定される月あたりの件数を置く</li><li>件数あたりの所要時間を代行側に出してもらう</li><li>掛けて合計する</li><li>立ち上げ期は、設計と文面作成の分を上乗せする</li></ul>
+<p><strong>代行側が所要時間を出せるかどうかも、判断材料になります</strong>。件数あたりの目安を持っている会社は、社内で実績を管理しています。出せない会社は、見積もりの根拠が薄い可能性があります。</p>
+<p>上限は、<strong>職種が増えたときに見直す</strong>前提で置きます。契約時の想定より募集が増えれば、当然時間も増えます。上限の変更手続きを、契約に書いておきます。</p>
+<h2 id="h3">繰越をどう扱うか</h2>
+<p>繰越には利点と難しさがあります。</p>
+<p><strong>利点</strong>。採用の業務量には波があります。募集を開始した月は多く、選考が落ち着けば減る。繰越があれば、少ない月の時間を多い月に回せます。</p>
+<p><strong>難しさ</strong>。代行側から見ると、繰越された時間は先の稼働の約束です。担当者の枠を空けておく必要があるため、無制限には認められません。</p>
+<p><strong>現実的な設計</strong>は、繰越の上限と期限を置く形です。繰り越せるのは一定時間まで、有効期限は翌月まで、といった形にします。<strong>無期限の繰越は、代行側が受け入れにくい</strong>条件になります。</p>
+<p>繰越を認めない契約なら、<strong>使い切る運用</strong>を意識します。月末に時間が余りそうなら、普段できていない改善作業を依頼する。求人原稿の見直し、検索条件の整理、レポートの様式改善。<strong>使わなかった時間は消えるので、価値のある使い道を用意しておきます</strong>。</p>
+<aside class="cta-inline">
+  <p>見積もりの読み方だけでも聞いてみませんか</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>稼働時間の精算で、実際にもめるのは上限や繰越ではなく、<strong>何を稼働に数えるか</strong>です。ここが曖昧なまま精算の話を詰めても、根本は解決しません。</p>
+<p>数えるかどうかで判断が分かれるのは、定例会の時間、その準備と議事の作成、報告書の作成、自社からの質問への回答、媒体の管理画面を見て状況を確認する時間、候補者の返信を待つ間の待機。</p>
+<p><strong>このうち、報告書の作成と定例会は、合計するとまとまった時間になります</strong>。数える契約なら、月の稼働の一部がここに使われます。実務の時間が想定より少ないと感じるなら、この部分を確認してみてください。</p>
+<p>決め方に正解はありません。数えない契約にすると、代行側は定例会を短くする動機を持ちます。必要な会話まで削られると、かえって実務が滞る。<strong>数えるが、頻度と時間を設計する</strong>という形が現実的です。</p>
+<p>そして、どちらに決めるにせよ、<strong>両者が同じ理解でいることが精算の前提</strong>です。契約書に書かれていないなら、運用ルールの文書に書いておいてください。</p>
+<h2 id="h4">超過の扱い</h2>
+<p>上限を超えそうなときの手順を決めます。</p>
+<p><strong>事前連絡の運用</strong>。上限の一定割合に達した時点で連絡が来る形にします。連絡があれば、範囲を絞るか、超過を認めるかを判断できます。</p>
+<p><strong>超過分の単価</strong>。同じ単価とするか、割増とするか。割増にすると、代行側は上限内に収める動機を持ちます。ただし、業務量が実際に増えている場合は、上限そのものを見直すほうが筋が通ります。</p>
+<p><strong>承認の手続き</strong>。誰が超過を認めるか。担当者レベルで判断できる範囲と、上長の承認が要る範囲を決めておきます。</p>
+<p><strong>事後報告を認めない</strong>。連絡なく超過した分の請求は受け付けない、という取り決めを置く形もあります。厳しすぎると運用が硬直するので、緊急時の例外を書いておきます。</p>
+<h2 id="h5">月をまたぐ作業の扱い</h2>
+<p>締め日と作業の区切りが合わないときの扱いです。</p>
+<p><strong>締め日を決める</strong>。代行会社の締め日と自社の締め日を確認します。ずれていると、月をまたぐ稼働の計上が問題になります。</p>
+<p><strong>進行中の作業をどう計上するか</strong>。文面の作成が月末にかかった場合、実際に稼働した分をその月に計上する形が一般的です。</p>
+<p><strong>成果物の納品が翌月になる場合</strong>。稼働は発生月、成果物は翌月。この扱いを決めておかないと、請求の根拠が分かりにくくなります。</p>
+<p><strong>端数の扱い</strong>。分単位か、時間単位で切り上げるか。細かい話ですが、決めておくと精算が単純になります。</p>
+<p><strong>会計上の計上時期については、経理部門や税理士にご確認ください</strong>。経費の扱いの一般的な整理は<a href="/media/rpo-hiyou-taikou/">採用代行費用は経費でどう処理するか</a>にまとめています。</p>
+<aside class="cta-inline">
+  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>時間単価の精算を管理するときに、<strong>時間だけを見ないでください</strong>。時間と成果物の量を並べて初めて、精算の妥当性が判断できます。</p>
+<p>たとえば、上限いっぱいまで稼働した月があったとします。時間だけを見ると、しっかり動いてもらった月に見えます。しかし、送信件数も調整件数も前月より少ないなら、時間の使われ方が変わっています。理由があるかもしれません。立ち上げの作業をした、要件の変更で作り直しが発生した。</p>
+<p><strong>理由が説明できるなら問題はありません</strong>。説明が出てこないときに、中身を確認します。</p>
+<p>そして、この確認は責める作業ではありません。時間がかかっている工程が分かれば、そこを効率化する相談ができます。手順を変える、テンプレートを増やす、自社側の情報提供を早くする。<strong>時間の使われ方を一緒に見る</strong>という形にすると、精算の会話が改善の会話になります。</p>
+<p>稼働報告に工程ごとの内訳と成果物の量が並んでいれば、この会話はすぐできます。報告の項目は<a href="/media/rpo-report-koumoku/">レポートに入れてもらう項目</a>にまとめています。</p>
+<h2 id="h6">まとめ</h2>
+<ul><li>決めるのは<strong>上限・下限・繰越・超過</strong>の四つ。これで請求の幅が読める</li><li>上限は<strong>業務量から積み上げる</strong>。代行側が所要時間を出せるかも判断材料</li><li>繰越は<strong>上限と期限</strong>を置く。無期限は受け入れられにくい</li><li>繰越がないなら、<strong>使い切る運用</strong>を意識する。改善作業を用意しておく</li><li>実際にもめるのは、<strong>何を稼働に数えるか</strong>。書面に残す</li><li>超過は、<strong>事前連絡の運用</strong>と承認の手続きを決める</li><li>締め日、月をまたぐ作業、端数の扱いを決めておく</li><li>精算では<strong>時間と成果物の量を並べる</strong>。時間だけでは妥当性が判断できない</li></ul>
+<h2 id="h7">よくある質問</h2>
+<h3>上限を低めに設定しても問題ありませんか</h3>
+<p>問題はありませんが、業務量に対して低すぎると、月の途中で稼働が止まります。選考が進んでいる時期に止まると、候補者への対応が滞ります。低めに置くなら、超過の手続きを軽くしておき、必要なときにすぐ延長できる形にしておきます。</p>
+<h3>使わなかった時間の返金はありますか</h3>
+<p>契約によります。下限（最低稼働）が設定されている場合、使わなくてもその分は発生する形が一般的です。返金や繰越を求めるなら、契約時に取り決めておきます。運用開始後の交渉は、契約更新のタイミングになります。</p>
+<h3>稼働時間が正確かどうかを確認できますか</h3>
+<p>時間そのものの検証は難しいので、成果物の量と突き合わせる方法が実務的です。送信件数、調整件数、処理件数を稼働報告に並記してもらい、月ごとの推移を見ます。時間が増えているのに処理量が増えていない月があれば、理由を確認します。</p>
+  </div>
+  
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/rpo-baitai-hi-betsu/">媒体費と代行費を分けて見るべき理由</a></li><li><a href="/media/rpo-check-list/">採用代行を発注する前のチェックリスト</a></li><li><a href="/media/rpo-chuuto-kaiyaku/">採用代行を途中解約したいときの進め方</a></li><li><a href="/media/rpo-freelance-itaku/">フリーランスの採用担当に直接委託する場合の契約</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>複数拠点で使うときの設計｜エラベル</title>
+<meta name="description" content="拠点ごとに要件も市場も違います。共通にする部分と拠点ごとに分ける部分、権限と報告の設計、拠点間の重複、本社が全体を見る仕組みを実務の順番で整理しました。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/scout-daikou-kyouyu/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="複数拠点で使うときの設計｜エラベル">
+<meta property="og:description" content="拠点ごとに要件も市場も違います。共通にする部分と拠点ごとに分ける部分、権限と報告の設計、拠点間の重複、本社が全体を見る仕組みを実務の順番で整理しました。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/scout-daikou-kyouyu/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"複数拠点で使うときの設計","description":"拠点ごとに要件も市場も違います。共通にする部分と拠点ごとに分ける部分、権限と報告の設計、拠点間の重複、本社が全体を見る仕組みを実務の順番で整理しました。","datePublished":"2026-09-08","dateModified":"2026-09-08","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/scout-daikou-kyouyu/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/scout/">スカウト代行</a><i>›</i><span>複数拠点で使うときの設計</span></div></nav><main class="wrap article">
+  <p class="art__kicker">スカウト代行 / スカウト代行</p>
+  <h1>複数拠点で使うときの設計</h1>
+  <p class="art__meta">公開 2026-09-08</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">共通にできるもの</a></li><li><a href="#h2">拠点ごとに分けるもの</a></li><li><a href="#h3">拠点間の重複</a></li><li><a href="#h4">体制の設計</a></li><li><a href="#h5">権限の設計</a></li><li><a href="#h6">報告の設計</a></li><li><a href="#h7">拠点間で共有する</a></li><li><a href="#h8">拠点の追加</a></li><li><a href="#h9">費用の配分</a></li><li><a href="#h10">まとめ</a></li><li><a href="#h11">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>複数の拠点でスカウトを運用する場合、<strong>拠点ごとに要件も候補者の層も違います</strong>。一方で、会社の情報や訴求の材料は共通です。この記事では、共通にする部分と分ける部分、そして本社が全体を見る仕組みを整理します。職種ごとの分け方は<a href="/media/scout-daikou-shokushu-betsu/">職種ごとに担当を分けるか</a>にまとめています。</p>
+<h2 id="h1">共通にできるもの</h2>
+<p><strong>会社の情報</strong>。事業の内容、組織の状況、企業としての訴求。</p>
+<p><strong>文面の型の骨組み</strong>。会社の説明、募集の概要、締めの一文。</p>
+<p><strong>判断の基準の枠組み</strong>。落とす理由の考え方、選定の方針。</p>
+<p><strong>報告の様式</strong>。項目を揃えると、拠点間で比較できます。</p>
+<p><strong>運用のルール</strong>。対応の期限、確認の手順、記録の項目。</p>
+<p><strong>この五つを共通にすると、拠点が増えたときの立ち上げが速くなります</strong>。</p>
+<p><strong>そして、一度作れば使い回せます</strong>。拠点ごとに作り直す必要はありません。</p>
+<h2 id="h2">拠点ごとに分けるもの</h2>
+<p><strong>要件</strong>。同じ職種でも、拠点によって求める経験が違うことがあります。</p>
+<p><strong>候補者の層</strong>。地域によって、登録している候補者の傾向が変わります。</p>
+<p><strong>条件</strong>。勤務地、通勤の範囲。<strong>そして、条件の水準も地域で違うことがあります</strong>。</p>
+<p><strong>訴求</strong>。その拠点で働くことの魅力。<strong>本社と支社では違います</strong>。</p>
+<p><strong>媒体</strong>。地域によって、有効な媒体が違うことがあります。</p>
+<p><strong>この五つは、拠点ごとに設計してください</strong>。<strong>共通の型を使い回すと、ずれます</strong>。</p>
+<h2 id="h3">拠点間の重複</h2>
+<p><strong>同じ候補者が、複数の拠点の要件に合うことがあります</strong>。</p>
+<p><strong>そして、拠点ごとに担当が違うと、別々に送ることになります</strong>。</p>
+<p><strong>候補者から見ると、同じ会社から複数の求人が届く状態です</strong>。</p>
+<p><strong>対処</strong></p>
+<ul><li><strong>接触の記録を本社に集約する</strong></li><li>送信の前に、他の拠点で接触していないかを確認する</li><li>重複した場合の優先順位を決める（<strong>どの拠点が送るか</strong>）</li></ul>
+<p><strong>三番目を決めておいてください</strong>。「勤務地の希望が近いほう」「先に見つけたほう」。<strong>決めていないと、その都度の相談になります</strong>。</p>
+<aside class="cta-inline">
+  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>複数拠点で運用するときに、<strong>「本社が全体を見る仕組み」を作ってください</strong>。ここが抜けると管理できなくなります。</p>
+<p>拠点ごとに要件を出し、拠点ごとに採用を進める。<strong>この形だと、本社は全体の状況を把握できません</strong>。</p>
+<p>そして、拠点ごとに数字の出し方が違うと、比較もできません。<strong>どの拠点が進んでいて、どこが詰まっているかが見えない</strong>。</p>
+<p>だから、<strong>報告の様式を揃えてください</strong>。工程ごとの数字、母数の状況、費用。<strong>同じ項目で、拠点ごとに出す</strong>。</p>
+<p><strong>そして、本社が並べて見る場を作ってください</strong>。四半期に一度でも構いません。</p>
+<p><strong>この場があると、拠点間で学べます</strong>。ある拠点で効いた訴求を、別の拠点でも試す。<strong>条件の組み方も共有できます</strong>。</p>
+<p><strong>逆に、拠点ごとに独立していると、同じ試行錯誤を各拠点が繰り返します</strong>。</p>
+<p><strong>そして、代行会社が複数の拠点を担当している場合、この共有は代行側からも提案できます</strong>。「この拠点ではこの訴求が効いています」。</p>
+<p><strong>全体を見る仕組みは、管理のためだけでなく、学びを共有するためのもの</strong>です。</p>
+<h2 id="h4">体制の設計</h2>
+<p><strong>一社にまとめる</strong></p>
+<ul><li>拠点間の重複を判定できる</li><li>情報が集約される</li><li><strong>学びを共有できる</strong></li><li>管理が単純</li></ul>
+<p><strong>拠点ごとに分ける</strong></p>
+<ul><li>地域の市場に詳しい会社に頼める</li><li>拠点の担当者と直接やりとりできる</li><li><strong>重複の判定が難しくなる</strong></li></ul>
+<p><strong>多くの場合、一社にまとめるほうが管理しやすい</strong>。<strong>特に、拠点間で候補者が重なる可能性がある場合</strong>。</p>
+<p><strong>そして、代行側で拠点ごとに担当を分ける形もあります</strong>。会社は一社、担当者は拠点ごと。<strong>この形なら、重複の判定は社内でできます</strong>。</p>
+<h2 id="h5">権限の設計</h2>
+<p><strong>媒体のアカウント</strong>。拠点ごとに分けるか、共通にするか。</p>
+<p><strong>採用管理システム</strong>。拠点ごとの情報を、それぞれが見られるか。<strong>本社は全体を見られるか</strong>。</p>
+<p><strong>接触の記録</strong>。<strong>本社に集約する形にしてください</strong>。</p>
+<p><strong>そして、権限の一覧を本社が管理してください</strong>。拠点ごとに管理すると、全体が把握できません。</p>
+<p><strong>四半期に一度の棚卸しも、本社がまとめて行う形にします</strong>。</p>
+<h2 id="h6">報告の設計</h2>
+<p><strong>拠点ごとに出す項目</strong></p>
+<ul><li>工程ごとの数字</li><li>母数の状況</li><li>使った条件と文面</li><li>費用</li></ul>
+<p><strong>本社がまとめて見る項目</strong></p>
+<ul><li>拠点間の比較</li><li>全体の進捗</li><li><strong>拠点間で共有すべき学び</strong></li></ul>
+<p><strong>この二層で設計してください</strong>。</p>
+<p><strong>そして、項目を揃えることが前提です</strong>。<strong>拠点ごとに違う項目だと、比較になりません</strong>。</p>
+<h2 id="h7">拠点間で共有する</h2>
+<p><strong>効いた訴求</strong>。ある拠点で反応が良かった文面の切り口。</p>
+<p><strong>条件の組み方</strong>。同じ職種で、どういう条件が有効だったか。</p>
+<p><strong>うまくいかなかったこと</strong>。試したが効かなかった施策。</p>
+<p><strong>この三つを、四半期に一度でも共有してください</strong>。</p>
+<p><strong>そして、代行会社が複数の拠点を担当しているなら、共有は代行側からも提案できます</strong>。</p>
+<p><strong>逆に、拠点ごとに別の会社に頼んでいると、この共有は起きません</strong>。<strong>自社が仲介する必要があります</strong>。</p>
+<h2 id="h8">拠点の追加</h2>
+<p><strong>新しい拠点で採用を始めるとき</strong></p>
+<ul><li>共通の型を流用できる部分を確認する</li><li><strong>拠点ごとの要件を作る</strong></li><li>候補者の層と媒体を確認する</li><li>既存の拠点の記録を渡す</li></ul>
+<p><strong>四番目が効きます</strong>。<strong>同じ職種で他の拠点が運用しているなら、その記録が使えます</strong>。</p>
+<p><strong>そして、拠点が増えるほど、共通化の価値が上がります</strong>。<strong>最初の拠点で型を作っておくと、二つ目以降が速くなります</strong>。</p>
+<h2 id="h9">費用の配分</h2>
+<p><strong>拠点ごとに費用を分けるか、全体で持つか</strong>。</p>
+<p><strong>分ける場合</strong></p>
+<ul><li>拠点ごとの費用対効果が見える</li><li>予算の管理がしやすい</li><li><strong>共通の作業をどう按分するか</strong>が課題</li></ul>
+<p><strong>全体で持つ場合</strong></p>
+<ul><li>管理は単純</li><li><strong>拠点ごとの実績が見えにくい</strong></li></ul>
+<p><strong>判断は、社内の予算の建て付けで決まります</strong>。</p>
+<p><strong>そして、按分の方法を決めたら変えないでください</strong>。<strong>途中で変えると、経年の比較ができなくなります</strong>。</p>
+<aside class="cta-inline">
+  <p>担当者の経歴を見てから決められます</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>複数拠点の運用で、<strong>「拠点ごとの母数の違い」を確認してください</strong>。ここが結果を分けます。</p>
+<p>同じ職種でも、拠点によって条件に合う候補者の数が違います。<strong>都市部と地方では、登録している候補者の数が違うことがあります</strong>。</p>
+<p><strong>そして、母数が薄い拠点では、早く一巡します</strong>。</p>
+<p><strong>この違いを知らないまま同じ運用をすると、拠点間で数字に差が出ます</strong>。そして、「あの拠点は運用が悪い」という判断になりがちです。</p>
+<p><strong>ところが、原因は母数かもしれません</strong>。</p>
+<p>だから、<strong>拠点ごとに母数を確認してください</strong>。条件に合う候補者が何名いるか、一巡までにどのくらいかかるか。</p>
+<p><strong>そして、母数が薄い拠点では、設計を変えてください</strong>。</p>
+<p>条件を広げる、書き分けを厚くする、別の経路と組み合わせる。<strong>同じ設計では噛み合いません</strong>。</p>
+<p><strong>拠点間の比較をするときは、母数の違いを前提に置いてください</strong>。<strong>数字だけを並べると、判断を誤ります</strong>。</p>
+<h2 id="h10">まとめ</h2>
+<ul><li>共通にできるのは、<strong>会社の情報・型の骨組み・判断の枠組み・報告の様式・運用のルール</strong></li><li>拠点ごとに分けるのは、<strong>要件・候補者の層・条件・訴求・媒体</strong></li><li><strong>拠点間の重複</strong>が起きる。接触の記録を本社に集約する</li><li><strong>本社が全体を見る仕組み</strong>を作る。報告の様式を揃える</li><li>体制は<strong>一社にまとめる</strong>ほうが管理しやすい。代行側で担当を分ける形もある</li><li>拠点間で、<strong>効いた訴求・条件の組み方・失敗</strong>を共有する</li><li>拠点を追加するとき、<strong>既存の拠点の記録を渡す</strong></li><li><strong>拠点ごとの母数の違い</strong>を確認する。数字だけを並べると判断を誤る</li></ul>
+<h2 id="h11">よくある質問</h2>
+<h3>拠点ごとに別の代行に頼んでもよいですか</h3>
+<p>地域の市場に詳しい会社に頼める利点はあります。ただし、拠点間の重複の判定が難しくなります。接触の記録を本社に集約し、各社に送信前の確認を義務づけてください。あわせて、報告の様式を揃えると比較もできます。</p>
+<h3>拠点間で数字に差があります</h3>
+<p>母数の違いを確認してください。同じ職種でも、地域によって条件に合う候補者の数が違います。母数が薄い拠点では、設計を変える必要があります。運用の質の問題と混同しないでください。</p>
+<h3>本社が全体を見るには何が要りますか</h3>
+<p>報告の様式を揃えることが前提です。工程ごとの数字、母数の状況、費用。同じ項目で拠点ごとに出してもらい、本社が並べて見る場を作ってください。四半期に一度でも、拠点間の学びが共有できます。</p>
+  </div>
+  
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/scout-daikou-fukusuu-baitai/">複数媒体を1社にまとめるか</a></li><li><a href="/media/scout-daikou-jinin/">何名体制で回すか</a></li><li><a href="/media/scout-daikou-kadai-jouhou/">情報共有が追いつかない</a></li><li><a href="/media/scout-daikou-shinsotsu-chuuto/">新卒と中途を同じ代行に任せるか</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

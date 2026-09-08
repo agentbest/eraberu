@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>採用代行に会社メールアドレスを渡すべきか｜エラベル</title>
+<meta name="description" content="採用代行に自社ドメインのメールアドレスを渡すかどうかは、候補者から見た体裁と管理のしやすさの兼ね合いで決まります。共有アドレスと個別アドレスの違い、署名の設計、退任時の処理を整理しました。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/rpo-mail-account/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="採用代行に会社メールアドレスを渡すべきか｜エラベル">
+<meta property="og:description" content="採用代行に自社ドメインのメールアドレスを渡すかどうかは、候補者から見た体裁と管理のしやすさの兼ね合いで決まります。共有アドレスと個別アドレスの違い、署名の設計、退任時の処理を整理しました。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/rpo-mail-account/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"採用代行に会社メールアドレスを渡すべきか","description":"採用代行に自社ドメインのメールアドレスを渡すかどうかは、候補者から見た体裁と管理のしやすさの兼ね合いで決まります。共有アドレスと個別アドレスの違い、署名の設計、退任時の処理を整理しました。","datePublished":"2026-09-07","dateModified":"2026-09-07","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/rpo-mail-account/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/rpo/">採用代行</a><i>›</i><span>採用代行に会社メールアドレスを渡すべきか</span></div></nav><main class="wrap article">
+  <p class="art__kicker">採用代行 / 費用・契約・法務</p>
+  <h1>採用代行に会社メールアドレスを渡すべきか</h1>
+  <p class="art__meta">公開 2026-09-07</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">三つの選択肢</a></li><li><a href="#h2">共有アドレスと個別アドレス</a></li><li><a href="#h3">送信ドメインまわりの確認</a></li><li><a href="#h4">権限と退任時の処理</a></li><li><a href="#h5">代行会社のアドレスを使う場合</a></li><li><a href="#h6">まとめ</a></li><li><a href="#h7">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>採用代行が候補者と連絡を取るとき、どのメールアドレスを使うか。自社ドメインのアドレスを渡すか、代行会社のアドレスから送ってもらうか。<strong>候補者から見た体裁を取るなら自社ドメイン、管理のしやすさを取るなら代行側のアドレス</strong>という整理になりますが、実際には中間の設計もあります。この記事では、選択肢と、それぞれで決めておくことを整理します。</p>
+<h2 id="h1">三つの選択肢</h2>
+<div class="tw"><table><thead><tr><th>形</th><th>候補者から見た体裁</th><th>管理のしやすさ</th><th>主な用途</th></tr></thead><tbody><tr><td>自社ドメインの共有アドレス</td><td>自社からの連絡に見える</td><td>中（一つを共有）</td><td>応募者対応、事務連絡</td></tr><tr><td>自社ドメインの個別アドレス</td><td>自社の担当者からに見える</td><td>高（個別に管理）</td><td>継続的な候補者対応</td></tr><tr><td>代行会社のアドレス</td><td>外部からの連絡に見える</td><td>高（自社の管理外）</td><td>限定的な業務</td></tr></tbody></table></div>
+<p><strong>採用の連絡では、自社ドメインからの送信が選ばれることが多い</strong>形です。候補者から見れば応募先からの連絡なので、外部のドメインから届くと戸惑いが生まれます。返信率にも影響します。</p>
+<p>一方で、自社ドメインを渡すということは、自社の名前で外部の人が連絡を出せる状態を作るということです。だから、範囲と管理の設計が要ります。</p>
+<h2 id="h2">共有アドレスと個別アドレス</h2>
+<p><strong>共有アドレス</strong>（採用窓口のような一つのアドレス）は、次の特徴があります。</p>
+<ul><li>担当者が替わっても、アドレスは変わらない</li><li>候補者からの返信が一箇所に集まる</li><li>複数人で対応する運用に向く</li><li>誰が送ったかは、署名でしか分からない</li><li>退任時は、アクセス権を外すだけで済む</li></ul>
+<p><strong>個別アドレス</strong>（担当者ごとに発行）は、次の特徴があります。</p>
+<ul><li>誰が送ったかが明確</li><li>候補者との継続的なやりとりで、担当者が固定される</li><li>退任時に、アドレスごと削除する処理が要る</li><li>候補者が過去のアドレスに返信すると届かなくなる</li></ul>
+<p><strong>代行に渡すなら、共有アドレスのほうが管理は単純です</strong>。担当者の交代が起きても設定を変える必要がなく、退任時もアクセス権の削除で済みます。</p>
+<p>ただし、共有アドレスだけだと、候補者から見て担当者が誰か分かりにくくなります。署名で補います。</p>
+<aside class="cta-inline">
+  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>メールの設計で見落とされやすいのが、<strong>面談で名前が一致しない問題</strong>です。</p>
+<p>自社ドメインの共有アドレスから、自社の採用担当の名前で連絡を出す。候補者はその名前で認識します。ところが面談の当日に出てくるのは別の人で、しかも連絡をくれていた人ではない。候補者から見ると、少し不思議な体験になります。</p>
+<p>これを避ける方法は二つあります。一つは、<strong>署名を部署名にする</strong>こと。「採用担当」「人事部 採用チーム」といった形にしておけば、個人名の不一致は起きません。返信の宛名も部署宛になります。</p>
+<p>もう一つは、<strong>面談の案内の段階で当日の担当者を伝える</strong>こと。「当日は◯◯部の△△が担当します」と書いておけば、候補者は準備ができます。</p>
+<p>どちらでも構いませんが、決めておかないと運用がぶれます。連絡の途中で個人名が変わる、面談の案内に誰の名前も書かれていない、といった状態は候補者の不安につながります。<strong>細かい点ですが、辞退の理由になり得る種類の細かさ</strong>です。</p>
+<h2 id="h3">送信ドメインまわりの確認</h2>
+<p>自社ドメインから送る場合、次を確認しておきます。</p>
+<p><strong>送信環境</strong>。媒体の管理画面から送るのか、メールソフトから送るのか、採用管理システムから送るのか。経路によって設定が変わります。</p>
+<p><strong>迷惑メール判定</strong>。送信元と実際の送信環境がずれていると、候補者側で迷惑メールに振り分けられることがあります。情報システム部門に確認しておく項目です。</p>
+<p><strong>送信の量</strong>。スカウトの返信対応などで送信数が増えると、送信の制限に触れることがあります。事前に把握しておきます。</p>
+<p><strong>保存と検索</strong>。候補者とのやりとりが、後から検索できる状態にあるか。担当者が替わったときに、経緯を追えるようにしておきます。</p>
+<p><strong>転送とアーカイブ</strong>。共有アドレスの受信を、自社の担当者も見られる形にするか。全部を見る必要はありませんが、必要なときに確認できる状態にしておきます。</p>
+<h2 id="h4">権限と退任時の処理</h2>
+<p>メールアドレスも、権限管理の対象です。</p>
+<ul><li><strong>一覧を作る</strong>。誰が、どのアドレスに、いつからアクセスできるか</li><li><strong>アクセスの方法を決める</strong>。個別のログインか、共有の設定か。二段階認証の設定も確認します</li><li><strong>四半期に一度、棚卸しする</strong>。採用管理システムや媒体アカウントと同じタイミングで見直します</li><li><strong>退任時に速やかに外す</strong>。担当者の交代や契約終了の際、アクセス権を削除します</li><li><strong>削除の前に、やりとりを保存する</strong>。候補者との経緯が消えないようにします</li></ul>
+<p><strong>この運用は、採用管理システムの権限管理と同じ設計で回せます</strong>。まとめて一つの一覧にしておくと、棚卸しが一度で済みます。権限の設計は<a href="/media/rpo-ats-kengen/">渡すATSの権限範囲</a>にまとめています。</p>
+<h2 id="h5">代行会社のアドレスを使う場合</h2>
+<p>自社ドメインを渡さない選択もあります。その場合に決めておくことです。</p>
+<p><strong>候補者への説明</strong>。外部のドメインから連絡が届くので、自社の採用業務を委託していることを本文に書く形が一般的です。書かないと、候補者は不審に思います。</p>
+<p><strong>返信先の設計</strong>。候補者の返信が代行会社に届く形になります。自社が内容を確認できる仕組みを決めておきます。</p>
+<p><strong>やりとりの記録</strong>。代行会社の環境に情報が溜まるため、契約終了時の返還や削除の手続きが必要になります。自社の採用管理システムに記録を残す運用にしておくと、この負担が下がります。</p>
+<p><strong>この形は、業務が限定的な場合に向きます</strong>。応募者への事務連絡までを任せるなら成立しますが、候補者と継続的にやりとりする業務では、自社ドメインのほうが自然です。</p>
+<aside class="cta-inline">
+  <p>担当者の経歴を見てから決められます</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>自社ドメインのアドレスを渡すことは、<strong>自社の名前で外部の人が発言できる状態を作る</strong>ということです。ここは情報管理よりも、体裁と信頼の問題として考えてみてください。</p>
+<p>候補者から見れば、そのメールは自社からの連絡です。文面の丁寧さも、返信の速さも、自社の印象になります。だから、渡す前に<strong>文面の型を共有しておく</strong>ことをおすすめします。</p>
+<p>具体的には、応募の受付、日程の案内、不採用の連絡、辞退への返信。この四つの型を、自社の言葉で用意して渡します。代行側はそれを基に運用し、個別の対応が必要な場面だけ相談する。この形にすると、文面の質が安定します。</p>
+<p>型を作る作業は、自社の採用の言葉を整理する作業でもあります。<strong>不採用の連絡をどう書くかは、その会社の姿勢が出る場所</strong>です。外部に任せる機会に、一度自社で書き直してみる価値があります。</p>
+<p>そして、この型は代行会社を替えても使えます。作っておけば、次の依頼先にそのまま渡せる資産になります。</p>
+<h2 id="h6">まとめ</h2>
+<ul><li>選択肢は<strong>自社ドメインの共有アドレス・個別アドレス・代行会社のアドレス</strong>の三つ</li><li>採用の連絡では、<strong>自社ドメインからの送信</strong>が選ばれることが多い</li><li>代行に渡すなら、<strong>共有アドレス</strong>のほうが交代と退任の処理が単純</li><li><strong>面談で名前が一致しない問題</strong>は、署名を部署名にするか案内で当日の担当を伝える</li><li>送信環境、迷惑メール判定、送信量、保存と検索を確認する</li><li>権限は一覧で管理し、<strong>採用管理システムと同じタイミングで棚卸し</strong>する</li><li>代行会社のアドレスを使うなら、<strong>委託していることを本文に書く</strong></li><li>渡す前に、<strong>受付・日程案内・不採用・辞退への返信の型</strong>を用意して渡す</li></ul>
+<h2 id="h7">よくある質問</h2>
+<h3>自社ドメインを渡すのは情報管理として問題ありませんか</h3>
+<p>アクセス権を管理し、棚卸しと退任時の削除を運用に組み込んでいれば、管理できる状態を保てます。むしろ、代行会社の環境にやりとりが溜まる形のほうが、契約終了時の処理が重くなります。判断は、業務の範囲と管理の体制を照らして決めます。個別の判断は専門家にご確認ください。</p>
+<h3>候補者に「代行が対応している」と伝える必要はありますか</h3>
+<p>自社ドメインから自社の窓口として連絡する場合、業務の委託を個別に伝えないことが一般的です。ただし、個人情報の取り扱いについては、自社の方針の中で委託の可能性に触れておく形になります。記載と実際の運用が合っているかを確認してください。取り扱いの整理は<a href="/media/rpo-kojin-jouhou/">個人情報保護法と委託先の監督</a>にまとめています。</p>
+<h3>担当者が替わるたびにアドレスを作り直すべきですか</h3>
+<p>共有アドレスにしておけば作り直しは不要です。個別アドレスを発行する形だと、交代のたびに作成と削除が発生し、候補者が古いアドレスに返信すると届かなくなります。代行に渡す用途では、共有アドレスのほうが運用は安定します。</p>
+  </div>
+  
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/rpo-kaisha-nanori/">採用代行が自社名を名乗ることの是非</a></li><li><a href="/media/rpo-aiaigasa/">1社にまとめるか業務ごとに分けるか</a></li><li><a href="/media/rpo-ats-kengen/">採用代行に渡すATSの権限範囲</a></li><li><a href="/media/rpo-fukugyo-jinzai-itaku/">副業人材に採用業務を委託するときの実務</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

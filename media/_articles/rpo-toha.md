@@ -9,7 +9,7 @@ tags: ["採用代行", "RPO", "業務委託", "採用体制", "外注"]
 pubDate: 2026-09-06
 reviewedAt: 2026-09-06
 slug: "rpo-toha"
-related: ["rpo-gisou-ukeoi", "rpo-shokuan-hou"]
+related: ["rpo-chusho-muke", "rpo-daikigyo-muke", "rpo-freelance-vs-kaisha", "rpo-jinji-ikusei"]
 sources:
   - name: "職業安定法 第36条（労働新聞社 労働法検索）"
     url: "https://www.rodo.co.jp/laws/117561/"

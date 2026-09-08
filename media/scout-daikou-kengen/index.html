@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>媒体アカウントの権限設定｜エラベル</title>
+<meta name="description" content="スカウトの運用でアカウントをどう渡すか。個別発行の可否、送信権限と枠の管理、履歴の扱い、複数担当の場合の設計、退任時の手順を実務の順番で整理しました。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/scout-daikou-kengen/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="媒体アカウントの権限設定｜エラベル">
+<meta property="og:description" content="スカウトの運用でアカウントをどう渡すか。個別発行の可否、送信権限と枠の管理、履歴の扱い、複数担当の場合の設計、退任時の手順を実務の順番で整理しました。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/scout-daikou-kengen/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"媒体アカウントの権限設定","description":"スカウトの運用でアカウントをどう渡すか。個別発行の可否、送信権限と枠の管理、履歴の扱い、複数担当の場合の設計、退任時の手順を実務の順番で整理しました。","datePublished":"2026-09-08","dateModified":"2026-09-08","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/scout-daikou-kengen/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/scout/">スカウト代行</a><i>›</i><span>媒体アカウントの権限設定</span></div></nav><main class="wrap article">
+  <p class="art__kicker">スカウト代行 / スカウト代行</p>
+  <h1>媒体アカウントの権限設定</h1>
+  <p class="art__meta">公開 2026-09-08</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">渡す前に確認する</a></li><li><a href="#h2">スカウト特有の権限</a></li><li><a href="#h3">送信権限をどう扱うか</a></li><li><a href="#h4">複数の担当者がいる場合</a></li><li><a href="#h5">職種や媒体が複数ある場合</a></li><li><a href="#h6">渡した後の管理</a></li><li><a href="#h7">契約終了時に確認すること</a></li><li><a href="#h8">まとめ</a></li><li><a href="#h9">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>スカウトの運用を任せるには、媒体の管理画面にアクセスしてもらう必要があります。<strong>ここで、自社担当者のIDをそのまま共有する形が選ばれがちです</strong>。速いのですが、誰が何をしたかが追えず、退任時の処理も曖昧になります。この記事では、権限の設計と、渡した後の管理を整理します。なお、<strong>媒体ごとの機能や権限の仕組みは異なるため、具体的な設定は各媒体の情報をご確認ください</strong>。</p>
+<h2 id="h1">渡す前に確認する</h2>
+<p><strong>一.媒体の規約でアカウントの取り扱いがどうなっているか</strong>。IDの共有や第三者への貸与について、定めがあります。<strong>運用代行のためのアカウント発行に対応している媒体もあります</strong>。</p>
+<p><strong>二.個別のアカウントを発行できるか</strong>。発行できるなら、代行の担当者ごとに作ります。</p>
+<p><strong>三.権限のレベルを選べるか</strong>。閲覧のみ、送信まで、設定変更まで。<strong>段階が選べるか</strong>。</p>
+<p><strong>四.契約の名義</strong>。自社か、代行会社か。<strong>名義が代行側だと、契約終了時にアカウントごと失われることがあります</strong>。</p>
+<p><strong>この四つのうち、二番目が最も影響します</strong>。個別アカウントが発行できるかどうかで、その後の管理のしやすさが決まります。</p>
+<h2 id="h2">スカウト特有の権限</h2>
+<p><strong>送信の権限</strong>。実際にスカウトを送れるか。<strong>この権限を渡すかどうかが最大の判断です</strong>。</p>
+<p><strong>検索と閲覧の権限</strong>。候補者を探し、経歴を見る。</p>
+<p><strong>送信履歴の閲覧</strong>。過去に誰に送ったか。<strong>重複の判定に使います</strong>。</p>
+<p><strong>返信の閲覧と対応</strong>。候補者からの返信を見て、返せるか。</p>
+<p><strong>枠や購入の権限</strong>。送信の枠を追加したり、プランを変更したりできるか。<strong>これは自社が持つのが原則です</strong>。</p>
+<p><strong>設定の変更</strong>。求人の内容、テンプレート、通知の設定。</p>
+<p><strong>この六つのうち、五番目は渡さないでください</strong>。費用が発生する操作は、自社の管理下に置きます。</p>
+<h2 id="h3">送信権限をどう扱うか</h2>
+<p><strong>渡す場合</strong></p>
+<ul><li>送信までを任せられ、運用が速い</li><li><strong>枠の消費が代行側の判断になる</strong></li><li>承認のフローを別に設計する必要がある</li></ul>
+<p><strong>渡さない場合</strong></p>
+<ul><li>文面を作ってもらい、自社が送る</li><li>送信の判断を自社が持てる</li><li><strong>自社の作業が残る</strong></li></ul>
+<p><strong>多くの場合は渡す形になります</strong>。渡さないと、代行に任せる意味が薄くなるためです。</p>
+<p><strong>渡す場合は、送信の枠に上限を設けてください</strong>。月あたりの送信数、職種ごとの配分。<strong>枠が費用に直結する媒体では、これが予算の管理になります</strong>。</p>
+<p><strong>そして、消費の状況を報告してもらってください</strong>。今月の送信件数と、枠の残り。<strong>途中で配分を変える判断もできます</strong>。</p>
+<aside class="cta-inline">
+  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>権限で見落とされやすいのが、<strong>送信履歴の扱い</strong>です。ここは重複の判定に関わります。</p>
+<p>同じ候補者に、過去に送ったことがあるか。<strong>この確認ができないと、同じ人に何度も送ることになります</strong>。</p>
+<p>そして、候補者から見ると、同じ会社から繰り返しスカウトが届く。<strong>しかも、前と同じ求人だと、印象ははっきり下がります</strong>。</p>
+<p>だから、<strong>送信履歴を確認できる状態にしておいてください</strong>。</p>
+<p>多くの媒体には履歴の機能がありますが、<strong>アカウントが変わると見えなくなることがあります</strong>。担当者が交代したとき、代行会社を替えたとき。</p>
+<p><strong>そして、媒体をまたぐ重複は、媒体の機能では判定できません</strong>。同じ候補者が複数の媒体に登録していることがあります。</p>
+<p>だから、<strong>自社の採用管理システムに接触の記録を残す運用にしてください</strong>。誰に、いつ、どの媒体で送ったか。<strong>ここに集約しておけば、媒体や担当者が変わっても残ります</strong>。</p>
+<p><strong>重複の防止は、権限の設計と記録の設計の両方で成り立ちます</strong>。</p>
+<h2 id="h4">複数の担当者がいる場合</h2>
+<p><strong>代行側が複数人で担当する場合の設計です</strong>。</p>
+<p><strong>個別のアカウントを発行する</strong>。誰が操作したかが履歴に残ります。</p>
+<p><strong>役割ごとに権限を分ける</strong>。検索と選定をする人、送信する人、返信に対応する人。<strong>必要な権限だけを渡します</strong>。</p>
+<p><strong>一覧を作る</strong>。誰に、どの権限を、いつ発行したか。</p>
+<p><strong>追加の手順を決める</strong>。代行側でメンバーが増えるとき、<strong>自社に依頼して追加する形</strong>にします。</p>
+<p><strong>四番目が重要です</strong>。代行側が自由にアカウントを追加できる形だと、誰がアクセスできる状態にあるかを把握できなくなります。</p>
+<h2 id="h5">職種や媒体が複数ある場合</h2>
+<p><strong>職種ごとに担当が違う場合</strong>、それぞれに必要な権限を渡します。<strong>全職種の情報が見える必要はないこともあります</strong>。</p>
+<p><strong>媒体が複数ある場合</strong>、媒体ごとにアカウントと権限が要ります。<strong>そして、送信の枠も媒体ごとに管理します</strong>。</p>
+<p><strong>複数の代行会社を使っている場合</strong>、同じ媒体に複数社が入ることがあります。<strong>求人ごとの担当を明確にし、送信枠も分けてください</strong>。</p>
+<p><strong>そして、候補者の重複判定のルールを決めてください</strong>。同じ媒体内で、複数社が同じ候補者に送る可能性があります。</p>
+<h2 id="h6">渡した後の管理</h2>
+<p><strong>一覧を作る</strong>。誰に、どのアカウントを、いつ発行したか。</p>
+<p><strong>四半期に一度、棚卸しする</strong>。一覧と実際のアカウントを突き合わせます。<strong>知らない名前があれば、その時点で確認できます</strong>。</p>
+<p><strong>交代時に付け替える</strong>。前の担当者のアカウントを削除し、新しい担当者を追加する。<strong>順番を決めておきます</strong>。</p>
+<p><strong>契約終了時は、書き出し → 確認 → 削除の順</strong>。先に権限を切ると、データが取り出せなくなります。</p>
+<p><strong>この四つは、採用管理システムの権限管理と同じ設計で回せます</strong>。まとめて一つの一覧にしておくと、棚卸しが一度で済みます。設計は<a href="/media/rpo-jouhou-rouei/">情報漏えいを防ぐ設計</a>にまとめています。</p>
+<h2 id="h7">契約終了時に確認すること</h2>
+<p><strong>送信履歴が残るか</strong>。アカウントを削除すると、履歴も見えなくなることがあります。</p>
+<p><strong>候補者データを書き出せるか</strong>。接触した候補者の一覧、やりとりの記録。</p>
+<p><strong>媒体の名義</strong>。代行会社の名義だと、契約終了とともにアクセスできなくなることがあります。</p>
+<p><strong>返信のやりとりが残るか</strong>。候補者との会話の記録。</p>
+<p><strong>この四つは、契約が終わる前に確認してください</strong>。<strong>終わってからでは取り出せません</strong>。</p>
+<p><strong>そして、日頃から自社の環境に記録を残す運用にしておくと、この確認の負担が下がります</strong>。</p>
+<aside class="cta-inline">
+  <p>担当者の経歴を見てから決められます</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>権限を渡すことを、<strong>リスクとしてだけ捉えないでください</strong>。渡し方を整えると、運用が速くなります。</p>
+<p>必要な権限が最初から渡されている案件は、動き出しが速い。過去の送信履歴が見られれば、どういう層に送ってきたかが分かります。返信の記録が見られれば、何が響いたかが分かる。</p>
+<p><strong>逆に、必要なたびに依頼して情報をもらう運用だと、全体像を持つまでに時間がかかります</strong>。</p>
+<p>そして、その時間は稼働の消費です。<strong>権限の設計を後回しにすると、立ち上げの費用として跳ね返ります</strong>。</p>
+<p>だから、<strong>契約が決まった段階で権限の設計を済ませてください</strong>。任せる業務を工程で書き、それぞれに必要な権限を割り当て、一覧を作る。<strong>半日もかかりません</strong>。</p>
+<p>そして、<strong>この一覧は担当者が替わるたびに使えます</strong>。一度作れば、以後の運用が軽くなります。</p>
+<p><strong>権限は、絞ることが目的ではありません</strong>。必要な人に必要な範囲を渡し、把握できる状態を保つこと。<strong>この二つを両立させる設計です</strong>。</p>
+<h2 id="h8">まとめ</h2>
+<ul><li>渡す前に、<strong>規約・個別アカウントの発行・権限のレベル・契約の名義</strong>を確認する</li><li>スカウト特有の権限は、<strong>送信・検索と閲覧・送信履歴・返信・枠の購入・設定変更</strong></li><li><strong>枠の購入と設定変更は自社が持つ</strong>。費用が発生する操作のため</li><li>送信権限を渡すなら、<strong>上限を設け、消費の状況を報告してもらう</strong></li><li><strong>送信履歴の扱い</strong>を確認する。重複の判定に関わる</li><li>媒体をまたぐ重複は、<strong>自社の環境に接触の記録を残す</strong>ことで判定できる</li><li>複数担当なら、<strong>個別発行・役割ごとの権限・一覧・追加の手順</strong>を決める</li><li>権限の設計を後回しにすると、<strong>立ち上げの費用として跳ね返る</strong></li></ul>
+<h2 id="h9">よくある質問</h2>
+<h3>自社のIDを共有してもよいですか</h3>
+<p>媒体ごとの規約によります。まず媒体側に確認してください。共有以外の方法があるなら、そちらのほうが操作の追跡も退任時の処理も容易になります。個別アカウントが発行できない場合は、操作の記録を別に残す運用を検討します。</p>
+<h3>送信権限を渡すのが不安です</h3>
+<p>上限を設け、消費の状況を報告してもらう形にすると、管理できます。あわせて、文面の確認フローを設計してください。全件承認から始めて、質が安定したら抽出に移す形が現実的です。設計は<a href="/media/scout-daikou-shounin/">1通ずつ承認すべきか</a>にまとめています。</p>
+<h3>契約が終わった後、送信履歴はどうなりますか</h3>
+<p>媒体の仕様と契約の名義によります。自社名義で、アカウントを維持するなら残ります。代行会社の名義だと、契約終了とともにアクセスできなくなることがあります。終了の前に書き出し、自社の環境に記録を移しておいてください。</p>
+  </div>
+  
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/scout-baitai-kirikae/">媒体を切り替える判断</a></li><li><a href="/media/scout-baitai-kumiawase/">媒体の組み合わせ方</a></li><li><a href="/media/scout-daikou-kadai-account/">アカウントの返却</a></li><li><a href="/media/scout-daikou-tool-shitei/">ツールの指定</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

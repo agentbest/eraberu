@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>採用代行に渡すATSの権限範囲｜エラベル</title>
+<meta name="description" content="採用管理システムの権限を採用代行にどこまで渡すか。業務ごとに必要な権限、評価コメントの扱い、権限の棚卸しと削除の手順、ATSがない場合の代替までを実務の順番で整理しました。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/rpo-ats-kengen/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="採用代行に渡すATSの権限範囲｜エラベル">
+<meta property="og:description" content="採用管理システムの権限を採用代行にどこまで渡すか。業務ごとに必要な権限、評価コメントの扱い、権限の棚卸しと削除の手順、ATSがない場合の代替までを実務の順番で整理しました。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/rpo-ats-kengen/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"採用代行に渡すATSの権限範囲","description":"採用管理システムの権限を採用代行にどこまで渡すか。業務ごとに必要な権限、評価コメントの扱い、権限の棚卸しと削除の手順、ATSがない場合の代替までを実務の順番で整理しました。","datePublished":"2026-09-07","dateModified":"2026-09-07","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/rpo-ats-kengen/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/rpo/">採用代行</a><i>›</i><span>採用代行に渡すATSの権限範囲</span></div></nav><main class="wrap article">
+  <p class="art__kicker">採用代行 / 費用・契約・法務</p>
+  <h1>採用代行に渡すATSの権限範囲</h1>
+  <p class="art__meta">公開 2026-09-07</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">権限を渡す前に決めること</a></li><li><a href="#h2">業務ごとに必要な権限</a></li><li><a href="#h3">権限を渡した後の管理</a></li><li><a href="#h4">個人情報の取り扱いとの関係</a></li><li><a href="#h5">採用管理システムがない場合</a></li><li><a href="#h6">まとめ</a></li><li><a href="#h7">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>採用代行に業務を任せるとき、採用管理システムのアカウントを渡すことになります。<strong>渡す権限の範囲を決めずに管理者権限を付与すると、後の管理が難しくなります</strong>。一方で、権限を絞りすぎると業務が回らず、確認のやりとりが増えます。この記事では、業務ごとに必要な権限と、渡した後の管理の実務を整理します。</p>
+<h2 id="h1">権限を渡す前に決めること</h2>
+<p>システムの設定に入る前に、三つを決めます。</p>
+<p><strong>一.情報をどこに集約するか</strong>。自社の採用管理システムに集約し、代行にはそこへのアクセス権を渡す形が管理しやすい形です。代行会社の環境に情報が溜まる形だと、契約終了時に返還と削除の作業が発生します。</p>
+<p><strong>二.任せる業務の範囲</strong>。権限は業務から決まります。日程調整だけなら閲覧と一部の編集で足り、書類の一次仕分けまで任せるなら選考ステータスの変更が要ります。</p>
+<p><strong>三.見せない情報を決める</strong>。評価コメント、想定年収の内部の目線、他の応募者との比較。業務に必要でない情報は、見えない設定にできる場合があります。</p>
+<p><strong>この三つが決まると、必要な権限は自然に決まります</strong>。逆に、決めずに「とりあえず管理者権限」とすると、後から絞るのは難しくなります。</p>
+<h2 id="h2">業務ごとに必要な権限</h2>
+<div class="tw"><table><thead><tr><th>任せる業務</th><th>必要になりやすい権限</th></tr></thead><tbody><tr><td>応募者への事務連絡</td><td>候補者情報の閲覧、メール送信</td></tr><tr><td>日程調整</td><td>候補者情報の閲覧、面接日程の登録</td></tr><tr><td>書類の一次仕分け</td><td>応募書類の閲覧、選考ステータスの変更</td></tr><tr><td>スカウトの送信・返信対応</td><td>候補者情報の登録・編集、送信履歴の記録</td></tr><tr><td>媒体との連携管理</td><td>媒体連携の設定</td></tr><tr><td>レポートの作成</td><td>集計・分析機能の閲覧</td></tr><tr><td>ユーザーの追加・削除</td><td>管理者権限（渡さないのが原則）</td></tr></tbody></table></div>
+<p><strong>最後の行が要点です</strong>。ユーザーの追加や削除ができる権限は、自社が持ちます。ここを渡すと、誰がアクセスできる状態にあるかを自社で把握できなくなります。</p>
+<p>代行側でメンバーが増えるときは、自社に依頼して追加してもらう形にします。手間は増えますが、把握できる状態が保てます。<strong>再委託でパートナーが入る場合も、この手順を通せば把握できます</strong>。再委託の考え方は<a href="/media/rpo-hakenmoto-sekinin/">再委託はどこまで許容するか</a>にまとめています。</p>
+<aside class="cta-inline">
+  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>権限の設計で判断が分かれるのが、<strong>面接の評価コメントを見せるかどうか</strong>です。</p>
+<p>見せる利点は明確です。書類の一次仕分けの精度が上がります。どういう候補者が通り、どういう候補者が落ちているかが分かれば、代行側は基準を学習できます。見せない場合、代行は書類の表面的な要件でしか判断できず、自社の判断とのずれが縮まりません。</p>
+<p>一方で、評価コメントは機微な情報です。面接官の主観が入りますし、書き方によっては候補者に見せられない内容も含まれます。</p>
+<p>現実的な落としどころは、<strong>評価コメントそのものではなく、判断の理由を構造化して渡す</strong>ことです。通した理由、落とした理由を、要件のどの項目に照らしたかという形で記録する。この形なら、代行側は基準を学べますし、主観的な表現は共有されません。</p>
+<p>さらに言えば、この記録は自社にとっても価値があります。面接官ごとの判断のばらつきが見えるようになるからです。<strong>代行に渡すための整理が、社内の選考の質を上げる</strong>という順番になります。権限の設計を考える機会に、評価の記録の仕方も一度見直してみてください。</p>
+<h2 id="h3">権限を渡した後の管理</h2>
+<p>渡して終わりにせず、運用に組み込みます。</p>
+<p><strong>一覧を作る</strong>。誰に、どの権限を、いつ渡したか。代行会社のメンバーが複数いるなら全員分を記録します。</p>
+<p><strong>定期的に棚卸しする</strong>。四半期に一度、一覧と実際のアカウントを突き合わせます。知らない名前があれば、その時点で確認できます。担当者の交代や再委託にも気づけます。</p>
+<p><strong>交代時の付け替え手順を決める</strong>。前の担当者のアカウントを削除し、新しい担当者を追加する。この順番を決めておかないと、削除が漏れます。</p>
+<p><strong>契約終了時の削除手順を決める</strong>。データを書き出し、内容を確認してから権限を削除する。<strong>順番を逆にすると、必要なデータが取り出せなくなります</strong>。</p>
+<p><strong>ログを確認できるようにしておく</strong>。多くのシステムには操作の履歴が残ります。日常的に見る必要はありませんが、何かあったときに遡れる状態にしておきます。</p>
+<h2 id="h4">個人情報の取り扱いとの関係</h2>
+<p>権限の設計は、個人データの取り扱いとも関わります。<strong>個人データの取り扱いを外部に委託する場合、委託元には委託先を監督する立場が生じると一般に整理されています</strong>。権限の範囲を決め、一覧を管理し、定期的に確認するという運用は、その監督の実態を作る作業でもあります。</p>
+<p>あわせて、次を確認しておきます。</p>
+<ul><li>代行会社の担当者が、どの端末からアクセスするか</li><li>アクセスする環境（自宅、共用スペースなど）についての取り決めがあるか</li><li>二段階認証などの設定が有効になっているか</li><li>契約終了時のデータの返還または削除の手順</li></ul>
+<p><strong>個別の判断は、自社の管理体制と照らして専門家にご確認ください</strong>。取り扱いの整理は<a href="/media/rpo-kojin-jouhou/">個人情報保護法と委託先の監督</a>で扱っています。</p>
+<h2 id="h5">採用管理システムがない場合</h2>
+<p>システムを導入していない会社もあります。その場合、情報の置き場所を別の形で決めます。</p>
+<p><strong>表計算での管理</strong>。候補者の一覧と選考の状況を、共有の表計算で管理する形です。アクセス権を絞れる環境に置きます。ただし、履歴の管理と検索性には限界があります。</p>
+<p><strong>代行会社の環境を借りる</strong>。代行が持つツールに情報を置く形です。立ち上げは速いのですが、契約終了時に移行の作業が発生します。<strong>その場合は、データを書き出せる形式と手順を契約時に確認しておきます</strong>。</p>
+<p><strong>この機会に導入する</strong>。継続的に採用するなら、自社でシステムを持つほうが後が楽になります。導入の費用と手間はかかりますが、情報が自社に残ります。</p>
+<p><strong>判断は、採用の継続性で決まります</strong>。単発なら借りる形で足り、継続するなら自社で持つほうが積み上がります。</p>
+<aside class="cta-inline">
+  <p>担当者の経歴を見てから決められます</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>権限を渡すことを、リスクとしてだけ捉えないでください。<strong>渡し方を整えることは、立ち上げを速くする作業</strong>でもあります。</p>
+<p>担当する側から見ると、必要な権限が最初から渡されている案件は動き出しが速い。過去の選考履歴が見られれば、どういう候補者が通ってきたかが分かります。媒体の管理画面が見られれば、これまでの運用の癖が分かります。逆に、必要なたびに依頼して情報をもらう運用だと、全体像を持つまでに時間がかかります。</p>
+<p>その時間は、月額型なら発注側の稼働の消費であり、時間単価型なら請求です。<strong>権限の設計を後回しにすると、立ち上げの費用として跳ね返ります</strong>。</p>
+<p>だから、契約が決まった段階で権限の設計を済ませておくことをおすすめします。任せる業務を工程で書き、それぞれに必要な権限を割り当て、一覧を作る。この作業は半日もかかりません。</p>
+<p>そして、この一覧は担当者が替わるたびに使えます。<strong>一度作れば、以後の運用が軽くなる</strong>種類の作業です。</p>
+<h2 id="h6">まとめ</h2>
+<ul><li>渡す前に、<strong>情報の集約先・任せる業務の範囲・見せない情報</strong>の三つを決める</li><li>権限は業務から決まる。<strong>ユーザーの追加と削除は自社が持つ</strong></li><li>代行側でメンバーが増えるときは自社に依頼してもらう。<strong>再委託も把握できる</strong></li><li>評価コメントは、<strong>判断の理由を構造化して渡す</strong>形が落としどころ</li><li>一覧を作り、<strong>四半期に一度棚卸し</strong>する。交代と契約終了の手順を決める</li><li>削除の順番は、<strong>書き出し → 確認 → 削除</strong></li><li>権限の管理は、<strong>委託先の監督の実態を作る作業</strong>でもある</li><li>権限の設計を後回しにすると、<strong>立ち上げの費用として跳ね返る</strong></li></ul>
+<h2 id="h7">よくある質問</h2>
+<h3>管理者権限を求められた場合はどうすればよいですか</h3>
+<p>なぜ必要かを聞いてください。媒体連携の設定や、レポートの出力に必要な場合もあります。その業務のためだけなら、該当する機能の権限だけを付与できるか、システムの仕様を確認します。ユーザーの追加と削除の権限は、自社に残す形を基本にします。</p>
+<h3>代行会社のメンバー全員にアカウントが必要ですか</h3>
+<p>業務に関わる人の分だけで足ります。全員分を発行すると、棚卸しの対象が増えます。誰が実務を担当するかを確認し、その人の分を発行する形にします。バックアップのメンバーが必要なら、その分も含めて一覧に記録しておきます。</p>
+<h3>契約が終わった後、代行会社側にデータは残りますか</h3>
+<p>代行会社の環境に情報を置いていた場合は残ります。契約の定めに沿って、返還または削除の手続きを行います。自社の採用管理システムに集約してアクセス権を渡す形にしていれば、権限の削除だけで済みます。どちらの形にするかは、契約前に決めておく項目です。</p>
+  </div>
+  
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/rpo-jouhou-rouei/">採用代行からの情報漏えいを防ぐ設計</a></li><li><a href="/media/rpo-mail-account/">採用代行に会社メールアドレスを渡すべきか</a></li><li><a href="/media/rpo-media-account/">媒体アカウントを代行に渡すときの注意点</a></li><li><a href="/media/rpo-talent-pool/">タレントプールを代行に持たせるリスク</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

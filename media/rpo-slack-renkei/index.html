@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>採用代行とのコミュニケーション設計｜エラベル</title>
+<meta name="description" content="採用代行との連絡は、経路と窓口を決めないと細切れの稼働が積み上がります。チャットを使うときの線引き、即時性が要る連絡の分類、記録の残し方、社内メンバーの参加範囲を整理しました。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/rpo-slack-renkei/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="採用代行とのコミュニケーション設計｜エラベル">
+<meta property="og:description" content="採用代行との連絡は、経路と窓口を決めないと細切れの稼働が積み上がります。チャットを使うときの線引き、即時性が要る連絡の分類、記録の残し方、社内メンバーの参加範囲を整理しました。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/rpo-slack-renkei/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"採用代行とのコミュニケーション設計","description":"採用代行との連絡は、経路と窓口を決めないと細切れの稼働が積み上がります。チャットを使うときの線引き、即時性が要る連絡の分類、記録の残し方、社内メンバーの参加範囲を整理しました。","datePublished":"2026-09-07","dateModified":"2026-09-07","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/rpo-slack-renkei/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/rpo/">採用代行</a><i>›</i><span>採用代行とのコミュニケーション設計</span></div></nav><main class="wrap article">
+  <p class="art__kicker">採用代行 / 費用・契約・法務</p>
+  <h1>採用代行とのコミュニケーション設計</h1>
+  <p class="art__meta">公開 2026-09-07</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">連絡を三つに分ける</a></li><li><a href="#h2">チャットを使うときの線引き</a></li><li><a href="#h3">記録をどこに残すか</a></li><li><a href="#h4">社内メンバーの参加範囲</a></li><li><a href="#h5">対応時間の目安を決める</a></li><li><a href="#h6">まとめ</a></li><li><a href="#h7">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>採用代行との連絡をどう設計するか。<strong>チャットで気軽にやりとりできる形は速い一方で、範囲外の依頼が積み上がりやすく、細切れの稼働が増えます</strong>。メールと定例会だけに絞ると管理は楽ですが、急ぎの確認が止まります。どちらが正しいというより、連絡の種類を分けて経路を割り当てるのが実務的です。この記事では、その設計を整理します。</p>
+<h2 id="h1">連絡を三つに分ける</h2>
+<p>採用の運用で発生する連絡は、性質が違うものが混ざっています。</p>
+<div class="tw"><table><thead><tr><th>種類</th><th>例</th><th>求められる速さ</th><th>経路</th></tr></thead><tbody><tr><td>即時の確認</td><td>候補者から急ぎの連絡が来た、日程が崩れた</td><td>当日中</td><td>チャットまたは電話</td></tr><tr><td>通常の確認</td><td>文面の確認、条件の相談、書類の判断</td><td>数日以内</td><td>チャットまたはメール</td></tr><tr><td>判断・変更</td><td>範囲の変更、稼働量の調整、要件の見直し</td><td>定例で決める</td><td>定例会</td></tr></tbody></table></div>
+<p><strong>三番目を日々の連絡に混ぜないことが、設計の要点です</strong>。範囲や稼働量の変更を思いついたときに伝える形だと、代行側は都度対応することになり、稼働が読めなくなります。判断が要るものは定例に持ち込む、と決めておきます。</p>
+<p>一番目と二番目の切り分けも決めておきます。すべてを即時扱いにすると、代行側は常に反応する体制を求められ、その分の稼働が発生します。</p>
+<h2 id="h2">チャットを使うときの線引き</h2>
+<p>チャットで連絡する形は速くて便利ですが、注意する点があります。</p>
+<p><strong>作業の手順を直接指示する形にならないようにする</strong>。「この候補者に今日中に連絡して」「この順番で進めて」という指示が日常的になると、業務委託の建て付けと実態がずれます。伝えるのは範囲と成果で、進め方は受託者が決める形を保ちます。線引きは<a href="/media/rpo-gisou-ukeoi/">採用代行が偽装請負になる境界線</a>で扱っています。</p>
+<p><strong>窓口を決める</strong>。自社の複数のメンバーが個別に依頼を投げると、代行側は優先順位を判断できません。窓口を一本化し、そこを通す形にします。</p>
+<p><strong>記録に残す</strong>。チャットの会話は流れて消えます。決めたことは、定例の議事や運用ルールの文書に落とします。</p>
+<p><strong>参加範囲を決める</strong>。外部の担当者が入るチャンネルでは、社内の会話がそのまま見えます。採用に関する情報だけが流れる場所を分けておきます。</p>
+<aside class="cta-inline">
+  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>チャットで連絡できる形にすると、<strong>稼働の消費が見えにくくなります</strong>。ここが実務上いちばん影響の大きい点です。</p>
+<p>一件ずつの確認は短い時間で終わります。ところが積み上がると、まとまった時間になります。しかも、細切れの対応は集中を切るので、同じ時間でも進む量は落ちます。時間単価型なら請求に現れますが、月額型だと、本来の業務に使えるはずだった時間が削られていることに気づきません。</p>
+<p>対処は二つです。一つは、<strong>急ぎでない確認をまとめて送る</strong>こと。思いついた順に投げるのではなく、一日一回まとめる。これだけで細切れの回数は減ります。</p>
+<p>もう一つは、<strong>確認が必要な状態を減らす</strong>こと。確認の多くは、判断の基準が決まっていないことから生まれます。この候補者は書類を通すか、この条件は広げてよいか。基準が文書になっていれば、代行側が自分で判断できます。</p>
+<p>チャットの設計を考える前に、<strong>確認せずに進められる範囲を広げる</strong>ほうが効果があります。連絡の量そのものが減るからです。</p>
+<h2 id="h3">記録をどこに残すか</h2>
+<p>会話が流れて消えると、判断の経緯が追えなくなります。残す場所を決めます。</p>
+<p><strong>候補者に関する情報は採用管理システムに</strong>。選考の状況、やりとりの経緯、評価。チャットに書くと後から検索できません。</p>
+<p><strong>運用のルールは文書に</strong>。連絡の経路、対応時間の目安、判断の基準。決めたら文書を更新します。</p>
+<p><strong>決定事項は定例の議事に</strong>。範囲を変えた、稼働量を調整した、指標を変えた。日付とともに残します。</p>
+<p><strong>この三つを分けておくと、担当者が交代しても引き継げます</strong>。チャットの履歴だけが記録という状態だと、新しい担当者は経緯を追えません。</p>
+<h2 id="h4">社内メンバーの参加範囲</h2>
+<p>代行の担当者が入る場に、社内の誰を入れるか。</p>
+<p><strong>採用担当と代行の担当者</strong>は基本の組み合わせです。日々の運用はここで回ります。</p>
+<p><strong>現場の責任者</strong>は、要件の擦り合わせが必要な時期に入ってもらう形が現実的です。常時参加だと、細かい指示が直接出やすくなります。</p>
+<p><strong>経営層</strong>は、通常は入りません。判断が必要なときに定例会へ同席してもらう形にします。</p>
+<p><strong>面接官</strong>は、日程の調整に関わる範囲で入ることがあります。ただし、候補者の評価に関する会話は別の場所に分けます。</p>
+<p><strong>参加範囲を広げるほど、情報の流れは速くなりますが、扱う情報の範囲も広がります</strong>。誰がどこまで見えるかは、情報の管理としても設計する項目です。渡す情報の範囲は<a href="/media/rpo-nda/">候補者情報とNDAの範囲</a>にまとめています。</p>
+<h2 id="h5">対応時間の目安を決める</h2>
+<p>即時性の設計は、時間の目安とセットで決めます。</p>
+<ul><li>自社から代行への質問：受信から何営業時間以内に回答</li><li>代行から自社への質問：受信から何営業時間以内に回答</li><li>候補者からの連絡：受信から何営業時間以内に一次対応</li><li>営業時間外の扱い：翌営業日の対応でよいか、当日中の自動返信を入れるか</li><li>緊急時の連絡手段：電話か、別のチャンネルか</li></ul>
+<p><strong>自社側の回答時間も決めることが大事です</strong>。代行側にだけ速さを求めると、片方だけが速い状態になり、全体の速度は変わりません。対応時間の設計は<a href="/media/rpo-sla/">SLAの決め方</a>で扱っています。</p>
+<aside class="cta-inline">
+  <p>担当者の経歴を見てから決められます</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>コミュニケーションの設計で、<strong>担当者が替わったときに何が引き継がれるか</strong>を考えておいてください。</p>
+<p>チャットで密にやりとりしている運用は、日々は快適です。細かい擦り合わせが積み重なり、あうんの呼吸ができてくる。ところが、その擦り合わせは記録に残っていないことが多い。担当者が替わると、積み上げた分が消えます。</p>
+<p>だから、<strong>チャットで決まったことを、定期的に文書に落とす作業</strong>を運用に組み込んでください。月に一度、その月に決めた運用のルールを文書に追記する。時間はかかりません。</p>
+<p>この作業をしておくと、担当交代のときだけでなく、代行会社を替えるときにも効きます。運用のルールが文書になっていれば、新しい依頼先はそれを読むところから始められます。</p>
+<p>密なやりとりは、それ自体は良いことです。<strong>問題は、密であるほど記録に残らなくなること</strong>です。快適に回っているときほど、文書化の作業を忘れます。四半期に一度でも見直す時間を持つと、この落とし穴は避けられます。</p>
+<h2 id="h6">まとめ</h2>
+<ul><li>連絡を<strong>即時の確認・通常の確認・判断や変更</strong>の三つに分けて経路を割り当てる</li><li><strong>範囲や稼働量の変更を日々の連絡に混ぜない</strong>。判断は定例に持ち込む</li><li>チャットでは、作業の手順を直接指示する形にならないよう保つ</li><li><strong>窓口を一本化</strong>し、参加範囲を決める</li><li>細切れの確認は稼働を消費する。<strong>まとめて送る</strong>、そして<strong>確認が要る状態を減らす</strong></li><li>記録は、候補者情報は採用管理システム、ルールは文書、決定事項は定例の議事へ</li><li>対応時間は<strong>自社側も決める</strong>。片方だけ速くても全体は変わらない</li><li>密なやりとりほど記録に残らない。<strong>定期的に文書へ落とす</strong></li></ul>
+<h2 id="h7">よくある質問</h2>
+<h3>代行の担当者を自社のチャットツールに入れてもよいですか</h3>
+<p>入れている会社は多くあります。速さの面では利点があります。ただし、参加するチャンネルの範囲を決め、作業の手順を直接指示する形にならないよう運用を整えます。あわせて、退任時のアカウント削除の手順も決めておきます。判断に迷う場合は専門家にご確認ください。</p>
+<h3>連絡が多すぎて代行の稼働を圧迫している気がします</h3>
+<p>まず、確認の内容を分類してみてください。判断の基準が決まっていれば代行側で処理できるものが多いはずです。基準を文書にして渡すと、確認の量は減ります。あわせて、急ぎでない確認をまとめて送る運用にすると、細切れの対応が減ります。</p>
+<h3>逆に、代行から連絡が来ません</h3>
+<p>稼働報告の粒度と、定例会の頻度を確認してください。報告が薄く定例も少ないと、状況が見えない状態になります。工程ごとの内訳を含む報告を求め、質問への回答時間の目安を決めておくと改善します。それでも変わらないなら、体制の見直しを相談する時期です。</p>
+  </div>
+  
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/rpo-aiaigasa/">1社にまとめるか業務ごとに分けるか</a></li><li><a href="/media/rpo-fukugyo-jinzai-itaku/">副業人材に採用業務を委託するときの実務</a></li><li><a href="/media/rpo-fukusuu-hattyu/">採用代行を複数社に同時発注してよいか</a></li><li><a href="/media/rpo-kadou-kashika/">代行の稼働内容をどう可視化してもらうか</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>品質チェックの仕組み｜エラベル</title>
+<meta name="description" content="スカウトの品質を確認する仕組みを、対象・頻度・担当・記録の四つで設計します。文面だけでなく条件と選定と返信も対象にする方法、負担を抑える抽出の設計を整理しました。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/scout-daikou-check/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="品質チェックの仕組み｜エラベル">
+<meta property="og:description" content="スカウトの品質を確認する仕組みを、対象・頻度・担当・記録の四つで設計します。文面だけでなく条件と選定と返信も対象にする方法、負担を抑える抽出の設計を整理しました。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/scout-daikou-check/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"品質チェックの仕組み","description":"スカウトの品質を確認する仕組みを、対象・頻度・担当・記録の四つで設計します。文面だけでなく条件と選定と返信も対象にする方法、負担を抑える抽出の設計を整理しました。","datePublished":"2026-09-08","dateModified":"2026-09-08","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/scout-daikou-check/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/scout/">スカウト代行</a><i>›</i><span>品質チェックの仕組み</span></div></nav><main class="wrap article">
+  <p class="art__kicker">スカウト代行 / スカウト代行</p>
+  <h1>品質チェックの仕組み</h1>
+  <p class="art__meta">公開 2026-09-08</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">四つの対象</a></li><li><a href="#h2">条件の確認</a></li><li><a href="#h3">選定の確認</a></li><li><a href="#h4">文面の確認</a></li><li><a href="#h5">返信対応の確認</a></li><li><a href="#h6">頻度と担当</a></li><li><a href="#h7">記録する</a></li><li><a href="#h8">代行側の自己確認</a></li><li><a href="#h9">確認が形骸化するとき</a></li><li><a href="#h10">まとめ</a></li><li><a href="#h11">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>スカウトの品質を、どう確認するか。<strong>文面の確認だけでは足りません</strong>。条件がずれていないか、候補者の選定が要件に合っているか、返信への対応が適切か。この記事では、チェックの対象と、負担を抑える設計を整理します。ばらつきを抑える設計は<a href="/media/scout-daikou-hinshitsu-kanri/">品質のばらつきをどう抑えるか</a>にまとめています。</p>
+<h2 id="h1">四つの対象</h2>
+<p><strong>一.検索条件</strong>。要件が条件に翻訳されているか。<strong>外している層と、その理由</strong>。</p>
+<p><strong>二.候補者の選定</strong>。条件に合う候補者から、誰を選んでいるか。</p>
+<p><strong>三.文面</strong>。事実の誤り、候補者との対応、トーン。</p>
+<p><strong>四.返信への対応</strong>。何を返しているか、速さは保たれているか。</p>
+<p><strong>多くの場合、三番目だけが確認されています</strong>。<strong>ところが、一番目と二番目のずれのほうが結果に効きます</strong>。</p>
+<p><strong>条件がずれていれば、文面が良くても届く相手が違います</strong>。</p>
+<h2 id="h2">条件の確認</h2>
+<p><strong>送信の前に確認する</strong>。条件を組んだ段階で、要件と合っているかを見ます。</p>
+<p><strong>確認すること</strong></p>
+<ul><li>必須の要件が条件に入っているか</li><li><strong>外している層と、その理由</strong></li><li>母数が現実的か</li><li>条件を変えた場合、その理由</li></ul>
+<p><strong>この四つのうち、二番目が最も情報量があります</strong>。<strong>なぜその層を外したかを説明できるなら、要件を理解しています</strong>。</p>
+<p><strong>そして、条件は運用の中で変わります</strong>。<strong>変更のたびに確認するのではなく、四半期に一度でも見直す形で足ります</strong>。</p>
+<h2 id="h3">選定の確認</h2>
+<p><strong>選定した候補者を、実際に見てください</strong>。数件で足ります。</p>
+<p><strong>確認すること</strong></p>
+<ul><li>要件と合っているか</li><li><strong>なぜこの候補者を選んだか</strong></li><li>迷った候補者はいたか</li></ul>
+<p><strong>この確認は、定例会でできます</strong>。画面を共有して、数件を一緒に見る。<strong>五分から十分で足ります</strong>。</p>
+<p><strong>そして、判断の一致率を見てください</strong>。自社が見て「これは合っている」と思う割合。<strong>上がってきたら、確認を減らせます</strong>。</p>
+<p><strong>逆に、一致率が低いなら、基準が伝わっていません</strong>。</p>
+<aside class="cta-inline">
+  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>チェックの仕組みで、<strong>「送信前」と「送信後」を分けて設計してください</strong>。目的が違います。</p>
+<p><strong>送信前のチェックは、事故を防ぐため</strong>です。事実の誤り、候補者との不一致、条件のずれ。<strong>送ってからでは直せません</strong>。</p>
+<p><strong>送信後のチェックは、質の変化に気づくため</strong>です。文面が定型化していないか、返信の対応が薄くなっていないか。</p>
+<p><strong>この二つを混同すると、確認の設計がぶれます</strong>。</p>
+<p><strong>送信前は、事故を防ぐ項目に絞ってください</strong>。事実の誤りと、候補者との対応。<strong>この二点なら、短時間で確認できます</strong>。</p>
+<p><strong>そして、全件を見る必要はありません</strong>。型が固まっていれば、書き分けの部分だけを見れば足ります。</p>
+<p><strong>送信後は、抽出で構いません</strong>。月に数件、実際に送られた文面と返信を読む。<strong>質の変化に気づける状態を保ちます</strong>。</p>
+<p><strong>多くの場合、送信前の確認が厚くなりすぎています</strong>。<strong>そして、送信後の確認がゼロになっています</strong>。</p>
+<p><strong>この配分を逆にすると、負担が下がり、質の管理も続きます</strong>。</p>
+<h2 id="h4">文面の確認</h2>
+<p><strong>送信前</strong></p>
+<ul><li>事実の誤り（<strong>会社の情報、条件、事業の内容</strong>）</li><li>候補者との対応（<strong>別の人向けの内容が混ざっていないか</strong>）</li></ul>
+<p><strong>送信後（抽出）</strong></p>
+<ul><li>候補者の経歴に触れているか</li><li>求人票にない情報が入っているか</li><li>自社の言葉になっているか</li><li><strong>日本語が自然か</strong></li></ul>
+<p><strong>送信前は二点に絞り、送信後は抽出で四点を見る</strong>。この配分だと、負担が抑えられます。</p>
+<p><strong>そして、型を確認しておけば、送信前の確認はさらに軽くなります</strong>。事実の部分は型に固定されているためです。</p>
+<h2 id="h5">返信対応の確認</h2>
+<p><strong>代行が返信に対応している場合</strong>、内容を確認してください。</p>
+<p><strong>確認すること</strong></p>
+<ul><li>候補者の質問に答えているか</li><li><strong>求人票の繰り返しになっていないか</strong></li><li>自社に戻すべき内容を戻しているか</li><li>対応の速さは保たれているか</li></ul>
+<p><strong>月に数件、抽出して読む</strong>。<strong>これで質の変化に気づけます</strong>。</p>
+<p><strong>そして、面談に至らなかった候補者の返信を見ると、原因が見えることがあります</strong>。</p>
+<h2 id="h6">頻度と担当</h2>
+<p><strong>送信前の確認</strong></p>
+<ul><li>立ち上げ期は全件、運用が回ったら抽出</li><li><strong>担当は、要件を理解している人</strong></li></ul>
+<p><strong>送信後の確認</strong></p>
+<ul><li>月に一度、数件</li><li>担当者が替わった直後は増やす</li></ul>
+<p><strong>条件と選定の確認</strong></p>
+<ul><li>定例会で数件</li><li>条件は四半期に一度でも</li></ul>
+<p><strong>返信対応の確認</strong></p>
+<ul><li>月に一度、数件</li></ul>
+<p><strong>この四つを、それぞれの頻度で回してください</strong>。<strong>すべてを毎回確認する必要はありません</strong>。</p>
+<p><strong>そして、確認する人を決めてください</strong>。<strong>誰も担当していないと、確認は行われません</strong>。</p>
+<h2 id="h7">記録する</h2>
+<p><strong>確認した日と、見た内容</strong></p>
+<p><strong>指摘した内容と、その理由</strong></p>
+<p><strong>型に反映したか</strong></p>
+<p><strong>判断の一致率の推移</strong></p>
+<p><strong>この四つを記録すると、確認を減らす判断ができます</strong>。</p>
+<p><strong>そして、同じ指摘が繰り返されるなら、型の問題です</strong>。<strong>三回同じ指摘をしたら、個別の修正ではなく型を直してください</strong>。</p>
+<h2 id="h8">代行側の自己確認</h2>
+<p><strong>チェックリストを渡してください</strong>。<strong>確認の項目を文書にすると、代行が自分で確認できます</strong>。</p>
+<p><strong>含める項目</strong></p>
+<ul><li>事実に誤りがないか</li><li>候補者の経歴に触れているか</li><li>条件が要件と合っているか</li><li>自社に戻すべき内容がないか</li></ul>
+<p><strong>この四つがあれば、自己確認の枠組みになります</strong>。</p>
+<p><strong>そして、自己確認が機能すれば、自社の確認は減らせます</strong>。</p>
+<p><strong>確認を減らすことが目的ではありません</strong>。<strong>質を保ちながら、負担を下げることが目的です</strong>。</p>
+<h2 id="h9">確認が形骸化するとき</h2>
+<p><strong>指摘が出なくなる</strong>。慣れて、流し読みになっている可能性があります。<strong>抽出の対象を変えると、気づくことがあります</strong>。</p>
+<p><strong>同じ指摘が繰り返される</strong>。型に反映していない状態です。</p>
+<p><strong>確認が遅れて溜まる</strong>。担当者の時間が足りていません。<strong>抽出の割合を減らすか、担当を分けます</strong>。</p>
+<p><strong>送信後に問題が見つかる</strong>。確認の項目が足りていません。<strong>何を見落としたかを記録し、項目を足します</strong>。</p>
+<p><strong>四番目が起きたら、設計を見直してください</strong>。</p>
+<aside class="cta-inline">
+  <p>担当者の経歴を見てから決められます</p>
+  <a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>品質チェックで、<strong>「返信率が下がってから気づく」形にしないでください</strong>。数字は遅れて出ます。</p>
+<p>文面が定型化しても、返信率にはすぐ現れません。<strong>緩やかに落ちていくため、気づいたときには数か月経っています</strong>。</p>
+<p>そして、その間に送った候補者には、もう送り直せません。<strong>母数が限られている職種では、これが痛手になります</strong>。</p>
+<p><strong>だから、数字の前に成果物を見てください</strong>。</p>
+<p>月に数件、実際に送られた文面を読む。<strong>書き分けが減っていないか、事実に誤りがないか、自社の言葉になっているか</strong>。</p>
+<p><strong>この確認は十分もかかりません</strong>。</p>
+<p>そして、<strong>返信の内容も見てください</strong>。前向きな返信が減っていないか、条件が理由の見送りが増えていないか。<strong>数字より先に、傾向が見えます</strong>。</p>
+<p><strong>成果物を見る習慣があると、数字が動く前に気づけます</strong>。</p>
+<p><strong>そして、早く気づけば、対処も軽く済みます</strong>。文面を直す、書き分けの範囲を確認する、稼働の状況を聞く。</p>
+<p><strong>数字は結果です</strong>。<strong>結果を待つ前に、過程を見てください</strong>。</p>
+<h2 id="h10">まとめ</h2>
+<ul><li>対象は、<strong>検索条件・候補者の選定・文面・返信への対応</strong>の四つ</li><li>多くの場合、<strong>文面だけが確認されている</strong>。条件と選定のずれのほうが効く</li><li>条件は「<strong>外している層と、その理由</strong>」を確認する</li><li>選定は、定例会で数件を一緒に見る。<strong>判断の一致率</strong>を見る</li><li>「<strong>送信前</strong>」と「<strong>送信後</strong>」を分けて設計する。目的が違う</li><li>送信前は<strong>事故を防ぐ二点に絞る</strong>。送信後は抽出で四点</li><li><strong>チェックリストを渡す</strong>と、代行が自分で確認できる</li><li>「<strong>返信率が下がってから気づく</strong>」形にしない。数字の前に成果物を見る</li></ul>
+<h2 id="h11">よくある質問</h2>
+<h3>確認する時間が取れません</h3>
+<p>送信前の項目を二点に絞ってください。事実の誤りと、候補者との対応。あわせて、型を確認しておけば、個別の確認は書き分けの部分だけで済みます。送信後の確認は、月に数件で足ります。</p>
+<h3>何を見ればよいか分かりません</h3>
+<p>まず、実際に送られた文面を数通読んでください。候補者の経歴に触れているか、求人票の繰り返しになっていないか。あわせて、選定した候補者を数件見ると、条件のずれも分かります。</p>
+<h3>代行に自己確認を任せられますか</h3>
+<p>チェックリストを渡せば、枠組みは作れます。ただし、自社の確認をゼロにはしないでください。月に数件でも見る形を残すと、質の変化に気づけます。特に、担当者が替わった直後は確認を増やしてください。</p>
+  </div>
+  
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/scout-daikou-hanki/">半期での見直し</a></li><li><a href="/media/scout-daikou-kakunin-flow/">送信前の文面確認フロー</a></li><li><a href="/media/scout-daikou-report/">レポートに入れてもらう項目</a></li><li><a href="/media/scout-daikou-shounin/">1通ずつ承認すべきか</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>
