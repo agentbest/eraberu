@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>採用ファネルを可視化する｜「段階ごとの数・日数・落ちた理由」を一枚に並べ、詰まりを一か所に見せる型｜エラベル</title>
+<meta name="description" content="人事の副業で、採用ファネルを可視化する型を整理しました。「応募数」と「採用数」だけでは詰まりが見えない理由、ファネルの段階を依頼側の選考に合わせて決める、各段で並べる三つ（数・次の段に進むまでの日数・落ちた理由の分類）、記録（一覧の段階と最終更新日、見送り・辞退の理由の分類）から作る手順、経路別・求人別に分けて見る順番、詰まりの読み方（数が減る段・日数が伸びる段・理由が偏る段）、割合を出しても断定しない線、依頼側に見せる一枚の形、月次で更新して変化を見る、詰まりと直し方を、副業の担当者がその場で使える形で書いています。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/fukugyo-skill-funnel/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="採用ファネルを可視化する｜「段階ごとの数・日数・落ちた理由」を一枚に並べ、詰まりを一か所に見せる型｜エラベル">
+<meta property="og:description" content="人事の副業で、採用ファネルを可視化する型を整理しました。「応募数」と「採用数」だけでは詰まりが見えない理由、ファネルの段階を依頼側の選考に合わせて決める、各段で並べる三つ（数・次の段に進むまでの日数・落ちた理由の分類）、記録（一覧の段階と最終更新日、見送り・辞退の理由の分類）から作る手順、経路別・求人別に分けて見る順番、詰まりの読み方（数が減る段・日数が伸びる段・理由が偏る段）、割合を出しても断定しない線、依頼側に見せる一枚の形、月次で更新して変化を見る、詰まりと直し方を、副業の担当者がその場で使える形で書いています。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/fukugyo-skill-funnel/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"採用ファネルを可視化する｜「段階ごとの数・日数・落ちた理由」を一枚に並べ、詰まりを一か所に見せる型","description":"人事の副業で、採用ファネルを可視化する型を整理しました。「応募数」と「採用数」だけでは詰まりが見えない理由、ファネルの段階を依頼側の選考に合わせて決める、各段で並べる三つ（数・次の段に進むまでの日数・落ちた理由の分類）、記録（一覧の段階と最終更新日、見送り・辞退の理由の分類）から作る手順、経路別・求人別に分けて見る順番、詰まりの読み方（数が減る段・日数が伸びる段・理由が偏る段）、割合を出しても断定しない線、依頼側に見せる一枚の形、月次で更新して変化を見る、詰まりと直し方を、副業の担当者がその場で使える形で書いています。","datePublished":"2026-09-22","dateModified":"2026-09-22","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/fukugyo-skill-funnel/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/fukugyo/">人事副業</a><i>›</i><span>採用ファネルを可視化する｜「段階ごとの数・日数・落ちた理由」を一枚に並べ、詰まりを一か所に見せる型</span></div></nav><main class="wrap article">
+  <p class="art__kicker">人事副業 / 採用・人事の実務</p>
+  <h1>採用ファネルを可視化する｜「段階ごとの数・日数・落ちた理由」を一枚に並べ、詰まりを一か所に見せる型</h1>
+  <p class="art__meta">公開 2026-09-22</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">「応募数」と「採用数」だけでは見えない</a></li><li><a href="#h2">段階を依頼側の選考に合わせる</a></li><li><a href="#h3">各段で並べる三つ</a></li><li><a href="#h4">記録から作る手順</a></li><li><a href="#h5">経路別・求人別に分けて見る順番</a></li><li><a href="#h6">詰まりの読み方</a></li><li><a href="#h7">依頼側に見せる一枚</a></li><li><a href="#h8">よく起きる詰まりと直し方</a></li><li><a href="#h9">まとめ</a></li><li><a href="#h10">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>依頼側から「採用がうまくいっていない」と言われ、「応募が何件で、採用が何人」の数字だけを見ても、どこで止まっているかは分かりません。応募から採用までの間には、書類・一次・二次・最終・内定・入社の段階があり、詰まりはそのどこか一か所にあります。ファネルを可視化する仕事は、きれいなグラフを作ることではなく、段階ごとの数と日数と落ちた理由を並べて、詰まりを一か所に見せることです。結論を先に書くと、<strong>採用ファネルは、依頼側の選考の段階に合わせて段を決め、各段で「数・次に進むまでの日数・落ちた理由の分類」の三つを並べ、一覧の記録から作り、経路別・求人別に分けて見て、数が減る段・日数が伸びる段・理由が偏る段を詰まりとして読み、割合で断定せず、月次で更新します。</strong>会社側から見た読み方は<a href="/media/rpo-funnel/">採用ファネルのどこが詰まっているか分からない</a>に、スカウト経由の歩留まりは<a href="/media/scout-naitei-made/">スカウト経由の内定までの歩留まり</a>に、記録の元になる一覧は<a href="/media/fukugyo-skill-spreadsheet/">スプレッドシートで採用管理を作る</a>に書いています。ここでは、一枚の作り方に絞ります。</p>
+<h2 id="h1">「応募数」と「採用数」だけでは見えない</h2>
+<div class="tw"><table><thead><tr><th>見ている数字</th><th>分からないこと</th></tr></thead><tbody><tr><td>応募数</td><td>応募の後、どこで減っているか</td></tr><tr><td>採用数</td><td>採用に至らなかった人が、どこで、なぜ落ちたか</td></tr><tr><td>全体の通過率</td><td>段階ごとの詰まり。全体の率が同じでも、詰まる場所は違う</td></tr><tr><td>面接の実施数</td><td>面接から次に進むまでに何日かかっているか</td></tr></tbody></table></div>
+<p>依頼側が「応募が足りない」と言うとき、実際には一次の後の日程調整で候補者が流れている、ということが起きます。段階ごとに見ないと、手当ての場所を間違えます。課題の構造化の型は<a href="/media/fukugyo-kouzou-ka/">課題を構造化する</a>に書いています。</p>
+<h2 id="h2">段階を依頼側の選考に合わせる</h2>
+<div class="tw"><table><thead><tr><th>一般的な段階</th><th>依頼側に合わせる</th></tr></thead><tbody><tr><td>応募→書類→一次→二次→最終→内定→入社</td><td>依頼側の段階の名前と数をそのまま使う。カジュアル面談がある、一次と二次が同日、など</td></tr><tr><td>スカウトの場合：送信→返信→面談→応募→…</td><td>スカウト経由は返信と面談の段が前に付く</td></tr><tr><td>紹介の場合：推薦→書類→…</td><td>紹介会社からの推薦を「応募」の前に置く</td></tr></tbody></table></div>
+<p>段階は、一覧の「段階」の列の選択肢と同じにします。一覧と段階が違うと、一覧から一枚を作れません。段階の決め方は<a href="/media/fukugyo-skill-mensetsu-sekkei/">面接の設計</a>に書いています。</p>
+<h3>エラベルの見解</h3>
+<p>担当する側から見ると、ファネルの可視化で最も差がつくのは、「数」だけでなく「日数」を並べているかどうかです。受ける側は、段階ごとの人数を並べて、減っている段を詰まりとします。ただ、数が減っていない段でも、次に進むまでに二週間かかっていれば、候補者はその間に他社で決まり、次の段で「辞退」として減ります。減った段ではなく、その一つ前の段の日数が原因です。数と日数を並べると、「減っている段」と「原因の段」が分かれます。エラベルで担当者を選ぶ企業には、「ファネルに、段階ごとの日数は入っていますか」を、私たちから先に聞いています。受ける側がその場で使える判断としては、一覧に「最終更新日」の列があれば、段階が動いた日の差で日数が出るので、一枚を作る前に一覧のその列が埋まっているかを確かめること。埋まっていなければ、まず一覧の運用ルールに戻ります。</p>
+<aside class="cta-inline">
+<p>これまでの経験がどの案件で活きるか、見てみませんか</p>
+<a href="/partner.html">担当者として登録する</a>
+</aside>
+<h2 id="h3">各段で並べる三つ</h2>
+<div class="tw"><table><thead><tr><th>並べるもの</th><th>出し方</th><th>見えること</th></tr></thead><tbody><tr><td>数</td><td>その段に入った人数。一覧の段階の列を数える</td><td>どの段で減っているか</td></tr><tr><td>次の段に進むまでの日数</td><td>段階が動いた日の差。中央の値か、長い順に並べた上位</td><td>どの段で時間がかかっているか</td></tr><tr><td>落ちた理由の分類</td><td>見送り・辞退の理由の分類（速さ・迷い・接点・条件・要件・その他）を段ごとに数える</td><td>どの段で、なぜ落ちているか</td></tr></tbody></table></div>
+<p>三つを、段階を縦に、三つを横に置いた一枚の表にします。グラフは要りません。表で足ります。理由の分類は、一覧の「見送り・辞退の理由」の列が選択式になっていれば数えられます。辞退の理由の分け方は<a href="/media/fukugyo-skill-jitai-boushi/">内定辞退を減らす</a>に書いています。</p>
+<h2 id="h4">記録から作る手順</h2>
+<div class="tw"><table><thead><tr><th>順</th><th>中身</th></tr></thead><tbody><tr><td>一</td><td>一覧の「段階」「最終更新日」「経路」「見送り・辞退の理由」の四列が埋まっているかを確かめる。埋まっていなければ運用ルールに戻る</td></tr><tr><td>二</td><td>期間を決める（月、四半期）。期間内に応募した候補者を対象にする</td></tr><tr><td>三</td><td>段階ごとに数を数える。見送り・辞退は「どの段で」を分ける</td></tr><tr><td>四</td><td>段階が動いた日の差から、段ごとの日数を出す</td></tr><tr><td>五</td><td>見送り・辞退の理由を段ごとに分類して数える</td></tr><tr><td>六</td><td>一枚の表にする。経路別・求人別は次の段階</td></tr></tbody></table></div>
+<p>記録が無い期間は、作れません。「記録が無いので今月から」と伝え、遡って推測で作らないことが要点です。</p>
+<h2 id="h5">経路別・求人別に分けて見る順番</h2>
+<div class="tw"><table><thead><tr><th>順</th><th>分け方</th><th>見えること</th></tr></thead><tbody><tr><td>一</td><td>全体</td><td>詰まりの段</td></tr><tr><td>二</td><td>経路別（媒体、スカウト、紹介、リファラル）</td><td>どの経路の候補者が、どの段で落ちているか。経路の見直しの材料</td></tr><tr><td>三</td><td>求人別</td><td>求人ごとの詰まり。要件や求人票の見直しの材料</td></tr><tr><td>四</td><td>面接官別（依頼側の判断で）</td><td>段の日数が面接官によって違うか。人の評価ではなく、枠の預かり方の材料</td></tr></tbody></table></div>
+<p>分けるほど件数が減り、傾向が読めなくなります。副業の稼働で扱う件数では、全体と経路別までで足りることが多い。求人別と面接官別は、件数がたまってからです。</p>
+<h3>エラベルの見解</h3>
+<p>相談で最も多い思い込みは、受ける側の「ファネルは通過率で見るもの」というものです。通過率は、件数が少ないと大きく揺れ、一件の差で数字が倍になります。依頼側に「一次の通過率が〇割に落ちました」と伝えると、依頼側は一次の面接官を疑い、実際には候補者が二人減っただけ、ということが起きます。数と日数と理由を、件数のまま並べて、「一次で二人が見送り、理由は要件」と事実で伝えるほうが、次の判断につながります。受ける側がその場で使える判断としては、一枚に割合の列を作らないこと。割合が要るなら、依頼側が自分で計算できる数を並べ、担当者は「この件数では割合は揺れます」と添えます。数字の伝え方は<a href="/media/fukugyo-suuji/">数字で語る</a>に書いています。</p>
+<aside class="cta-inline">
+<p>稼働時間も単価も、ご自身で決められます</p>
+<a href="/partner.html">担当者として登録する</a>
+</aside>
+<h2 id="h6">詰まりの読み方</h2>
+<div class="tw"><table><thead><tr><th>読み方</th><th>手当ての場所</th></tr></thead><tbody><tr><td>数が大きく減る段</td><td>その段の基準（書類なら必須の言葉、面接なら観点と基準）。または一つ前の段の日数</td></tr><tr><td>日数が伸びる段</td><td>日程調整と確定の速さ。面接官の枠。<a href="/media/fukugyo-skill-nittei/">日程調整を速くする</a></td></tr><tr><td>理由が偏る段</td><td>理由の分類ごとに。要件なら要件の一枚、迷いなら動機づけ、条件なら依頼側の判断</td></tr><tr><td>経路によって減る段が違う</td><td>経路ごとの候補者の層。ターゲット像と媒体の見直し</td></tr><tr><td>どの段も減っていないのに採用に至らない</td><td>応募の数そのものが少ない。母集団の形成（媒体・スカウト・求人票）</td></tr></tbody></table></div>
+<p>詰まりは、たいてい一か所です。二か所以上を同時に直すと、どちらが効いたか分からなくなります。一枚を依頼側に見せるとき、「直す場所は一つ」と、担当者の案を添えます。決めるのは依頼側です。</p>
+<h2 id="h7">依頼側に見せる一枚</h2>
+<div class="tw"><table><thead><tr><th>部分</th><th>中身</th></tr></thead><tbody><tr><td>表</td><td>段階×（数・日数・理由の分類）。期間を明記</td></tr><tr><td>詰まりの段</td><td>一か所。根拠（数か日数か理由か）</td></tr><tr><td>手当ての案</td><td>一つ。何を直すか、誰が</td></tr><tr><td>次に見ること</td><td>手当ての後、どの段のどの数字を、いつ見るか</td></tr><tr><td>記録の欠け</td><td>埋まっていない列があれば、それも書く</td></tr></tbody></table></div>
+<p>一枚は、月次で更新します。前月と並べて、詰まりの段が動いたかを見ます。手当ての前後で数字を比べるときも、割合ではなく件数で、「この件数では傾向として断定できない」と添えます。報告の形は<a href="/media/fukugyo-houkoku/">報告のしかた</a>に書いています。</p>
+<h2 id="h8">よく起きる詰まりと直し方</h2>
+<div class="tw"><table><thead><tr><th>詰まり</th><th>直し方</th></tr></thead><tbody><tr><td>一覧の記録が埋まっていない</td><td>一枚を作る前に、運用ルールに戻る。「今月から」と伝える</td></tr><tr><td>依頼側が通過率を求める</td><td>数を並べ、割合は依頼側が計算できる形に。件数の少なさを添える</td></tr><tr><td>グラフを求められる</td><td>表で足りることを伝える。作るなら表の後に、一つだけ</td></tr><tr><td>詰まりが複数に見える</td><td>日数を見る。減っている段の一つ前の日数が原因のことが多い。直すのは一か所</td></tr><tr><td>経路別に分けたら件数が少なすぎる</td><td>全体だけで読む。経路別は件数がたまってから</td></tr><tr><td>手当ての後に数字が動かない</td><td>詰まりの読みが違ったか、手当ての場所以外の原因。次の一か所へ</td></tr></tbody></table></div>
+<h2 id="h9">まとめ</h2>
+<ul><li>「応募数」と「採用数」では詰まりが見えない。<strong>段階ごとに</strong>見る</li><li>段階は<strong>依頼側の選考と一覧の選択肢に合わせる</strong></li><li>各段で<strong>数・次に進むまでの日数・落ちた理由の分類</strong>の三つを並べる。日数が「原因の段」を教える</li><li><strong>記録から作る</strong>。記録が無い期間は作らず、「今月から」</li><li>分けるのは<strong>全体→経路別→求人別</strong>の順。件数が減るほど読めなくなる</li><li>詰まりは<strong>一か所</strong>。手当ても一つ。決めるのは依頼側</li><li><strong>割合で断定しない</strong>。件数のまま並べ、揺れることを添える</li><li><strong>月次で更新</strong>し、前月と並べる</li></ul>
+<h2 id="h10">よくある質問</h2>
+<h3>依頼側に過去の記録が無く、「これまでのファネル」を求められます</h3>
+<p>作れません。「記録が無いので、今月から記録して、来月に最初の一枚を出します」と伝えます。過去のメールや記憶から推測で作ると、その数字が一人歩きします。記録が無いこと自体が、依頼側の採用の課題の一つなので、一覧の運用ルールを先に作ることを提案します。運用ルールの型は<a href="/media/fukugyo-skill-ats-unyou/">ATSの運用ルールを作る</a>に書いています。</p>
+<h3>段階ごとの日数を出そうとしたら、段階が動いた日が記録されていません</h3>
+<p>「最終更新日」の列が無いか、埋まっていない状態です。今月から、段階を動かすときに日付を入れるルールにします。それまでは、数と理由の二つで一枚を作り、「日数は来月から」と書きます。日数が無い一枚は、「減っている段」は分かっても「原因の段」が分からないので、手当ての案は仮のものとして出します。</p>
+<h3>ファネルを見せたら、依頼側が面接官を責め始めました</h3>
+<p>一枚は人を評価するためのものではなく、直す場所を決めるためのものだと伝えます。一次で数が減っているなら、一次の面接官の目ではなく、書類の基準と一次の観点のずれ、または一次の前の日数が原因のことが多い。「面接官別」の分け方は依頼側の判断で行い、担当者は「枠の預かり方」や「基準の一行」の問題として返します。面接官の評価に踏み込まない線は<a href="/media/fukugyo-skill-mensetsukan/">面接官トレーニングを行う</a>に書いています。</p>
+  </div>
+  
+  <aside class="cta-end">
+  <p class="cta-end__lead">人事の経験を、副業で活かす</p>
+  <p class="cta-end__sub">稼働時間も単価もご自身で決められます。エラベルは企業とあなたをつなぐ窓口です。</p>
+  <a class="btn btn-primary" href="/partner.html">担当者として登録する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/fukugyo-skill-agent-brief/">紹介会社への依頼書を作る｜求人票の写しではなく、「紹介会社が推薦の判断に使う一枚」にする型</a></li><li><a href="/media/fukugyo-skill-agent-kaigi/">紹介会社との定例を回す｜「近況を聞く場」ではなく、「推薦のずれを一つ直す場」にする型</a></li><li><a href="/media/fukugyo-skill-agent-kanri/">紹介会社を管理する｜「数を増やす」でも「切る」でもなく、「社数・情報・返事・記録」を揃えて推薦が来る形にする型</a></li><li><a href="/media/fukugyo-skill-alumni/">アルムナイ採用を設計する｜「辞めた人に声をかける」ではなく、「辞め方・関係の続け方・戻る形・受け入れ」の四つで設計する型</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>給与テーブルを作る｜「額を決める」のではなく、「幅・段・上がり方・手当の位置」の構造を作り、額は依頼側と専門家に置く型｜エラベル</title>
+<meta name="description" content="人事の副業で、給与テーブル（等級ごとの報酬の表）を作る型を整理しました。額から始めると原資と合わず崩れる理由、テーブルの四つの構造（等級ごとの幅・幅の中の段・上がり方の仕組み・手当の位置づけ）、いまの分布を「幅・逆転・並び」で読む（個人名を出さない）、幅の重なりと開きの考え方、上がり方は評価の判断と対応させる、額と相場は担当者が入れず依頼側の数字と専門家の確認で埋める、移行で下がる人の構造は示すが扱いは専門家、報酬のデータの扱い、詰まりと直し方を、副業の担当者がその場で使える形で書いています。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/fukugyo-skill-kyuyo-table/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="給与テーブルを作る｜「額を決める」のではなく、「幅・段・上がり方・手当の位置」の構造を作り、額は依頼側と専門家に置く型｜エラベル">
+<meta property="og:description" content="人事の副業で、給与テーブル（等級ごとの報酬の表）を作る型を整理しました。額から始めると原資と合わず崩れる理由、テーブルの四つの構造（等級ごとの幅・幅の中の段・上がり方の仕組み・手当の位置づけ）、いまの分布を「幅・逆転・並び」で読む（個人名を出さない）、幅の重なりと開きの考え方、上がり方は評価の判断と対応させる、額と相場は担当者が入れず依頼側の数字と専門家の確認で埋める、移行で下がる人の構造は示すが扱いは専門家、報酬のデータの扱い、詰まりと直し方を、副業の担当者がその場で使える形で書いています。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/fukugyo-skill-kyuyo-table/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"給与テーブルを作る｜「額を決める」のではなく、「幅・段・上がり方・手当の位置」の構造を作り、額は依頼側と専門家に置く型","description":"人事の副業で、給与テーブル（等級ごとの報酬の表）を作る型を整理しました。額から始めると原資と合わず崩れる理由、テーブルの四つの構造（等級ごとの幅・幅の中の段・上がり方の仕組み・手当の位置づけ）、いまの分布を「幅・逆転・並び」で読む（個人名を出さない）、幅の重なりと開きの考え方、上がり方は評価の判断と対応させる、額と相場は担当者が入れず依頼側の数字と専門家の確認で埋める、移行で下がる人の構造は示すが扱いは専門家、報酬のデータの扱い、詰まりと直し方を、副業の担当者がその場で使える形で書いています。","datePublished":"2026-09-22","dateModified":"2026-09-22","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/fukugyo-skill-kyuyo-table/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/fukugyo/">人事副業</a><i>›</i><span>給与テーブルを作る｜「額を決める」のではなく、「幅・段・上がり方・手当の位置」の構造を作り、額は依頼側と専門家に置く型</span></div></nav><main class="wrap article">
+  <p class="art__kicker">人事副業 / 採用・人事の実務</p>
+  <h1>給与テーブルを作る｜「額を決める」のではなく、「幅・段・上がり方・手当の位置」の構造を作り、額は依頼側と専門家に置く型</h1>
+  <p class="art__meta">公開 2026-09-22</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">額から始めると崩れる</a></li><li><a href="#h2">四つの構造</a></li><li><a href="#h3">いまの分布を読む</a></li><li><a href="#h4">幅の重なりと開き</a></li><li><a href="#h5">上がり方は評価の判断と対応させる</a></li><li><a href="#h6">額を埋める順（依頼側と専門家）</a></li><li><a href="#h7">踏み込まない線</a></li><li><a href="#h8">よく起きる詰まりと直し方</a></li><li><a href="#h9">まとめ</a></li><li><a href="#h10">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>「給与テーブルを作ってほしい」と頼まれて、「この等級はこのくらい」と額から入ると、依頼側の原資と合わず、いまの社員の給与と逆転が起き、外部の相場を持ち込めば根拠を問われて答えられません。給与テーブルは、額を決めるものではなく、「幅・段・上がり方・手当の位置」の構造を作るもので、額は依頼側の数字と専門家の確認で埋めます。結論を先に書くと、<strong>給与テーブルは、等級ごとの幅・幅の中の段・上がり方の仕組み・手当の位置づけの四つの構造を作り、いまの分布を幅・逆転・並びで読み、幅の重なりと開きを設計し、上がり方は評価の判断と対応させ、額と相場は担当者が入れずに依頼側の数字と専門家の確認で埋め、移行で下がる人の構造は示すが扱いは専門家に置きます。</strong>案件として受ける形は<a href="/media/fukugyo-kyuyo-seido-shigoto/">給与テーブルの設計の副業の実務</a>に、三つのつながりは<a href="/media/fukugyo-skill-jinji-seido/">人事制度を設計する</a>に、等級は<a href="/media/fukugyo-skill-grade/">等級制度を設計する</a>に書いています。ここでは、テーブルの構造の型に絞ります。</p>
+<h2 id="h1">額から始めると崩れる</h2>
+<div class="tw"><table><thead><tr><th>額から始める形</th><th>何が起きるか</th></tr></thead><tbody><tr><td>「この等級は〇〇万円くらい」と担当者が置く</td><td>依頼側の原資と合わない。根拠を問われて答えられない</td></tr><tr><td>外部の相場を持ち込む</td><td>依頼側の業種・規模・地域と合わない。時期で変わる</td></tr><tr><td>いまの社員の給与を見ずに作る</td><td>逆転（下の等級が上より高い）が起き、移行できない</td></tr><tr><td>手当を考えずに基本の額だけ</td><td>手当を足すと構造が崩れる</td></tr><tr><td>上がり方を決めずに幅だけ</td><td>「どうすれば上がるか」が無く、表が形だけになる</td></tr></tbody></table></div>
+<p>構造が先、額は後。額は依頼側の数字（いまの給与の分布、原資の考え方）と、専門家（社労士等）の確認で埋めます。担当者は額を入れません。</p>
+<h2 id="h2">四つの構造</h2>
+<div class="tw"><table><thead><tr><th>構造</th><th>決めること</th><th>考え方</th></tr></thead><tbody><tr><td>等級ごとの幅</td><td>各等級の下限と上限（額ではなく、幅の形）</td><td>上の等級ほど幅を広くするか、同じにするか。隣の等級と重ねるか、開けるか</td></tr><tr><td>幅の中の段</td><td>幅を何段に刻むか。段の刻み方（均等か、上ほど細かいか）</td><td>段が多いと昇給の刻みが細かく、少ないと粗い。運用できる数</td></tr><tr><td>上がり方の仕組み</td><td>段が上がる条件（評価の判断との対応）。等級が上がる条件（等級の定義との対応）</td><td>評価の三段階（期待どおり・超える・届かない）と、段の動きを対応させる</td></tr><tr><td>手当の位置づけ</td><td>何を基本の幅に含め、何を手当にするか。手当の条件</td><td>役割に付く手当、条件に付く手当、を分ける。法令上の整理は専門家</td></tr></tbody></table></div>
+<p>四つを、額を入れずに一枚にします。「幅の形」「段の数」「上がり方の対応」「手当の分類」が決まれば、額は依頼側が入れられます。</p>
+<h3>エラベルの見解</h3>
+<p>担当する側から見ると、給与テーブルで最も差がつくのは、「額を一切入れずに、構造の一枚を渡せるか」です。受ける側は、依頼側に「目安でいいから額を」と言われ、入れてしまいます。入れた瞬間に、その額が「担当者の提案」として扱われ、原資と合わなければ担当者の責任になり、社員に知られれば「外の人が決めた」となります。「幅の形と段の数と上がり方は私が作ります。額は御社のいまの分布と原資から、専門家の確認を経て入れてください」と、最初に線を引く。エラベルで担当者を選ぶ企業には、「テーブルの額は、誰が、何を根拠に入れましたか」を、私たちから先に聞いています。受ける側がその場で使える判断としては、テーブルの一枚の額の列を、最後まで空欄のまま渡すこと。空欄の理由を一行添えます。</p>
+<aside class="cta-inline">
+<p>これまでの経験がどの案件で活きるか、見てみませんか</p>
+<a href="/partner.html">担当者として登録する</a>
+</aside>
+<h2 id="h3">いまの分布を読む</h2>
+<div class="tw"><table><thead><tr><th>読むこと</th><th>見方</th><th>個人を出さない形</th></tr></thead><tbody><tr><td>幅</td><td>役割（等級の候補）ごとに、いまの給与の下限と上限がどのくらい開いているか</td><td>役割ごとの「開き」だけ。個人名も額も一枚に書かない</td></tr><tr><td>逆転</td><td>下の役割の人が、上の役割の人より高いことがあるか</td><td>「逆転がある役割の組」を示す。誰かは書かない</td></tr><tr><td>並び</td><td>同じ役割の中で、勤続や年齢で並んでいるか、評価で並んでいるか</td><td>傾向だけ</td></tr><tr><td>手当</td><td>何の手当が、誰の給与に含まれているか</td><td>手当の種類と、付いている役割</td></tr></tbody></table></div>
+<p>分布の読みは、依頼側の人事の記録から、依頼側が集計する形にし、担当者は「読み方の一枚」を渡します。個人の給与の額を担当者が扱わない形にできれば、そのほうがよい。扱う場合も、手元に残しません。扱いは<a href="/media/fukugyo-kojin-jouhou/">個人情報の扱い</a>に書いています。</p>
+<h2 id="h4">幅の重なりと開き</h2>
+<div class="tw"><table><thead><tr><th>形</th><th>向く状況</th><th>注意</th></tr></thead><tbody><tr><td>隣の等級と幅が重なる</td><td>等級が上がらなくても、段で上がれる余地を残したい。役割の段階が緩やか</td><td>重なりが大きいと、等級の意味が薄れる</td></tr><tr><td>隣の等級と幅が開く</td><td>等級の違いをはっきりさせたい。役割の段階が明確</td><td>移行で、幅に入らない人が出やすい</td></tr><tr><td>上の等級ほど幅が広い</td><td>上の段階で成果の差が大きい</td><td>上の等級の段の数が増える</td></tr><tr><td>全部同じ幅</td><td>単純で運用しやすい</td><td>上の等級で成果の差を表せない</td></tr></tbody></table></div>
+<p>形の選択肢を並べ、依頼側が選びます。「一般にこの形」とは言いません。依頼側の役割の段階と、いまの分布から、合う形を並べます。</p>
+<h2 id="h5">上がり方は評価の判断と対応させる</h2>
+<div class="tw"><table><thead><tr><th>評価の判断</th><th>段の動きの対応（例の形）</th></tr></thead><tbody><tr><td>期待を超える</td><td>段が二つ上がる、など</td></tr><tr><td>期待どおり</td><td>段が一つ上がる、など</td></tr><tr><td>期待に届かない</td><td>段が動かない、など</td></tr><tr><td>等級の定義を満たした</td><td>等級が上がる。段は新しい等級の下の段から、など</td></tr></tbody></table></div>
+<p>対応の形は依頼側が決め、担当者は「評価の三段階と段の動きを対応させる表」の枠を作ります。「賞与」への対応も同じ考え方で、対応の構造だけを作ります。評価の設計は<a href="/media/fukugyo-skill-hyouka/">評価制度を設計する</a>に書いています。昇給や賞与の原資と、対応の結果の総額は、依頼側の数字で依頼側が確かめます。</p>
+<h3>エラベルの見解</h3>
+<p>相談で最も多い思い込みは、受ける側の「手当は後で足せばよい」というものです。実際には、手当を後から足すと、基本の幅の構造が崩れ、「手当で調整する」運用に戻ります。役割に付く手当（役職、責任）と、条件に付く手当（通勤、住宅など。法令上の整理があるものを含む）を、テーブルの構造の段階で分け、「基本の幅に含めるもの」「手当にするもの」を先に決めます。手当の種類ごとの法令上の扱いは、専門家の確認に従います。受ける側がその場で使える判断としては、四つの構造の一枚に「手当の分類」の欄を最初から置き、いまある手当を全部並べて、基本に含めるか手当のまま残すかを依頼側に一つずつ判断してもらうこと。</p>
+<aside class="cta-inline">
+<p>稼働時間も単価も、ご自身で決められます</p>
+<a href="/partner.html">担当者として登録する</a>
+</aside>
+<h2 id="h6">額を埋める順（依頼側と専門家）</h2>
+<div class="tw"><table><thead><tr><th>順</th><th>誰が</th><th>中身</th></tr></thead><tbody><tr><td>一</td><td>依頼側</td><td>いまの分布から、各等級の幅の下限と上限の候補を置く</td></tr><tr><td>二</td><td>依頼側</td><td>原資の考え方（昇給の総額、賞与の総額）と照らす</td></tr><tr><td>三</td><td>依頼側と専門家</td><td>移行で下がる人、幅に入らない人の扱い。法令上の整理（不利益になる変更の扱いなど）</td></tr><tr><td>四</td><td>専門家</td><td>規程の変更と手続き</td></tr><tr><td>五</td><td>依頼側</td><td>決定と、社員への説明</td></tr></tbody></table></div>
+<p>担当者は、一〜五の順と、各段で確かめる項目を一枚にして渡すまでです。移行で下がる人が出る構造は、担当者が示しますが、扱いは専門家です。労働条件の変更に関わる法令上の整理は、依頼側の決まりと専門家の確認に従います。個別の判断は専門家にご確認ください。線の詳細は<a href="/media/fukugyo-ihan-shinai/">副業で法令違反をしないために</a>に書いています。</p>
+<h2 id="h7">踏み込まない線</h2>
+<div class="tw"><table><thead><tr><th>線</th><th>理由</th></tr></thead><tbody><tr><td>額を入れない</td><td>原資と根拠は依頼側。担当者の提案として扱われる</td></tr><tr><td>外部の相場を持ち込まない</td><td>依頼側の条件と合わない。根拠を問われる</td></tr><tr><td>個人の給与を手元に置かない</td><td>個人情報。分布の読みは依頼側が集計</td></tr><tr><td>移行の扱いを決めない</td><td>法令上の整理。専門家</td></tr><tr><td>規程の文言に触れない</td><td>専門家の領域</td></tr><tr><td>「これで公平」と言わない</td><td>公平さは依頼側の判断と説明で決まる</td></tr></tbody></table></div>
+<h2 id="h8">よく起きる詰まりと直し方</h2>
+<div class="tw"><table><thead><tr><th>詰まり</th><th>直し方</th></tr></thead><tbody><tr><td>依頼側が額を求める</td><td>構造の一枚を先に。額は依頼側の数字と専門家で。空欄の理由を添える</td></tr><tr><td>逆転が多く、幅に入らない人が多い</td><td>幅を重ねる形を選択肢に。移行の扱いは専門家</td></tr><tr><td>手当が多く、構造が複雑</td><td>手当の分類を先に。基本に含めるか残すかを一つずつ</td></tr><tr><td>上がり方が決まらない</td><td>評価の三段階との対応の枠を作り、対応は依頼側が決める</td></tr><tr><td>個人の給与が担当者の手元に</td><td>依頼側の集計に戻し、手元を消す</td></tr><tr><td>「一般的な相場」を聞かれる</td><td>「御社の分布と原資から」と、根拠を依頼側の数字に戻す</td></tr></tbody></table></div>
+<h2 id="h9">まとめ</h2>
+<ul><li>額から始めると崩れる。<strong>幅・段・上がり方・手当の位置の構造が先</strong></li><li>いまの分布は<strong>幅・逆転・並び・手当</strong>で読む。個人名と額は一枚に書かない</li><li>幅の<strong>重なりと開き</strong>は選択肢を並べ、依頼側が選ぶ</li><li>上がり方は<strong>評価の三段階と段の動きを対応させる枠</strong>。対応は依頼側</li><li><strong>手当の分類を構造の段階で</strong>。法令上の扱いは専門家</li><li><strong>額と相場は担当者が入れない</strong>。依頼側の数字と専門家の確認で埋める。個別の判断は専門家にご確認ください</li><li>移行で下がる人の構造は示す。<strong>扱いは専門家</strong></li><li>個人の給与を手元に置かない</li></ul>
+<h2 id="h10">よくある質問</h2>
+<h3>依頼側から「他社のテーブルを参考に作ってほしい」と言われました</h3>
+<p>他社のテーブルは、他社の役割の段階と原資で作られていて、構造の参考にはなっても、額の参考にはなりません。「幅の形と段の数の考え方は参考にします。額は御社の分布と原資から」と分けます。他社のテーブルそのものを持ち込んで額を写すと、依頼側の社員の給与と合わず、移行で崩れます。構造の選択肢を依頼側の分布から並べ直します。</p>
+<h3>等級が無い会社で、給与テーブルだけを頼まれました</h3>
+<p>テーブルは等級ごとの幅なので、等級（または役割の段階）が無いと作れません。「役割の段階」を三つ程度に仮に置き、それを等級の代わりにしてテーブルの構造を作る形を提案します。段階の置き方は<a href="/media/fukugyo-skill-grade/">等級制度を設計する</a>に書いています。テーブルだけを先に作ると、「何で上の幅に入るか」が無く、形だけになります。順番は、段階→評価の観点→テーブル、です。</p>
+<h3>社員に「新しいテーブルで、自分の給与はどうなるか」と聞かれたと依頼側から相談されました</h3>
+<p>個別の給与の説明は、依頼側の人事と経営者が行います。担当者は、説明の資料（構造の説明、移行の考え方）を依頼側が使える形で作るまでで、個別の額の説明には関わりません。「下がる人」への説明は、法令上の整理が関わるので、専門家の確認を経た内容で、依頼側が行います。担当者が社員と直接話す形は避けます。</p>
+  </div>
+  
+  <aside class="cta-end">
+  <p class="cta-end__lead">人事の経験を、副業で活かす</p>
+  <p class="cta-end__sub">稼働時間も単価もご自身で決められます。エラベルは企業とあなたをつなぐ窓口です。</p>
+  <a class="btn btn-primary" href="/partner.html">担当者として登録する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/fukugyo-skill-1on1/">1on1を設計する｜「上司に任せる」でも「担当者が話す」でもなく、「目的・頻度・型・記録・戻し方」を上司が回せる形にする型</a></li><li><a href="/media/fukugyo-skill-engagement/">エンゲージメント施策を作る｜「イベントや制度を足す」のではなく、「下がっている箇所を一つ特定し、管理職の行動を三か月変える」型</a></li><li><a href="/media/fukugyo-skill-exit-interview/">退職面談を設計する｜「引き止め」でも「形式」でもなく、「本人の言葉で理由を聞き、分類して次の採用と受け入れに戻す」型</a></li><li><a href="/media/fukugyo-skill-grade/">等級制度を設計する｜「段階の数を決める」のではなく、「いまうまくやっている人の段階」から、期待の言葉で段を起こす型</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

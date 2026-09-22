@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ATSの選定と初期設定｜機能で選ばず、「毎日使う三つの画面」と「選考の段階」から決める型｜エラベル</title>
+<meta name="description" content="人事の副業で、ATS（採用管理システム）の選定と初期設定を行う型を整理しました。機能の一覧で選ぶと使われなくなる理由、選定の三つの軸（依頼側の選考の段階と一致するか・毎日使う三つの画面が使いやすいか・誰が更新するかに合うか）、料金や機能を断定せず確認してから比べる線、初期設定で決めること（選考の段階・項目・権限・通知・テンプレート）、既存のスプレッドシートや媒体からの移行の順番、個人情報の扱いと権限の設計、担当者のアカウントの扱い、導入の判断は依頼側であること、詰まりと直し方を、副業の担当者がその場で使える形で書いています。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/fukugyo-skill-ats-sekkei/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="ATSの選定と初期設定｜機能で選ばず、「毎日使う三つの画面」と「選考の段階」から決める型｜エラベル">
+<meta property="og:description" content="人事の副業で、ATS（採用管理システム）の選定と初期設定を行う型を整理しました。機能の一覧で選ぶと使われなくなる理由、選定の三つの軸（依頼側の選考の段階と一致するか・毎日使う三つの画面が使いやすいか・誰が更新するかに合うか）、料金や機能を断定せず確認してから比べる線、初期設定で決めること（選考の段階・項目・権限・通知・テンプレート）、既存のスプレッドシートや媒体からの移行の順番、個人情報の扱いと権限の設計、担当者のアカウントの扱い、導入の判断は依頼側であること、詰まりと直し方を、副業の担当者がその場で使える形で書いています。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/fukugyo-skill-ats-sekkei/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"ATSの選定と初期設定｜機能で選ばず、「毎日使う三つの画面」と「選考の段階」から決める型","description":"人事の副業で、ATS（採用管理システム）の選定と初期設定を行う型を整理しました。機能の一覧で選ぶと使われなくなる理由、選定の三つの軸（依頼側の選考の段階と一致するか・毎日使う三つの画面が使いやすいか・誰が更新するかに合うか）、料金や機能を断定せず確認してから比べる線、初期設定で決めること（選考の段階・項目・権限・通知・テンプレート）、既存のスプレッドシートや媒体からの移行の順番、個人情報の扱いと権限の設計、担当者のアカウントの扱い、導入の判断は依頼側であること、詰まりと直し方を、副業の担当者がその場で使える形で書いています。","datePublished":"2026-09-22","dateModified":"2026-09-22","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/fukugyo-skill-ats-sekkei/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/fukugyo/">人事副業</a><i>›</i><span>ATSの選定と初期設定｜機能で選ばず、「毎日使う三つの画面」と「選考の段階」から決める型</span></div></nav><main class="wrap article">
+  <p class="art__kicker">人事副業 / 採用・人事の実務</p>
+  <h1>ATSの選定と初期設定｜機能で選ばず、「毎日使う三つの画面」と「選考の段階」から決める型</h1>
+  <p class="art__meta">公開 2026-09-22</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">機能の一覧で選ぶと使われなくなる</a></li><li><a href="#h2">選定の三つの軸</a></li><li><a href="#h3">料金や機能を断定しない</a></li><li><a href="#h4">初期設定で決めること</a></li><li><a href="#h5">既存の記録からの移行</a></li><li><a href="#h6">個人情報と権限の設計</a></li><li><a href="#h7">導入の判断は依頼側</a></li><li><a href="#h8">よく起きる詰まりと直し方</a></li><li><a href="#h9">まとめ</a></li><li><a href="#h10">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>「ATSを入れたい。どれがよいか選んでほしい」という依頼で、機能の比較表を作って渡すと、依頼側は一番機能が多いものを選び、半年後に「使いこなせていない」となります。ATSは、機能の多さで選ぶものではなく、「依頼側の選考の段階と、毎日使う画面と、誰が更新するか」に合うかで選ぶものです。結論を先に書くと、<strong>ATSの選定は、依頼側の選考の段階と一致するか・毎日使う三つの画面が使いやすいか・誰が更新するかに合うかの三つの軸で行い、料金や機能は確認してから比べ、初期設定では選考の段階・項目・権限・通知・テンプレートを決め、既存の記録から順に移し、個人情報の権限を先に設計し、導入の判断は依頼側に残します。</strong>会社側から見た選び方は<a href="/media/rpo-ats-erabikata/">ATSの選び方</a>に、使いこなせない構造は<a href="/media/rpo-ats-tsukaikonasenai/">ATSを入れたが使いこなせていない</a>に、案件として受ける形は<a href="/media/fukugyo-ats-dounyu-shigoto/">ATS導入の支援の副業の実務</a>に書いています。ここでは、選定と初期設定の型に絞ります。</p>
+<h2 id="h1">機能の一覧で選ぶと使われなくなる</h2>
+<div class="tw"><table><thead><tr><th>選び方</th><th>何が起きるか</th></tr></thead><tbody><tr><td>機能の数が多いもの</td><td>使う画面が多すぎて、誰も全部を覚えない。更新が止まる</td></tr><tr><td>有名なもの</td><td>依頼側の選考の段階と合わず、段階を無理に合わせることになる</td></tr><tr><td>安いもの</td><td>必要な項目や権限が無く、結局スプレッドシートに戻る</td></tr><tr><td>媒体の営業が勧めたもの</td><td>媒体との連携は良いが、他の経路（紹介、リファラル）が入らない</td></tr><tr><td>担当者が前職で使っていたもの</td><td>依頼側の規模と体制が違う</td></tr></tbody></table></div>
+<p>ATSが使われるかどうかは、「毎日使う三つの画面（候補者の一覧、一人の詳細、次にやること）」が、更新する人にとって楽かどうかで決まります。</p>
+<h2 id="h2">選定の三つの軸</h2>
+<div class="tw"><table><thead><tr><th>軸</th><th>確かめること</th><th>確かめ方</th></tr></thead><tbody><tr><td>選考の段階と一致するか</td><td>依頼側の段階（応募→書類→一次→二次→最終→内定→入社）を、そのまま設定できるか。段階の名前を変えられるか</td><td>依頼側の段階を先に一枚にしてから、各ATSで再現できるかを見る</td></tr><tr><td>毎日使う三つの画面</td><td>一覧で「いま誰がどの段階か」が一目で分かるか。一人の詳細で記録が書けるか。「次にやること」が出るか</td><td>無料の試用があれば、依頼側の更新する人に触ってもらう</td></tr><tr><td>誰が更新するかに合うか</td><td>更新する人（人事、現場の面接官、副業の担当者）が、それぞれ自分の画面だけで済むか。権限を分けられるか</td><td>更新する人の一覧と、各人が触る画面を先に決める</td></tr></tbody></table></div>
+<p>三つの軸を、依頼側の状況で先に埋めてから、候補を見ます。候補から先に見ると、機能に引っ張られます。媒体の選定の根拠の作り方と同じ考え方で、<a href="/media/fukugyo-skill-baitai-sentei/">媒体を提案する根拠の作り方</a>に書いています。</p>
+<h3>エラベルの見解</h3>
+<p>担当する側から見ると、ATSの選定で最も差がつくのは、「依頼側の選考の段階を先に一枚にしているか」です。受ける側は、ATSの候補を先に並べ、それぞれの機能を比べます。ただ、依頼側の選考が「一次は現場、二次は人事と現場、最終は経営者」で、段階ごとに記録の形が違うなら、その形をそのまま設定できないATSは、どれだけ機能が多くても合いません。段階と記録の形を一枚にしてから候補を見ると、候補は二つか三つに絞られます。エラベルで担当者を選ぶ企業には、「ATSを選ぶ前に、御社の選考の段階と記録の形を一枚にしていますか」を、私たちから先に聞いています。受ける側がその場で使える判断としては、<a href="/media/fukugyo-skill-mensetsu-sekkei/">面接の設計</a>の五つ（段階・面接官・項目・記録・決める人）を、そのままATSの要件の一枚にすること。設計が無い依頼側では、ATSの選定より先に設計をします。</p>
+<aside class="cta-inline">
+<p>これまでの経験がどの案件で活きるか、見てみませんか</p>
+<a href="/partner.html">担当者として登録する</a>
+</aside>
+<h2 id="h3">料金や機能を断定しない</h2>
+<p>ATSの料金、プランの内容、機能の有無、連携できる媒体は変わります。「〇〇は月〇〇円で〇〇ができます」と提案に書いて、契約の段階で違っていると、担当者の信頼が落ちます。</p>
+<div class="tw"><table><thead><tr><th>断定する書き方</th><th>置き換え</th></tr></thead><tbody><tr><td>「月額〇〇円」</td><td>「料金はアカウント数と期間で変わるため、見積もりを取ってから比べる」</td></tr><tr><td>「〇〇の機能がある」</td><td>「〇〇の機能の有無と制約は、試用か担当者への確認で確かめる」</td></tr><tr><td>「〇〇媒体と連携できる」</td><td>「連携の可否と条件は、契約前に確認する」</td></tr></tbody></table></div>
+<p>比べるときは、「同じ段階を再現できるか」「同じ人が同じ画面で更新できるか」で軸をそろえます。費用の判断は依頼側です。担当者は軸をそろえ、候補を二つか三つに絞り、確認する項目を並べるまでです。</p>
+<h2 id="h4">初期設定で決めること</h2>
+<div class="tw"><table><thead><tr><th>決めること</th><th>中身</th><th>決める人</th></tr></thead><tbody><tr><td>選考の段階</td><td>依頼側の段階をそのまま。名前も依頼側の呼び方に</td><td>依頼側（担当者が一枚を作る）</td></tr><tr><td>項目</td><td>候補者の一覧に出す項目（段階、担当、次の日程、経路）。詳細に書く項目（評価シートの観点）</td><td>担当者が案、依頼側が決定</td></tr><tr><td>権限</td><td>誰が何を見られるか、書けるか。面接官は自分の段の記録だけ。個人情報の閲覧は最小に</td><td>依頼側の決まりに従う</td></tr><tr><td>通知</td><td>誰に何を知らせるか。日程が決まったら面接官に、記録が書かれたら決める人に。多すぎると無視される</td><td>担当者が案</td></tr><tr><td>テンプレート</td><td>候補者への連絡の文面（日程の提示、確定、結果）。<a href="/media/fukugyo-skill-henshin-taiou/">返信対応のテンプレート</a>の型</td><td>担当者が案、依頼側が確認</td></tr></tbody></table></div>
+<p>初期設定は、「最初から全部」ではなく、「毎日使う三つの画面が動く最小」で始めます。段階と項目と権限が決まれば動きます。通知とテンプレートは、動き始めてから足します。</p>
+<h2 id="h5">既存の記録からの移行</h2>
+<div class="tw"><table><thead><tr><th>順</th><th>移すもの</th><th>注意</th></tr></thead><tbody><tr><td>一</td><td>選考中の候補者（いま動いている人）</td><td>段階と次の日程を正確に。ここが間違うと候補者に迷惑がかかる</td></tr><tr><td>二</td><td>直近の応募者（結果が出た人）</td><td>依頼側の決まりで保管の対象になっている範囲だけ</td></tr><tr><td>三</td><td>過去の応募者</td><td>移すかどうかは依頼側の決まり。保管の期限が過ぎたものは移さない</td></tr><tr><td>四</td><td>媒体との連携</td><td>連携の設定は、一〜三が終わってから。連携で重複が入らないように</td></tr></tbody></table></div>
+<p>移行は、個人情報を扱う作業です。移す範囲、移した後の元のデータの扱い（消すか残すか）、移す作業を誰が行うかは、依頼側の決まりに従います。担当者の端末に候補者の情報をダウンロードして作業することは避け、依頼側の環境で行います。情報の扱いは<a href="/media/fukugyo-security/">情報の取り扱いと端末の分離</a>に書いています。</p>
+<h3>エラベルの見解</h3>
+<p>相談で最も多い思い込みは、受ける側の「ATSを入れれば、採用の管理が整う」というものです。実際には、ATSは記録の置き場所で、記録の形（段階・観点・事実と判断）が決まっていなければ、置き場所が変わるだけで管理は整いません。スプレッドシートで回らなかった理由が「記録の形が無い」ことなら、ATSに移しても同じです。ATSの選定の前に、記録の形を決める。それができていれば、スプレッドシートでも回ることがあります。受ける側がその場で使える判断としては、依頼側が「ATSを入れたい」と言ったとき、まず「いまの記録の形」を見せてもらうこと。形が無ければ、選定の前に形を作る提案をします。形があれば、その形を再現できるATSを選びます。</p>
+<aside class="cta-inline">
+<p>稼働時間も単価も、ご自身で決められます</p>
+<a href="/partner.html">担当者として登録する</a>
+</aside>
+<h2 id="h6">個人情報と権限の設計</h2>
+<div class="tw"><table><thead><tr><th>決めること</th><th>考え方</th></tr></thead><tbody><tr><td>誰が候補者の詳細を見られるか</td><td>最小に。面接官は自分の段の候補者だけ。経営者は最終の候補者だけ</td></tr><tr><td>誰が個人情報（連絡先、履歴書）を見られるか</td><td>人事と、日程調整を担う人だけ。面接官には評価シートの観点だけ見せられる形が望ましい</td></tr><tr><td>副業の担当者のアカウント</td><td>依頼側が発行し、依頼側が管理。権限は担当者の業務に要る範囲だけ。案件の終了時に依頼側が停止</td></tr><tr><td>保管の期限</td><td>依頼側の決まりに従う。ATSの設定で自動で消える形があれば、依頼側の決まりに合わせて設定</td></tr><tr><td>外部への共有</td><td>ATSの外に候補者の情報を出す（ダウンロード、メールで送る）ことの可否と範囲</td></tr></tbody></table></div>
+<p>権限の設計は、個人情報の扱いに関わり、法令上の整理があります。依頼側の決まりと専門家の確認に従い、担当者が「これで十分」と判断しません。個別の判断は専門家にご確認ください。担当者自身のアカウントの扱いは<a href="/media/fukugyo-account-kanri/">アカウント管理のしかた</a>に書いています。</p>
+<h2 id="h7">導入の判断は依頼側</h2>
+<div class="tw"><table><thead><tr><th>担当者がやること</th><th>依頼側が決めること</th></tr></thead><tbody><tr><td>選考の段階と記録の形を一枚にする</td><td>どのATSと契約するか</td></tr><tr><td>三つの軸で候補を二つか三つに絞る</td><td>費用の判断</td></tr><tr><td>確認する項目（料金・機能・連携・権限）を並べる</td><td>権限と保管の決まり</td></tr><tr><td>初期設定の案と移行の順番を作る</td><td>移行の範囲と作業の担当</td></tr><tr><td>試用の結果（更新する人が触った感想）を整理する</td><td>導入の可否</td></tr></tbody></table></div>
+<p>契約や費用の判断に担当者が踏み込むと、後で「担当者が勧めたから」となります。担当者は材料を整えるまでです。</p>
+<h2 id="h8">よく起きる詰まりと直し方</h2>
+<div class="tw"><table><thead><tr><th>詰まり</th><th>直し方</th></tr></thead><tbody><tr><td>依頼側が機能の多さで選びたがる</td><td>「毎日使う三つの画面」を更新する人に触ってもらい、感想で比べる</td></tr><tr><td>選考の段階が決まっていない</td><td>ATSの前に<a href="/media/fukugyo-skill-mensetsu-sekkei/">面接の設計</a>の五つを一枚に</td></tr><tr><td>料金をすぐ知りたがる</td><td>「見積もりを取ってから比べる」を提案に入れる。担当者は数字を言わない</td></tr><tr><td>全機能を最初から設定しようとする</td><td>段階・項目・権限の最小で動かし、通知とテンプレートは後から</td></tr><tr><td>移行で候補者の情報が担当者の端末に</td><td>依頼側の環境で作業する形に戻す。ダウンロードしない</td></tr><tr><td>面接官が使わない</td><td>面接官の画面を「自分の段の候補者と評価シートだけ」に絞る。権限で見えるものを減らす</td></tr></tbody></table></div>
+<h2 id="h9">まとめ</h2>
+<ul><li>機能の多さで選ぶと使われなくなる。<strong>毎日使う三つの画面</strong>が更新する人にとって楽かで決まる</li><li>選定の軸は<strong>選考の段階と一致するか・三つの画面・誰が更新するか</strong>。依頼側の状況を先に一枚にしてから候補を見る</li><li><strong>料金・機能・連携は断定しない</strong>。確認してから比べる</li><li>初期設定は<strong>段階・項目・権限</strong>の最小で動かし、<strong>通知・テンプレート</strong>は後から</li><li>移行は<strong>選考中の候補者から</strong>。担当者の端末に落とさず、依頼側の環境で</li><li><strong>個人情報の権限は最小に</strong>。担当者のアカウントは依頼側が発行・管理・停止。個別の判断は専門家にご確認ください</li><li><strong>導入の判断は依頼側</strong>。担当者は材料を整えるまで</li></ul>
+<h2 id="h10">よくある質問</h2>
+<h3>依頼側の規模が小さく、ATSは要らないのではないかと思います</h3>
+<p>その判断も材料として伝えます。「選考の段階と記録の形が決まっていれば、スプレッドシートで回ることがあります」と、ATSを入れない案を並べます。ATSが要るかどうかは、候補者の数と更新する人の数と、媒体との連携の必要で決まり、規模だけでは決まりません。入れない案を含めて依頼側が判断できる形にします。</p>
+<h3>副業の担当者が、ATSの管理者権限を持ってもよいですか</h3>
+<p>依頼側の決まりに従います。管理者権限は、権限の設定と個人情報の一括の操作ができるので、担当者が持つと、依頼側の管理の外に出ます。初期設定の期間だけ依頼側の管理者と一緒に設定し、設定が終わったら担当者の権限を業務に要る範囲に下げる形を提案します。案件の終了時には、依頼側がアカウントを停止します。</p>
+<h3>既存のATSから別のATSに乗り換えたいと言われました</h3>
+<p>乗り換えは、移行の負担と、既存の記録の扱いが大きい。「使いこなせていない」が理由なら、乗り換えではなく、<a href="/media/rpo-ats-tsukaikonasenai/">ATSを入れたが使いこなせていない</a>の型（三つの画面と更新の担当に絞る）で直るかを先に見ます。段階が再現できない、権限が分けられない、など既存のATSの構造の問題なら乗り換えの候補を絞ります。乗り換えの判断は依頼側で、担当者は「直る問題か、構造の問題か」を分けて渡します。</p>
+  </div>
+  
+  <aside class="cta-end">
+  <p class="cta-end__lead">人事の経験を、副業で活かす</p>
+  <p class="cta-end__sub">稼働時間も単価もご自身で決められます。エラベルは企業とあなたをつなぐ窓口です。</p>
+  <a class="btn btn-primary" href="/partner.html">担当者として登録する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/fukugyo-skill-ats-unyou/">ATSの運用ルールを作る｜「使い方の説明書」ではなく、「誰が・いつ・何を更新するか」の一枚にする型</a></li><li><a href="/media/fukugyo-skill-dashboard/">ダッシュボードを作る｜「見た目の良い集計」ではなく、「週に一度、三つの数字と止まりが見える一画面」にする型</a></li><li><a href="/media/fukugyo-skill-spreadsheet/">スプレッドシートで採用管理を作る｜「一人一行・段階は一列・記録は別シート」で、ATSが無くても回る型</a></li><li><a href="/media/fukugyo-skill-agent-brief/">紹介会社への依頼書を作る｜求人票の写しではなく、「紹介会社が推薦の判断に使う一枚」にする型</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

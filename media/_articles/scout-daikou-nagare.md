@@ -9,7 +9,7 @@ tags: ["スカウト代行", "導入", "立ち上げ", "運用設計", "準備"]
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-nagare"
-related: ["scout-daikou-sokudo", "scout-daikou-junbi", "scout-shinnendo", "scout-baitai-kirikae"]
+related: ["scout-daikou-sokudo", "scout-daikou-junbi", "scout-hajime-30nichi", "scout-naisei-junbi"]
 ---
 
 スカウト代行を契約してから、実際に送信が始まるまでに何が起きるか。**準備の工程を飛ばすと、送っても返信が来ない状態になります**。条件の設計、文面の作成、媒体の設定。この記事では、稼働までの流れを段階ごとに整理し、遅れやすい箇所と対処をまとめます。任せる範囲の決め方は[任せる範囲の決め方](/media/scout-daikou-hanni/)にまとめています。

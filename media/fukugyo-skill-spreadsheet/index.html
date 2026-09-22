@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>スプレッドシートで採用管理を作る｜「一人一行・段階は一列・記録は別シート」で、ATSが無くても回る型｜エラベル</title>
+<meta name="description" content="人事の副業で、スプレッドシートで採用管理を作る型を整理しました。スプレッドシートが崩れる典型（一人が複数行・段階が複数列・メモが混ざる）、基本の三つ（一人一行・段階は一列で選択式・記録は別シートで紐づけ）、一覧に置く項目、段階の一覧を依頼側の選考に合わせる、更新の担当とタイミングをATSと同じルールで、共有の範囲と個人情報の列を分ける設計、関数や自動化は最小に留める理由、ATSに移行するときに困らない形、担当者が替わっても回る形、詰まりと直し方を、副業の担当者がその場で使える形で書いています。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/fukugyo-skill-spreadsheet/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="スプレッドシートで採用管理を作る｜「一人一行・段階は一列・記録は別シート」で、ATSが無くても回る型｜エラベル">
+<meta property="og:description" content="人事の副業で、スプレッドシートで採用管理を作る型を整理しました。スプレッドシートが崩れる典型（一人が複数行・段階が複数列・メモが混ざる）、基本の三つ（一人一行・段階は一列で選択式・記録は別シートで紐づけ）、一覧に置く項目、段階の一覧を依頼側の選考に合わせる、更新の担当とタイミングをATSと同じルールで、共有の範囲と個人情報の列を分ける設計、関数や自動化は最小に留める理由、ATSに移行するときに困らない形、担当者が替わっても回る形、詰まりと直し方を、副業の担当者がその場で使える形で書いています。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/fukugyo-skill-spreadsheet/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"スプレッドシートで採用管理を作る｜「一人一行・段階は一列・記録は別シート」で、ATSが無くても回る型","description":"人事の副業で、スプレッドシートで採用管理を作る型を整理しました。スプレッドシートが崩れる典型（一人が複数行・段階が複数列・メモが混ざる）、基本の三つ（一人一行・段階は一列で選択式・記録は別シートで紐づけ）、一覧に置く項目、段階の一覧を依頼側の選考に合わせる、更新の担当とタイミングをATSと同じルールで、共有の範囲と個人情報の列を分ける設計、関数や自動化は最小に留める理由、ATSに移行するときに困らない形、担当者が替わっても回る形、詰まりと直し方を、副業の担当者がその場で使える形で書いています。","datePublished":"2026-09-22","dateModified":"2026-09-22","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/fukugyo-skill-spreadsheet/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/fukugyo/">人事副業</a><i>›</i><span>スプレッドシートで採用管理を作る｜「一人一行・段階は一列・記録は別シート」で、ATSが無くても回る型</span></div></nav><main class="wrap article">
+  <p class="art__kicker">人事副業 / 採用・人事の実務</p>
+  <h1>スプレッドシートで採用管理を作る｜「一人一行・段階は一列・記録は別シート」で、ATSが無くても回る型</h1>
+  <p class="art__meta">公開 2026-09-22</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">崩れる典型</a></li><li><a href="#h2">基本の三つ</a></li><li><a href="#h3">一覧に置く項目</a></li><li><a href="#h4">記録のシート</a></li><li><a href="#h5">更新のルールはATSと同じ</a></li><li><a href="#h6">共有の範囲と個人情報</a></li><li><a href="#h7">ATSに移行しても困らない形</a></li><li><a href="#h8">よく起きる詰まりと直し方</a></li><li><a href="#h9">まとめ</a></li><li><a href="#h10">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>ATSを入れるほどの規模ではない、または入れる前に回る形を作りたい。そのとき、スプレッドシートで採用管理を作ることになります。ところが、依頼側の既存のシートを開くと、一人が複数行にわたり、段階が「一次済」「二次済」と列で並び、セルにメモが混ざり、誰が最新かが分からない。スプレッドシートが崩れるのは、道具の限界ではなく、構造が無いからです。結論を先に書くと、<strong>スプレッドシートの採用管理は、一人一行・段階は一列で選択式・記録は別シートで紐づけの三つを基本に、一覧の項目を絞り、更新の担当とタイミングをATSと同じルールで決め、個人情報の列を分けて共有の範囲を設計し、関数と自動化は最小に留め、ATSに移行しても困らない形で作ります。</strong>ATSの選定は<a href="/media/fukugyo-skill-ats-sekkei/">ATSの選定と初期設定</a>に、運用ルールは<a href="/media/fukugyo-skill-ats-unyou/">ATSの運用ルールを作る</a>に書いています。ここでは、スプレッドシートの型に絞ります。</p>
+<h2 id="h1">崩れる典型</h2>
+<div class="tw"><table><thead><tr><th>崩れ方</th><th>何が起きるか</th></tr></thead><tbody><tr><td>一人が複数行（応募のたび、面接のたびに行が増える）</td><td>「いま誰がどの段階か」が数えられない</td></tr><tr><td>段階が複数列（「一次済」「二次済」に○）</td><td>段階を進めるたびに列を探す。一覧で並べられない</td></tr><tr><td>セルにメモが混ざる</td><td>検索できない。誰が書いたか分からない</td></tr><tr><td>個人情報と評価が同じ行</td><td>面接官に見せると連絡先も見える</td></tr><tr><td>誰が最新の行を持っているか分からない</td><td>コピーが増え、正が分からない</td></tr></tbody></table></div>
+<p>崩れたシートを直すより、構造を決めて作り直すほうが早いことが多い。ただし、選考中の候補者の情報は正確に移します。</p>
+<h2 id="h2">基本の三つ</h2>
+<div class="tw"><table><thead><tr><th>基本</th><th>中身</th><th>なぜ</th></tr></thead><tbody><tr><td>一人一行</td><td>候補者一人につき一行。応募や面接で行を増やさない</td><td>「段階ごとに何人」が数えられる</td></tr><tr><td>段階は一列で選択式</td><td>「段階」の列を一つ作り、プルダウンで選ぶ（応募／書類／一次／二次／最終／内定／入社／見送り／辞退）</td><td>並べ替えと絞り込みができる。表記の揺れが出ない</td></tr><tr><td>記録は別シートで紐づけ</td><td>評価シートの記録は別のシートに、候補者の番号で紐づける</td><td>一覧が重くならない。面接官に一覧を見せずに記録だけ書ける</td></tr></tbody></table></div>
+<p>三つが守られていれば、スプレッドシートはATSと同じ構造になります。ATSは、この三つを画面にしたものです。</p>
+<h3>エラベルの見解</h3>
+<p>担当する側から見ると、スプレッドシートで最も差がつくのは、「段階を一列で選択式にする」を最初に決められるかどうかです。受ける側は、依頼側の既存のシートの「一次済」「二次済」の列を尊重して、そのまま足していきます。ただ、段階が列だと、「いま一次で止まっている人は何人か」が数えられず、<a href="/media/fukugyo-skill-funnel/">採用ファネルを可視化する</a>ができません。段階を一列にして、選択肢を依頼側の選考の段階と一致させる。それだけで、一覧の並べ替えと段階ごとの数が出ます。エラベルで担当者を選ぶ企業には、「採用管理のシートで、段階は一列ですか、複数列ですか」を、私たちから先に聞いています。受ける側がその場で使える判断としては、既存のシートを見たら、段階が一列かを最初に確かめ、複数列なら作り直しを提案すること。作り直しの負担より、数えられないことの損失が大きい、と伝えます。</p>
+<aside class="cta-inline">
+<p>これまでの経験がどの案件で活きるか、見てみませんか</p>
+<a href="/partner.html">担当者として登録する</a>
+</aside>
+<h2 id="h3">一覧に置く項目</h2>
+<div class="tw"><table><thead><tr><th>列</th><th>中身</th><th>注意</th></tr></thead><tbody><tr><td>番号</td><td>候補者ごとの通し番号。記録のシートとの紐づけの鍵</td><td>氏名ではなく番号で紐づける</td></tr><tr><td>段階</td><td>一列、選択式</td><td>依頼側の選考の段階と一致</td></tr><tr><td>経路</td><td>どこから来たか（媒体名、紹介、リファラル、自己応募）</td><td>選択式</td></tr><tr><td>応募日</td><td>最初の接点の日</td><td>日付の形式を揃える</td></tr><tr><td>最終更新日</td><td>段階が動いた日</td><td>週次の確認で「古い順」に並べる鍵</td></tr><tr><td>担当</td><td>いま誰が動かすか</td><td>一人。選択式</td></tr><tr><td>次にやること</td><td>一行</td><td>日程調整中、評価シート待ち、結果連絡、など</td></tr><tr><td>次の日程</td><td>面接や面談の日時</td><td>日付と時刻</td></tr><tr><td>見送り・辞退の理由</td><td>段階が見送りか辞退のときだけ。分類（速さ・迷い・接点・条件・要件・その他）</td><td>選択式。自由記述は記録のシートに</td></tr></tbody></table></div>
+<p>氏名と連絡先は、一覧とは別の「個人情報」のシートに置き、番号で紐づけます。一覧を面接官に見せても、連絡先が見えない形にします。項目は上の範囲で足り、増やすと更新が止まります。</p>
+<h2 id="h4">記録のシート</h2>
+<div class="tw"><table><thead><tr><th>列</th><th>中身</th></tr></thead><tbody><tr><td>番号</td><td>一覧の番号と同じ</td></tr><tr><td>段</td><td>一次・二次・最終のどれか</td></tr><tr><td>面接官</td><td>誰が書いたか</td></tr><tr><td>観点一〜三の事実</td><td>候補者が語った場面。一行ずつ</td></tr><tr><td>観点一〜三の判断</td><td>通す・迷う・通さない。選択式</td></tr><tr><td>候補者の質問と迷い</td><td>一行</td></tr><tr><td>次の段への引き継ぎ</td><td>一行</td></tr><tr><td>記入日</td><td>面接の直後</td></tr></tbody></table></div>
+<p>評価シートの型をそのまま列にします。面接官には、このシートの自分の段の行だけを渡す（別のシートに分けるか、フィルタで見せる）形にします。評価シートの型は<a href="/media/fukugyo-skill-hyouka-sheet/">評価シートを作る</a>に書いています。</p>
+<h2 id="h5">更新のルールはATSと同じ</h2>
+<div class="tw"><table><thead><tr><th>決めること</th><th>中身</th></tr></thead><tbody><tr><td>更新の担当</td><td>段階ごとに一人</td></tr><tr><td>更新のタイミング</td><td>「面接の直後」「日程が決まった直後」など、既にある行動の直後</td></tr><tr><td>段階を進める条件</td><td>記録のシートの判断が埋まり、決める人が通したら、人事が段階を進める</td></tr><tr><td>正はどれか</td><td>共有の場所にある一つのシートが正。コピーを作らない。ダウンロードしない</td></tr><tr><td>週次の確認</td><td>最終更新日の古い順に並べ、止まっている候補者を担当に知らせる</td></tr></tbody></table></div>
+<p>道具が変わってもルールは同じです。ルールの作り方は<a href="/media/fukugyo-skill-ats-unyou/">ATSの運用ルールを作る</a>に書いています。</p>
+<h3>エラベルの見解</h3>
+<p>相談で最も多い思い込みは、受ける側の「スプレッドシートなら、関数と自動化で便利にできる」というものです。実際には、関数と自動化が増えるほど、作った担当者にしか直せなくなり、担当者が替わった瞬間に壊れます。段階ごとの数を出す関数と、最終更新日の並べ替え。それ以上は足しません。「見た目が良い集計」より「誰でも直せる素の表」のほうが、長く使われます。受ける側がその場で使える判断としては、関数を一つ足すたびに、「依頼側の人事が、この関数を自分で直せるか」を問うこと。直せないなら足しません。集計が要るなら、別のシートに手で転記する形のほうが、壊れません。</p>
+<aside class="cta-inline">
+<p>稼働時間も単価も、ご自身で決められます</p>
+<a href="/partner.html">担当者として登録する</a>
+</aside>
+<h2 id="h6">共有の範囲と個人情報</h2>
+<div class="tw"><table><thead><tr><th>シート</th><th>誰が見られるか</th><th>中身</th></tr></thead><tbody><tr><td>一覧</td><td>人事、決める人、副業の担当者（契約の範囲で）</td><td>番号・段階・経路・日程・担当・次にやること</td></tr><tr><td>個人情報</td><td>人事と、日程調整を担う人だけ</td><td>番号・氏名・連絡先・履歴書の置き場所</td></tr><tr><td>記録</td><td>各段の面接官は自分の段の行だけ。決める人は全部</td><td>観点ごとの事実と判断</td></tr><tr><td>集計</td><td>人事、決める人</td><td>段階ごとの数、経路ごとの数（手で転記か最小の関数）</td></tr></tbody></table></div>
+<p>シートを分けて、共有の設定をシートごとに変えます。一つのブックに全部を入れて全員に共有すると、面接官に連絡先が見えます。共有の設定は依頼側の管理者が行い、担当者は設計を渡すまでです。個人情報の扱いに法令が関わる場合は、依頼側の決まりと専門家の確認に従います。個別の判断は専門家にご確認ください。扱いは<a href="/media/fukugyo-kojin-jouhou/">個人情報の扱い</a>と<a href="/media/fukugyo-security/">情報の取り扱いと端末の分離</a>に書いています。</p>
+<h2 id="h7">ATSに移行しても困らない形</h2>
+<div class="tw"><table><thead><tr><th>形</th><th>なぜ</th></tr></thead><tbody><tr><td>一人一行</td><td>ATSの候補者の一覧と同じ構造。そのまま移せる</td></tr><tr><td>段階が一列で選択式</td><td>ATSの段階に対応させられる</td></tr><tr><td>番号で紐づけ</td><td>記録と個人情報を、番号で一緒に移せる</td></tr><tr><td>日付の形式が揃っている</td><td>取り込みで崩れない</td></tr><tr><td>セルにメモが無い</td><td>移すものが明確</td></tr></tbody></table></div>
+<p>スプレッドシートを「ATSの前段」として作っておけば、候補者が増えてATSに移るときに、作り直しが要りません。移行の順番は<a href="/media/fukugyo-skill-ats-sekkei/">ATSの選定と初期設定</a>に書いています。</p>
+<h2 id="h8">よく起きる詰まりと直し方</h2>
+<div class="tw"><table><thead><tr><th>詰まり</th><th>直し方</th></tr></thead><tbody><tr><td>既存のシートが崩れていて直せない</td><td>選考中の候補者だけを新しい構造に移し、旧シートは読み取り専用で残す</td></tr><tr><td>依頼側が「氏名を一覧に出したい」と言う</td><td>一覧に番号と、個人情報のシートへの参照だけ。連絡先は出さない。氏名を出すかは依頼側の決まり</td></tr><tr><td>面接官が一覧を見て他の候補者の記録を読む</td><td>記録のシートを段ごとに分け、共有を段ごとに</td></tr><tr><td>関数が壊れた</td><td>壊れた関数を消し、手で転記する形に戻す。足すときは人事が直せるものだけ</td></tr><tr><td>コピーが増えて正が分からない</td><td>共有の場所の一つを正と決め、コピーとダウンロードを禁止する一行をルールに</td></tr><tr><td>段階の選択肢が増え続ける</td><td>依頼側の選考の段階だけ。「保留」「要相談」を増やさず、「次にやること」の列に書く</td></tr></tbody></table></div>
+<h2 id="h9">まとめ</h2>
+<ul><li>崩れるのは道具のせいではなく<strong>構造が無い</strong>から</li><li>基本は<strong>一人一行・段階は一列で選択式・記録は別シートで番号で紐づけ</strong></li><li>一覧の項目は<strong>番号・段階・経路・日付・担当・次にやること・次の日程・理由の分類</strong>。氏名と連絡先は別シート</li><li>記録のシートは<strong>評価シートの型をそのまま列に</strong>。面接官には自分の段だけ</li><li>更新のルールは<strong>ATSと同じ</strong>。担当・タイミング・進める条件・正はどれか・週次の確認</li><li><strong>関数と自動化は最小に</strong>。依頼側の人事が直せないものは足さない</li><li>シートを分けて<strong>共有の範囲を変える</strong>。個別の判断は専門家にご確認ください</li><li><strong>ATSの前段</strong>として作れば、移行で作り直しが要らない</li></ul>
+<h2 id="h10">よくある質問</h2>
+<h3>依頼側が「Excelのファイルをメールで回している」状態です</h3>
+<p>正が分からなくなる構造なので、共有の場所にある一つのシートに変える提案をします。メールで回す形は、個人情報が添付で流れることにもなり、依頼側の決まりに照らして問題になることがあります。変えられない事情があるなら、少なくとも「一人一行・段階は一列」の構造にし、最新版の管理を一人に決めます。共有の形の判断は依頼側です。</p>
+<h3>複数の求人を一つのシートで管理してよいですか</h3>
+<p>一覧に「求人」の列を足し、選択式にすれば、一つのシートで複数の求人を管理できます。段階の選択肢が求人で違う（新卒と中途で段階が違う）なら、シートを分けます。記録のシートの観点は求人ごとに違うので、記録は求人ごとに分けるほうが扱いやすい。一覧は一つ、記録は求人ごと、が基本の形です。</p>
+<h3>スプレッドシートの作成を「副業の成果物」として、単価に含めてよいですか</h3>
+<p>構造の設計（三つの基本と項目とルール）は成果物です。ただし、作ったシートは依頼側のもので、担当者が持ち出したり、他の依頼側で使い回したりしません。使い回せるのは「型」（項目の並び、ルールの一枚の形）だけです。成果物の範囲と、案件の終了後の扱いは契約に書きます。範囲の決め方は<a href="/media/fukugyo-scope/">業務範囲を書面で固める</a>に書いています。</p>
+  </div>
+  
+  <aside class="cta-end">
+  <p class="cta-end__lead">人事の経験を、副業で活かす</p>
+  <p class="cta-end__sub">稼働時間も単価もご自身で決められます。エラベルは企業とあなたをつなぐ窓口です。</p>
+  <a class="btn btn-primary" href="/partner.html">担当者として登録する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/fukugyo-skill-ats-sekkei/">ATSの選定と初期設定｜機能で選ばず、「毎日使う三つの画面」と「選考の段階」から決める型</a></li><li><a href="/media/fukugyo-skill-dashboard/">ダッシュボードを作る｜「見た目の良い集計」ではなく、「週に一度、三つの数字と止まりが見える一画面」にする型</a></li><li><a href="/media/fukugyo-skill-agent-brief/">紹介会社への依頼書を作る｜求人票の写しではなく、「紹介会社が推薦の判断に使う一枚」にする型</a></li><li><a href="/media/fukugyo-skill-agent-kaigi/">紹介会社との定例を回す｜「近況を聞く場」ではなく、「推薦のずれを一つ直す場」にする型</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>
