@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>dodaの検索条件の組み方｜母集団を狭めすぎない設計｜エラベル</title>
+<meta name="description" content="dodaのプランには配信通数の上限があります。通数が有限なら、条件は母集団を切るためではなく送る順番を作るために組みます。契約期間を週で割って条件を作り替える設計を整理しました。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/scout-doda-kensaku-jouken/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="dodaの検索条件の組み方｜母集団を狭めすぎない設計｜エラベル">
+<meta property="og:description" content="dodaのプランには配信通数の上限があります。通数が有限なら、条件は母集団を切るためではなく送る順番を作るために組みます。契約期間を週で割って条件を作り替える設計を整理しました。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/scout-doda-kensaku-jouken/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"dodaの検索条件の組み方｜母集団を狭めすぎない設計","description":"dodaのプランには配信通数の上限があります。通数が有限なら、条件は母集団を切るためではなく送る順番を作るために組みます。契約期間を週で割って条件を作り替える設計を整理しました。","datePublished":"2026-09-24","dateModified":"2026-09-24","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/scout-doda-kensaku-jouken/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/scout/">スカウト代行</a><i>›</i><span>dodaの検索条件の組み方｜母集団を狭めすぎない設計</span></div></nav><main class="wrap article">
+  <p class="art__kicker">スカウト代行 / doda</p>
+  <h1>dodaの検索条件の組み方｜母集団を狭めすぎない設計</h1>
+  <p class="art__meta">公開 2026-09-24</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">最初の分岐：外枠の人数を総通数と比べる</a></li><li><a href="#h2">候補が通数より多いとき：状況の条件で順番をつける</a></li><li><a href="#h3">候補が足りないとき：分類から漏れた層を拾う</a></li><li><a href="#h4">広げても増えないとき：条件の外にある原因を疑う</a></li><li><a href="#h5">期間の終盤：残通数に合わせて締めるか緩めるか</a></li><li><a href="#h6">まとめ</a></li><li><a href="#h7">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>dodaの検索条件は、一度組んで固定するものではありません。doda ダイレクトの定額プランには「利用期間、配信通数の上限があります」と明記されていて、送れる数が先に決まっています。そのため条件の役目は、母集団を切ることより、限られた通数を誰から使うかの順番を作ることにあります。この記事では、検索結果の人数を見て「多いとき」「足りないとき」「広げても増えないとき」と分岐していく流れで、条件の組み方を整理します。以下は2026年9月24日時点の公式サイトおよびヘルプの記載に基づく整理です。</p>
+<h2 id="h1">最初の分岐：外枠の人数を総通数と比べる</h2>
+<p>条件に使える材料は、公式ページの説明から二系統に分けられます。一つは職種、スキル、居住地、年収、資格といった属性で、公式ページは「職種やスキル、居住地、年収、資格など多種多様な条件で転職希望者を絞り込めるのも特徴です」と書いています。もう一つは状況で、よくある質問に「転職希望者が直近1か月の間に他社から受け取っているスカウトメールの通数や、ログイン日、詳細な選考状況等で、多様な絞り込み検索ができます」とあります。属性は要件そのもので、状況は毎週変わる優先順位の材料です。</p>
+<p>最初の検索では、属性だけで外枠を作ります。職種で枠を作り、通勤圏か転居前提かを決めてから居住地を足し、年収の上下限を置き、資格やスキルは必須のものだけに絞ります。この段階で状況の条件を入れないのは、外枠の総数を知るためです。総数が分かれば、契約の総通数と比べて、次にどの分岐へ進むかが決まります。</p>
+<div class="tw"><table><thead><tr><th>外枠の人数</th><th>起きていること</th><th>次に進む分岐</th></tr></thead><tbody><tr><td>総通数の数倍ある</td><td>送れる数より候補が多く、誰に使うかを選べる</td><td>状況の条件で順番をつける</td></tr><tr><td>総通数と同じくらい</td><td>選ぶ余地がなく、反応の薄い相手にも送ることになる</td><td>属性を一つ緩めて余裕を作る</td></tr><tr><td>総通数を下回る</td><td>期間の途中で送る相手が尽きる</td><td>分類から漏れた層を拾う</td></tr></tbody></table></div>
+<p>契約前にこの比較をしておきたい場合は、無料トライアルが使えます。条件は「期間30日間、配信通数0通」で、機能には対象者の検索とレジュメの閲覧が含まれます。ただし「無料トライアルではdodaのスカウト会員DBのみ検索/閲覧できます」という注記があり、<strong>契約後に検索できる範囲とは違う可能性がある</strong>点を差し引いて人数を読みます。</p>
+<h2 id="h2">候補が通数より多いとき：状況の条件で順番をつける</h2>
+<p>外枠が十分にあるなら、状況の条件を重ねて、送る順番を作ります。ここで使う三つの条件は、どれも絞り込みに使うと同時に、並べ方の材料にもなります。条件ごとに、上位に置く相手と注意点が違います。</p>
+<div class="tw"><table><thead><tr><th>状況の条件</th><th>先に送る相手</th><th>注意点</th></tr></thead><tbody><tr><td>直近1か月の他社からの受信通数</td><td>受信が少ない層。読まれる余地がある</td><td>記載の薄い候補者が混ざる</td></tr><tr><td>詳細な選考状況</td><td>他社の選考が進んでいる層は、面接枠が空いている週に</td><td>決まる前に会う速さが要る</td></tr><tr><td>ログイン日</td><td>ログインが新しい層</td><td>同じ層を毎週検索すると送信先が重なる</td></tr></tbody></table></div>
+<p>受信通数が少ない層を優先するのは、競合が少ないぶん読まれやすいからです。ただし少ない理由が、経歴の記載の薄さにあることもあります。ヘルプには候補者向けに、オファーが少ないときは「Web履歴書（職務経歴書や自己PR等）を充実させることで、求人企業のニーズと合致する可能性が高まります」という案内があります。属性の条件で必須要件を満たしていることを担保したうえで、受信の少ない順に並べるのが安全です。</p>
+<p>選考が進んでいる層に送る週は、送信から面接設定までの速さが結果を左右します。公式ページには「最短1日の面接設定」が可能である旨と、「利用開始日から最短1日で初回の面接設定が可能」という説明があります。面接官の予定が空いている週にこの層を充てると、媒体の速さを活かせます。</p>
+<h3>エラベルの見解</h3>
+<p>状況の条件を使うときに、担当者によって差が出るのは送信済みの管理です。状況の条件は週ごとに中身が変わるため、同じ条件で検索し直すと結果の並びが変わり、先週送った相手がまた上位に出てきます。これを上から送ると、同じ相手に二度通数を使うことになります。差がつくのは、送信済みの候補者を条件で除くのか、別のリストで管理するのかを、最初の週に決めているかどうかです。通数が有限な媒体では、同じ相手に二度使わないことがそのまま効率になります。担当者を選ぶときは、この管理を後任に引き継げる形で持てる人かどうかを確かめておくと安心です。運用の全体像は<a href="/media/scout-doda-unyou-sekkei/">dodaのスカウト運用設計</a>にまとめました。</p>
+<aside class="cta-inline">
+<p>外枠の人数と総通数を並べて、どの分岐から始めるかを一緒に確かめられます</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h3">候補が足りないとき：分類から漏れた層を拾う</h2>
+<p>外枠が総通数を下回るとき、最初に疑うのは職種の分類です。ヘルプの「職種の選択肢（大分類・中分類・小分類）に経験職種がない場合、どうすればいいですか？」には、「職種選択肢は、dodaの取り扱い求人をもとに独自に作成している分類です」とあります。選択肢にない職種の人には、一番近い選択肢を選び、自分で作る職務経歴書に詳しい職種内容を書くよう案内されています。</p>
+<p>問題は、その詳しい内容が企業から見えないことです。ヘルプの別記事には、dodaスカウトサービスについて「アップロードした職務経歴書は、応募時に企業が参照することはありません」と明記されています。分類の小分類を一つに絞ると、近い分類に登録した人を取りこぼします。<strong>小分類を複数選ぶか、職種を外してスキルや資格で組み直す</strong>のが、この分岐での最初の手です。</p>
+<p>それでも足りなければ、職種を跨ぐ手があります。公式ページのよくある質問には、doda ダイレクトは「職種を跨いだスカウトメール配信が可能です。（営業職で求人を掲載した場合でも、経理職の転職希望者をスカウトできます。）」と書かれています。広げ方ごとに拾える層と副作用が違うので、次の順で検討します。</p>
+<div class="tw"><table><thead><tr><th>広げ方</th><th>拾える層</th><th>副作用</th></tr></thead><tbody><tr><td>職種の小分類を複数選ぶ</td><td>近い分類に登録した人</td><td>ほとんどない</td></tr><tr><td>職種を外し、スキル・資格で組む</td><td>分類に収まらない経歴の人</td><td>要件外の人が混ざるので、読む時間が増える</td></tr><tr><td>隣接する職種へ跨ぐ</td><td>要件と重なる経験を持つ別職種の人</td><td>外れると職種ブロックされることがある</td></tr></tbody></table></div>
+<p>三つ目の副作用は、ヘルプの職種ブロックの説明にあります。候補者が受け取ったオファーで「配信を希望しない職種」を登録すると職種ブロックに登録され、その職種のオファーや紹介求人の一部が届かなくなります。跨ぐときは、スキルやキーワードで重なりのある人だけを抽出し、文面に跨いだ理由を書きます。理由の書き方の例は<a href="/media/scout-doda-template/">dodaのスカウトテンプレートの作り方</a>に載せました。</p>
+<h2 id="h4">広げても増えないとき：条件の外にある原因を疑う</h2>
+<p>条件を緩めても人数が増えないときは、条件以外の原因を疑います。一つ目は企業ブロックです。ヘルプには、現在の勤務先や関連会社、取引先に転職活動を知られたくない場合などに「企業ブロック設定」で登録情報を非公開にできるとあり、対象は「スカウトサービス利用企業」と記されています。同業の企業ほど、検索しても見えない候補者が多くなると考えておきます。</p>
+<p>二つ目は、会員数の読み方です。公式ページには「最大約439万人」という表記があり、注記は「2025年6月末時点の累計スカウト会員登録者数（doda/doda X会員DBの合算）」です。あわせて「毎月3万人以上、スカウト会員は増えています」とも書かれています。累計であり合算でもある数字なので、自社の条件で検索できる人数の見積もりには使えません。</p>
+<p>三つ目は、契約の範囲です。公式ページには「料金プランによって、閲覧/スカウトができるデータベースが異なっておりますので、柔軟なご提案が可能です」とあります。<strong>人数が少ない原因が条件ではなくプランの範囲にある</strong>場合、条件をいくら緩めても解決しません。商談では、自社の要件を条件に入れたときの人数を、プランごとに出してもらえるかを聞いてみてください。プランを並べるときの考え方は<a href="/media/scout-daikou-hiyou-hikaku/">スカウト代行の費用比較</a>が使えます。</p>
+<aside class="cta-inline">
+<p>人数が増えない原因が条件なのかプランなのか、切り分けからご一緒します</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h5">期間の終盤：残通数に合わせて締めるか緩めるか</h2>
+<p>契約期間の後半に入ると、条件の役目は「残通数を残期間で使い切る」ための調整に変わります。ここで判断を分けるのは、属性の条件と状況の条件のどちらを動かすかです。属性は要件そのものなので、緩めると要件から外れた人に送ることになります。状況は順番のための条件なので、外しても要件は保てます。</p>
+<div class="tw"><table><thead><tr><th>残通数と残期間</th><th>動かす条件</th><th>理由</th></tr></thead><tbody><tr><td>通数が多く、期間が短い</td><td>状況の条件を外して母集団を戻す</td><td>要件を保ったまま送り先を増やせる</td></tr><tr><td>通数が少なく、期間が長い</td><td>状況の条件を厳しくする</td><td>反応の見込みが高い相手に絞れる</td></tr><tr><td>釣り合っている</td><td>変えない</td><td>条件を変えると効果の比較ができなくなる</td></tr></tbody></table></div>
+<p>年齢を条件に使う設計は取りません。ヘルプには「雇用対策法による募集・採用における年齢制限禁止に伴い、年齢を考慮した求人のご案内はしておりません」と明記されています。募集・採用と法令の関係について、個別の判断は専門家にご確認ください。</p>
+<h3>エラベルの見解</h3>
+<p>相談で多い思い込みは、「母集団が大きいほど条件はうまく組めている」というものです。通数に上限がある媒体では、母集団が通数の何倍あっても、送れる数は変わりません。実際には、属性の条件を細かく作り込むことに時間をかけるより、外枠は粗く取り、毎週見直すのは状況の条件だけに絞るほうが、期間の終盤で慌てずに済みます。同じ属性の百人のうちどの二十人に使うかを決めるのは状況の条件で、ここは週ごとに判断が要ります。検索の作業を人に任せる場合も、属性の条件は社内で決め、状況の条件の使い方だけを任せる、という分け方が扱いやすくなります。</p>
+<h2 id="h6">まとめ</h2>
+<ul><li>属性だけで外枠を作り、人数を総通数と比べて、次に進む分岐を決める</li><li>候補が多いときは、他社からの受信通数・選考状況・ログイン日で送る順番をつける</li><li>候補が足りないときは、職種の小分類を広げる→スキル・資格で組む→職種を跨ぐ、の順で検討する</li><li>広げても増えないときは、企業ブロックやプランの検索範囲など、条件の外にある原因を疑う</li><li>終盤は状況の条件を動かして残通数を調整し、属性の条件は要件として保つ</li></ul>
+<h2 id="h7">よくある質問</h2>
+<h3>Q. dodaの検索条件は何で絞り込めますか</h3>
+<p>公式ページでは、職種、スキル、居住地、年収、資格などの登録情報で絞り込めると説明されています。よくある質問には、直近1か月に他社から受け取っているスカウトメールの通数、ログイン日、詳細な選考状況でも絞り込めると書かれています。使える項目はプランや時期で変わることがあるため、契約前にご確認ください。</p>
+<h3>Q. 候補者が少ないときは、最初にどの条件を緩めればよいですか</h3>
+<p>期間の途中であれば、まず状況の条件を外します。それでも足りなければ、職種の小分類を複数選ぶ、職種を外してスキルや資格で組み直す、の順で広げます。職種を跨ぐ打診は職種ブロックの副作用があるため、要件の重なりが説明できる場合に限るのが安全です。</p>
+<h3>Q. 無料トライアルで母集団の人数は確かめられますか</h3>
+<p>無料トライアルには対象者の検索とレジュメの閲覧が含まれていて、配信通数は0通です。ただし「dodaのスカウト会員DBのみ検索/閲覧できます」という注記があり、契約後のプランで検索できる範囲とは異なる場合があります。人数はおおまかな目安として読み、プランごとの範囲は商談で確認してください。</p>
+<p>※料金・機能・提供条件は変わります。掲載した内容は2026年9月24日時点の公式サイトおよびヘルプの記載に基づくもので、契約できるプランと対象データベースは担当者の案内をご確認ください。</p>
+  </div>
+  <section class="sources"><h2>出典</h2><ul><li><a href="https://www.saiyo-doda.jp/service/recruiters" target="_blank" rel="noopener">doda ダイレクト｜doda 中途採用をお考えの法人様へ</a></li><li><a href="https://faq.doda.jp/faq/show/1269?site_domain=default" target="_blank" rel="noopener">「職種ブロック」とはなんですか？｜doda ヘルプ</a></li><li><a href="https://faq.doda.jp/faq/show/101?site_domain=default" target="_blank" rel="noopener">職種の選択肢（大分類・中分類・小分類）に経験職種がない場合、どうすればいいですか？｜doda ヘルプ</a></li><li><a href="https://faq.doda.jp/faq/show/55?site_domain=default" target="_blank" rel="noopener">オファーの求人が希望や職歴に合いません｜doda ヘルプ</a></li><li><a href="https://faq.doda.jp/faq/show/57?site_domain=default" target="_blank" rel="noopener">企業ブロック設定とは何ですか？　設定方法を教えてください｜doda ヘルプ</a></li><li><a href="https://faq.doda.jp/faq/show/58?site_domain=default" target="_blank" rel="noopener">スカウトサービス利用時、企業にはどのような情報が公開されますか？｜doda ヘルプ</a></li><li><a href="https://faq.doda.jp/faq/show/1284?site_domain=default" target="_blank" rel="noopener">Web履歴書とは何ですか？｜doda ヘルプ</a></li><li><a href="https://faq.doda.jp/faq/show/54?site_domain=default" target="_blank" rel="noopener">オファーが来ない、届く数が少ない時はどうしたらいいですか？｜doda ヘルプ</a></li></ul></section>
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/scout-doda-daikou/">dodaのスカウト代行｜任せられる範囲と成果の測り方</a></li><li><a href="/media/scout-doda-unyou-sekkei/">dodaのスカウト運用設計｜送信数・時間帯・追客</a></li><li><a href="/media/scout-doda-template/">dodaのスカウトテンプレートの作り方</a></li><li><a href="/media/scout-doda-x-kensaku-jouken/">doda Xの検索条件の組み方｜母集団を狭めすぎない設計</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

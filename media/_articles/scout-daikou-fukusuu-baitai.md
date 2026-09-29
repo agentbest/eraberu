@@ -9,7 +9,7 @@ tags: ["スカウト代行", "複数媒体", "運用設計", "重複", "選び�
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-fukusuu-baitai"
-related: ["scout-daikou-kyouyu", "scout-daikou-tool-shitei", "scout-baitai-kirikae", "scout-baitai-kumiawase"]
+related: ["scout-baitai-kumiawase", "scout-daikou-tool-shitei", "scout-baitai-kaiyaku", "scout-baitai-kirikae"]
 ---
 
 複数の媒体でスカウトを運用する場合、**一社にまとめるか、媒体ごとに分けるか**。媒体には運用の癖があり、経験の有無が結果に出ます。一方で、分けると管理の手間が増え、候補者の重複という問題も生じます。この記事では、それぞれの利点と、判断の基準を整理します。採用代行全般の集約と分散は[集約するか業務ごとに分けるか](/media/rpo-aiaigasa/)にまとめています。

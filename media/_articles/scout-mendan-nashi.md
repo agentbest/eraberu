@@ -9,7 +9,7 @@ tags: ["スカウト代行", "選考設計", "カジュアル面談", "選考速
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-mendan-nashi"
-related: ["scout-daikou-kadai-jitai", "scout-ichiji-menjo", "scout-shokuba-kengaku", "scout-daikou-henshin-taiou"]
+related: ["scout-ichiji-menjo", "scout-daikou-check", "scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa"]
 ---
 
 スカウトで返信が来たら、まずカジュアルな面談を組み、そのうえで選考に進んでもらう。この流れは、候補者の不安を下げる一方で、面談が一段階増え、決まるまでが長くなります。結論を先に書くと、**経歴から担う範囲が読め、返信の温度が高く、条件が事前に合っている候補者には、カジュアル面談を飛ばして選考に進めるほうが速く、取り合いに勝てます。飛ばす代わりに、文面と返信のやり取りで、面談で伝えていたことを補います**。一次面接を免除する形は[一次面接免除のオファー](/media/scout-ichiji-menjo/)に、選考の速さの考え方は[対応の速さが結果を決める](/media/scout-daikou-sokudo/)にまとめています。

@@ -9,7 +9,7 @@ tags: ["スカウト代行", "外国籍", "在留資格", "多様性", "法令"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-gaikokujin-scout"
-related: ["scout-remote-kyuujin", "scout-baitai-kumiawase", "scout-chihou-kigyo", "scout-chimeido-nai-kaisha"]
+related: ["scout-josei-scout", "scout-eigo-bunmen", "scout-senior-scout", "scout-alumni-scout"]
 ---
 
 媒体に、外国籍の候補者の経歴がある。経歴は要件に合う。声をかけてよいのか、在留資格はどうなるのか、日本語はどの程度要るのか。分からないまま送るか、送らないかになりがちです。結論を先に書くと、**国籍を基準にして対象から外すことも、国籍だけを理由に対象にすることも避け、業務に必要な要件——言語の水準、在留資格が業務に適合するか——を事実として確認してください。要件が合えば、外国籍かどうかは対象の選定に関係ありません**。この記事は一般的な整理にとどめ、在留資格の種類と手続き、雇用に関する法令の判断は、行政書士や弁護士などの専門家にご確認ください。シニア層と女性候補者の考え方は[シニア層へのスカウト](/media/scout-senior-scout/)と[女性候補者へのアプローチ設計](/media/scout-josei-scout/)にまとめています。

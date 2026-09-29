@@ -9,7 +9,7 @@ tags: ["スカウト代行", "はじめて", "外注", "不安", "立ち上げ"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-hajimete"
-related: ["scout-daikou-baitai-hi", "scout-daikou-checklist", "scout-daikou-getsugaku", "scout-daikou-jikan-tanka"]
+related: ["scout-daikou-nagare", "scout-daikou-sokudo", "scout-hajime-30nichi", "scout-kyuu-boshuu"]
 ---
 
 採用を外に出したことがない。スカウトも自社では送ったことがない。それを、いきなり代行に頼んで大丈夫か。自社の名前で、知らない人が候補者に文面を送る。その不安は、当然のものです。結論を先に書くと、**はじめての外注の不安は、「何を渡し、何を社内に握り、いつ何で判断するか」を最初に決めれば、ほとんど小さくできます。不安なまま始めるのではなく、不安を仕組みに変えてから始めてください**。任せる範囲の考え方は[どこまで任せ、どこを持つか](/media/scout-daikou-hanbun-uchisei/)に、見積もりの見方は[見積もりで確認する項目](/media/scout-daikou-mitsumori/)にまとめています。

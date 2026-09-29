@@ -9,7 +9,7 @@ tags: ["スカウト代行", "業務範囲", "運用設計", "切り分け", "�
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-hanni"
-related: ["scout-daikou-hanbun-uchisei", "scout-daikou-toha", "scout-baitai-kirikae", "scout-baitai-kumiawase"]
+related: ["scout-baitai-kaiyaku", "scout-daikou-hanbun-uchisei", "scout-daikou-toha", "scout-baitai-kirikae"]
 ---
 
 スカウトの運用を、どこまで任せるか。**全部を任せる必要はありません**。自社に要件を設計できる人がいるなら、条件と文面は自社が作り、送信と対応だけを外に出す形も成立します。この記事では、工程ごとの切り分けと、自社の状態による判断を整理します。工程の全体像は[スカウト代行とは](/media/scout-daikou-toha/)にまとめています。

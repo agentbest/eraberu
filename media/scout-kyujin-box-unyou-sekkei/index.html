@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>求人ボックスのスカウト運用設計｜送信数・時間帯・追客｜エラベル</title>
+<meta name="description" content="求人ボックスの一般企業向けメニューにスカウト機能はありません。職業紹介事業者向けのサービスに「準備中」として掲載されているのみです。無料でできる範囲と、費用が発生し始める点を分けて運用を組み立てました。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/scout-kyujin-box-unyou-sekkei/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="求人ボックスのスカウト運用設計｜送信数・時間帯・追客｜エラベル">
+<meta property="og:description" content="求人ボックスの一般企業向けメニューにスカウト機能はありません。職業紹介事業者向けのサービスに「準備中」として掲載されているのみです。無料でできる範囲と、費用が発生し始める点を分けて運用を組み立てました。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/scout-kyujin-box-unyou-sekkei/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"求人ボックスのスカウト運用設計｜送信数・時間帯・追客","description":"求人ボックスの一般企業向けメニューにスカウト機能はありません。職業紹介事業者向けのサービスに「準備中」として掲載されているのみです。無料でできる範囲と、費用が発生し始める点を分けて運用を組み立てました。","datePublished":"2026-09-24","dateModified":"2026-09-24","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/scout-kyujin-box-unyou-sekkei/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/scout/">スカウト代行</a><i>›</i><span>求人ボックスのスカウト運用設計｜送信数・時間帯・追客</span></div></nav><main class="wrap article">
+  <p class="art__kicker">スカウト代行 / 求人ボックス</p>
+  <h1>求人ボックスのスカウト運用設計｜送信数・時間帯・追客</h1>
+  <p class="art__meta">公開 2026-09-24</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">導入前の1週間：経路を決め、スカウトが無いことを社内で共有する</a></li><li><a href="#h2">1か月目：無料の掲載で、自社の基準の数字を取る</a></li><li><a href="#h3">2か月目：有料掲載を試し、クリックと応募を分けて見る</a></li><li><a href="#h4">3か月目：棚卸しと連携方式の見直しを定例にする</a></li><li><a href="#h5">まとめ</a></li><li><a href="#h6">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>求人ボックスでスカウトの送信数や時間帯を設計しようとしても、一般企業向けのメニューにスカウト機能はありません。用意されているのは、無料の求人投稿ツール「採用ボード」、クリック課金の「リスティング広告」、自社サイトを連携する「サイト連携」、そして「求人検索API」です。よくある質問でも、採用ボードは人材紹介とは異なり応募者を紹介することはなく、応募者はすべて自発的に応募された方になると回答されています。この記事では、送信の代わりに設計するもの、つまり<strong>掲載と露出の運用</strong>を、導入前から3か月目までの時間の順に整理します。以下は2026年9月24日時点で公式サイトに記載されている内容に基づき、運営は株式会社カカクコムです。</p>
+<h2 id="h1">導入前の1週間：経路を決め、スカウトが無いことを社内で共有する</h2>
+<p>最初にやるのは、社内で「求人ボックスでスカウトを送る」という前提を外すことです。スカウトの記載は一か所だけあり、職業紹介事業者向けの「採用ボード for AGENT」の主な機能に「スカウト機能(準備中)」と書かれています。ただしこれは職業紹介事業者向けのサービスで、同ページのよくある質問では採用ボードとの併用は原則できないとされています。自社の採用のために送る運用は、この媒体では組めません。</p>
+<p>そのうえで、求人をどの経路で載せるかを決めます。経路ごとに費用も掲載までの時間も違うので、1か月目から何を見られるかがここで決まります。次の表は、公式に記載されている費用と所要時間を経路ごとに並べたものです。</p>
+<div class="tw"><table><thead><tr><th>経路</th><th>費用</th><th>掲載までの目安</th><th>向いている状況</th></tr></thead><tbody><tr><td>採用ボード（直接投稿）</td><td>初期費用・掲載費用・成果報酬すべて0円</td><td>審査1日〜3日程度、最短当日中</td><td>まず無料で基準を取りたい</td></tr><tr><td>サイト連携（自社サイト）</td><td>無料</td><td>1ヶ月～2ヶ月前後。掲載は約束されない</td><td>自社の採用サイトを持っている</td></tr><tr><td>リスティング広告</td><td>クリック課金（25円~1000円）</td><td>連携方式による</td><td>露出を金額で上げたい</td></tr></tbody></table></div>
+<p>サイト連携は、掲載可否や掲載状況についての回答は対応していないとされ、掲載開始の連絡もありません。導入の時点で載ることを優先するなら、採用ボードへの直接投稿から始めるほうが1か月目の数字を取りやすくなります。自社サイトの連携は、直接投稿で基準が取れたあとに並行して申し込む、という順番でも遅くありません。</p>
+<aside class="cta-inline">
+<p>媒体の性格に合った採用手段の選び方から、実務の側からご相談に乗ります</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h2">1か月目：無料の掲載で、自社の基準の数字を取る</h2>
+<p>採用ボードは、アカウント作成と求人票の入稿が約5分とされ、申込書等は不要でメールアドレスがあれば登録できます。応募があると登録したメールアドレスに通知が届き、管理画面で氏名・連絡先・経歴等を確認して応募者へ直接連絡する流れです。掲載期限はなく、採用が決まったら自分で公開を停止します。応募者の連絡先は個人情報なので、社内の誰が管理画面を見られるかも最初に決めておき、扱いに迷う点は個別に専門家にご確認ください。</p>
+<p>1か月目の目的は、応募を集めることそのものより、あとで有料掲載や委託と比べるための基準を取ることです。記録しておくのは三つあります。求人ごとの応募数、求人票の作成と更新にかかった時間、応募への初回連絡にかかった時間です。この三つがないと、2か月目に有料掲載へ進むかどうかも、外に頼むかどうかも判断できません。</p>
+<p>公開されている導入事例には、無料プラン利用で1か月で5件の応募という例があります。ただし同じページに、一例のみを抜粋したもので効果を保証するものではないという注記があり、自社の目標にはそのまま使えません。自社の1か月目の数字を基準にします。</p>
+<h2 id="h3">2か月目：有料掲載を試し、クリックと応募を分けて見る</h2>
+<p>無料の掲載で応募が足りない求人が見えたら、2か月目にリスティング広告を試します。有料掲載は、無料の公開設定では表示できない検索結果の上位などに求人を出せる仕組みで、求人がクリックされた分だけ費用が発生します。クリック単価は25円~1000円で予算も設定でき、1日だけの利用もできるとされています。運用は、1円単位で単価を手動で決める方法と、予算に対して<strong>クリック数の最大化</strong>を目的に自動で単価を調整する方法から選びます。</p>
+<p>自動運用の目的がクリック数だという点は押さえておきます。クリックが増えることと応募が増えることは別で、応募につながらないクリックが多いまま自動に任せると、支出だけが伸びます。始める前に、指定の計測タグを自社求人サイトの応募完了ページに入れておくと、リスティング広告経由の応募数が管理画面で見えるようになります。公式にも、リスティング広告は閲覧機会を増やすサービスで、応募獲得や採用を約束するものではないと注記されています。</p>
+<div class="tw"><table><thead><tr><th>2か月目の終わりに見えたこと</th><th>考えられる原因</th><th>3か月目の手</th></tr></thead><tbody><tr><td>クリックは多いが応募が少ない</td><td>求人ページの中身が合っていない</td><td>自動運用を止め、求人票を直す</td></tr><tr><td>クリックが少ない</td><td>単価が低い、または検索に引っかかっていない</td><td>手動で単価を上げるか、言葉を見直す</td></tr><tr><td>応募が有料分に偏っている</td><td>無料掲載分の露出が足りない</td><td>無料分の求人票を先に直す</td></tr></tbody></table></div>
+<h3>エラベルの見解</h3>
+<p>無料で始められて、必要な日だけ有料に切り替えられる構造は、採用の波が大きい企業と相性が良いと考えています。年間契約で通数を抱えるスカウト媒体と違い、使わない月の費用がほぼ出ないからです。その代わり、いつ有料に切り替えていつ戻すかを決める人がいないと、この利点は生きません。</p>
+<p>一方で、この構造は担当者の手の入れ方で結果が大きく分かれます。2か月目にクリックと応募を分けて見る担当者は、自動運用を止める判断を早く下せます。見ない担当者は、管理画面の消化額が増えていくのを月末に知ることになります。外に頼むなら、単価の話より先に「計測タグをいつ入れるか」を聞いてみてください。この答えが具体的な担当者ほど、2か月目の判断が早くなります。</p>
+<h2 id="h4">3か月目：棚卸しと連携方式の見直しを定例にする</h2>
+<p>3か月目からは、運用を定例に落とします。採用ボードには、長期間更新のない求人は自動で募集を停止することがあるという注記があります。掲載しているつもりで止まっている状態は、検索エンジン型の媒体では気づきにくいので、月に一度、掲載中の求人と最終更新日を一覧で確かめる予定を入れます。</p>
+<p>自社サイトを連携している場合は、連携方式も見直します。リスティング広告の連携には、事前準備が要らない代わりにサイトデザインの変更で正常にクロールできず配信が止まる恐れがあるクローリング連携（1週間～1か月半）と、準備は要るが更新が早くデザイン変更の影響を受けないXMLフィード連携（1週間程度）があります。採用サイトの改修を予定しているなら、フィード連携への切り替えを検討します。</p>
+<p>定例で見る項目は、頻度と持ち主を決めておくと続きます。項目が多すぎると月末にまとめて見ることになり、自動停止や差し戻しに気づくのが遅れます。次の表のように、止まっていたときの手まで一緒に決めておくと、担当が替わっても同じ判断ができます。</p>
+<div class="tw"><table><thead><tr><th>見る項目</th><th>頻度</th><th>止まっていたときの手</th></tr></thead><tbody><tr><td>掲載中の求人の本数と最終更新日</td><td>月次</td><td>更新して自動停止を防ぐ</td></tr><tr><td>無料掲載分の応募数</td><td>週次</td><td>求人票のタイトルと仕事内容を直す</td></tr><tr><td>有料掲載のクリック数・消化額・応募の比率</td><td>週次</td><td>自動運用を止めて単価を見直す</td></tr><tr><td>審査で差し戻された求人</td><td>週次</td><td>修正して再申請する</td></tr></tbody></table></div>
+<p>母集団の規模は、トップページなどに2,000万件以上の求人、採用ボードのページに月間訪問者1500万人、リスティング広告のページに1000万人、採用ボード for AGENTのよくある質問に月間1000万人以上（2024年3月現在）と、ページによって記載が異なります。商談では最新の数字を確かめてください。求人票の書き方は<a href="/media/scout-kyujin-box-template/">求人ボックスのスカウトテンプレートの作り方</a>にまとめています。</p>
+<aside class="cta-inline">
+<p>棚卸しの定例化や連携方式の選定まで、採用の実務を知る担当者が入ります</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>スカウト媒体を探していてこの媒体にたどり着いた方には、同じ表で比べないことをお勧めしています。検索エンジンで見つかるのは、いま仕事を探している人です。転職を考えていない層に当たりたいなら、この媒体は選択肢になりません。</p>
+<p>逆に、潜在層を狙う予算と、いま探している層を集める予算を分けて考えれば、後者の枠でこの媒体を検討する意味がはっきりします。3か月分の基準の数字があれば、その枠にいくら置くかも自社で決められます。他媒体との使い分けは<a href="/media/scout-daikou-fukusuu-baitai/">複数媒体のスカウト運用</a>もあわせてご覧ください。</p>
+<h2 id="h5">まとめ</h2>
+<ul><li>一般企業向けにスカウト機能はなく、設計するのは送信ではなく掲載と露出の運用になる</li><li>導入前に経路（直接投稿・サイト連携・リスティング広告）を決め、載ることを優先するなら直接投稿から始める</li><li>1か月目は無料の掲載で、応募数と作業時間の基準を取る</li><li>2か月目は有料掲載を試し、計測タグを入れてクリックと応募を分けて見る</li><li>3か月目からは、自動停止を防ぐ月次の棚卸しと連携方式の見直しを定例にする</li></ul>
+<h2 id="h6">よくある質問</h2>
+<h3>Q. 求人ボックスでスカウトを送ることはできますか</h3>
+<p>一般企業向けのメニューにスカウト機能はなく、応募者はすべて自発的に応募された方になるとされています。職業紹介事業者向けの「採用ボード for AGENT」に「スカウト機能(準備中)」の記載がありますが、自社採用のためのサービスではありません。</p>
+<h3>Q. 有料掲載はいつから使えばよいですか</h3>
+<p>無料の掲載で自社の応募数の基準を取ってからのほうが、効果を判断しやすくなります。有料掲載は1日だけの利用もできるとされているので、応募が足りない求人に絞って試せます。始める前に計測タグを入れておくと、応募数を管理画面で確認できます。</p>
+<h3>Q. 掲載した求人が表示されなくなることはありますか</h3>
+<p>長期間更新のない求人は自動で募集を停止することがあると注記されています。編集の内容によっては審査のために掲載が一時停止することもあるため、月に一度は掲載中の求人を確かめる予定を入れておくと安心です。</p>
+<p>※料金・機能の条件は変わります。掲載した内容は2026年9月24日時点の公式サイトの記載です。契約前に運営にご確認ください。</p>
+  </div>
+  <section class="sources"><h2>出典</h2><ul><li><a href="https://xn--pckua2a7gp15o89zb.com/無料求人掲載" target="_blank" rel="noopener">無料で求人広告掲載 正社員・アルバイト採用に対応｜求人ボックス</a></li><li><a href="https://xn--pckua2a7gp15o89zb.com/リスティング広告" target="_blank" rel="noopener">リスティング広告｜求人ボックス</a></li><li><a href="https://xn--pckua2a7gp15o89zb.com/成果報酬求人掲載" target="_blank" rel="noopener">採用ボード for AGENT｜職業紹介向け 成果報酬求人掲載｜求人ボックス</a></li><li><a href="https://xn--pckua2a7gp15o89zb.com/" target="_blank" rel="noopener">求人ボックス｜全国の仕事・転職・バイト・求人をまとめて検索</a></li><li><a href="https://xn--pckua2a7gp15o89zb.com/求人検索API" target="_blank" rel="noopener">求人検索API｜求人ボックス</a></li><li><a href="https://help.xn--pckua2a7gp15o89zb.com" target="_blank" rel="noopener">求人ボックス ヘルプ</a></li></ul></section>
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/scout-kyujin-box-daikou/">求人ボックスのスカウト代行｜任せられる範囲と成果の測り方</a></li><li><a href="/media/scout-kyujin-box-kensaku-jouken/">求人ボックスの検索条件の組み方｜母集団を狭めすぎない設計</a></li><li><a href="/media/scout-kyujin-box-template/">求人ボックスのスカウトテンプレートの作り方</a></li><li><a href="/media/scout-indeed-unyou-sekkei/">Indeedのスカウト運用設計｜送信数・時間帯・追客</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

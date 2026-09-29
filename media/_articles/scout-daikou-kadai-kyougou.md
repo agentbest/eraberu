@@ -9,7 +9,7 @@ tags: ["スカウト代行", "競合", "候補者", "課題", "選考速度"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-kyougou"
-related: ["scout-daikou-kadai-nittei", "scout-daikou-kadai-hayasa", "scout-golden-week", "scout-alumni-scout"]
+related: ["scout-daikou-kadai-nittei", "scout-daikou-kadai-account", "scout-daikou-kadai-baitai", "scout-daikou-kadai-bunmen"]
 ---
 
 返信が来て、面談まで進んだ。その候補者が「他社の選考も進んでいて、そちらが先に決まりそうです」と言う。年収でも知名度でも、相手のほうが上。この場面は、スカウトを使う会社なら避けられません。結論を先に書くと、**候補者はほぼ全員、他社からも声がかかっています。条件で勝てない会社が勝てるのは、速さ・役割の具体性・一貫した対応の三つで、いずれも代行の運用と社内の体制で作れます**。速さの考え方は[対応の速さが結果を決める](/media/scout-daikou-sokudo/)に、日程の押さえ方は[日程調整の設計](/media/scout-daikou-nittei/)にまとめています。

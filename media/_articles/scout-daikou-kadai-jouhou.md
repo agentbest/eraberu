@@ -9,7 +9,7 @@ tags: ["スカウト代行", "情報共有", "課題", "連携", "運用"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-jouhou"
-related: ["scout-daikou-jinin", "scout-daikou-kyouyu", "scout-daikou-mendan-doseki", "scout-daikou-shinsotsu-chuuto"]
+related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa", "scout-daikou-kadai-henshin", "scout-daikou-kadai-houkoku"]
 ---
 
 担当者からのチャットが一日に何件も来る。候補者の状況、文面の確認、日程の相談。返しきれず、返事が遅れ、担当者は待つ。逆に、社内で求人票を直したのに担当者に伝わっておらず、古い文面で送られていた。情報共有が追いつかない状態は、代行の運用で最もよく起きる詰まりの一つです。結論を先に書くと、**「全部を共有する」をやめて、流す情報（すぐ動くもの）と置く情報（見に行くもの）を分け、窓口を一人にしてください**。共有の量を減らすのではなく、形を分けることで追いつきます。チャットの使い方は[チャットでの連携](/media/scout-daikou-slack/)に、共有する情報の全体は[渡す前に用意する情報](/media/scout-daikou-junbi/)にまとめています。

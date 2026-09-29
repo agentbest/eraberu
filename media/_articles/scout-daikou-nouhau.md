@@ -9,7 +9,7 @@ tags: ["スカウト代行", "ノウハウ", "記録", "内製化", "契約"]
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-nouhau"
-related: ["scout-daikou-kadai-izon", "scout-daikou-ats-renkei", "scout-daikou-baitai-hi", "scout-daikou-checklist"]
+related: ["scout-daikou-ats-renkei", "scout-daikou-baitai-hi", "scout-daikou-checklist", "scout-daikou-getsugaku"]
 ---
 
 スカウトを代行に任せていると、**運用のノウハウは代行側に溜まります**。どの条件が効いたか、どの文面に反応があったか、どの層は反応が薄かったか。この記録が自社にないと、代行を替えたときも内製に戻したときも、ゼロから始めることになります。この記事では、残すものと、その仕組みを整理します。採用代行全般の設計は[採用ノウハウを社内に残す契約の作り方](/media/rpo-shanai-noukou/)にまとめています。

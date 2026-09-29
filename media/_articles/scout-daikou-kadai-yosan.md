@@ -9,7 +9,7 @@ tags: ["スカウト代行", "予算", "費用", "課題", "縮小"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-yosan"
-related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-bunmen", "scout-daikou-kadai-hayasa", "scout-daikou-kadai-henshin"]
+related: ["scout-baitai-kaiyaku", "scout-daikou-baitai-hi", "scout-daikou-getsugaku", "scout-daikou-hanbun-uchisei"]
 ---
 
 半年続けたスカウト代行の予算が、来期は取れないかもしれない。採用は決まっていないわけではないが、費用に見合っているかと問われると答えにくい。切るか、続けるか。結論を先に書くと、**全部を切るか続けるかの二択にせず、効いている部分を見分けて、縮めて続ける形を先に検討してください。切るなら、記録と文面と候補者との関係を残し、再開できる止め方をします**。費用の見方は[スカウト代行の費用の比べ方](/media/scout-daikou-hiyou-hikaku/)に、やめる判断は[半期での見直し](/media/scout-daikou-hanki/)に、解約の実務は[解約と引き継ぎ](/media/scout-daikou-kaiyaku/)にまとめています。

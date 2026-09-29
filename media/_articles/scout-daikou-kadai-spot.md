@@ -9,7 +9,7 @@ tags: ["スカウト代行", "一職種", "スポット", "契約", "運用設�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-spot"
-related: ["scout-daikou-baitai-hi", "scout-daikou-checklist", "scout-daikou-getsugaku", "scout-daikou-jikan-tanka"]
+related: ["scout-daikou-kadai-hanki", "scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-baitai-kumiawase"]
 ---
 
 採用は自社で回せているが、一つの職種だけがどうしても決まらない。その一つだけをスカウト代行に頼めるか。結論を先に書くと、**頼めます。そして、一職種に絞った依頼は、担当者の稼働が一つに集中し、対象と文面の調整が速く回るので、複数職種を同時に頼むより成果が出やすい形です**。ただし、向く職種と向かない職種があり、社内で整えることは複数職種のときと変わりません。少人数の依頼は[採用予定が一名でも頼めるか](/media/scout-daikou-kadai-shousuu/)に、短期の依頼は[繁忙期だけ頼めるか](/media/scout-daikou-kadai-hanki/)にまとめています。

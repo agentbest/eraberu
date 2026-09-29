@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Geeklyのスカウト運用設計｜送信数・時間帯・追客｜エラベル</title>
+<meta name="description" content="Geeklyのスカウト運用を組み立てるときの前提を整理しました。Geeklyは人材紹介サービスで、企業向けのスカウト機能は紹介契約に付帯する無料機能として案内されており、一次面接確約が条件とされています。この条件から送信数を面接枠で決める考え方と、追客の設計、確認すべき項目をまとめています。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/scout-geekly-unyou-sekkei/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="Geeklyのスカウト運用設計｜送信数・時間帯・追客｜エラベル">
+<meta property="og:description" content="Geeklyのスカウト運用を組み立てるときの前提を整理しました。Geeklyは人材紹介サービスで、企業向けのスカウト機能は紹介契約に付帯する無料機能として案内されており、一次面接確約が条件とされています。この条件から送信数を面接枠で決める考え方と、追客の設計、確認すべき項目をまとめています。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/scout-geekly-unyou-sekkei/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Geeklyのスカウト運用設計｜送信数・時間帯・追客","description":"Geeklyのスカウト運用を組み立てるときの前提を整理しました。Geeklyは人材紹介サービスで、企業向けのスカウト機能は紹介契約に付帯する無料機能として案内されており、一次面接確約が条件とされています。この条件から送信数を面接枠で決める考え方と、追客の設計、確認すべき項目をまとめています。","datePublished":"2026-09-23","dateModified":"2026-09-23","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/scout-geekly-unyou-sekkei/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/scout/">スカウト代行</a><i>›</i><span>Geeklyのスカウト運用設計｜送信数・時間帯・追客</span></div></nav><main class="wrap article">
+  <p class="art__kicker">スカウト代行 / Geekly</p>
+  <h1>Geeklyのスカウト運用設計｜送信数・時間帯・追客</h1>
+  <p class="art__meta">公開 2026-09-23</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">契約前の二週間で、面接枠と経路の分け方を決める</a></li><li><a href="#h2">一か月目は週に数枠だけ送り、一通にかかる時間を測る</a></li><li><a href="#h3">二か月目に、紹介経由と同じ物差しで並べる</a></li><li><a href="#h4">三か月目に、続けるか直すか止めるかを決める</a></li><li><a href="#h5">まとめ</a></li><li><a href="#h6">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>Geekly（ギークリー）は、IT・Web・ゲーム業界に特化した転職エージェントで、サービスとしては人材紹介に分類されています。企業向けのスカウト機能は、完全成功報酬型の人材紹介契約に付帯する無料の機能として案内されており、一次面接確約が条件とされています。送った相手が応じればそのまま面接になるので、運用設計の出発点は送信数ではなく<strong>面接枠</strong>です。この記事では、契約前の準備から三か月目の判断まで、導入後の時間の流れに沿って何を決めるかを整理します。以下は2026年9月23日時点で公式サイトに記載されている内容に基づきます。</p>
+<h2 id="h1">契約前の二週間で、面接枠と経路の分け方を決める</h2>
+<p>公式の企業様向けページは、料金体系の項目に「求職者スカウト無料」を置き、ギークリーのデータサービスから直接求職者を探せること、レジュメを確認できること、無料で直接アプローチできることを挙げたうえで、「※一次面接確約が条件です」と注記しています。つまり、一通送ることは一次面接を一枠約束することと同じです。他の媒体のように「まず送ってみて、返信を見てから選考するか決める」という順番は取れません。運用の最初の仕事は、送る準備ではなく、面接官が週に何枠出せるかを確定させることです。</p>
+<p>枠を決めるときは、紹介経由との取り合いも考えます。同ページのサービスご利用の流れでは、基本契約の締結後に希望の職種や要件を確認して求人票を作成し、条件に合った求職者を紹介するとされ、月間12,000名超えの登録者の中から1社あたり平均40名を紹介するとしています（2026年6月時点の実績）。紹介が主の経路で、スカウトは同じ面接枠を使う補助の経路という位置づけになります。枠の大半を紹介に残し、スカウトには週に数枠だけを割り当てる形から始めると、どちらの経路も止まりません。</p>
+<p>契約前に決めきれないのは、運用の細かい仕様が公開されていないからです。送信数の上限、送信の時間帯指定、既読の表示、同じ相手への再送、外部の担当者のアクセスは、公式サイトに記載がありません。次の表は、分からないまま始めると何が止まるかと、どう聞けば自社の数字が出るかを並べたものです。</p>
+<div class="tw"><table><thead><tr><th>確認すること</th><th>決まらないと止まるもの</th><th>聞き方・見積もり方</th></tr></thead><tbody><tr><td>送信数の上限（期間あたり何通か）</td><td>週の送信計画</td><td>上限が面接枠より多いなら、枠のほうを実質の上限として扱う</td></tr><tr><td>一次面接確約の範囲（辞退や日程不成立の扱い）</td><td>面接枠の見積もり</td><td>「返信後に辞退されたら枠はどう数えるか」を運営に聞く</td></tr><tr><td>予約送信、既読の表示、同じ相手への再送</td><td>追客の設計</td><td>できない前提で週の型を組み、できると分かれば足す</td></tr><tr><td>管理画面に外部の担当者を入れられるか</td><td>外注の可否</td><td>外注を考えているなら最初に聞く</td></tr><tr><td>面接スコアの仕組みがスカウト経由にも使えるか</td><td>振り返りの材料</td><td>担当アドバイザーとの打ち合わせで確認する</td></tr></tbody></table></div>
+<p>表のうち、自社で見積もれるのは面接枠です。面接官の人数に一人あたり週に出せるコマ数を掛け、そこから紹介経由で埋まる見込みを引いた残りが、スカウトに回せる枠になります。紹介経由の見込みは、担当アドバイザーに「この要件で月に何名ほど推薦できそうか」を聞けば目安が出ます。確約の範囲だけは自社で推し量れないので、ここは運営の回答を待ってから枠を確定させてください。</p>
+<h3>エラベルの見解</h3>
+<p>導入の相談で順番が逆になりやすいのは、送信の体制を先に整え、面接官への説明を後回しにするケースです。この媒体では、スカウト経由の面接は断れません。現場の面接官が「週に何枠、この経路で使う」と合意していないまま送り始めると、返信が来た時点で面接官の予定が埋まっていて、確約した面接を組めなくなります。そうなると、送信を止めるのは人事ではなく現場です。始める前に、面接官に一枠ずつ予定を押さえてもらい、その数を送信の上限として共有してください。担当する側から見ても、枠の数が最初に決まっている案件のほうが、読む時間の配分を組みやすくなります。</p>
+<aside class="cta-inline">
+<p>面接枠から逆算した運用の組み立てを、IT採用の実務を知る担当者とご一緒します</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h2">一か月目は週に数枠だけ送り、一通にかかる時間を測る</h2>
+<p>一か月目の目的は、成果を出すことより、一通にかかる時間を知ることです。同ページは、登録者の95.9%が即戦力人材であるとしています（即戦力人材とは登録している求職者のうちIT職種経験者を指すとされ、2024年7〜9月の実績と注記されています）。職務経歴が具体的に書かれている相手が中心なので、レジュメを読み、声をかける理由を一行で書くまでに時間がかかります。この時間を測らないまま枠を増やすと、読み込みが浅くなり、面接で噛み合わない候補が増えます。</p>
+<p>週の動きは、次のような型にしておくと回ります。送信の時間帯や予約送信の可否は公開されていないため、ここでは曜日単位で組んでいます。外注する場合も、送る判断と面接は社内に残る前提で、担う人の列を埋めてください。</p>
+<div class="tw"><table><thead><tr><th>時期</th><th>やること</th><th>担う人</th></tr></thead><tbody><tr><td>週の頭</td><td>空いている面接枠を確認し、その数だけ候補を読む</td><td>人事（外注するなら抽出まで外）</td></tr><tr><td>中日</td><td>読んだ相手に送る。返信には当日中に返す</td><td>人事</td></tr><tr><td>週の後半</td><td>面接を行い、担当アドバイザーと情報を共有する</td><td>面接官・人事</td></tr><tr><td>週の終わり</td><td>送信数、返信、面接の実施を記録する</td><td>人事</td></tr></tbody></table></div>
+<p>返信のあとの手間は、他の媒体より少なく済みます。同ページは、面接日程の調整や合否の連絡等はギークリーにて対応するとし、内定通知・条件交渉から入社日程の調整まで対応するとしています。自社の手は、返信直後の一次対応と、読む工程と、面接そのものに集中させられます。追客は、確約を伴う経路なので回数を増やすより一通目の精度を上げるほうが噛み合い、送信から一週間後に一回までにとどめ、二週間反応が無ければ枠を次の候補に回すくらいが目安になります。</p>
+<p>もう一つ、一か月目から決めておくのが記録の付け方です。自分で見つけた候補が、翌週にアドバイザーから推薦されることがあります。スカウトを送った候補は担当者に共有し、面接の記録には経路を書く運用にしておくと、二重接触を避けられ、二か月目の比較もできるようになります。文面の組み方は<a href="/media/scout-geekly-template/">Geeklyのスカウトテンプレートの作り方</a>に、実際の一通の例と一緒にまとめています。</p>
+<h2 id="h3">二か月目に、紹介経由と同じ物差しで並べる</h2>
+<p>一か月分の記録がたまったら、スカウト経由の数字を紹介経由と並べます。スカウトの送信数は面接枠で頭打ちになるので、送信数そのものを増やす目標は立てられません。見るのは、送った一通がどこまで進んだかの割合です。次の表は、見る数字と、数字が悪いときに直す場所を対応させたものです。</p>
+<div class="tw"><table><thead><tr><th>見る数字</th><th>分かること</th><th>悪いときに直す場所</th></tr></thead><tbody><tr><td>送信→返信</td><td>誰に送るかと文面が合っているか</td><td>検索条件か、一行目の書き方</td></tr><tr><td>返信→面接実施</td><td>確約した面接が実際に組めているか</td><td>返信対応の速さと、面接官の枠の押さえ方</td></tr><tr><td>面接→次の選考</td><td>候補の質が要件と合っているか</td><td>要件の定義そのもの</td></tr><tr><td>紹介経由との重なり</td><td>スカウトでしか会えない層か</td><td>条件を紹介と違う層に寄せる</td></tr></tbody></table></div>
+<p>表の下の二行は、人事だけでは判断しにくい数字です。面接で噛み合わない理由が、条件の選び方にあるのか、要件の定義にあるのかは、面接官の所感と合わせないと分かりません。同ページは、面接後に求職者の感想を収集して独自にスコア化し、その結果をもとにアドバイザーが面接を分析してアドバイスするとしています。この仕組みがスカウト経由の面接にも使えるなら、二か月目の振り返りの材料になります。</p>
+<p>条件の直し方は、候補が多すぎるか少なすぎるかで分かれます。多すぎるなら条件を厳しくする前に読む順番を決め、少なすぎるなら隣の職種区分に広げるのが先です。その分岐は<a href="/media/scout-geekly-kensaku-jouken/">Geeklyの検索条件の組み方</a>で、母集団が尽きるまでの順に整理しています。</p>
+<aside class="cta-inline">
+<p>紹介経由とスカウト経由の数字の並べ方から、一緒に整理してみませんか</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h4">三か月目に、続けるか直すか止めるかを決める</h2>
+<p>三か月たつと、スカウトという経路を続ける意味があったかを判断できる程度の記録がそろいます。判断の基準は、紹介では会えなかった層と面接できたかどうかです。月に平均40名が紹介される仕組みがある以上、スカウトの価値は数ではなく、紹介の推薦に出てこない候補に届いたかで測ることになります。三つの判断と、その後の三か月でやることを表にしました。</p>
+<div class="tw"><table><thead><tr><th>判断</th><th>見るところ</th><th>次の三か月でやること</th></tr></thead><tbody><tr><td>続ける</td><td>紹介に出てこなかった層と面接できている</td><td>面接官と相談し、枠を一つ増やすか決める</td></tr><tr><td>条件を直す</td><td>紹介と同じ人ばかりに行き着く</td><td>技術や経験の条件を変え、紹介と違う層に寄せる</td></tr><tr><td>止める</td><td>面接枠を圧迫し、紹介のほうが回らない</td><td>枠を紹介に戻し、アドバイザーに要件を伝え直す</td></tr></tbody></table></div>
+<p>止めるという判断も、失敗ではありません。要件を言葉で伝えやすい職種なら、紹介に任せたほうが面接枠を効率よく使えることがあります。また、同社のサイトが扱う領域として挙げているのは、IT、Web・広告、ゲームの各職種です。この範囲から外れる職種や、未経験者を育てる前提の採用は、即戦力層が中心のこの媒体の設計と合わないので、三か月を待たずに経路を見直してかまいません。</p>
+<h3>エラベルの見解</h3>
+<p>同じ面接枠、同じ三か月でも、結果が分かれるのは「誰が読んで選んだか」です。この媒体では送信数で差がつかないので、成果の差はほぼ候補の選び方に出ます。レジュメから技術の具体を読み取れる人が選ぶと、面接で話が噛み合い、次の選考に進む割合が上がります。逆に、職種名と経験年数だけで選ぶと、紹介で来る候補と同じ顔ぶれになりがちです。三か月目の判断で「条件を直す」に当たったら、条件より先に、読んでいる人がこの職種の仕事を分かっているかを確かめてください。外に出すなら、会社ではなく担当者の経歴を見て選ぶほうが、この媒体では効きます。</p>
+<h2 id="h5">まとめ</h2>
+<ul><li>Geeklyのスカウトは一次面接確約が条件とされており、送信数ではなく面接枠から運用を組む</li><li>契約前に、面接官の人数とコマ数から枠を出し、紹介経由の見込みを引いてスカウトの枠を決める</li><li>一か月目は週に数枠だけ送り、一通を読んで書くのにかかる時間を測る</li><li>二か月目は、送った一通がどこまで進んだかを紹介経由と同じ物差しで並べる</li><li>三か月目に、紹介では会えない層と面接できたかで、続ける・直す・止めるを決める</li></ul>
+<h2 id="h6">よくある質問</h2>
+<h3>Q. Geeklyのスカウトは何通まで送れますか</h3>
+<p>送信数の上限は、公式サイトでは公開されていません。一次面接確約が条件とされているため、実際には面接官が出せる枠の数が上限になります。通数の仕様は契約前に運営へご確認ください。</p>
+<h3>Q. 返信があったあとの日程調整は自社で行うのですか</h3>
+<p>公式サイトでは、面接日程の調整や合否の連絡等はギークリーが対応するとされています。内定通知や条件交渉、入社日程の調整まで対応するとも書かれています。自社は返信直後の一次対応と面接の実施に集中できます。</p>
+<h3>Q. スカウトを始めると紹介の推薦と重なりませんか</h3>
+<p>重なることはあります。自分で見つけた候補が、あとからアドバイザーに推薦される場合があるためです。スカウトを送った候補を担当者に共有し、面接の記録に経路を書いておくと、二重接触を避けられます。</p>
+<p>※仕様や提供範囲は変わります。掲載した内容は2026年9月23日時点で公式サイトに記載されているものです。スカウトの通数、送信時間帯、追客の仕様は公開されていないため、契約前に運営の案内でご確認ください。</p>
+  </div>
+  <section class="sources"><h2>出典</h2><ul><li><a href="https://www.geekly.co.jp/business/" target="_blank" rel="noopener">IT採用のお悩みは、IT採用のプロに。（Geekly 企業様向け）</a></li><li><a href="https://www.geekly.co.jp/services/scout/" target="_blank" rel="noopener">ギークリーからスカウトを受け取った皆様へ</a></li><li><a href="https://corp.geekly.co.jp/service/" target="_blank" rel="noopener">サービス｜株式会社ギークリー</a></li><li><a href="https://www.geekly.co.jp/" target="_blank" rel="noopener">IT・Web・ゲーム業界の転職エージェント Geekly</a></li><li><a href="https://corp.geekly.co.jp/" target="_blank" rel="noopener">株式会社ギークリー コーポレートサイト</a></li></ul></section>
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/scout-geekly-daikou/">Geeklyのスカウト代行｜任せられる範囲と成果の測り方</a></li><li><a href="/media/scout-geekly-kensaku-jouken/">Geeklyの検索条件の組み方｜母集団を狭めすぎない設計</a></li><li><a href="/media/scout-geekly-template/">Geeklyのスカウトテンプレートの作り方</a></li><li><a href="/media/scout-levtech-career-unyou-sekkei/">レバテックキャリアのスカウト運用設計｜送信数・時間帯・追客</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

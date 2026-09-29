@@ -9,7 +9,7 @@ tags: ["スカウト代行", "退職者", "アルムナイ", "再雇用", "採�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-alumni-scout"
-related: ["scout-daikou-kadai-hayasa", "scout-daikou-kadai-kyougou", "scout-daikou-kadai-nittei", "scout-daikou-kaiyaku"]
+related: ["scout-direct-recruiting", "scout-fukugyo-jinzai", "scout-gyoumu-itaku-boshuu", "scout-headhunt"]
 ---
 
 以前、自社で働いていた人が、媒体に経歴を載せている。あの人なら、また一緒に働けるかもしれない。退職者への声かけは、経歴も人柄も分かっている分、ゼロから探すより成功しやすい方法です。結論を先に書くと、**退職者へのスカウトは、退職の経緯と、その後の関係と、いまの自社の状況の三つで「送ってよい人」を見極め、代行ではなく社内の人が先に声をかけてください。担当者は、その後の日程調整と条件の整理を担います**。退職者との関係を保つ仕組みは、この記事の後半に書きます。候補者との関係全般は[候補者との関係を切らない](/media/scout-daikou-kadai-jitai/)にも書いています。

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LAPRASのスカウト運用設計｜送信数・時間帯・追客｜エラベル</title>
+<meta name="description" content="LAPRASの運用を、媒体が課している四つの制約から逆算して組み立てました。送れるのは登録ユーザーだけ、通報2件で調査が入る、0時から6時は予約できない、1回目の再送は翌週月曜に自動。それぞれが運用のどこを決めるかを整理しています。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/scout-lapras-unyou-sekkei/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="LAPRASのスカウト運用設計｜送信数・時間帯・追客｜エラベル">
+<meta property="og:description" content="LAPRASの運用を、媒体が課している四つの制約から逆算して組み立てました。送れるのは登録ユーザーだけ、通報2件で調査が入る、0時から6時は予約できない、1回目の再送は翌週月曜に自動。それぞれが運用のどこを決めるかを整理しています。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/scout-lapras-unyou-sekkei/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"LAPRASのスカウト運用設計｜送信数・時間帯・追客","description":"LAPRASの運用を、媒体が課している四つの制約から逆算して組み立てました。送れるのは登録ユーザーだけ、通報2件で調査が入る、0時から6時は予約できない、1回目の再送は翌週月曜に自動。それぞれが運用のどこを決めるかを整理しています。","datePublished":"2026-09-24","dateModified":"2026-09-24","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/scout-lapras-unyou-sekkei/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/scout/">スカウト代行</a><i>›</i><span>LAPRASのスカウト運用設計｜送信数・時間帯・追客</span></div></nav><main class="wrap article">
+  <p class="art__kicker">スカウト代行 / LAPRAS</p>
+  <h1>LAPRASのスカウト運用設計｜送信数・時間帯・追客</h1>
+  <p class="art__meta">公開 2026-09-24</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">導入前の1週間：送れる相手を数え、確認者を決める</a></li><li><a href="#h2">1か月目：初回の曜日と自動再送をセットで組む</a></li><li><a href="#h3">2か月目：通報を出さない仕組みを週次に入れる</a></li><li><a href="#h4">3か月目：2回目の再送に向けて材料を用意する</a></li><li><a href="#h5">3か月の終わりに見直す数字</a></li><li><a href="#h6">まとめ</a></li><li><a href="#h7">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>LAPRASの運用設計は、自分で決められる余地がほかの媒体より狭くなっています。送信の時間帯も、再送の間隔も、送信量の上限も、媒体側の仕様とガイドラインで枠が決まっているからです。この記事では、その枠を<strong>導入から3か月の時系列</strong>に置き直し、いつ何を決めればよいかを順に整理します。以下は、2026年9月24日時点で公式サイトおよび採用担当者向けヘルプセンターに記載されている内容に基づいており、運営はLAPRAS株式会社です。</p>
+<h2 id="h1">導入前の1週間：送れる相手を数え、確認者を決める</h2>
+<p>最初の1週間でやるのは、送信ではなく数えることです。ヘルプセンターは「LAPRASでアプローチできる候補者はLAPRASユーザーのみですが、LAPRASに登録していない候補者のクロールした情報は検索・閲覧することが可能です」と明記しています。企業から見たLAPRASは、LAPRASユーザーと非LAPRASユーザーの統合データベースだということです。検索でヒットした人の中に、そもそもスカウトを送れない人が混ざっています。</p>
+<p>数字で見ると、この差ははっきりします。レコメンド検索の説明には「約150万人もの候補者データベースから条件に合致する候補者を検索します」とあり、候補者向けサイトには「約3.6万人の登録ユーザーのデータ」という記載があります。前者は検索できる母数で、後者は登録ユーザーの規模です。<strong>月次の計画は検索件数ではなく、送信可能な件数から立てます。</strong></p>
+<p>同じ週に、送信前の確認者を一人決めておきます。理由は2か月目の章で詳しく書きますが、この媒体では通数の上限を品質が決めるからです。確認者は、名前・転職意欲・希望職種の三点を送信前に照合する役目を持ちます。担当者が一人しかいない会社でも、週に一度まとめて見直す時間を別に取っておくと、後で効いてきます。</p>
+<p>レコメンド検索には挙動の癖もあります。検索を実行した直後は表示される候補者が極端に少なくなるため、「5分から10分ほどおいた上で、ブラウザをリロードをしてください」と案内されています。表示人数は「数十〜200人程度に絞って検索してみましょう」という目安も示されています。導入前の週に一度この手順で引いてみて、送信可能な人がどれだけ残るかを見ておくと、1か月目の本数が現実的になります。</p>
+<aside class="cta-inline">
+<p>送信可能な母集団の数え方から月次計画まで、実務の側からご一緒します</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h2">1か月目：初回の曜日と自動再送をセットで組む</h2>
+<p>1か月目に決めるのは、送る曜日と時間帯です。LAPRASでは、追客の最初の一回をシステムが担います。ヘルプセンターの再送ガイドラインによると、1回目の再送は「スカウトメッセージを初めて送信された翌週月曜日に、システムにより自動でリマインド再送される仕様」で、候補者から返信がなかった場合のみ行われます。2回目以降は手動で、「期間は3ヶ月～半年ほど空けていただく事をおすすめします」とされています。</p>
+<div class="tw"><table><thead><tr><th>回</th><th>タイミング</th><th>誰が送るか</th><th>運用で決めること</th></tr></thead><tbody><tr><td>初回</td><td>任意（0:00〜6:00を除く）</td><td>企業</td><td>曜日と時間帯</td></tr><tr><td>1回目の再送</td><td>翌週月曜日</td><td>システムが自動</td><td>初回の曜日で間隔が決まる</td></tr><tr><td>2回目以降</td><td>3か月〜半年後</td><td>企業が手動</td><td>再送までに用意する材料</td></tr></tbody></table></div>
+<p>この表で見てほしいのは、初回の曜日が再送までの間隔を決めるという関係です。初回を金曜に送れば、3日後の月曜に再送が届きます。初回を月曜に送れば、丸一週間空きます。どちらが良いかは公開されていないので、1か月目は曜日を二つに分けて送り、返信の差を自社の記録で比べるのが素直です。</p>
+<p>時間帯にも枠があります。スカウトメッセージは即時送信のほかに日時を指定した予約送信ができ、予約できるのは「予約時点の時刻以降の日時（0:00~6:00を除く）」です。深夜に届く設計はこの媒体では取れないので、日中から夜までのどこに置くかを決めることになります。時間帯別の返信率は公開されていないため、1か月目の送信ログに時刻を残しておき、2か月目以降の判断材料にします。</p>
+<h2 id="h3">2か月目：通報を出さない仕組みを週次に入れる</h2>
+<p>2か月目に入ると、送信数を増やしたくなります。ここで知っておきたいのが、LAPRASの送信上限は契約プランではなく特別措置として設定されるという点です。発動の条件は、「候補者よりメッセージが不快に感じられたという通報が2件以上入った場合」と「明らかなガイドライン違反を複数回弊社で発見した場合」の二つで、候補者へのヒアリングを含む調査のうえで違反と結論づけられると上限が設定されます。</p>
+<p>措置が入ったときの影響は、送信数と送信時刻の両方に及びます。どちらも一度入ると、自社の努力だけではすぐに解除できません。次の表は、ヘルプセンターに書かれている二つの措置を、運用で困る点と並べたものです。</p>
+<div class="tw"><table><thead><tr><th>措置</th><th>発動する条件</th><th>運用で困ること</th></tr></thead><tbody><tr><td>月間の送信上限</td><td>通報2件以上、または明らかなガイドライン違反を複数回発見し、調査で違反と結論</td><td>上限に達した月は新規のスカウトが送れない。最大半年間続き、期間中に再度通報があると延長</td></tr><tr><td>予約送信のみ</td><td>「スカウトに問題あり」の苦情が複数回あり、内容や対応に問題があると考えられる場合など</td><td>改善の対応をするまで全て予約送信になり、到達までに時間がかかる場合がある</td></tr></tbody></table></div>
+<p>上限に達しても、下書き保存やプレビュー表示まではでき、過去にメッセージを送った候補者とのやりとりも続けられます。止まるのは新しい相手への一通目です。予約送信のみの状態でも、候補者が自社に「興味あり」のリアクションをしている場合は即時送信が可能とされています。つまり、品質を落とすと、送る数だけでなく送る時刻まで自分で決められなくなる構造です。</p>
+<p>だから2か月目は、本数を増やす前に確認の手順を週次に固定します。禁止行為の説明には、通報につながる例として、候補者名が誤っている、転職意欲を無視している、希望職種や希望条件とかけ離れた職種のスカウトを送信する、連携していないSNSに言及しているがどう辿ったのかを言及していない、といった具体例が挙げられています。導入前に決めた確認者が照合する三点は、この例からそのまま取ったものです。<strong>本数を増やすのは、確認の手順が回っていることを確かめてから</strong>にします。</p>
+<h3>エラベルの見解</h3>
+<p>通数の上限が品質で決まる媒体では、担当者の差がそのまま送れる量の差になります。同じ月額で運用を任せても、照合を省いて月の本数を積み上げる担当者と、弾いた件数まで記録する担当者では、半年後に送れる通数が変わります。通報が2件入れば、上限は最大半年続くからです。</p>
+<p>私たちがこの媒体の運用を組むときは、報告項目に「送信前の確認で差し戻した件数」を入れるようにしています。差し戻しの件数が見えていれば、丁寧さが数字として残り、担当者を評価する材料にもなります。送信数だけを並べる報告では、この媒体の仕組みと正面からぶつかります。</p>
+<h2 id="h4">3か月目：2回目の再送に向けて材料を用意する</h2>
+<p>3か月目は、1か月目に送った相手の2回目の再送が視野に入る時期です。自動再送を過ぎた相手に、同じ文面を手動で送り直しても反応は変わりません。ガイドラインは再送文面の例まで示しており、「新しい情報があればお知らせを入れる」として、エンジニアピッチ資料ができた、テックブログを作り始めた、といった例を挙げています。3か月の間に、次に伝える材料を作っておくことが想定されているわけです。</p>
+<p>この材料づくりは、採用担当だけでは進みません。テックブログの記事も、ピッチ資料も、開発チームの手を借りることになります。1か月目の送信日から3か月後を再送の予定日として一覧にし、その日までに出せる発信を開発チームと決めておくと、再送が「前回の繰り返し」で終わりません。送信の記録と広報の予定を同じ表で管理するのが、この媒体で追客を続けるいちばん簡単な方法です。</p>
+<p>再送の文面には、もう一つ仕様上の注意があります。再送では「前回のメッセージを引用して送付することができかねます」とされているため、前回の件名や送った時期を文面の中に自分で書き入れます。前回の内容を覚えていない相手に、何の話の続きかを伝えるためです。文面の作り方は<a href="/media/scout-lapras-template/">LAPRASのスカウトテンプレートの作り方</a>にまとめています。</p>
+<aside class="cta-inline">
+<p>再送の間隔と広報の予定を合わせる設計から、採用の実務を知る担当者が入ります</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h5">3か月の終わりに見直す数字</h2>
+<p>3か月が終わったら、数字を並べて次の四半期の設計に戻します。見る数字は多くありませんが、どこに戻るかを決めておかないと、数字を眺めて終わります。次の表は、この媒体の仕様に沿って、見る数字と悪かったときの戻り先を並べたものです。</p>
+<div class="tw"><table><thead><tr><th>見る数字</th><th>どこから取るか</th><th>悪いときに戻る場所</th></tr></thead><tbody><tr><td>送信可能な残数</td><td>保存した条件で引いた結果のうちLAPRASユーザーの数</td><td>検索条件の組み直し</td></tr><tr><td>初回の曜日別の返信</td><td>1か月目からの送信ログ</td><td>送信の曜日と時間帯</td></tr><tr><td>送信前の確認で差し戻した件数</td><td>確認者の記録</td><td>検索条件と文面の型</td></tr><tr><td>通報・措置の有無</td><td>管理画面と運営からの連絡</td><td>確認の手順そのもの</td></tr><tr><td>2回目の再送の準備状況</td><td>再送予定日の一覧と発信の予定</td><td>開発チームとの発信計画</td></tr></tbody></table></div>
+<p>差し戻しの件数が多いなら、送る前の段階、つまり検索条件の段階で合わない人が混ざっています。条件の組み方は<a href="/media/scout-lapras-kensaku-jouken/">LAPRASの検索条件の組み方</a>で整理しています。逆に差し戻しがほとんどないのに返信が少ないなら、文面か送る曜日のほうを疑います。原因を一つずつ切り分けられるよう、3か月の間は一度に二つ以上を変えないようにします。</p>
+<p>費用については、企業向けサイトに「累計1200社以上の導入実績」という記載はありますが、料金の記載はありません。自社で見積もるなら、3か月で送る通数を「週に確認できる件数 × 12週」で置き、それを商談で聞くプランごとの通数と費用に当てはめます。運用を外に出す場合は、そこに確認と文面作成にかかる時間を足して比べます。</p>
+<h3>エラベルの見解</h3>
+<p>相談で多い思い込みは、「制約の多い媒体だから、運用に向かない」というものです。実際には、通報2件で調査が入る仕組みは、雑な大量送信をする企業を締め出す方向に働きます。候補者から見れば届くスカウトの質が一定以上に保たれ、丁寧に書く企業にとっては、競合が母集団を荒らしにくい環境になります。</p>
+<p>3か月の運用で差がつくのは、担当者が制約を「守るもの」として扱うか、「設計の前提」として扱うかです。自動再送の曜日を計算に入れ、再送までに材料を用意する担当者なら、制約はむしろ手順を決める手がかりになります。担当者を選ぶときは、この媒体の再送の仕様を説明できるかを聞いてみてください。</p>
+<h2 id="h6">まとめ</h2>
+<ul><li>導入前の1週間で、検索件数ではなく送信可能なLAPRASユーザーの数を数え、送信前の確認者を決める</li><li>1か月目は、初回の曜日が翌週月曜の自動再送までの間隔を決めることを前提に、曜日と時間帯（0:00〜6:00は予約不可）を試す</li><li>2か月目は本数を増やす前に、名前・転職意欲・希望職種の照合を週次に固定する。通報2件で送信上限が入り得る</li><li>3か月目は、3か月〜半年後の2回目の再送に向けて、テックブログやピッチ資料など新しく伝える材料を用意する</li><li>3か月の終わりに、差し戻し件数や曜日別の返信を見て、条件・文面・曜日のどこに戻るかを決める</li></ul>
+<h2 id="h7">よくある質問</h2>
+<h3>Q. LAPRASの送信数に上限はありますか</h3>
+<p>契約プランの通数は公開されていないため、商談でご確認ください。ヘルプセンターに書かれているのは、通報が2件以上入った場合などに調査が行われ、違反と結論づけられた場合に月間の送信上限が設定される特別措置です。期間は最大半年間とされています。</p>
+<h3>Q. 返信がなかった相手には、いつ送り直せばよいですか</h3>
+<p>1回目の再送は、初回送信の翌週月曜日にシステムが自動で行います。2回目以降は手動で、3か月〜半年ほど空けることが勧められています。その際は前回の件名などを文面に書き入れ、新しい情報を添えて送ります。</p>
+<h3>Q. 深夜や早朝にスカウトを届けることはできますか</h3>
+<p>予約送信で指定できるのは、予約時点以降の日時のうち0:00〜6:00を除く時間帯です。そのため深夜から早朝に届く設計はできません。時間帯別の返信率は公開されていないので、送信時刻を記録して自社で比べてください。</p>
+<p>※料金・通数・機能の条件は変わります。掲載した内容は2026年9月24日時点の公式サイトおよび採用担当者向けヘルプセンターの記載であり、契約前に運営にご確認ください。</p>
+  </div>
+  <section class="sources"><h2>出典</h2><ul><li><a href="https://help.lapras.com/what-screen-candidate-seeing" target="_blank" rel="noopener">LAPRASでアプローチできる候補者の種別｜採用担当者向けLAPRASヘルプ</a></li><li><a href="https://help.lapras.com/month-scout-message-limit" target="_blank" rel="noopener">１ヶ月あたりのスカウトメッセージ送信上限とは？｜採用担当者向けLAPRASヘルプ</a></li><li><a href="https://help.lapras.com/schduled-mail-immediate-mail" target="_blank" rel="noopener">スカウトメッセージの送信予約と即時送信｜採用担当者向けLAPRASヘルプ</a></li><li><a href="https://help.lapras.com/resending-scout-message-guidelines" target="_blank" rel="noopener">スカウトメッセージ再送時の［送信期間の目安/文例］が知りたいです｜採用担当者向けLAPRASヘルプ</a></li><li><a href="https://help.lapras.com/number-of-candidate" target="_blank" rel="noopener">レコメンド検索に関するよくあるご質問｜採用担当者向けLAPRASヘルプ</a></li><li><a href="https://scout.lapras.com/" target="_blank" rel="noopener">LAPRAS | ITエンジニア優秀層の心を掴む採用プラットフォーム</a></li></ul></section>
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/scout-lapras-daikou/">LAPRASのスカウト代行｜任せられる範囲と成果の測り方</a></li><li><a href="/media/scout-lapras-kensaku-jouken/">LAPRASの検索条件の組み方｜母集団を狭めすぎない設計</a></li><li><a href="/media/scout-lapras-template/">LAPRASのスカウトテンプレートの作り方</a></li><li><a href="/media/scout-findy-unyou-sekkei/">Findyのスカウト運用設計｜送信数・時間帯・追客</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

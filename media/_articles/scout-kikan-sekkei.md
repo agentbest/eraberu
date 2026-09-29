@@ -9,7 +9,7 @@ tags: ["スカウト代行", "送信計画", "逆算", "採用期限", "運用�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-kikan-sekkei"
-related: ["scout-baitai-kumiawase", "scout-chihou-kigyo", "scout-chimeido-nai-kaisha", "scout-daikou-kadai-baitai"]
+related: ["scout-golden-week", "scout-kessan-ki", "scout-baitai-kaiyaku", "scout-baitai-kirikae"]
 ---
 
 「半年後に一名、入社してほしい」。この期限があるとき、いつから送り始めればよいか。「早いほうがよい」は正しいですが、それでは計画になりません。結論を先に書くと、**入社日から、内定承諾・選考・面談設定・返信・送信の各段階にかかる日数を順に引き、送信の開始日を出してください。そこから、月ごとに必要な送信数が決まります**。数の逆算は[ひと月に何名にアプローチできるか](/media/scout-daikou-kouhosha-suu/)に、期末に向けた動き方は[期末までに採用したいときの動き方](/media/scout-kessan-ki/)にまとめています。この記事の日数はすべて例で、職種と会社によって変わります。担当者と一緒に、自社の数字で置き直してください。

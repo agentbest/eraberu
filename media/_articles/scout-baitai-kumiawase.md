@@ -9,7 +9,7 @@ tags: ["スカウト代行", "媒体", "組み合わせ", "運用設計", "複�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-baitai-kumiawase"
-related: ["scout-baitai-kirikae", "scout-daikou-kengen", "scout-daikou-kouhosha-suu", "scout-plan-erabi"]
+related: ["scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-daikou-fukusuu-baitai", "scout-daikou-kengen"]
 ---
 
 一つの媒体で母数が足りない。別の媒体も使いたい。ただ、二つ、三つと増やすと、担当者の稼働は分かれ、同じ候補者に二つの媒体から届き、どの媒体が効いているか分からなくなります。結論を先に書くと、**媒体は「並べる」のではなく「組み合わせる」ものです。主と従を決め、候補者層か職種で役割を分け、記録を一本にして重複を防ぎ、稼働は主に寄せてください**。媒体の一般的な使い分けは[複数媒体の使い分け](/media/scout-daikou-fukusuu-baitai/)に、媒体を変える判断は[媒体を変えるべきか迷う](/media/scout-daikou-kadai-baitai/)にまとめています。なお、この記事は媒体の名前や料金には触れません。仕様は変わるので、契約する媒体の公式の案内で確認してください。

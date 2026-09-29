@@ -9,7 +9,7 @@ tags: ["スカウト代行", "内製化", "移行", "引き継ぎ", "運用設�
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-uchisei-ikou"
-related: ["scout-baitai-kirikae", "scout-baitai-kumiawase", "scout-daikou-fukusuu-baitai", "scout-daikou-hanbun-uchisei"]
+related: ["scout-daikou-kaiyaku", "scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-baitai-kumiawase"]
 ---
 
 スカウトの運用を社内に戻す。**採用代行全般の内製化と違い、スカウトには媒体の権限と送信履歴という固有の論点があります**。条件と文面を受け取っても、履歴が引き継がれないと同じ候補者に送ることになります。この記事では、回収するものと移行の順番を整理します。採用代行全般の内製化は[内製に戻すときの手順](/media/rpo-uchisei-modoshi/)にまとめています。

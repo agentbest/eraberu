@@ -9,7 +9,7 @@ tags: ["スカウト代行", "品質管理", "チェック", "承認フロー", 
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-check"
-related: ["scout-daikou-hanki", "scout-daikou-kakunin-flow", "scout-daikou-report", "scout-daikou-shounin"]
+related: ["scout-daikou-hinshitsu-kanri", "scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa", "scout-daikou-kadai-henshin"]
 ---
 
 スカウト代行に任せると、自社の名前で候補者に文面が届きます。誤字、事実の誤り、対象のずれ、トーンの崩れ。どれも候補者から見れば「その会社」の問題です。だから品質のチェックは要りますが、全通を発注側が見る運用は続きません。結論を先に書くと、**チェックは「送る前に止める線」と「送った後に見る線」の二段に分け、前者は最初だけ厚く、後者は定期的に薄く続けてください**。承認の流れそのものは[承認フローの設計](/media/scout-daikou-shounin/)に、品質の考え方は[スカウト代行の品質管理](/media/scout-daikou-hinshitsu-kanri/)にまとめています。

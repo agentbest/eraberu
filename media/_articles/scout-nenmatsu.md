@@ -9,7 +9,7 @@ tags: ["スカウト代行", "年末年始", "時期", "運用設計", "休暇"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-nenmatsu"
-related: ["scout-alumni-scout", "scout-baitai-kirikae", "scout-baitai-kumiawase", "scout-daikou-fukusuu-baitai"]
+related: ["scout-golden-week", "scout-natsu-fuyu", "scout-baitai-kaiyaku", "scout-baitai-kirikae"]
 ---
 
 年末年始に、スカウトを送り続けるべきか。休暇中に届いた文面は読まれず、返信も来ない気がする。一方で、止めると年明けの立ち上がりが遅れる。結論を先に書くと、**年末年始は送信を止めるのではなく、送る内容と対応の形を変えてください。年内は「年明けに話を」の関係づくり、休暇中は送信を絞って返信対応だけ保ち、年明けの一週目から面談を組める状態にしておきます**。賞与の時期の考え方は[夏・冬のボーナス時期の転職市場](/media/scout-natsu-fuyu/)に、大型連休は[大型連休前後の送信計画](/media/scout-golden-week/)にまとめています。

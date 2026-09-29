@@ -9,7 +9,7 @@ tags: ["スカウト代行", "定例会", "運用", "意思決定", "進め方"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-teirei"
-related: ["scout-daikou-kadai-houkoku", "scout-daikou-report", "scout-daikou-check", "scout-daikou-hanki"]
+related: ["scout-daikou-check", "scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa", "scout-daikou-kadai-henshin"]
 ---
 
 スカウト代行との定例会は、多くの場合、担当者が数字を読み上げ、発注側が「分かりました、引き続きお願いします」と返して終わります。三十分が過ぎ、何も変わらず、次の定例会でも同じ数字が読み上げられます。結論を先に書くと、**定例会は報告を聞く場ではなく、次の期間に何を変えるかを決める場にしてください**。報告はレポートで済ませ、定例会では決めることだけに時間を使います。レポートに入れてもらう項目は[レポートに入れてもらう項目](/media/scout-daikou-report/)にまとめています。

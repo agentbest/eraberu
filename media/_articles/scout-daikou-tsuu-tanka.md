@@ -9,7 +9,7 @@ tags: ["スカウト代行", "単価", "費用", "送信数", "採用単価"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-tsuu-tanka"
-related: ["scout-daikou-hiyou-hikaku", "scout-daikou-hiyou-souba", "scout-daikou-baitai-hi", "scout-daikou-hanbun-uchisei"]
+related: ["scout-baitai-kaiyaku", "scout-daikou-baitai-hi", "scout-daikou-getsugaku", "scout-daikou-hanbun-uchisei"]
 ---
 
 月額を送信数で割れば、一通あたりの単価が出ます。この数字で各社を比べると、安い提案と高い提案がはっきり分かれます。ところが、一通あたりが安い提案を選んで、面談が組めない、ということが起きます。結論を先に書くと、**一通あたりの単価は、「一通の中身」が揃っていなければ比べられません。型で大量に送る一通と、経歴を読んで書き分けた一通は、別のものです。比べるなら、一通あたりではなく、面談一件あたり・採用一名あたりで見てください**。この記事では、具体的な単価や相場の数値は扱いません。費用相場の読み方は[スカウト代行の費用相場](/media/scout-daikou-hiyou-souba/)に、月額固定の設計は[月額固定型の料金設計](/media/scout-daikou-getsugaku/)にまとめています。

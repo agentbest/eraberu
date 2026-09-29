@@ -9,7 +9,7 @@ tags: ["スカウト代行", "媒体費", "費用", "契約", "名義"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-baitai-hi"
-related: ["scout-daikou-mitsumori", "scout-daikou-seika", "scout-daikou-checklist", "scout-daikou-getsugaku"]
+related: ["scout-daikou-getsugaku", "scout-daikou-seika", "scout-baitai-kaiyaku", "scout-daikou-checklist"]
 ---
 
 スカウト代行の見積もりを見ると、「月額〇〇円」と一つの数字で書かれていることがあります。ところが、その中に媒体の利用料が含まれているのか、別に払うのかは、会社によって違います。結論を先に書くと、**媒体費と代行費は分けて把握し、媒体の契約名義を自社にするか代行会社にするかを、費用ではなく「記録と関係の帰属」で決めてください**。金額の多寡より、契約が終わったときに何が手元に残るかのほうが、後々効きます。費用の全体の見方は[スカウト代行の費用の比べ方](/media/scout-daikou-hiyou-hikaku/)に、見積もりの項目は[見積もりで確認する項目](/media/scout-daikou-mitsumori/)にまとめています。

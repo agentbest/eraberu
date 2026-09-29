@@ -9,7 +9,7 @@ tags: ["スカウト代行", "送信数", "アプローチ数", "運用設計", 
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kouhosha-suu"
-related: ["scout-baitai-kumiawase", "scout-daikou-jyoushitsu", "scout-daikou-kadai-ryou", "scout-baitai-kirikae"]
+related: ["scout-daikou-jyoushitsu", "scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-baitai-kumiawase"]
 ---
 
 スカウト代行を検討するとき、「月に何名にアプローチできますか」は最初に出る質問です。ところが、返ってくる数字は会社によって大きく違い、同じ会社でも前提を変えると変わります。結論を先に書くと、**数は「送れる上限」ではなく「面談に進む数から逆算した必要数」で決め、代行には数そのものではなく数の根拠を聞いてください**。数だけを比べると、多く送る提案が良く見えますが、多く送る運用は返信率と面談への進み方を落とすことがあります。数字の読み方は[スカウト代行の数字の見方](/media/scout-daikou-data/)に、担当の人数の考え方は[担当者の人数と体制](/media/scout-daikou-jinin/)にまとめています。

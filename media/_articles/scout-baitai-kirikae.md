@@ -9,7 +9,7 @@ tags: ["スカウト代行", "媒体", "切り替え", "判断", "運用設計"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-baitai-kirikae"
-related: ["scout-baitai-kumiawase", "scout-daikou-kengen", "scout-baitai-kaiyaku", "scout-daikou-fukusuu-baitai"]
+related: ["scout-baitai-kaiyaku", "scout-baitai-kumiawase", "scout-daikou-kengen", "scout-daikou-fukusuu-baitai"]
 ---
 
 いまの媒体で母数が足りないと分かった。別の媒体に切り替えるべきか、いまの媒体を残したまま足すべきか。切り替えれば費用と手間がかかり、足せば稼働が分かれます。結論を先に書くと、**切り替えは、いきなり替えるのではなく「足して比べる」期間を三か月置き、段階ごとの数字で判断してから行ってください。判断の期限と、比べる数字を、始める前に決めます**。媒体が原因かどうかの診断は[媒体を変えるべきか迷う](/media/scout-daikou-kadai-baitai/)に、組み合わせの考え方は[媒体の組み合わせ方](/media/scout-baitai-kumiawase/)にまとめています。この記事も、媒体の名前や料金には触れません。仕様は公式の案内で確認してください。

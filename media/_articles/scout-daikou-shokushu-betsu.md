@@ -9,7 +9,7 @@ tags: ["スカウト代行", "体制", "職種", "運用設計", "分担"]
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-shokushu-betsu"
-related: ["scout-daikou-jinin", "scout-daikou-hanbun-uchisei", "scout-daikou-henshin-taiou", "scout-daikou-kadai-jouhou"]
+related: ["scout-daikou-jinin", "scout-daikou-hanbun-uchisei", "scout-daikou-henshin-taiou", "scout-daikou-kyouyu"]
 ---
 
 複数の職種でスカウトを運用する場合、**同じ担当者が全職種を見るか、職種ごとに分けるか**。職種によって候補者の見方も、効く文面も違います。一方で、分けると情報が分断され、管理の窓口も増えます。この記事では、判断の基準と、分けた場合の設計を整理します。体制の確認方法は[実働メンバーが誰かを確認する](/media/rpo-taisei-kakunin/)にまとめています。

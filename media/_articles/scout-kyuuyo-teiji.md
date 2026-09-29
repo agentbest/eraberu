@@ -9,7 +9,7 @@ tags: ["スカウト代行", "年収", "条件提示", "文面", "返信対応"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-kyuuyo-teiji"
-related: ["scout-kyuuyo-makeru", "scout-chimeido-nai-kaisha", "scout-daikou-kadai-bunmen", "scout-daikou-kadai-jitai"]
+related: ["scout-chimeido-nai-kaisha", "scout-daikou-henshin-taiou", "scout-daikou-hinshitsu-kanri", "scout-daikou-kadai-bunmen"]
 ---
 
 スカウトの文面に、年収を書くべきか。書かないと「条件が分からない」で返信が来ない。書くと「条件だけで判断される」「社内の他の人に見られる」という懸念がある。結論を先に書くと、**文面には幅を出し、返信のやり取りで候補者の希望と照らし、額は面談で決めてください。「出さない」は返信を減らし、「額を出す」は面談前に判断を固めさせます。幅なら、条件が大きくずれた人を早く見送れ、合う人には安心を与えられます**。この記事では、具体的な数値や相場は扱いません。条件の設計は自社の給与制度に沿い、必要に応じて専門家にご確認ください。取り合いの考え方は[競合と候補者が取り合いになる](/media/scout-daikou-kadai-kyougou/)に、内定後の辞退は[面談後の辞退が多い](/media/scout-daikou-kadai-jitai/)にまとめています。

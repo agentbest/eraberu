@@ -9,7 +9,7 @@ tags: ["スカウト代行", "シニア", "経験者", "対象設定", "法令"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-senior-scout"
-related: ["scout-kanri-shoku", "scout-alumni-scout", "scout-baitai-kaiyaku", "scout-baitai-kirikae"]
+related: ["scout-josei-scout", "scout-gaikokujin-scout", "scout-kanri-shoku", "scout-kyuuyo-makeru"]
 ---
 
 長い経験を持つ人に、役割を担ってほしい。若手では持てない判断力、業界の人脈、修羅場をくぐった経験。そうした人にスカウトで声をかけたい。ただし、年齢を理由にした募集や選別には、法令上の制約があります。結論を先に書くと、**シニア層への声かけは、年齢で対象を絞るのではなく、「長い経験でしか持てないもの」——特定の局面の経験、業界の深い知識、人を育てた実績——で対象を選んでください。年齢ではなく経験の中身が基準なら、法令の制約に沿いつつ、求める人に届きます**。この記事は一般的な整理にとどめ、年齢に関する法令（募集・採用における年齢制限の扱いなど）の判断は、弁護士や社会保険労務士などの専門家にご確認ください。過去の応募者への再アプローチは[過去の応募者への再アプローチ](/media/scout-kako-oubosha/)に、退職者への声かけは[退職者へのスカウト](/media/scout-alumni-scout/)にまとめています。

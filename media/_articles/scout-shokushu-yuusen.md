@@ -9,7 +9,7 @@ tags: ["スカウト代行", "複数職種", "優先順位", "運用設計", "�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-shokushu-yuusen"
-related: ["scout-waku-tarinai", "scout-daikou-kadai-baitai", "scout-daikou-kadai-bunmen", "scout-daikou-kadai-hayasa"]
+related: ["scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-baitai-kumiawase", "scout-daikou-fukusuu-baitai"]
 ---
 
 エンジニアも、営業も、管理部門も、同時に採りたい。全部をスカウト代行に頼めば、全部が進むように思えます。実際には、担当者の稼働が職種の数で割られ、どの職種も対象と文面が整わないまま、中途半端に送られます。結論を先に書くと、**複数職種があるなら、同時に動かすのは二つまでにし、優先順位を「緊急度・母数・スカウトとの相性・社内の受け入れ体制」の四つで決めてください。後ろの職種は、前の職種が整ってから順に足します**。一職種に絞る利点は[一職種だけ頼めるか](/media/scout-daikou-kadai-spot/)に、職種を足すときの稼働の考え方も同じ記事にまとめています。

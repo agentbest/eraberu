@@ -9,7 +9,7 @@ tags: ["スカウト代行", "月額固定", "料金設計", "契約", "費用"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-getsugaku"
-related: ["scout-daikou-jikan-tanka", "scout-daikou-seika", "scout-daikou-baitai-hi", "scout-daikou-checklist"]
+related: ["scout-daikou-baitai-hi", "scout-daikou-seika", "scout-baitai-kaiyaku", "scout-daikou-checklist"]
 ---
 
 スカウト代行の契約で最も多いのは、月額固定型です。毎月決まった額を払い、運用を任せる。費用が読めて、予算に組みやすい。一方で、月額の中身——何時間の稼働で、何をどこまで、何通を目安に——が曖昧なまま契約すると、「払っているのに動いていない気がする」「何に払っているか分からない」になります。結論を先に書くと、**月額固定型は、月額に含まれるものを五つの項目——稼働・業務範囲・送信数の目安・レポートと定例会・変更の扱い——で書面にしてください。書面があれば、月額は「何を買っているか」が明確な費用になります**。この記事では、具体的な月額や相場の数値は扱いません。費用相場の読み方は[スカウト代行の費用相場](/media/scout-daikou-hiyou-souba/)に、一通あたりの考え方は[1通あたりの単価の考え方](/media/scout-daikou-tsuu-tanka/)にまとめています。

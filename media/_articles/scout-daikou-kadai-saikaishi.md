@@ -9,7 +9,7 @@ tags: ["スカウト代行", "再開", "一時停止", "課題", "運用"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-saikaishi"
-related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-ryou", "scout-daikou-kadai-tsuzukeru", "scout-waku-amaru"]
+related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa", "scout-daikou-kadai-henshin", "scout-daikou-kadai-houkoku"]
 ---
 
 採用計画の見直しで、スカウトをいったん止めた。半年後、また必要になった。前の代行会社に連絡すると、担当者は替わっていて、文面のルールも対象の基準も残っていない。立ち上げの三か月を、もう一度やり直す。こうした「再開のたびにゼロから」は、止め方で防げます。結論を先に書くと、**再開を前提に止めるなら、資産を手元に残し、止めている間も最低限の接点を保ち、再開の条件を決めておいてください。それで立ち上げは一か月以内に縮まります**。止めるときの資産の残し方は[代行なしで回らなくなる](/media/scout-daikou-kadai-izon/)に、予算の都合で止める判断は[予算が続かない](/media/scout-daikou-kadai-yosan/)にまとめています。

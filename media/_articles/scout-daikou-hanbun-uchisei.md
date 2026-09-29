@@ -9,7 +9,7 @@ tags: ["スカウト代行", "内製", "分担", "運用設計", "費用"]
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-hanbun-uchisei"
-related: ["scout-daikou-hanni", "scout-daikou-henshin-taiou", "scout-daikou-jinin", "scout-daikou-shokushu-betsu"]
+related: ["scout-baitai-kaiyaku", "scout-daikou-hanni", "scout-daikou-henshin-taiou", "scout-daikou-jinin"]
 ---
 
 スカウトの運用を、全部任せるか全部内製にするかの二択で考える必要はありません。**工程を分けて、一部を社内、一部を外注にする形が成立します**。そして、この形のほうが費用も抑えられ、社内に理解も残ります。この記事では、分け方のパターンと、受け渡しの設計を整理します。任せる範囲の全体は[任せる範囲の決め方](/media/scout-daikou-hanni/)にまとめています。

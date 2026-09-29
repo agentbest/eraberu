@@ -9,7 +9,7 @@ tags: ["スカウト代行", "ペルソナ", "ターゲット", "対象設定", 
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-persona-sakusei"
-related: ["scout-daikou-kadai-marunage", "scout-daikou-kadai-mismatch", "scout-daikou-kadai-shitsu", "scout-daikou-persona"]
+related: ["scout-daikou-persona", "scout-kanri-shoku", "scout-daikou-junbi", "scout-daikou-kadai-mismatch"]
 ---
 
 「三十代、成長意欲が高く、主体的に動ける人」。こうしたペルソナを担当者に渡しても、担当者は誰に送ればよいか分かりません。媒体の経歴には、成長意欲も主体性も書かれていないからです。結論を先に書くと、**スカウトのペルソナは、「理想の人」の描写ではなく、「経歴のどこを見れば対象と分かるか」を書くものです。担う範囲・経歴の手がかり・いまいる環境・動く理由の四つの軸で、担当者が抽出に使える形にしてください**。作ったペルソナの渡し方は[候補者像の伝え方](/media/scout-daikou-persona/)に、要件の整理は[要件シートの作り方](/media/scout-daikou-youken-sheet/)にまとめています。

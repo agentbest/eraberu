@@ -9,7 +9,7 @@ tags: ["スカウト代行", "コミュニケーション", "運用設計", "連
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-slack"
-related: ["scout-daikou-kadai-jouhou", "scout-daikou-mendan-doseki", "scout-baitai-kirikae", "scout-baitai-kumiawase"]
+related: ["scout-daikou-mendan-doseki", "scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-baitai-kumiawase"]
 ---
 
 スカウトの運用で、代行とどうやりとりするか。**やりとりが多くなる工程が決まっています**。返信が来たときの通知、条件を変えるときの伝達、文面の確認。この記事では、連絡を分類して経路を割り当てる方法と、往復を減らす設計を整理します。採用代行全般の設計は[採用代行とのコミュニケーション設計](/media/rpo-slack-renkei/)にまとめています。

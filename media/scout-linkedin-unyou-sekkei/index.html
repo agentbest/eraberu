@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LinkedInのスカウト運用設計｜送信数・時間帯・追客｜エラベル</title>
+<meta name="description" content="LinkedIn Recruiterの運用設計を、公式サイトの記載から整理しました。InMailは毎月150通という月次の枠で、国内媒体の期間一括付与とは配分の考え方が変わります。返信確率の高い候補者を優先する機能や保存済み検索を前提に、週次の組み立て方をまとめています。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/scout-linkedin-unyou-sekkei/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="LinkedInのスカウト運用設計｜送信数・時間帯・追客｜エラベル">
+<meta property="og:description" content="LinkedIn Recruiterの運用設計を、公式サイトの記載から整理しました。InMailは毎月150通という月次の枠で、国内媒体の期間一括付与とは配分の考え方が変わります。返信確率の高い候補者を優先する機能や保存済み検索を前提に、週次の組み立て方をまとめています。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/scout-linkedin-unyou-sekkei/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"LinkedInのスカウト運用設計｜送信数・時間帯・追客","description":"LinkedIn Recruiterの運用設計を、公式サイトの記載から整理しました。InMailは毎月150通という月次の枠で、国内媒体の期間一括付与とは配分の考え方が変わります。返信確率の高い候補者を優先する機能や保存済み検索を前提に、週次の組み立て方をまとめています。","datePublished":"2026-09-23","dateModified":"2026-09-23","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/scout-linkedin-unyou-sekkei/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/scout/">スカウト代行</a><i>›</i><span>LinkedInのスカウト運用設計｜送信数・時間帯・追客</span></div></nav><main class="wrap article">
+  <p class="art__kicker">スカウト代行 / LinkedIn</p>
+  <h1>LinkedInのスカウト運用設計｜送信数・時間帯・追客</h1>
+  <p class="art__meta">公開 2026-09-23</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">契約前の2週間で、150通が足りるかを見積もる</a></li><li><a href="#h2">1か月目：保存済み検索を作り、週の枠を二つに割る</a></li><li><a href="#h3">2か月目：アラートに合わせて送る時期を動かし、追客を仕組みに乗せる</a></li><li><a href="#h4">3か月目：初月を基準線にして、配分と組み合わせを見直す</a></li><li><a href="#h5">契約前に運営へ聞く項目と、自社の数字での見積もり方</a></li><li><a href="#h6">まとめ</a></li><li><a href="#h7">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>LinkedIn Recruiterでスカウトを回すとき、国内媒体との違いがいちばん表に出るのは通数の与えられ方です。製品の比較ページはRecruiterの「つながる」機能として「毎月150通のInMailメッセージ」と記載しており、半年や一年の一括付与ではなく、<strong>月ごとに入ってくる枠</strong>として扱います。この記事では、契約前の準備から導入後3か月目までを時系列に並べ、それぞれの月に何を決めて何を記録するかを整理します。送信数、時間帯、追客の決め方も、その月の作業として順に置いていきます。以下は2026年9月23日時点で公式サイトの日本語ページに記載されている内容に基づいており、運営はLinkedIn Corporationです。</p>
+<h2 id="h1">契約前の2週間で、150通が足りるかを見積もる</h2>
+<p>最初にやるのは、月150通という枠が自社の採用計画に見合うかの見積もりです。Recruiterのページにも「優秀な人材の採用につながる、1ヶ月のInMailメッセージ数」として150という数字が掲げられています。4週で割ると週あたり約37通、営業日で割ると1日7〜8通になります。一括送信で量を稼ぐ設計にはならず、1通ずつ相手を選んで書く前提の数です。</p>
+<p>見積もりは、採りたい人数から逆にたどると出ます。必要な採用数に、過去の選考で面談から採用に至った割合の逆数を掛けて必要な面談数を出し、さらに返信から面談に進んだ割合と返信率で割り戻すと、必要な送信数になります。LinkedInでの実績がまだないなら、他媒体の実績を仮の値として置き、3か月目に差し替える前提で進めます。この数字が150通の数か月分を大きく超えるなら、Recruiter単体では足りません。</p>
+<p>足りない場合に考えるのが、求人掲載との組み合わせです。製品の比較ページは、LinkedInの採用製品を用途で二つに分けています。どちらを足すかで、スカウトの周辺が厚くなるのか、応募を待つ経路が増えるのかが変わります。</p>
+<div class="tw"><table><thead><tr><th>製品</th><th>公式の想定</th><th>支払いの形</th><th>運用設計への影響</th></tr></thead><tbody><tr><td>求人掲載</td><td>採用チームを置かずに採用活動を行う企業</td><td>契約不要、1日の予算。変動型と成果型がある</td><td>応募を待つ経路が加わる。スカウトの枠は増えない</td></tr><tr><td>Recruiterと求人枠</td><td>採用チームが年間複数ポジションの採用を行う企業</td><td>問い合わせ</td><td>掲載求人の基準とRecruiterのアクティビティに基づくおすすめの候補者、専任のカスタマーサクセスマネージャーのサポートが付く</td></tr></tbody></table></div>
+<p>求人掲載の変動型は1日の予算の合計に達した時点で掲載が自動的に止まり、成果型は固定額ではなく市場価格に応じた支払いと説明されています。Recruiterの料金は日本語ページに掲載がなく、問い合わせの案内になっています。どちらで補うかは、運用を始めてからではなく契約前に決めておくほうが迷いません。</p>
+<h3>エラベルの見解</h3>
+<p>月150通は、国内の主要なスカウト媒体と比べると多い枠ではありません。母集団を広く取って打率で拾う設計が使えない、ということです。私たちがこの媒体を勧めるのは、探している人がはっきりしていて、国内媒体では見つからない場合に絞っています。外資系企業の日本法人、海外経験が要るポジション、英語での業務が前提の役割では母集団の性格が国内媒体と変わりますが、国内の一般的な職種で数を集めたいなら枠は窮屈です。同じ150通でも、誰がどの順に使うかで結果が分かれるので、契約前の見積もりの段階で担当者と数字を詰めておくことをお勧めします。</p>
+<aside class="cta-inline">
+<p>150通で足りるかどうか、自社の採用計画から一緒に見積もります</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h2">1か月目：保存済み検索を作り、週の枠を二つに割る</h2>
+<p>導入した月は、送ることより、探す作業を減らす仕組みを作ることに時間を使います。Recruiterのページは「求人ごとに検索をやり直すよりも、保存済み検索や転職機会にオープンな候補者を知らせるアラートを活用しましょう」と勧めています。一度作った条件を保存しておき、そこに新しく入ってきた人を毎週見る運用です。条件の組み方そのものは<a href="/media/scout-linkedin-kensaku-jouken/">LinkedInの検索条件の組み方</a>に譲り、ここでは週の回し方に絞ります。</p>
+<p>製品の比較ページには、Recruiterの「おすすめの候補者マッチ」として、転職検討中の候補者とマッチ、過去の応募者を表示、返信する確率が高い候補者を優先、の三つが挙がっています。限られた枠を使うなら、返信の見込みが高い順に使うのが素直です。Recruiterのページ側にも、転職の機会に関心の高い候補者や過去応募履歴のある候補者などを優先順位付けできるという記載があります。1か月目は、保存済み検索の結果をこの優先度の順に開き、その週に使う通数の範囲で1通ずつ書く流れを固めます。</p>
+<p>週の枠は、最初から用途ごとに分けておくと後で調整しやすくなります。分けずに送ると、どの経路の返信率が高かったのかを後から切り分けられません。1か月目は配分の正しさより、比べられる形で記録を残すことを優先します。</p>
+<div class="tw"><table><thead><tr><th>週の枠</th><th>通数の目安（週約37通のうち）</th><th>使う場面</th><th>1か月目に記録すること</th></tr></thead><tbody><tr><td>定例送信</td><td>半分程度</td><td>保存済み検索の新着を優先度順に送る</td><td>送信数、返信数、優先度の高い層とそれ以外の差</td></tr><tr><td>アラート対応</td><td>残りの半分程度</td><td>プロフィール更新やアラートが来た人に送る</td><td>アラートから送信までの日数、返信数</td></tr><tr><td>過去の応募者</td><td>定例の中から数通</td><td>以前選考に至らなかった人へ再度声をかける</td><td>反応の有無と、前回からの期間</td></tr></tbody></table></div>
+<p>アラート対応の枠を残しておくのは、使わなかった分が無駄になるように見えても、2か月目の比較材料になるからです。使い残した分は月末に定例送信へ回せば、枠そのものは失われません。1か月目の数字は、その後の基準線として使います。</p>
+<h2 id="h3">2か月目：アラートに合わせて送る時期を動かし、追客を仕組みに乗せる</h2>
+<p>2か月目に入ったら、送る時期をこちらの都合から候補者側の動きに寄せていきます。Recruiterのページには「有望な候補者がLinkedInプロフィールを更新したお知らせが届き、タイミングを逃さず接触できます」とあります。プロフィールの更新は、転職を考え始めた合図として読める場合があります。「毎週月曜に30通」とカレンダーで決めるより、アラートが来たときに使う分を残しておくほうが、同じ通数でも当たりやすくなります。</p>
+<p>追客は、Recruiterの自動フォローアップで仕組みに乗せられます。ヘルプでは、フォローアップは送信から最短3日（約72時間）後、最長28日後に設定でき、既定では最初のメッセージから7日後に送られるとされています。この機能はRecruiterのみで、Recruiter Liteでは使えません。最初のメッセージもフォローアップもそれぞれ先にクレジットを使い、候補者が最初のメッセージに返信すればフォローアップは自動でキャンセルされて両方のクレジットが返却される仕組みです。文面の書き分けは<a href="/media/scout-linkedin-template/">LinkedInのスカウトテンプレートの作り方</a>で扱っています。</p>
+<p>通数の見え方も、2か月目から変わります。ヘルプでは、送信後90日以内に受諾、辞退、または直接返信されたInMailにはクレジットが返却され、前月の未使用分は繰り越されるとされています。ただし合計が毎月の割り当ての4倍を超える分は繰り越されず期限切れになります。返信率が上がれば実質的に送れる通数が増えるので、月の枠を使い切ったかどうかより、返却を含めた残高で見ます。</p>
+<p>返信が来たあとの動きは、公式に「スケジュール管理ツールでカレンダーを共有することで、面接の設定も簡単に行えます」とあるとおり、同じ場で完結させられます。<strong>返信を受けた当日に日程の候補を返す</strong>ことを、2か月目の運用ルールとして決めておくと、面談までの日数が縮みます。そのためには、面接官の空き枠を週の初めに押さえておく段取りが要ります。</p>
+<aside class="cta-inline">
+<p>アラートを起点にした送信と追客の設計を、実務の側から一緒に組み立てます</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h4">3か月目：初月を基準線にして、配分と組み合わせを見直す</h2>
+<p>3か月たつと、自社の数字で判断できる材料がそろいます。日本語ページに載っている数値は、LinkedInのメンバー数6億9,000万人以上、求人掲載のページの「毎週2,500万人」もの求職者、「75%」の採用担当者がLinkedIn Recruiterの効果を実感、といった全世界の数字です。日本国内の登録者数や職種別の内訳は掲載がないため、見直しの基準は自社の1か月目に置くしかありません。</p>
+<p>レポートについては「レポートを詳しく見ることでInMailと求人掲載の実績を追跡し、LinkedIn製品の利用状況を把握できます」とされています。3か月目に見る数字と、そこから下す判断を先に決めておくと、振り返りが感想で終わりません。数字ごとに、何と比べるかも決めておきます。</p>
+<div class="tw"><table><thead><tr><th>見る数字</th><th>基準にする値</th><th>3か月目の判断</th></tr></thead><tbody><tr><td>定例送信とアラート対応の返信率の差</td><td>1か月目の両方の返信率</td><td>アラート対応が高ければ、枠の配分をそちらに寄せる</td></tr><tr><td>優先度の高い層とそれ以外の返信率の差</td><td>1か月目の差</td><td>差が小さければ、優先度より条件の見直しを先にする</td></tr><tr><td>返信から面接設定までの日数</td><td>2か月目に当日返信を始める前の日数</td><td>縮まっていなければ、面接官の枠の出し方を見直す</td></tr><tr><td>月内の通数消化と繰り越し残高</td><td>割り当ての4倍という上限</td><td>上限に近ければ送信先を広げ、足りなければ求人掲載の併用を検討する</td></tr></tbody></table></div>
+<p>複数人で運用している場合は、候補者メモをチームでシェアする機能があります。振り返りをこのメモの上で回すと、誰がどの判断をしたかが残ります。ATSとつなぐ場合は、Recruiter System Connectで候補者の最新動向の確認や他の応募者データの参照ができるとされており、連携の考え方は<a href="/media/scout-daikou-ats-renkei/">スカウト代行とATS連携</a>にまとめています。</p>
+<h3>エラベルの見解</h3>
+<p>LinkedInの運用でつまずきやすいのは、国内媒体と同じ感覚で月初にまとめて送ってしまうことです。月150通は、一括送信なら数日で尽きる量です。尽きたあとに翌月まで動けなくなると、アラートで見つけた候補者に声をかけられません。この媒体で成果が分かれるのは、枠を使い切るかどうかではなく、毎週使う先を選び直しているかどうかで、担当する側から見ると「送る作業」より「送らない判断」に時間がかかります。代行に出す場合も、送信数ではなく、週ごとに誰に使い、誰を見送ったかを報告してもらう形にしておくと、3か月目の見直しに使えます。</p>
+<h2 id="h5">契約前に運営へ聞く項目と、自社の数字での見積もり方</h2>
+<p>日本語ページに載っていない項目は、問い合わせで確かめるしかありません。ただ、聞いた答えをそのまま受け取るのではなく、自社の数字と掛け合わせて判断に使える形にしておきます。下の表の右端は、聞いた値に何を掛ければ自社の判断材料になるかを書いたものです。</p>
+<div class="tw"><table><thead><tr><th>聞く項目</th><th>聞く理由</th><th>自社の数字での見積もり方</th></tr></thead><tbody><tr><td>国内の対象職種での候補者数</td><td>公開されていない</td><td>条件ヒット数 × 実際に送信できた割合 で、送れる母集団を出す</td></tr><tr><td>料金とライセンス数の考え方</td><td>日本語ページに掲載がない</td><td>月額 ÷（150通 × ライセンス数）で1通あたりの費用を出し、他媒体と比べる</td></tr><tr><td>求人枠を併用する場合の費用</td><td>比較ページは問い合わせの案内</td><td>必要な面談数から150通分の見込み面談数を引き、不足分を求人掲載で埋める費用と比べる</td></tr><tr><td>日本語でのサポート体制</td><td>専任担当の有無で立ち上がりが変わる</td><td>社内で運用に割ける時間（週何時間か）と照らし合わせる</td></tr></tbody></table></div>
+<p>返信率や面談化の割合は、どれも自社で持っている数字か、1か月目に取れる数字です。運営に聞くのは、その数字に掛ける側の値だけです。候補者の情報を社外のツールと連携させる場合は、個人情報の扱いについて社内の規程を確認し、個別の判断は専門家にご確認ください。</p>
+<h2 id="h6">まとめ</h2>
+<ul><li>LinkedIn RecruiterのInMailは月150通の枠で、週約37通、1日7〜8通の規模になる。契約前に、採りたい人数から逆算して足りるかを見積もる</li><li>1か月目は保存済み検索を作り、週の枠を定例送信とアラート対応に分けて、基準線になる数字を取る</li><li>2か月目はアラートとプロフィール更新に合わせて送る時期を動かし、自動フォローアップと当日の日程返信で追客を仕組みに乗せる</li><li>3か月目は、全世界の公表値ではなく自社の1か月目を基準に、配分と求人掲載の併用を見直す</li><li>運営に聞く項目は、自社の返信率や面談化の割合と掛け合わせて、判断に使える数字に直す</li></ul>
+<h2 id="h7">よくある質問</h2>
+<h3>Q. 150通を使い切れなかった月の分はどうなりますか</h3>
+<p>ヘルプでは、前月の未使用のInMailクレジットは繰り越されるとされています。ただし合計が毎月の割り当ての4倍を超える分は繰り越されず、期限切れになります。契約の形で扱いが変わる可能性もあるため、契約前に運営にご確認ください。</p>
+<h3>Q. 送信する時間帯は決めたほうがよいですか</h3>
+<p>曜日や時刻を固定するより、アラートやプロフィール更新の通知が来たときに送れる枠を残しておくほうが、この媒体の仕組みには合っています。そのうえで、定例送信の曜日を決めておくと作業の段取りが組みやすくなります。どちらが効くかは、1か月目に両方の返信率を記録して比べてください。</p>
+<h3>Q. 導入後、どのくらいで運用を見直せばよいですか</h3>
+<p>目安は3か月です。1か月目で基準線を取り、2か月目で送る時期と追客の形を変え、3か月目に両者を比べると、配分や併用の判断に使える差が見えてきます。公開されている数値は全世界のものなので、見直しの基準は自社の実績に置いてください。</p>
+<p>※料金・通数・機能の条件は変わります。掲載した内容は2026年9月23日時点の公式サイトの記載であり、実際の条件は運営にご確認ください。</p>
+  </div>
+  <section class="sources"><h2>出典</h2><ul><li><a href="https://business.linkedin.com/ja-jp/talent-solutions/recruiter" target="_blank" rel="noopener">採用ツール - LinkedIn Recruiter | LinkedInタレントソリューションズ</a></li><li><a href="https://business.linkedin.com/ja-jp/talent-solutions/product-comparison" target="_blank" rel="noopener">製品の比較 | LinkedInタレントソリューションズ</a></li><li><a href="https://business.linkedin.com/ja-jp/talent-solutions/post-jobs" target="_blank" rel="noopener">LinkedIn求人 | LinkedInタレントソリューションズ</a></li><li><a href="https://business.linkedin.com/ja-jp/talent-solutions" target="_blank" rel="noopener">LinkedInタレントソリューションズ</a></li><li><a href="https://www.linkedin.com/" target="_blank" rel="noopener">LinkedIn</a></li></ul></section>
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/scout-linkedin-daikou/">LinkedInのスカウト代行｜任せられる範囲と成果の測り方</a></li><li><a href="/media/scout-linkedin-kensaku-jouken/">LinkedInの検索条件の組み方｜母集団を狭めすぎない設計</a></li><li><a href="/media/scout-linkedin-template/">LinkedInのスカウトテンプレートの作り方</a></li><li><a href="/media/scout-eight-career-unyou-sekkei/">Eight Career Designのスカウト運用設計｜送信数・時間帯・追客</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

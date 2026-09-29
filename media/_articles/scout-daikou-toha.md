@@ -9,7 +9,7 @@ tags: ["スカウト代行", "ダイレクトリクルーティング", "業務�
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-toha"
-related: ["scout-daikou-hanni", "scout-daikou-hiyou-hikaku", "scout-daikou-hiyou-souba", "scout-daikou-seika"]
+related: ["scout-daikou-hanni", "scout-daikou-hiyou-hikaku", "scout-daikou-seika", "scout-baitai-kaiyaku"]
 ---
 
 スカウト代行は、企業が候補者に直接アプローチする運用を外部に委託する仕組みです。**ただ、「スカウト代行」という言葉が指す範囲は会社によって違います**。候補者の検索から任せるのか、渡された条件で送るだけか。返信への対応は入るのか。この記事では、工程の分解と料金体系の型を整理します。なお、**媒体ごとの送信の仕組みや料金は変わるため、具体的な条件は公式の情報をご確認ください**。

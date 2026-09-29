@@ -9,7 +9,7 @@ tags: ["スカウト代行", "改善提案", "権限", "運用設計", "関係�
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-kaizen"
-related: ["scout-daikou-nittei", "scout-baitai-kirikae", "scout-baitai-kumiawase", "scout-daikou-fukusuu-baitai"]
+related: ["scout-daikou-nittei", "scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-baitai-kumiawase"]
 ---
 
 代行に改善の提案を求めるか。**求めるなら、どこまで変えてよいかを決めておく必要があります**。条件は自由に調整してよいのか、文面は書き直してよいのか、要件そのものに踏み込んでよいのか。この記事では、提案の範囲と、提案が出る条件を整理します。定例会での進め方は[定例会の進め方](/media/scout-daikou-teirei/)にまとめています。

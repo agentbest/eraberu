@@ -9,7 +9,7 @@ tags: ["スカウト代行", "知名度", "文面", "信頼", "採用広報"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-chimeido-nai-kaisha"
-related: ["scout-hijoukin", "scout-baitai-kumiawase", "scout-chihou-kigyo", "scout-daikou-kadai-baitai"]
+related: ["scout-daikou-hinshitsu-kanri", "scout-daikou-kadai-bunmen", "scout-daikou-kakunin-flow", "scout-daikou-manual-kizoku"]
 ---
 
 候補者が社名を知らない。文面を開いても、「どこの会社だろう」で終わる。知名度のある会社と同じ文面を送っても、開かれる確率も、読まれる確率も違います。結論を先に書くと、**知名度が無い会社の文面は、会社の紹介から始めると読まれません。一段落目で役割と「なぜあなたに」を書き、会社の話はその後に回してください。知名度は文面の中では作れませんが、「この役割はあなたに合う」という具体性は作れます。そして、候補者が検索した先に、信頼の材料を置いておきます**。給与で負ける場合の訴求は[給与で負ける会社の訴求](/media/scout-kyuuyo-makeru/)に、採用サイトの整え方は[採用サイトへの導線](/media/scout-saiyo-site-doushen/)にまとめています。

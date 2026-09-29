@@ -9,7 +9,7 @@ tags: ["人事副業", "収入目標", "月収", "稼働", "時給"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-nenshuu-mokuhyou"
-related: ["fukugyo-agent-keiken", "fukugyo-choka-kadou", "fukugyo-fukusuu-anken", "fukugyo-honmyo"]
+related: ["fukugyo-jikyuu", "fukugyo-agent-keiken", "fukugyo-choka-kadou", "fukugyo-fukusuu-anken"]
 ---
 
 人事の副業で、月にいくらを目指せるか。この問いに、「月〇万円」と答える記事は多くありますが、その数字は、誰かの稼働と時給と案件の掛け算で、自分の答えではありません。結論を先に書くと、**目標は、金額から置くのではなく、「固定できる時間×自分の時給」で置いてください。それが自分の副業の上限で、そこから生活の期待と照らし、届かなければ時間か時給か案件の形を見直します**。この記事では、金額や相場の数値は扱いません。収入を保証するものでもありません。固定できる時間は[週何時間から受けられるか](/media/fukugyo-kadou-jikan/)に、自分の時給の置き方は[最初の1件の価格の決め方](/media/fukugyo-shoninka/)にまとめています。

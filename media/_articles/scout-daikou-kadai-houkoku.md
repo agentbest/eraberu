@@ -9,7 +9,7 @@ tags: ["スカウト代行", "報告", "レポート", "課題", "運用"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-houkoku"
-related: ["scout-daikou-kadai-hayasa", "scout-daikou-kadai-henshin", "scout-daikou-teirei", "scout-daikou-kadai-baitai"]
+related: ["scout-daikou-report", "scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa", "scout-daikou-kadai-henshin"]
 ---
 
 毎週レポートは届く。送信数と返信率が並んでいる。読んでも、次に何をすればよいかが分からない。「報告が薄い」は、数字が無いことではなく、判断に使える情報が無いことです。結論を先に書くと、**報告が薄いのは、担当者が怠けているからではなく、求めていないか、担当者に見立てが無いか、言えない空気があるかのどれかです。原因を切り分けて、報告の型を作り直してください**。レポートに入れる項目そのものは[レポートに入れてもらう項目](/media/scout-daikou-report/)にまとめています。

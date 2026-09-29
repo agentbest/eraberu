@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LinkedInのスカウトテンプレートの作り方｜エラベル</title>
+<meta name="description" content="LinkedIn RecruiterのInMail文面を、公式ヘルプの記載から設計しました。件名は最大200文字、本文は最大1,900文字、使える変数は7種類です。自動フォローアップは3〜28日で設定でき、返信があれば両方のクレジットが返却されます。仕様に沿ったテンプレートの型を整理しています。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/scout-linkedin-template/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="LinkedInのスカウトテンプレートの作り方｜エラベル">
+<meta property="og:description" content="LinkedIn RecruiterのInMail文面を、公式ヘルプの記載から設計しました。件名は最大200文字、本文は最大1,900文字、使える変数は7種類です。自動フォローアップは3〜28日で設定でき、返信があれば両方のクレジットが返却されます。仕様に沿ったテンプレートの型を整理しています。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/scout-linkedin-template/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"LinkedInのスカウトテンプレートの作り方","description":"LinkedIn RecruiterのInMail文面を、公式ヘルプの記載から設計しました。件名は最大200文字、本文は最大1,900文字、使える変数は7種類です。自動フォローアップは3〜28日で設定でき、返信があれば両方のクレジットが返却されます。仕様に沿ったテンプレートの型を整理しています。","datePublished":"2026-09-23","dateModified":"2026-09-23","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/scout-linkedin-template/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/scout/">スカウト代行</a><i>›</i><span>LinkedInのスカウトテンプレートの作り方</span></div></nav><main class="wrap article">
+  <p class="art__kicker">スカウト代行 / LinkedIn</p>
+  <h1>LinkedInのスカウトテンプレートの作り方</h1>
+  <p class="art__meta">公開 2026-09-23</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">文面例：初回のInMailを件名から署名まで</a></li><li><a href="#h2">変数を差し込むと、例文のどこが変わるか</a></li><li><a href="#h3">文面例：7日後に届くフォローアップ</a></li><li><a href="#h4">AI修正を使うなら、下書きは300文字より長く作る</a></li><li><a href="#h5">送る前の確認と、辞退の読み方</a></li><li><a href="#h6">まとめ</a></li><li><a href="#h7">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>LinkedInのInMailは、文面の仕様がヘルプに細かく公開されています。件名と本文の文字数、使える変数、署名と添付の上限、フォローアップの日数まで書かれており、国内媒体では問い合わせないと分からない項目がそのまま読めます。公式ヘルプは文面の方向性にも踏み込んでいて、「LinkedInはネットワーキングのためのサイトであり、求人掲載サイトではありません」と書いています。この記事では、<strong>実際の文面例を一通ずつ示し、その書き方がどの仕様と記載に沿っているか</strong>を解説します。以下は2026年9月23日時点で公式ヘルプの日本語ページに記載されている内容に基づいており、運営はLinkedIn Corporationです。</p>
+<h2 id="h1">文面例：初回のInMailを件名から署名まで</h2>
+<p>まず、求人掲載を紐づけたプロジェクトから送る初回の例を示します。会社名や経歴は架空のもので、変数は差し込み前の形のまま載せています。長さは、あとで触れるAI修正の条件も満たせるよう、本文を300文字より少し長くしてあります。</p>
+<blockquote><p>件名：{projectJobTitle}のご相談｜決済基盤の移行のご経験を拝見して</p><p></p><p>{firstName}さん</p><p></p><p>はじめまして。{projectCompany}で採用を担当している者です。プロフィールで、前職で決済基盤をクラウドへ移行されたご経験を拝見し、ご連絡しました。私たちもいま同じ規模の移行に取り組んでおり、進め方を決める立場の方を探しています。</p><p></p><p>今回お声がけしたのは{projectJobTitle}のポジションで、勤務地は{projectLocation}です。詳しい内容は{jobPostLink}にまとめていますが、まずは転職のご意向にかかわらず、30分ほどオンラインでお話しできればうれしいです。ご都合が合わないようでしたら、その旨だけでもお返事いただけると助かります。</p></blockquote>
+<p>件名は最大200文字、本文は最大1,900文字、署名は最大150文字とされています。上の例は本文の枠の3分の1にも届きませんが、公式ヘルプは「簡潔で率直なInMailメッセージのほうが、返信率が高くなることがわかっています」とし、詳細な業務内容を長々と説明することは避けるよう書いています。初回の目的は、相手の都合と関心を確かめることに置かれています。例文の各部分がどの記載に沿っているかは、次の表のとおりです。</p>
+<div class="tw"><table><thead><tr><th>文面の部分</th><th>例文での書き方</th><th>根拠になる公式の記載</th><th>避ける書き方</th></tr></thead><tbody><tr><td>件名</td><td>役職名と、送った根拠を一言</td><td>件名は最大200文字</td><td>会社の紹介だけで終わる件名</td></tr><tr><td>冒頭</td><td>経歴のどこを見たかを具体的に</td><td>スライドインプロフィールで関連性の高い職歴を参照する</td><td>「ご経歴に魅力を感じました」だけ</td></tr><tr><td>なぜ送ったか</td><td>自社の状況との共通点</td><td>共通の職歴や関心トピック、つながりをシェアする</td><td>自社がどれだけ人を求めているかの説明</td></tr><tr><td>役割</td><td>役職名と勤務地、詳細はリンクへ</td><td>詳細な業務内容を長々と説明することは避ける</td><td>募集要項の貼り付け</td></tr><tr><td>関心の確認</td><td>会う形式と所要時間、断りの返事も歓迎</td><td>相手の都合と関心の把握にまず重点をおく</td><td>「関心のある方はご連絡ください」</td></tr></tbody></table></div>
+<p>最後の行について、ヘルプは、積極的に就職活動をしていない候補者の場合、「募集内容をご覧の上、関心のある方はご連絡ください」といったメッセージには反応を期待できないと書いています。トーンも「会話調の、積極的なトーン」で、自分の要望ではなく、その人の目標の達成にどう役立てるかという視点から話すよう勧めています。例文の最後に「お返事だけでも」と添えているのは、この視点に合わせたものです。</p>
+<h3>エラベルの見解</h3>
+<p>媒体の運営元が「長く書かないように」と明示している例は珍しく、この記載は重く受け止めてよいと考えています。国内のスカウト媒体では文面の長さに公式の見解がないことが多く、実務では「詳しく書いたほうが丁寧」という前提が残りがちです。LinkedInは逆の立場を取っています。私たちがテンプレートを見るときは、本文が1,900文字の3分の1で収まっているかと、冒頭の一文がその人のプロフィールを読まないと書けない内容になっているかの二点を確かめます。同じ型を渡しても、担当者によって差が出るのは冒頭の一文です。</p>
+<aside class="cta-inline">
+<p>いまのテンプレートが仕様と指針に沿っているか、一緒に見直します</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h2">変数を差し込むと、例文のどこが変わるか</h2>
+<p>上の例文は、七つある変数のうち五つを使っています。名前の三つはどのプロジェクトでも使えますが、残りの四つには条件があります。ヘルプに挙がっている変数と、差し込める条件は次のとおりです。</p>
+<div class="tw"><table><thead><tr><th>変数</th><th>差し込まれる内容</th><th>使える条件</th><th>例文での位置</th></tr></thead><tbody><tr><td>{firstName}／{lastName}／{fullName}</td><td>候補者の名前</td><td>条件なし</td><td>呼びかけ</td></tr><tr><td>{projectJobTitle}</td><td>プロジェクトの役職</td><td>求人掲載が関連付けられたプロジェクトのみ</td><td>件名と役割の段落</td></tr><tr><td>{projectCompany}</td><td>会社名</td><td>同上</td><td>冒頭の名乗り</td></tr><tr><td>{projectLocation}</td><td>プロジェクトの場所</td><td>同上</td><td>役割の段落</td></tr><tr><td>{jobPostLink}</td><td>求人掲載のリンク</td><td>同上。掲載終了した求人では表示されない</td><td>関心の確認の直前</td></tr></tbody></table></div>
+<p>役職名、会社名、場所、求人リンクの四つは、プロジェクトの詳細ではなく求人掲載に結びついています。ヘルプは、プロジェクトの詳細を手動で更新しても、求人掲載が関連付けられていない限りこれらの変数は使えないとしています。求人を紐づけていないプロジェクトでは、差し込めるのは名前だけになるので、例文の件名や役割の段落は手で書き換える前提で型を作ります。</p>
+<p>求人の掲載が終わると{jobPostLink}は表示されないため、長く使うテンプレートでは、リンクが消えても文が崩れない書き方にしておきます。例文なら「詳しい内容は{jobPostLink}にまとめていますが」の部分を、リンクがなくても通じる一文に分けておく形です。差し込んだ結果は、メッセージウィンドウ下部の「プレビュー」で確認できます。</p>
+<p>添付は最大5件、合計2MBまでで、形式はCSV、XLS、XLSX、DOC、DOCX、PDF、TXT、RTFとされています。初回に資料を添付するより、会ったときに見せるほうが、この媒体の指針には合っています。添付を付ける場合も、本文だけで用件が伝わる書き方にしておきます。</p>
+<h2 id="h3">文面例：7日後に届くフォローアップ</h2>
+<p>自動フォローアップは、送信から最短3日（約72時間）後、最長28日後に設定でき、既定では最初のメッセージから7日後に送られます。Recruiterでのみ使え、Recruiter Liteでは使えません。初回とは違う角度を一つだけ足す、短い例を示します。</p>
+<blockquote><p>{firstName}さん</p><p></p><p>先日はお忙しいところ失礼しました。一点だけ補足させてください。今回のポジションでは、移行の設計だけでなく、完了後の運用チームの立ち上げもお任せしたいと考えています。ご関心がなければ、お返事は不要です。</p></blockquote>
+<p>例文では、初回の内容を繰り返さず、任せたい範囲という新しい材料を一つだけ足しています。クレジットの扱いも、この二通の書き分けに直接効きます。返信のタイミングで戻る通数が変わるためです。</p>
+<div class="tw"><table><thead><tr><th>回</th><th>置く内容</th><th>例文の要点</th><th>クレジットの扱い</th></tr></thead><tbody><tr><td>初回</td><td>送った根拠、関心の確認、会う形式</td><td>経歴への言及と30分の打診</td><td>先に使う。初回に返信があればフォローアップは自動でキャンセルされ、両方返却</td></tr><tr><td>フォローアップ</td><td>初回で触れなかった角度を一つ</td><td>任せたい範囲の追加</td><td>先に使う。送信後に返信があれば1クレジット返却、どちらにも返信がなければ返却なし</td></tr></tbody></table></div>
+<p>初回で返信をもらえれば通数の消費はゼロに戻り、初回もフォローアップも空振りすると2通分が消えます。一括メッセージではフォローアップの下書きも一緒に作れますが、加えた変更は一括の受信者全員に適用されるとされています。一括で送る場合のフォローアップは全員に同じ文面が届くので、名前以外の差し込みに頼らない書き方にしておきます。</p>
+<aside class="cta-inline">
+<p>初回とフォローアップの書き分けを、実際の文面を見ながら一緒に整えます</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h4">AI修正を使うなら、下書きは300文字より長く作る</h2>
+<p>テンプレートにはAI支援があり、下書き中にAIで修正すると、関連する候補者情報が反映されてパーソナライズされたメッセージになるとされています。操作はメッセージ下部の「AIで修正」または「AIですべて修正」ボタンです。対象となる言語には日本語が含まれていますが、条件として、300文字を超える最初の採用アプローチメッセージの下書きを作っているときに使えると書かれています。</p>
+<p>短く書くという指針と、300文字を超えるという条件は、一見ぶつかります。両方を満たすには、素のテンプレートを300文字より少し厚めに作り、AIの修正で削る使い方になります。冒頭で示した例文は、この条件を意識した長さにしてあります。</p>
+<p>使えない場面も明記されています。応募者や応募を開始した人、共有された応募者、社内候補者宛てのメッセージではテンプレート修正は使えず、Recruiter Professional Services（RPS）の顧客が修正できるのは1対1のメッセージのテンプレートのみです。この機能は段階的に提供されているため、現時点で使えない場合もあります。長さやトーンを調整する「下書きの設定」は、言語が英語、フランス語、ドイツ語の場合のみとされ、日本語では使えません。</p>
+<h2 id="h5">送る前の確認と、辞退の読み方</h2>
+<p>文面ができたら、送る前にいくつか確かめます。いずれも文面の中身ではなく、届くかどうかと、届いたあとの見え方に関わる点です。複数人で運用している場合は、特に二つ目の重複の警告を見落とさないようにします。</p>
+<ul><li>候補者は個人設定でInMailを受け取らないよう選べるため、プロフィールの「その他の情報」で連絡に関する設定を確認する</li><li>同じ契約の同僚が同月内に連絡済みの場合は、メッセージ作成画面に警告が出る</li><li>最初のメッセージは受信ボックスからは送れず、検索結果、プロジェクトの人材プールまたはパイプライン、候補者のプロフィールから送る</li><li>一括送信は、契約管理者がオフにしている場合、InMail改善期間中、Recruiter Liteの場合には使えない</li></ul>
+<p>送ったあとの読み方で見落とされやすいのが、辞退の扱いです。ヘルプには、候補者がメッセージを追加した場合も含めて、辞退に関する通知は送信されないとあります。ステータスは受信ボックス側で確かめる形なので、読み分けの型を決めておきます。</p>
+<div class="tw"><table><thead><tr><th>ステータス</th><th>読み方</th><th>直す場所</th></tr></thead><tbody><tr><td>受諾済み</td><td>件名と冒頭で関心を持ってもらえた</td><td>返信から日程調整までの速さ</td></tr><tr><td>辞退済みが多い</td><td>開いてもらえたが、中身が合わなかった</td><td>冒頭の一文と役割の段落</td></tr><tr><td>承認待ちのまま動かない</td><td>開かれていないか、相手の状況が合わない</td><td>件名と、送る時期</td></tr></tbody></table></div>
+<h3>エラベルの見解</h3>
+<p>文面が効いていないと感じたとき、発注側は本文の言い回しを直そうとしがちです。ただ、この媒体では辞退の通知が来ないので、返信がない理由が文面なのか相手の状況なのかは、ステータスの内訳を見ないと分かりません。辞退が多いなら件名と冒頭、承認待ちが積み上がるなら送る時期の問題と読み分けられます。担当する側から見ると、この内訳を週に一度見るかどうかで、テンプレートの直し方がまるで変わります。通数の配分と週次の運用は<a href="/media/scout-linkedin-unyou-sekkei/">LinkedInのスカウト運用設計</a>に、条件の組み方は<a href="/media/scout-linkedin-kensaku-jouken/">LinkedInの検索条件の組み方</a>にまとめています。</p>
+<h2 id="h6">まとめ</h2>
+<ul><li>件名200文字、本文1,900文字、署名150文字が上限だが、公式ヘルプは簡潔で率直な文面を勧めている。本文は枠の3分の1を目安にする</li><li>冒頭は、その人のプロフィールを読まないと書けない一文にし、最後は「関心のある方はご連絡ください」ではなく会う形式と所要時間で締める</li><li>役職名、会社名、場所、求人リンクの変数は、求人掲載を紐づけたプロジェクトでしか使えない</li><li>フォローアップは初回と違う角度を一つだけ足す。初回に返信があれば両方のクレジットが戻る</li><li>辞退の通知は来ないので、受諾・辞退・承認待ちの内訳を見て、直す場所を決める</li></ul>
+<h2 id="h7">よくある質問</h2>
+<h3>Q. 初回の本文はどのくらいの長さが適切ですか</h3>
+<p>公式ヘルプは、簡潔で率直なInMailのほうが返信率が高いとしています。目安としては本文の上限1,900文字の3分の1程度に収め、詳細は求人リンクや面談に回します。AI修正を使う場合は300文字を超える下書きが条件なので、その少し上を下書きの長さにしておくと両方を満たせます。</p>
+<h3>Q. 変数{projectJobTitle}が差し込まれないのはなぜですか</h3>
+<p>役職名、会社名、場所、求人リンクの変数は、求人掲載が関連付けられたプロジェクトで作成したメッセージでのみ使えます。プロジェクトの詳細を手で更新しても、求人掲載が紐づいていなければ使えません。求人の掲載が終了している場合は、{jobPostLink}も表示されなくなります。</p>
+<h3>Q. フォローアップは何日後に設定するのがよいですか</h3>
+<p>設定できるのは最短3日後から最長28日後までで、既定は7日後です。何日後が効くかは職種や相手の状況で変わるため、まずは既定の7日で始め、承認待ちの件数を見ながら調整してください。料金・通数・機能の条件は変わるので、契約前に最新の内容を運営にご確認ください。</p>
+  </div>
+  <section class="sources"><h2>出典</h2><ul><li><a href="https://www.linkedin.com/help/recruiter/answer/a417098" target="_blank" rel="noopener">RecruiterのInMailメッセージに関するよくある質問｜Recruiterヘルプ</a></li><li><a href="https://www.linkedin.com/help/recruiter/answer/a406434" target="_blank" rel="noopener">RecruiterまたはRecruiter Liteでメッセージを送信する｜Recruiterヘルプ</a></li><li><a href="https://www.linkedin.com/help/recruiter/answer/a406429" target="_blank" rel="noopener">Recruiterでテンプレートを使用してメッセージを送信する｜Recruiterヘルプ</a></li><li><a href="https://www.linkedin.com/help/recruiter/answer/a414149" target="_blank" rel="noopener">効果的なInMailメッセージを作成する｜Recruiterヘルプ</a></li><li><a href="https://www.linkedin.com/help/recruiter/answer/a1517489" target="_blank" rel="noopener">Recruiterの自動フォローアップに関するよくある質問｜Recruiterヘルプ</a></li><li><a href="https://business.linkedin.com/ja-jp/talent-solutions/recruiter" target="_blank" rel="noopener">採用ツール - LinkedIn Recruiter | LinkedInタレントソリューションズ</a></li></ul></section>
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/scout-linkedin-daikou/">LinkedInのスカウト代行｜任せられる範囲と成果の測り方</a></li><li><a href="/media/scout-linkedin-kensaku-jouken/">LinkedInの検索条件の組み方｜母集団を狭めすぎない設計</a></li><li><a href="/media/scout-linkedin-unyou-sekkei/">LinkedInのスカウト運用設計｜送信数・時間帯・追客</a></li><li><a href="/media/scout-ambi-template/">AMBIのスカウトテンプレートの作り方</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

@@ -9,7 +9,7 @@ tags: ["スカウト代行", "名義", "送り分け", "文面", "運用設計"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-fukusuu-meigi"
-related: ["scout-daikou-hinshitsu-kanri", "scout-daikou-kakunin-flow", "scout-daikou-namae", "scout-daikou-tone"]
+related: ["scout-daikou-hinshitsu-kanri", "scout-daikou-kakunin-flow", "scout-daikou-namae", "scout-keieisha-scout"]
 ---
 
 スカウトの差出人を、誰にするか。経営者、現場の責任者、採用担当、代行の担当者。候補者の層によって、開かれやすい名義、返信されやすい名義は違います。ただし、名義を変えるだけで、名義の人が返信にも面談にも関わらない形は、候補者に見抜かれます。結論を先に書くと、**名義は候補者の層で送り分け、名義の人が「返信の一通目」と「面談のどこか」に関わる形にしてください。関われない名義は使わず、名義をまたぐ場合も、候補者から見て一貫した会社に見えるように、文面のルールと記録を一本にします**。経営者名義は[経営者名義のスカウトは効くか](/media/scout-keieisha-scout/)に、現場の名義は[現場メンバーにスカウトを書いてもらう](/media/scout-genba-makikomi/)にまとめています。

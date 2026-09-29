@@ -9,7 +9,7 @@ tags: ["スカウト代行", "送信枠", "媒体", "運用", "プラン"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-waku-amaru"
-related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-ryou", "scout-daikou-kadai-saikaishi", "scout-daikou-kadai-tsuzukeru"]
+related: ["scout-plan-erabi", "scout-waku-tarinai", "scout-daikou-kadai-baitai", "scout-baitai-kaiyaku"]
 ---
 
 月末のレポートを見ると、送信枠の半分も使っていない。契約したプランの枠が余っている。「使い切ってください」と担当者に言いたくなりますが、その一言が返信率を落とします。結論を先に書くと、**枠が余るのは、稼働・母数・個別化・計画のどれかが理由で、枠を使い切ることが目的ではありません。余る理由を見て、余った分を稼働と個別化に回すか、プランを下げてください**。プランの選び方は[媒体のプラン選び](/media/scout-plan-erabi/)に、足りないときの対処は[送信枠が足りないときの優先順位](/media/scout-waku-tarinai/)にまとめています。媒体の名前や料金、枠の数には触れません。

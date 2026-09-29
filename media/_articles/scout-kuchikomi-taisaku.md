@@ -9,7 +9,7 @@ tags: ["スカウト代行", "口コミ", "評判", "候補者体験", "採用�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-kuchikomi-taisaku"
-related: ["scout-josei-scout", "scout-daikou-henshin-taiou", "scout-daikou-kadai-genba", "scout-daikou-kadai-jitai"]
+related: ["scout-koho-renkei", "scout-saiyo-site-doushen", "scout-chimeido-nai-kaisha", "scout-daikou-henshin-taiou"]
 ---
 
 スカウトの文面を読んだ候補者は、会社名で検索します。検索の結果に、口コミサイトが出ます。退職者が書いた不満、数年前の評価、事実と違う記述。それを読んだ候補者が、返信をやめる。文面も採用サイトも整えたのに返信が来ない原因が、口コミにあることは珍しくありません。結論を先に書くと、**口コミは消せないものとして、「見られる前提」で文面と面談を設計してください。低い評価がある点には、文面か面談で先に触れ、変わったことと変わっていないことを率直に伝えます。隠すより、先に言うほうが信頼されます**。採用サイトへの導線は[採用サイトへの導線](/media/scout-saiyo-site-doushen/)に、広報との連携は[採用広報とスカウトの連携](/media/scout-koho-renkei/)にまとめています。口コミへの法的な対応（削除請求など）は、この記事では扱いません。専門家にご確認ください。

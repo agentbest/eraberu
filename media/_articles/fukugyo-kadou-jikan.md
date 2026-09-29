@@ -9,7 +9,7 @@ tags: ["人事副業", "稼働時間", "両立", "働き方", "案件の選び�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-kadou-jikan"
-related: ["fukugyo-kaigo-ikuji", "fukugyo-fukusuu-anken", "fukugyo-mensetsu-shitsumon", "fukugyo-riekisouhan"]
+related: ["fukugyo-kaigo-ikuji", "fukugyo-fukusuu-anken", "fukugyo-getsugaku", "fukugyo-mensetsu-shitsumon"]
 ---
 
 人事の副業を始めたいが、週に何時間なら受けられるか分からない。本業の忙しさは週によって違い、「空いた時間で」と考えると、忙しい週は稼働がゼロになり、依頼側との約束が守れません。結論を先に書くと、**稼働時間は「空いている時間」ではなく「本業が忙しい週でも固定できる時間」で決めてください。少なくても固定されている時間のほうが、多くても不安定な時間より、依頼側にとっても自分にとっても価値があります**。副業の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に、価格の決め方は[最初の1件の価格の決め方](/media/fukugyo-shoninka/)にまとめています。本業の副業規定と、労働時間に関する法令の扱いは、一般的な整理にとどめ、個別の判断は専門家にご確認ください。

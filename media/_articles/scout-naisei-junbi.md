@@ -9,7 +9,7 @@ tags: ["スカウト代行", "内製", "立ち上げ", "運用体制", "準備"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-naisei-junbi"
-related: ["scout-daikou-nagare", "scout-daikou-sokudo", "scout-shinnendo", "scout-daikou-checklist"]
+related: ["scout-daikou-nagare", "scout-daikou-sokudo", "scout-daikou-checklist", "scout-daikou-hanbun-uchisei"]
 ---
 
 代行に頼まず、社内でスカウトを始めたい。費用を抑えたい、ノウハウを社内に溜めたい、まず小さく試したい。理由はさまざまですが、「媒体と契約して、採用担当が空いた時間に送る」形で始めると、送信は不定期になり、返信は放置され、三か月で止まります。結論を先に書くと、**内製で始める準備は、媒体の契約ではなく、「誰が、週に何時間、どの工程を担うか」を決めることです。特に、返信に当日対応する人が決まるまでは、送り始めないでください**。全体像は[ダイレクトリクルーティングの全体像](/media/scout-direct-recruiting/)に、代行から内製への移行は[代行から内製に戻す](/media/scout-daikou-uchisei-ikou/)にまとめています。

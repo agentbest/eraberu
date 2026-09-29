@@ -9,7 +9,7 @@ tags: ["スカウト代行", "面談", "同席", "運用設計", "情報共有"]
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-mendan-doseki"
-related: ["scout-daikou-kadai-jouhou", "scout-daikou-nittei", "scout-daikou-slack", "scout-baitai-kirikae"]
+related: ["scout-daikou-nittei", "scout-daikou-slack", "scout-baitai-kaiyaku", "scout-baitai-kirikae"]
 ---
 
 スカウトの運用を任せている代行の担当者に、面談へ同席してもらうか。**候補者の反応を直接見られるため、その後の文面や条件の設計に活きます**。一方で、稼働は増え、候補者から見た構成も変わります。この記事では、同席で得られるものと、判断の基準を整理します。

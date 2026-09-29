@@ -9,7 +9,7 @@ tags: ["スカウト代行", "繁忙期", "短期", "スポット", "契約"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-hanki"
-related: ["scout-daikou-baitai-hi", "scout-daikou-checklist", "scout-daikou-getsugaku", "scout-daikou-jikan-tanka"]
+related: ["scout-daikou-kadai-spot", "scout-daikou-baitai-hi", "scout-daikou-checklist", "scout-daikou-getsugaku"]
 ---
 
 年度の切り替え、事業の拡大期、退職が重なった時期。採用が集中する数か月だけ、スカウト代行を使いたい。年間を通して頼むほどの量は無い。この相談は多く、答えは「できるが、条件がある」です。結論を先に書くと、**短期の依頼は、立ち上げの期間が短期の中に食い込むので、繁忙期の前に整える期間を取るか、前回の資産を持っているか、担当者がその職種の経験を持っているか、のどれかが要ります。どれも無いまま繁忙期に入ってから頼むと、整った頃に繁忙期が終わります**。止めて再開する形は[いったん止めて再開するとき](/media/scout-daikou-kadai-saikaishi/)に、少人数の依頼は[採用予定が一名でも頼めるか](/media/scout-daikou-kadai-shousuu/)にまとめています。

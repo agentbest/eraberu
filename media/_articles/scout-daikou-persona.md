@@ -9,7 +9,7 @@ tags: ["スカウト代行", "ターゲット", "要件", "すり合わせ", "�
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-persona"
-related: ["scout-daikou-junbi", "scout-baitai-kirikae", "scout-baitai-kumiawase", "scout-daikou-fukusuu-baitai"]
+related: ["scout-daikou-junbi", "scout-persona-sakusei", "scout-baitai-kaiyaku", "scout-baitai-kirikae"]
 ---
 
 スカウトで誰に送るか。**この認識がずれていると、送っても返信は来ません**。そして、ターゲット像は言葉で説明しても伝わりにくい。「主体性のある人」「即戦力」と言っても、受け取る側の解釈は分かれます。この記事では、実例を使ったすり合わせの方法と、確認の手順を整理します。渡す情報の全体は[渡す前に用意する情報](/media/scout-daikou-junbi/)にまとめています。

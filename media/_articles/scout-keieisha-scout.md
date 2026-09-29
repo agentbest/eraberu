@@ -9,7 +9,7 @@ tags: ["スカウト代行", "経営者", "名義", "文面", "幹部採用"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-keieisha-scout"
-related: ["scout-fukusuu-meigi", "scout-daikou-hinshitsu-kanri", "scout-daikou-kakunin-flow", "scout-daikou-manual-kizoku"]
+related: ["scout-fukusuu-meigi", "scout-chimeido-nai-kaisha", "scout-daikou-baitai-hi", "scout-daikou-hinshitsu-kanri"]
 ---
 
 経営者の名前でスカウトを送れば、候補者は開く。担当者の名前より、経営者の名前のほうが、目に留まる。それは事実です。しかし、経営者が実際には文面を見ておらず、返信にも対応せず、面談にも出ない「名義だけ」の運用は、返信のやり取りで見抜かれ、かえって信頼を落とします。結論を先に書くと、**経営者名義は、経営者が実際に関わる範囲でだけ使ってください。効くのは、幹部候補・事業の責任者・経営に近い役割の候補者で、経営者が返信と面談に関わる場合です。全員に経営者名義で送る形は、効かないうえに危うい**。幹部クラスへの声かけは[幹部・役員クラスへのアプローチ](/media/scout-kanbu-scout/)に、現場の名義は[現場メンバーにスカウトを書いてもらう](/media/scout-genba-makikomi/)にまとめています。

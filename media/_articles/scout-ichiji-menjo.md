@@ -9,7 +9,7 @@ tags: ["スカウト代行", "一次面接免除", "選考設計", "オファー
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-ichiji-menjo"
-related: ["scout-daikou-kadai-jitai", "scout-mendan-nashi", "scout-shokuba-kengaku", "scout-daikou-henshin-taiou"]
+related: ["scout-mendan-nashi", "scout-daikou-kadai-kyougou", "scout-daikou-kadai-nittei", "scout-kessan-ki"]
 ---
 
 スカウトの文面に「一次面接を免除し、二次からご案内します」と書く。候補者から見れば、選考が一段階短く、経歴を評価されていると感じられます。取り合いの中では、この一段階の差が、決まる速さの差になります。結論を先に書くと、**一次面接免除は「特別扱い」ではなく、「一次で確認することを、経歴と返信のやり取りで確認済み」として設計してください。何を免除し、何を残すかを決め、社内で合意してから文面に書きます**。カジュアル面談を飛ばす設計は[面談なしで選考に進める設計](/media/scout-mendan-nashi/)に、選考の速さの考え方は[対応の速さが結果を決める](/media/scout-daikou-sokudo/)にまとめています。

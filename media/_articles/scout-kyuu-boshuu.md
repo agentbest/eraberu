@@ -9,7 +9,7 @@ tags: ["スカウト代行", "欠員", "急ぎ", "立ち上げ", "運用設計"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-kyuu-boshuu"
-related: ["scout-shinnendo", "scout-daikou-kadai-kirikae", "scout-daikou-nagare", "scout-daikou-sokudo"]
+related: ["scout-daikou-nagare", "scout-daikou-sokudo", "scout-hajime-30nichi", "scout-shinnendo"]
 ---
 
 キーパーソンが急に退職する。引き継ぎは一か月。後任は決まっていない。スカウトを使って、すぐに探し始めたい。この状況では、「対象と文面を整えてから」という通常の立ち上げの手順を踏む時間がありません。結論を先に書くと、**急ぎのときは、求人票の役割の記述と面談枠の確保だけは省かず、それ以外（ペルソナの精緻化、文面の型の作り込み、媒体の比較）は省いて、一週間で送り始めてください。同時に、スカウト以外の手法を並行します**。通常の逆算は[採用期限から逆算した送信計画](/media/scout-kikan-sekkei/)に、期限に間に合わないときの選択肢も同じ記事にまとめています。

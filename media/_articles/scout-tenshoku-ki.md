@@ -9,7 +9,7 @@ tags: ["スカウト代行", "季節性", "転職市場", "年間計画", "運�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-tenshoku-ki"
-related: ["scout-daikou-ats-renkei", "scout-daikou-kadai-hikitsugi", "scout-daikou-nouhau", "scout-kako-oubosha"]
+related: ["scout-natsu-fuyu", "scout-shinnendo", "scout-baitai-kaiyaku", "scout-baitai-kirikae"]
 ---
 
 「転職は年明けと秋が動く」「賞与の後に動き出す」「年度末は決まりやすい」。こうした季節性の一般論は、多くの記事で語られます。しかし、自社の職種と対象の層に、その一般論が当てはまるかは別の話です。結論を先に書くと、**季節性は一般論に乗るのではなく、自社の過去の数字で山と谷を見つけ、山に送信と面談を寄せ、谷に関係づくりと準備を回してください**。この記事では統計値を扱いません。季節性の効果は職種と層で違い、自社の数字で確かめることが前提です。個別の時期の動きは[夏・冬のボーナス時期の転職市場](/media/scout-natsu-fuyu/)、[年末年始のスカウト運用](/media/scout-nenmatsu/)、[大型連休前後の送信計画](/media/scout-golden-week/)にまとめています。

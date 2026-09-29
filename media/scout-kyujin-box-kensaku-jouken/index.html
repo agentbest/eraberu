@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>求人ボックスの検索条件の組み方｜母集団を狭めすぎない設計｜エラベル</title>
+<meta name="description" content="求人ボックスでは企業が候補者を検索しません。自社の求人が四つの関門を順に通ることで見つかります。とくに詳細検索には「人材紹介の求人を除く」などの除外条件があり、書き方によっては最初から外されます。関門ごとの設計を整理しました。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/scout-kyujin-box-kensaku-jouken/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="求人ボックスの検索条件の組み方｜母集団を狭めすぎない設計｜エラベル">
+<meta property="og:description" content="求人ボックスでは企業が候補者を検索しません。自社の求人が四つの関門を順に通ることで見つかります。とくに詳細検索には「人材紹介の求人を除く」などの除外条件があり、書き方によっては最初から外されます。関門ごとの設計を整理しました。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/scout-kyujin-box-kensaku-jouken/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"求人ボックスの検索条件の組み方｜母集団を狭めすぎない設計","description":"求人ボックスでは企業が候補者を検索しません。自社の求人が四つの関門を順に通ることで見つかります。とくに詳細検索には「人材紹介の求人を除く」などの除外条件があり、書き方によっては最初から外されます。関門ごとの設計を整理しました。","datePublished":"2026-09-24","dateModified":"2026-09-24","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/scout-kyujin-box-kensaku-jouken/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/scout/">スカウト代行</a><i>›</i><span>求人ボックスの検索条件の組み方｜母集団を狭めすぎない設計</span></div></nav><main class="wrap article">
+  <p class="art__kicker">スカウト代行 / 求人ボックス</p>
+  <h1>求人ボックスの検索条件の組み方｜母集団を狭めすぎない設計</h1>
+  <p class="art__meta">公開 2026-09-24</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">最初の確認：掲載が生きているかを見る</a></li><li><a href="#h2">分岐1：検索に出ていないなら、言葉を見直す</a></li><li><a href="#h3">分岐2：特定の層から消えているなら、除外条件を疑う</a></li><li><a href="#h4">分岐3：一覧で選ばれないなら、絞り込みの刻みに合わせる</a></li><li><a href="#h5">分岐4：書き方で尽きたら、順位を買う</a></li><li><a href="#h6">まとめ</a></li><li><a href="#h7">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>求人ボックスで検索条件を組むのは、企業ではなく求職者です。企業向けに候補者データベースの検索機能は提供されておらず、よくある質問にも応募者はすべて自発的に応募された方になると書かれています。企業の側で考えるのは、自社の求人が求職者の検索と絞り込みに引っかかるかどうかです。この記事では、応募が減ってきたときに、どこで止まっているかを順に切り分け、<strong>止まっている場所ごとに直す手を変える</strong>ための分岐を整理します。以下は2026年9月24日時点で公式サイトに記載されている内容に基づき、運営は株式会社カカクコムです。</p>
+<h2 id="h1">最初の確認：掲載が生きているかを見る</h2>
+<p>応募が止まったとき、最初に疑うのは検索の言葉ではなく、求人がそもそも表示されているかです。検索エンジン型の媒体では、送ったスカウトが届かないという形で失敗が見えないので、止まっていることに気づくのが遅れます。経路ごとに止まり方が違うので、確かめ方も分けておきます。</p>
+<div class="tw"><table><thead><tr><th>経路</th><th>止まり方</th><th>確かめ方</th></tr></thead><tbody><tr><td>採用ボード（直接投稿）</td><td>長期間更新がないと自動で募集停止されることがある。編集の内容によっては審査のため一時停止</td><td>管理画面で公開状態と最終更新日を見る</td></tr><tr><td>サイト連携（自社サイト）</td><td>掲載は約束されず、一度掲載されても継続しない場合がある</td><td>自社名で求人ボックスを検索して表示を見る</td></tr><tr><td>リスティング広告のクローリング連携</td><td>サイトデザインの変更で正常にクロールできず配信が止まる恐れ</td><td>改修の前後で管理画面の配信状況を見る</td></tr></tbody></table></div>
+<p>直接投稿の審査は1日～3日程度が目安で、掲載は最短当日中とされています。一方でサイト連携は、アルゴリズムが日々更新されているため掲載可否や掲載状況についての回答は対応していないとされています。止まった理由を問い合わせても分からない経路なので、応募を途切れさせたくない求人は直接投稿に寄せておくと、この最初の確認が短く済みます。</p>
+<h2 id="h2">分岐1：検索に出ていないなら、言葉を見直す</h2>
+<p>掲載が生きているのに応募が来ないなら、次は検索の言葉です。詳細検索の画面には、キーワードの入力欄が三つあります。職種・キーワードの欄、「検索結果に含めたくないキーワード」を入れる欄、会社名で探す欄です。会社名は正式名称だけでなく一部でも検索できるとされています。</p>
+<p>欄ごとに、求職者がどう使い、企業の側で何をすればよいかが違います。とくに二つ目は、求職者が除きたい語を自分で指定できるという、この媒体に特徴的な欄です。次の表で三つを並べます。</p>
+<div class="tw"><table><thead><tr><th>欄</th><th>求職者の使い方</th><th>企業側の手</th></tr></thead><tbody><tr><td>職種・キーワード</td><td>職種名や仕事の中身で探す</td><td>一般に通じる職種名を本文に置く。社内の呼び名だけにしない</td></tr><tr><td>結果から除くキーワード</td><td>避けたい語をスペース区切りで指定する</td><td>書かなくてよい語を減らす</td></tr><tr><td>会社名から検索</td><td>知っている会社を名前の一部で探す</td><td>自社名で検索して求人が出るかを確かめる</td></tr></tbody></table></div>
+<p>たとえば「研修」「派遣」といった語を除外に入れる人がいれば、その語を含む求人はその人の結果から消えます。語を足すことだけでなく、不用意な語を削ることも言葉の見直しに入ります。直したら数週間おいて、応募数が動いたかを分岐ごとに記録しておきます。</p>
+<aside class="cta-inline">
+<p>応募が止まった求人のどこで止まっているか、一緒に切り分けます</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h3">分岐2：特定の層から消えているなら、除外条件を疑う</h2>
+<p>応募は来るのに、来てほしい層からだけ来ないときは、除外条件を疑います。詳細検索にはチェックひとつで求人を外せる除外条件が四つあります。派遣の求人を除く、社名非公開求人を除く、人材紹介の求人を除く、ハローワーク求人を除く、の四つです。</p>
+<p>企業側にとって重いのは二つ目です。社名を伏せて掲載すると、この条件を使った求職者の検索結果から消えます。採用を公にしたくない事情があって社名を伏せる判断は妥当なこともありますが、その代わりに一部の求職者から見えなくなることを、この媒体でははっきり機能として示しています。自社で直接採用するなら、社名を出して掲載するほうが見つかる経路は広がります。</p>
+<h3>エラベルの見解</h3>
+<p>除外条件が四つも用意されている媒体は多くありません。求職者の側に「これは避けたい」という明確な意思があり、それが機能になっていると読めます。どれも単価を上げても通れない関門なので、区分に入ってしまう求人は、その区分でも選ばれる理由を求人の中に書くしかありません。</p>
+<p>社名を伏せるなら、なぜ伏せているのかを一言添える。人材紹介経由なら、紹介ならではの利点を示す。除外そのものは避けられませんが、除外しなかった人に向けて書くことはできます。担当者によってこの一言を書くかどうかが分かれ、それが同じ求人の応募数の差になって表れます。</p>
+<h2 id="h4">分岐3：一覧で選ばれないなら、絞り込みの刻みに合わせる</h2>
+<p>検索結果には出ているのに開かれない、または応募に進まないなら、絞り込みの条件で漏れている可能性があります。働き方は正社員、アルバイト・パート、派遣社員、契約・臨時・期間社員、業務委託、新卒・インターンの六区分です。給与は年収・時給・日給・固定報酬の四系統に分かれ、年収は200万円から1000万円まで、時給は1,050円から3,000円まで、日給は5,000円から15,000円まで、固定報酬は100円から500,000円までの刻みで下限と上限を選べます。自社の提示額がどの刻みに乗るかで、拾われ方が変わります。</p>
+<p>求人掲載日でも、24時間以内、3日以内、7日以内で絞れます。新着を優先して見る求職者がいるなら、定期的に手を入れることが露出にも効く可能性があります。こだわり条件は五つのくくりに整理されていて、当てはまるものを書き漏らさないほど見つかる経路が増えます。</p>
+<div class="tw"><table><thead><tr><th>くくり</th><th>並んでいる条件の例</th><th>書くときの注意</th></tr></thead><tbody><tr><td>歓迎</td><td>未経験OK、ミドル・シニア歓迎、学歴不問、ブランクOK</td><td>実際の選考と食い違わないか</td></tr><tr><td>待遇</td><td>交通費支給、賞与あり、社会保険完備、転勤なし</td><td>条件付きなら条件も書く</td></tr><tr><td>はたらく時間</td><td>土日祝休みあり、週休2日制、残業なし、シフト自由</td><td>部署で違うなら求人を分ける</td></tr><tr><td>支払い</td><td>日払いOK、週払いOK、給与前払いOK</td><td>制度として運用しているか</td></tr><tr><td>勤務条件・その他</td><td>在宅勤務可、面接1回、書類選考なし、履歴書不要</td><td>選考の手軽さも絞り込みの対象</td></tr></tbody></table></div>
+<p>ただし、当てはまらない条件を書くのは避けます。有料掲載ではクリックに費用がかかるので、合わない人のクリックがそのまま損になります。年齢に関する表記など、労働関係の法令が関わる書き方については、個別の判断を専門家にご確認ください。求人票の書き方は<a href="/media/scout-kyujin-box-template/">求人ボックスのスカウトテンプレートの作り方</a>にまとめています。</p>
+<h2 id="h5">分岐4：書き方で尽きたら、順位を買う</h2>
+<p>ここまで直しても露出が足りないときに、初めて表示の位置を金額で動かします。有料掲載は、無料の公開設定では表示できない検索結果の上位などに求人を出せる仕組みで、クリック単価は25円~1000円、1円単位で設定できます。自動運用は、予算に対してクリック数の最大化を目的に単価を調整します。</p>
+<p>順位を買っても、分岐2の除外条件は通れません。チェックを入れられた区分は、単価を上げても表示されないからです。順位で解決できる問題と、書き方でしか解決できない問題を分けてから予算を使います。有料にする前には、自動停止までの「長期間」の目安、編集で掲載日が新着扱いになるか、有料掲載の表示順に単価以外の要素があるか、を運営に聞いておくと、分岐のどこに予算を置くかを決めやすくなります。</p>
+<aside class="cta-inline">
+<p>書き方で直す部分と、有料で補う部分の線引きを実務の側からご一緒します</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>この媒体で応募を増やす作業は、条件設計というより掲載の衛生管理に近いと考えています。載っているか、止まっていないか、除外条件に引っかかっていないか、当てはまる条件を書き漏らしていないか。どれも派手さはありませんが、一つ欠けるだけで露出がほぼゼロになります。</p>
+<p>相談で多いのは、応募が減ると真っ先に有料掲載の単価を上げる判断です。分岐の順番を逆にたどると、止まっている求人や除外されている求人にまで予算を使うことになります。月に一度、掲載中の求人を一覧で確認する時間を取り、この順番で切り分けてから予算を動かしてください。運用の組み立ては<a href="/media/scout-kyujin-box-unyou-sekkei/">求人ボックスのスカウト運用設計</a>にまとめています。</p>
+<h2 id="h6">まとめ</h2>
+<ul><li>求人ボックスで条件を組むのは求職者で、企業は自社の求人が検索と絞り込みに引っかかるかを考える</li><li>応募が止まったら、まず掲載が生きているか（自動停止・審査・連携の不調）を経路ごとに確かめる</li><li>検索に出ていなければ言葉を、特定の層から消えていれば除外条件を、一覧で選ばれなければ絞り込みの刻みとこだわり条件を見直す</li><li>書き方で直せることを尽くしてから、有料掲載で順位を買う。除外条件は単価では通れない</li></ul>
+<h2 id="h7">よくある質問</h2>
+<h3>Q. 企業側で候補者を検索することはできますか</h3>
+<p>企業向けに候補者データベースを検索する機能は提供されておらず、応募者はすべて自発的に応募された方になるとされています。企業側で工夫できるのは、求人が求職者の検索に引っかかるようにする書き方と掲載の管理です。</p>
+<h3>Q. 社名を非公開にして掲載しても大丈夫ですか</h3>
+<p>掲載はできますが、詳細検索には「社名非公開求人を除く」という除外条件があり、それを使う求職者の結果からは表示されなくなります。伏せる事情があるなら、その理由を求人の中で一言説明しておくと、除外しなかった人には伝わりやすくなります。</p>
+<h3>Q. 有料掲載にすれば応募は増えますか</h3>
+<p>有料掲載は検索結果の上位などに表示する仕組みで、公式にも応募獲得や採用を約束するものではないと注記されています。除外条件で外された区分には単価を上げても表示されないため、先に掲載の状態と書き方を確かめてから使うのが効率的です。</p>
+<p>※料金・機能の条件は変わります。掲載した内容は2026年9月24日時点の公式サイトの記載です。契約前に運営にご確認ください。</p>
+  </div>
+  <section class="sources"><h2>出典</h2><ul><li><a href="https://xn--pckua2a7gp15o89zb.com/adv/" target="_blank" rel="noopener">詳細条件から求人情報を検索｜求人ボックス</a></li><li><a href="https://xn--pckua2a7gp15o89zb.com/無料求人掲載" target="_blank" rel="noopener">無料で求人広告掲載 正社員・アルバイト採用に対応｜求人ボックス</a></li><li><a href="https://xn--pckua2a7gp15o89zb.com/リスティング広告" target="_blank" rel="noopener">リスティング広告｜求人ボックス</a></li><li><a href="https://xn--pckua2a7gp15o89zb.com/" target="_blank" rel="noopener">求人ボックス｜全国の仕事・転職・バイト・求人をまとめて検索</a></li><li><a href="https://xn--pckua2a7gp15o89zb.com/成果報酬求人掲載" target="_blank" rel="noopener">採用ボード for AGENT｜職業紹介向け 成果報酬求人掲載｜求人ボックス</a></li><li><a href="https://help.xn--pckua2a7gp15o89zb.com" target="_blank" rel="noopener">求人ボックス ヘルプ</a></li></ul></section>
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/scout-kyujin-box-daikou/">求人ボックスのスカウト代行｜任せられる範囲と成果の測り方</a></li><li><a href="/media/scout-kyujin-box-template/">求人ボックスのスカウトテンプレートの作り方</a></li><li><a href="/media/scout-kyujin-box-unyou-sekkei/">求人ボックスのスカウト運用設計｜送信数・時間帯・追客</a></li><li><a href="/media/scout-ambi-kensaku-jouken/">AMBIの検索条件の組み方｜母集団を狭めすぎない設計</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

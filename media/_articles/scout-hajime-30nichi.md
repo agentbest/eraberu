@@ -9,7 +9,7 @@ tags: ["スカウト代行", "立ち上げ", "最初の30日", "運用設計", "
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-hajime-30nichi"
-related: ["scout-daikou-nagare", "scout-daikou-sokudo", "scout-baitai-kirikae", "scout-baitai-kumiawase"]
+related: ["scout-daikou-nagare", "scout-daikou-sokudo", "scout-kyuu-boshuu", "scout-shinnendo"]
 ---
 
 スカウトを始めた最初の一か月は、送信数も返信率も面談数も、判断に使える数字にはなりません。対象も文面も返信対応も、まだ整っていないからです。それでも「初月から成果を」と数を送ると、対象は曖昧なまま、文面は型のまま、返信は放置され、二か月目に「うまくいかない」となります。結論を先に書くと、**最初の三十日は、成果を出す期間ではなく、運用を整える期間です。週ごとに「何を決め、何を送り、何を見るか」を固定し、一か月の終わりに「二か月目から回る状態か」を判断してください**。内製の準備は[スカウトを内製で始める準備](/media/scout-naisei-junbi/)に、代行に頼む場合の立ち上げは[立ち上げ期間の考え方](/media/rpo-tachiage-kikan/)にまとめています。

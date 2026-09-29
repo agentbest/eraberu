@@ -9,7 +9,7 @@ tags: ["スカウト代行", "送信数", "上限", "費用管理", "運用設�
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-jyoushitsu"
-related: ["scout-daikou-kouhosha-suu", "scout-baitai-kirikae", "scout-baitai-kumiawase", "scout-daikou-fukusuu-baitai"]
+related: ["scout-daikou-kouhosha-suu", "scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-baitai-kumiawase"]
 ---
 
 スカウトの送信数に上限を置くか。**置いておかないと、費用が振れます**。そして、送信数を追う運用になると、条件が広がり書き分けが減ります。この記事では、上限の決め方と、上限に近づいたときの運用を整理します。アプローチできる人数の見立ては[月に何名にアプローチできるか](/media/scout-daikou-kouhosha-suu/)にまとめています。

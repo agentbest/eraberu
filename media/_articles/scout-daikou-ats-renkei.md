@@ -9,7 +9,7 @@ tags: ["スカウト代行", "ATS", "連携", "記録", "重複"]
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-ats-renkei"
-related: ["scout-daikou-fukusuu-baitai", "scout-daikou-kadai-hikitsugi", "scout-daikou-kyouyu", "scout-daikou-nouhau"]
+related: ["scout-daikou-fukusuu-baitai", "scout-daikou-kadai-jouhou", "scout-daikou-nouhau", "scout-koho-renkei"]
 ---
 
 スカウトで接触した候補者を、採用管理システムにどう記録するか。**応募と違い、スカウトは接触の段階から記録が要ります**。誰に送ったか、返信があったか。この記録がないと、重複も防げず、経路別の実績も出せません。この記事では、連携の設計と、手作業が残る部分を整理します。ツールの選択は[ツールの指定](/media/scout-daikou-tool-shitei/)にまとめています。

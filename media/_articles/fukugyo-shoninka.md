@@ -9,7 +9,7 @@ tags: ["人事副業", "価格", "最初の案件", "単価", "見積もり"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-shoninka"
-related: ["fukugyo-mitsumori", "fukugyo-neage-timing", "fukugyo-oubo-tsuika", "fukugyo-tanka-souba"]
+related: ["fukugyo-jikyuu", "fukugyo-mitsumori", "fukugyo-neage-timing", "fukugyo-oubo-tsuika"]
 ---
 
 最初の案件が決まりそうだ。「いくらでお願いできますか」と聞かれる。相場を調べても幅が広く、安すぎると後悔しそうで、高すぎると断られそうで、決められない。結論を先に書くと、**最初の一件の価格は、相場からではなく、「作業を工程に分けて時間を見積もり、自分の時給を掛ける」ことで根拠を作ってください。根拠があれば、依頼側に説明でき、安すぎた・高すぎたの判断も後からできます**。この記事では、金額や相場の数値は扱いません。単価の形（時給・月額・成果報酬）の考え方は[人事の副業単価の相場](/media/fukugyo-tanka-souba/)に、安請け合いを避ける話は[安請け合いを避ける](/media/fukugyo-yasuuke/)にまとめています。報酬と税務に関わる部分は、一般的な整理にとどめ、個別の判断は専門家にご確認ください。

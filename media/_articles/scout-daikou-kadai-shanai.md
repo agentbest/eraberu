@@ -9,7 +9,7 @@ tags: ["スカウト代行", "社内の関与", "課題", "体制", "定例会"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-shanai"
-related: ["scout-daikou-kadai-genba", "scout-shokuba-kengaku", "scout-daikou-henshin-taiou", "scout-daikou-kadai-jitai"]
+related: ["scout-daikou-jinin", "scout-daikou-kadai-account", "scout-daikou-kadai-baitai", "scout-daikou-kadai-bunmen"]
 ---
 
 立ち上げの頃は、社内の担当者も面談者も定例会に出て、対象や文面を一緒に決めていた。半年経つと、定例会に出るのは採用担当だけ。面談者の予定は取れず、求人票は当時のまま。代行はまじめに送り続けているのに、面談から先が動かない。結論を先に書くと、**代行が安定するほど社内の関与は薄れ、その薄れた部分で運用が詰まります。全部の関与を戻す必要はなく、面談の時間・求人票の更新・決める人の出席の三つだけを仕組みにして残してください**。丸投げの問題は[丸投げになってしまっている](/media/scout-daikou-kadai-marunage/)に、定例会の型は[定例会の進め方](/media/scout-daikou-teirei/)にまとめています。

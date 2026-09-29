@@ -9,7 +9,7 @@ tags: ["スカウト代行", "ダイレクトリクルーティング", "採用�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-direct-recruiting"
-related: ["scout-headhunt", "scout-daikou-kadai-baitai", "scout-daikou-kadai-bunmen", "scout-daikou-kadai-hayasa"]
+related: ["scout-headhunt", "scout-alumni-scout", "scout-daikou-check", "scout-daikou-kadai-baitai"]
 ---
 
 求人を出しても応募が来ない。紹介会社に頼んでも推薦が来ない。そこで「こちらから探して声をかける」採用——ダイレクトリクルーティング——を検討する会社が増えています。ただ、「スカウトを送ればよい」と始めると、返信が来ず、面談も組めず、「うちには合わなかった」で終わります。結論を先に書くと、**ダイレクトリクルーティングは、文面を送ることではなく、対象設定から改善までの一連の運用です。工程を理解し、社内に残す判断と外に出せる作業を分け、整えてから始めてください**。ヘッドハンティングとの違いは[ヘッドハンティングとスカウトの違い](/media/scout-headhunt/)に、内製で始める準備は[スカウトを内製で始める準備](/media/scout-naisei-junbi/)に、代行に頼む場合の全体は[スカウト代行とは](/media/scout-daikou-toha/)にまとめています。

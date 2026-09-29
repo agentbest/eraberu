@@ -9,7 +9,7 @@ tags: ["スカウト代行", "地方企業", "勤務地", "Uターン", "リモ�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-chihou-kigyo"
-related: ["scout-baitai-kumiawase", "scout-chimeido-nai-kaisha", "scout-daikou-kadai-baitai", "scout-daikou-kadai-ryou"]
+related: ["scout-alumni-scout", "scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-baitai-kumiawase"]
 ---
 
 拠点が都市部から離れている会社のスカウトは、役割や条件より先に、勤務地で判断されます。「良い役割だが、そこには住めない」で、返信が来ない。結論を先に書くと、**地方企業のスカウトは、対象を「地元にいる人」「地元に戻りたい人」「地方に移れる人」の三つの層に分け、層ごとに文面と訴求を変えてください。全員に同じ文面を送ると、勤務地の壁で全部が止まります。そして、リモートを含めた働き方の設計が、対象の広さを決めます**。知名度の問題は[知名度のない会社のスカウト](/media/scout-chimeido-nai-kaisha/)に、給与の問題は[給与で負ける会社の訴求](/media/scout-kyuuyo-makeru/)にまとめています。この記事では、地域の統計や相場は扱いません。地域の情報を書くなら、都道府県や労働局などの一次情報で確認してください。

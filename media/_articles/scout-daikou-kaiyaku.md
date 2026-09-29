@@ -9,7 +9,7 @@ tags: ["スカウト代行", "解約", "引き継ぎ", "契約終了", "移行"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kaiyaku"
-related: ["scout-daikou-kadai-hikitsugi", "scout-alumni-scout", "scout-baitai-kaiyaku", "scout-daikou-baitai-hi"]
+related: ["scout-daikou-uchisei-ikou", "scout-baitai-kaiyaku", "scout-daikou-data", "scout-daikou-kadai-account"]
 ---
 
 スカウト代行をやめると決めたとき、多くの会社は「解約を伝える」ことに気を取られ、「何を持ち帰るか」を後回しにします。契約が終わってから記録を求めると、出てこないか、出てきても使えない形だったりします。結論を先に書くと、**解約を伝える前に、持ち帰るものの一覧を作り、受け取る形と期限を決めてから通知してください**。解約は終わりではなく、次の運用への引き継ぎの始まりです。契約の出口の条項は[契約書で決めておくこと](/media/scout-daikou-keiyaku/)に、やめるかどうかの判断は[半期での見直し](/media/scout-daikou-hanki/)にまとめています。

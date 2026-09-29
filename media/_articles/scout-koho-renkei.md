@@ -9,7 +9,7 @@ tags: ["スカウト代行", "採用広報", "連携", "候補者体験", "コ�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-koho-renkei"
-related: ["scout-daikou-ats-renkei", "scout-alumni-scout", "scout-baitai-kaiyaku", "scout-baitai-kirikae"]
+related: ["scout-kuchikomi-taisaku", "scout-saiyo-site-doushen", "scout-chimeido-nai-kaisha", "scout-daikou-ats-renkei"]
 ---
 
 採用広報のチームが記事を書き、SNSを運用し、イベントを開いている。一方で、スカウトは代行の担当者が別に動かしている。両者が連携していないと、広報の記事はスカウトの文面に使われず、スカウトで分かった候補者の関心は広報に反映されません。結論を先に書くと、**広報は「候補者が検索した先」を作り、スカウトは「候補者に検索させる」役割です。両者が同じ役割の記述と同じ言葉づかいで動き、広報の内容をスカウトの文面と返信に使い、スカウトで分かった候補者の関心を広報に戻す、という往復を作ってください**。採用サイトへの導線は[採用サイトへの導線](/media/scout-saiyo-site-doushen/)に、口コミへの対処は[口コミを見られる前提の設計](/media/scout-kuchikomi-taisaku/)にまとめています。

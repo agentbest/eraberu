@@ -9,7 +9,7 @@ tags: ["スカウト代行", "媒体", "解約", "費用", "運用設計"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-baitai-kaiyaku"
-related: ["scout-baitai-kirikae", "scout-baitai-kumiawase", "scout-daikou-kadai-account", "scout-daikou-kadai-hikitsugi"]
+related: ["scout-baitai-kirikae", "scout-baitai-kumiawase", "scout-daikou-hanbun-uchisei", "scout-daikou-hanni"]
 ---
 
 三つの媒体と契約しているが、実際に送っているのは一つだけ。残りの二つは、たまに開く程度で、費用だけが毎月かかっている。解約したいが、「いつか使うかもしれない」「解約して後悔したくない」で、そのままになっている。結論を先に書くと、**使わない媒体を残す判断は「もったいない」ではなく、「その媒体から面談が何か月ゼロか」で決めてください。三か月以上ゼロで、稼働を寄せても改善の見込みが無いなら、解約します**。組み合わせの考え方は[媒体の組み合わせ方](/media/scout-baitai-kumiawase/)に、切り替えの判断は[媒体を切り替える判断](/media/scout-baitai-kirikae/)にまとめています。この記事も、媒体の名前や料金には触れません。契約の条件は各媒体の公式の案内で確認してください。

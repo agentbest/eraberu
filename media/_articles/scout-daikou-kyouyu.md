@@ -9,7 +9,7 @@ tags: ["スカウト代行", "複数拠点", "事業部", "運用設計", "体�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kyouyu"
-related: ["scout-daikou-fukusuu-baitai", "scout-daikou-jinin", "scout-daikou-kadai-jouhou", "scout-daikou-shinsotsu-chuuto"]
+related: ["scout-daikou-jinin", "scout-daikou-shinsotsu-chuuto", "scout-daikou-shokushu-betsu", "scout-baitai-kaiyaku"]
 ---
 
 本社と支社、あるいは複数の事業部で、それぞれがスカウト代行を使い始めると、同じ会社から違うトーンの文面が届き、同じ候補者に別々の拠点から声がかかる、ということが起きます。結論を先に書くと、**会社として共通に持つものと、拠点ごとに分けるものを最初に線引きし、記録だけは一本にしてください**。全部を共通にすると拠点の実情に合わず、全部を分けると会社として見たときに崩れます。担当者の人数の考え方は[担当者の人数と体制](/media/scout-daikou-jinin/)に、複数の媒体を使う場合は[複数媒体の使い分け](/media/scout-daikou-fukusuu-baitai/)にまとめています。

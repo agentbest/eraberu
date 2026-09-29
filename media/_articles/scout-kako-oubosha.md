@@ -9,7 +9,7 @@ tags: ["スカウト代行", "過去の応募者", "再アプローチ", "タレ
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-kako-oubosha"
-related: ["scout-daikou-ats-renkei", "scout-daikou-kadai-hikitsugi", "scout-daikou-nouhau", "scout-tenshoku-ki"]
+related: ["scout-alumni-scout", "scout-direct-recruiting", "scout-fukugyo-jinzai", "scout-gyoumu-itaku-boshuu"]
 ---
 
 新しい候補者を探す前に、手元にある一覧を見てください。以前に応募してきた人、面談まで進んで見送った人、内定を出して辞退された人。この人たちは、経歴も、面談での様子も、当時の温度も分かっています。結論を先に書くと、**過去の応募者は、ゼロから探す候補者より「近い」候補者です。前回の経緯で送ってよい相手を選び、経緯を踏まえた一段落目で、適切な期間を空けて送ってください**。退職者への声かけは[退職者へのスカウト](/media/scout-alumni-scout/)に、候補者の一覧の持ち方は[タレントプールの作り方](/media/rpo-talent-pool/)にまとめています。過去の応募者の個人情報の扱いは、自社の方針と法令に沿って、専門家にご確認ください。

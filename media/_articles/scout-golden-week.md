@@ -9,7 +9,7 @@ tags: ["スカウト代行", "大型連休", "時期", "送信計画", "運用�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-golden-week"
-related: ["scout-daikou-kadai-hayasa", "scout-daikou-kadai-kyougou", "scout-daikou-kadai-nittei", "scout-alumni-scout"]
+related: ["scout-kikan-sekkei", "scout-natsu-fuyu", "scout-nenmatsu", "scout-baitai-kaiyaku"]
 ---
 
 大型連休が近づくと、送信計画をどうするかが問題になります。連休中に送っても読まれない。連休前に送っても、面談は連休明け。連休明けは、社内も候補者も溜まった仕事で忙しい。結論を先に書くと、**大型連休は「空白」として計画に織り込み、送信と面談を連休前後の一週間に寄せてください。連休中は返信対応だけを保ち、連休明けの一週目に面談が組める状態を連休前に作っておきます**。年末年始の運用は[年末年始のスカウト運用](/media/scout-nenmatsu/)に、時期による動きの違いは[夏・冬のボーナス時期の転職市場](/media/scout-natsu-fuyu/)にまとめています。

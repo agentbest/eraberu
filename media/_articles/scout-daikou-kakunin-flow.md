@@ -9,7 +9,7 @@ tags: ["スカウト代行", "文面", "確認", "運用設計", "品質管理"]
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-kakunin-flow"
-related: ["scout-daikou-hinshitsu-kanri", "scout-daikou-shounin", "scout-daikou-tone", "scout-daikou-namae"]
+related: ["scout-daikou-hinshitsu-kanri", "scout-daikou-shounin", "scout-daikou-namae", "scout-fukusuu-meigi"]
 ---
 
 代行が書いた文面を、送信の前にどこまで確認するか。**全件を見れば安心ですが、確認の時間が積み上がり、送信も遅れます**。一方、まったく見ないと、質の変化に気づけません。この記事では、段階に応じた確認の設計と、確認を減らしていく手順を整理します。トーンの伝え方は[文面のトーンをどう指定するか](/media/scout-daikou-tone/)にまとめています。

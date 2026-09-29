@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LAPRASの検索条件の組み方｜母集団を狭めすぎない設計｜エラベル</title>
+<meta name="description" content="LAPRASの検索条件を、三つの目盛りの合わせ方として整理しました。技術力スコアは3.0が平均で3.5を超えると上位4％、タグレベルは5が平均と公式が数値を公開しています。どの目盛りをどれだけ動かすと母集団がどう変わるかをまとめています。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/scout-lapras-kensaku-jouken/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="LAPRASの検索条件の組み方｜母集団を狭めすぎない設計｜エラベル">
+<meta property="og:description" content="LAPRASの検索条件を、三つの目盛りの合わせ方として整理しました。技術力スコアは3.0が平均で3.5を超えると上位4％、タグレベルは5が平均と公式が数値を公開しています。どの目盛りをどれだけ動かすと母集団がどう変わるかをまとめています。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/scout-lapras-kensaku-jouken/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"LAPRASの検索条件の組み方｜母集団を狭めすぎない設計","description":"LAPRASの検索条件を、三つの目盛りの合わせ方として整理しました。技術力スコアは3.0が平均で3.5を超えると上位4％、タグレベルは5が平均と公式が数値を公開しています。どの目盛りをどれだけ動かすと母集団がどう変わるかをまとめています。","datePublished":"2026-09-24","dateModified":"2026-09-24","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/scout-lapras-kensaku-jouken/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/scout/">スカウト代行</a><i>›</i><span>LAPRASの検索条件の組み方｜母集団を狭めすぎない設計</span></div></nav><main class="wrap article">
+  <p class="art__kicker">スカウト代行 / LAPRAS</p>
+  <h1>LAPRASの検索条件の組み方｜母集団を狭めすぎない設計</h1>
+  <p class="art__meta">公開 2026-09-24</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">最初の分岐：候補者検索で探すか、レコメンドで待つか</a></li><li><a href="#h2">人数を見て分岐する：数十〜200人を目安にする</a></li><li><a href="#h3">少なすぎるときに緩める順番</a></li><li><a href="#h4">読み切ったあとに、新しい母集団を出す</a></li><li><a href="#h5">本当に尽きたかを判断する前に見るところ</a></li><li><a href="#h6">まとめ</a></li><li><a href="#h7">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>LAPRASの検索条件は、項目を選ぶというより目盛りを合わせる作業に近くなります。技術力スコアもタグレベルも連続値で、公式ヘルプが平均値と分布まで公開しているからです。この記事では、条件を一度で決めるのではなく、<strong>出てきた人数を見て次に何を動かすか</strong>という分岐の形で、母集団が尽きるまでの手順を整理します。以下は、2026年9月24日時点で公式サイトおよび採用担当者向けヘルプセンターに記載されている内容に基づいており、運営はLAPRAS株式会社です。</p>
+<h2 id="h1">最初の分岐：候補者検索で探すか、レコメンドで待つか</h2>
+<p>最初に決めるのは、どの画面から入るかです。候補者検索は条件を細かく指定する画面で、キーワード検索では「指定したキーワードの職歴、職務要約、活かせる経験・スキル、経験技術、自己紹介文、アウトプットから生成される『タグ』を持っているユーザーを検索できます」とされ、AND検索とOR検索が使えます。検索対象を「職歴・経験技術に絞る」にチェックを入れるとタグを除外でき、アウトプット由来の語に引っ張られない検索にできます。求める経験が職歴に書かれやすいものなら、こちらから入るのが早道です。</p>
+<p>レコメンドには二つのモードがあります。基本検索は、スキル（アウトプットの量［少・中・多］で絞り込み）、技術力、転職意欲、興味のある雇用形態、必須の情報（やりたいこと／職歴）の項目で絞る簡易版です。詳細検索から基本検索に変更すると詳細検索で設定した内容が消えてしまうため、ヘルプは「新規でレコメンドを作成いただくことをおすすめ致します」としています。条件を試行錯誤するなら、モードを切り替えるのではなく、レコメンドを分けて作っておきます。</p>
+<p>どちらの入口でも、前提は同じです。アプローチできる候補者はLAPRASユーザーのみで、検索でヒットしても送れない相手が混ざります。レコメンドは約150万人の候補者データベースから探す仕組みですが、実行した直後は表示される候補者が極端に少なくなるため、5分から10分ほどおいてからブラウザをリロードするよう案内されています。人数を見て分岐するこの記事の手順では、この待ち時間を置いてから数えることが最初の約束です。</p>
+<h2 id="h2">人数を見て分岐する：数十〜200人を目安にする</h2>
+<p>分岐の基準になる数字は、ヘルプ自身が示しています。レコメンドについて「『この条件に該当する候補者』に表示される人数は数十〜200人程度に絞って検索してみましょう」という目安です。条件を入れて人数を見たら、この幅に入っているかどうかで次の手を決めます。次の表は、人数ごとの状態と、次に動かす目盛りを並べたものです。</p>
+<div class="tw"><table><thead><tr><th>表示された人数</th><th>起きていること</th><th>次に動かすもの</th></tr></thead><tbody><tr><td>200人を大きく超える</td><td>タグが少なく、別の職種の人が混ざっている</td><td>タグを1つ足す（言語よりフレームワーク）</td></tr><tr><td>数十〜200人</td><td>目安の範囲</td><td>動かさずに読み始める</td></tr><tr><td>数十人を下回る</td><td>どこかの目盛りが狭すぎる</td><td>次の章の順番で緩める</td></tr><tr><td>ほぼ0人</td><td>マイナーなタグを高レベルで設定している可能性</td><td>タグレベルを下げるか、タグを外す</td></tr></tbody></table></div>
+<p>多すぎるときに足すのはタグです。ヘルプは、タグの数が少なすぎる例として「『Python』をレベル８で設定していたとしても、Web系なのか解析系なのかなどの指定が無ければ、Webアプリ開発の候補者とデータサイエンティストが一緒にレコメンドされる」と書いています。足すタグは、経歴やポジション名より、求めるスキルを持ったエンジニアがアウトプットに使用する言葉を選ぶのがよいとされています。開発に使用するツール・手法（CircleCIやVimなど）や、技術的によく使用されるテーマ（テスト自動化やリファクタリングなど）も候補になります。</p>
+<p>ただし、タグはAND条件です。ヘルプは「多数設定すると全ての条件を満たす候補者の数が少なくなりすぎるため、１〜３個程度を目安にしましょう」としています。<strong>タグを4つ以上に増やしたくなったら、分岐を間違えている</strong>と考えて、入口の選び方か技術力スコアの幅を見直します。</p>
+<aside class="cta-inline">
+<p>いまの条件で何人出ているか、そこから次の手を一緒に決めます</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h3">少なすぎるときに緩める順番</h2>
+<p>人数が足りないときに、どの目盛りから緩めるかで母集団の質が変わります。おすすめする順番は、希望条件の「未入力を含める」、タグレベル、技術力スコアの幅の順です。影響が大きく、かつ採用要件を変えずに済むものから触ります。</p>
+<p>一つ目は希望条件です。希望する年収、働き方、雇用形態、業態、勤務地には、「どの希望条件も『未入力を含める』のチェックボックスにチェックを入れることで、希望条件を入力していないユーザーも検索対象に含めることができます」とされています。希望を書いていない人を外すと、プロフィールを作り込んでいない層がまるごと落ちます。要件を一つも緩めずに人数が増えるので、最初に確かめる価値があります。</p>
+<p>二つ目はタグレベルです。タグレベルは5が平均で、10に近づくほどレベルが上がると説明されています。ただし、この目安が当てはまるのはRubyやRailsのようにWeb上で公開されることの多い言語やフレームワークで、あまり有名でない言語やフレームワーク、GitHubに公開される量が少ないインフラ関連や機械学習のアウトプットはレベルが高く出づらいとされています。</p>
+<div class="tw"><table><thead><tr><th>タグレベル</th><th>公式の説明</th><th>下げるときの考え方</th></tr></thead><tbody><tr><td>1〜3</td><td>そのスキルに興味を持っている、少し触れたことがある</td><td>実務経験を問わない職種以外では下限にしない</td></tr><tr><td>4〜6</td><td>実際にそのスキルを活用したことがあり、アウトプットしている</td><td>インフラや機械学習ならここまで下げても実務層が残る</td></tr><tr><td>7〜10</td><td>そのスキルをメインに活用して日々の業務にあたった経験がある</td><td>ポピュラーな言語以外で必須にすると人数が尽きやすい</td></tr></tbody></table></div>
+<p>三つ目が技術力スコアです。スコアは1.0〜5.0で、3.0が平均、3.5以上では上位4％に絞り込まれるとされています。幅は0.3〜0.5程度から始め、3.2〜3.5などの区間から下限・上限をスライドさせていくのが勧められていて、幅が2.5もあるような設定は拡げすぎの例として挙げられています。緩めるときも一度に広げず、区間を下へずらして人数の変化を見ます。<strong>3.0前後を下限から外すと、アウトプットを出さない実務者を落とす</strong>ことも覚えておきます。</p>
+<h3>エラベルの見解</h3>
+<p>スコアとレベルが公開されている媒体では、数字を上げたくなる引力が働きます。稟議の場で「技術力スコア3.5以上に絞りました」と言えば、説明としては通りやすいからです。しかし公式自身が上位4％だと書いているものを必須条件にすれば、母集団はそこで決まってしまいます。</p>
+<p>担当者によって差が出るのは、人数が足りないときの緩め方です。スコアの下限を下げて人数を戻す担当者と、「未入力を含める」とタグレベルを先に見直す担当者では、同じ人数でも中身が違います。前者は要件を緩めており、後者は要件を保ったまま取りこぼしを拾っています。担当者を選ぶときは、条件の設定値より「足りないときにどこから動かすか」を聞いてみてください。</p>
+<h2 id="h4">読み切ったあとに、新しい母集団を出す</h2>
+<p>目安の人数に入った母集団も、送り終えれば尽きます。そのときに条件を広げる前に、時間の目盛りと保存条件で「新しく入ってきた人」を拾う手があります。候補者検索には、時間で絞る項目が三つあります。</p>
+<div class="tw"><table><thead><tr><th>項目</th><th>選べる範囲</th><th>使い方</th></tr></thead><tbody><tr><td>転職意欲最終変更日</td><td>1週間以内／1ヶ月以内／3ヶ月以内</td><td>絞り込みではなく並べ替え（転職意欲変更日順）で使う</td></tr><tr><td>最終ログイン</td><td>1週間以内／1ヶ月以内／3ヶ月以内</td><td>同上。ログイン日順のソートで上から読む</td></tr><tr><td>閲覧履歴での絞り込み</td><td>1日以内／1週間以内／1ヶ月以内／3ヶ月以内に自分が閲覧した候補者を除外</td><td>複数人で運用するときの重複防止に使う</td></tr></tbody></table></div>
+<p>時間の目盛りは、母集団を減らすかわりに反応率を上げる方向に働きます。絞り込みに使うと人数が減るので、ソートの転職意欲変更日順やログイン日順で並べ、上から読むほうが母集団を保てます。閲覧履歴の除外は、読み終えた人を外して新しい人だけを見る道具です。一度読んだ母集団を毎週読み直す手間が省けます。</p>
+<p>条件は「条件を保存」から保存でき、保存名も変更できます。検索結果一覧には、自分がその候補者の詳細ページを最後に見た日付が出るので、週次で同じ条件を開き直して差分を見る運用が組めます。ソートのキーワードマッチ順は、活かせる経験・スキルスコア、職務要約スコア、職歴スコアに重み付けをして総合的に評価するとされています。保存した条件を週に一度開き、差分だけを読むのが、目盛りを動かさずに母集団を補充するいちばん手堅い方法です。</p>
+<aside class="cta-inline">
+<p>母集団を保ちながら反応率を上げる条件設計を、実務の側からご一緒します</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h5">本当に尽きたかを判断する前に見るところ</h2>
+<p>差分も出なくなったら、条件の外側を見直します。経験職種の選択肢は登録人数が多い順に並んでいるとされ、過去経験した職種も含むという注記があります。画面の並び順そのものが母集団の分布を示しているので、隣接する職種を足せるかどうかを並び順から判断できます。在籍企業名での絞り込みもありますが、複数入力はできず、対象はWantedly、GitHub、teratail、Qiitaで入力された所属企業に限られるので、ピンポイントの用途にとどまります。</p>
+<p>もう一つ見落としやすいのが、上限側の目盛りです。スコア4.0超はCTOや、Web上で知名度がある有名人などが含まれる層で、ヘルプは「スカウトの内容などに注意が必要です」としています。人数が尽きたからといって上へ広げても、送り方を変えなければ反応は返ってきません。上に広げるときは、文面の書き方も一緒に変える必要があります。</p>
+<p>それでも足りないなら、条件ではなく要件のほうを見直す段階です。技術力スコアはアウトプットからエンジニアスキルを得点化した値なので、Webにアウトプットを出さないエンジニアは低く出ます。公式自身が「〜3.0」の層の説明に「SIer所属など」と書いているとおり、スコアが低い層にも実務経験のある人はいます。要件の書き方を変えて、この層を読みにいくかどうかを社内で決めます。</p>
+<h3>エラベルの見解</h3>
+<p>担当する側から見ると、この媒体の検索でいちばん時間を取られるのは、条件を決める作業ではなく、同じ母集団を読み直す作業です。閲覧履歴の除外と保存条件を使わずに運用すると、毎週同じ人の経歴を開き直すことになり、読む時間の多くが確認に消えます。経歴を読む時間を増やしたいなら、まず読み直しを減らすほうが先です。</p>
+<p>そのため私たちは、運用を始める週に、条件を保存し、閲覧履歴の除外期間を決め、ソートを転職意欲変更日順にするところまでを一度に済ませます。ここまで決めてから読み始めると、2週目以降は差分だけを読めば済みます。運用の進め方は<a href="/media/scout-lapras-unyou-sekkei/">LAPRASのスカウト運用設計</a>、文面の設計は<a href="/media/scout-lapras-template/">LAPRASのスカウトテンプレートの作り方</a>にまとめています。</p>
+<h2 id="h6">まとめ</h2>
+<ul><li>入口は、職歴に書かれやすい経験なら候補者検索、条件を試すならレコメンドを分けて作る。どちらも送れるのはLAPRASユーザーだけ</li><li>表示人数は数十〜200人を目安にし、多ければタグを1つ足す。タグはAND条件なので1〜3個まで</li><li>少なすぎるときは「未入力を含める」、タグレベル、技術力スコアの幅の順に緩める</li><li>読み切ったら、時間の目盛りを並べ替えに使い、閲覧履歴の除外と保存条件で差分だけを読む</li><li>差分も尽きたら、経験職種の並び順や要件の書き方を見直す。スコアはアウトプット由来である点を忘れない</li></ul>
+<h2 id="h7">よくある質問</h2>
+<h3>Q. 技術力スコアはいくつに設定すればよいですか</h3>
+<p>公式ヘルプでは3.0が平均、3.5以上で上位4％とされています。幅は0.3〜0.5程度から始め、3.2〜3.5などの区間からスライドさせていくことが勧められています。最初から高い下限を置くより、人数を見ながらずらすほうが母集団を保てます。</p>
+<h3>Q. タグは何個まで設定してよいですか</h3>
+<p>タグはAND条件なので、ヘルプは1〜3個程度を目安にしています。人数が多すぎるときは、言語よりフレームワークのタグを足すと職種の混在が減ります。マイナーなタグはレベルを低くして1〜2個程度に留めるよう案内されています。</p>
+<h3>Q. 検索で出てきた候補者には、全員スカウトを送れますか</h3>
+<p>送れるのはLAPRASユーザーだけです。LAPRASに登録していない候補者も、クロールした情報を検索・閲覧することはできますが、スカウトは送れません。送信計画は、検索件数ではなく送信可能な人数で立ててください。</p>
+<p>※料金・通数・機能の条件は変わります。掲載した内容は2026年9月24日時点の公式サイトおよび採用担当者向けヘルプセンターの記載であり、契約前に運営にご確認ください。</p>
+  </div>
+  <section class="sources"><h2>出典</h2><ul><li><a href="https://help.lapras.com/search-candidate" target="_blank" rel="noopener">候補者検索で候補者を探す｜採用担当者向けLAPRASヘルプ</a></li><li><a href="https://help.lapras.com/tips-tag-n-score" target="_blank" rel="noopener">タグやスコア設定のコツ｜採用担当者向けLAPRASヘルプ</a></li><li><a href="https://help.lapras.com/what-is-basic-search" target="_blank" rel="noopener">基本検索とは？｜採用担当者向けLAPRASヘルプ</a></li><li><a href="https://help.lapras.com/number-of-candidate" target="_blank" rel="noopener">レコメンド検索に関するよくあるご質問｜採用担当者向けLAPRASヘルプ</a></li><li><a href="https://help.lapras.com/what-screen-candidate-seeing" target="_blank" rel="noopener">LAPRASでアプローチできる候補者の種別｜採用担当者向けLAPRASヘルプ</a></li><li><a href="https://lapras.com/" target="_blank" rel="noopener">LAPRAS | AI技術であなたの市場価値を発見するスカウトサービス</a></li></ul></section>
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/scout-lapras-daikou/">LAPRASのスカウト代行｜任せられる範囲と成果の測り方</a></li><li><a href="/media/scout-lapras-template/">LAPRASのスカウトテンプレートの作り方</a></li><li><a href="/media/scout-lapras-unyou-sekkei/">LAPRASのスカウト運用設計｜送信数・時間帯・追客</a></li><li><a href="/media/scout-forkwell-kensaku-jouken/">Forkwellの検索条件の組み方｜母集団を狭めすぎない設計</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

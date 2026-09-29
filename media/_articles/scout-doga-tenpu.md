@@ -9,7 +9,7 @@ tags: ["スカウト代行", "動画", "資料", "文面", "候補者体験"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-doga-tenpu"
-related: ["scout-chimeido-nai-kaisha", "scout-daikou-henshin-taiou", "scout-daikou-kadai-bunmen", "scout-daikou-kadai-genba"]
+related: ["scout-daikou-namae", "scout-chimeido-nai-kaisha", "scout-daikou-henshin-taiou", "scout-daikou-hinshitsu-kanri"]
 ---
 
 会社紹介の動画がある。採用資料も作った。スカウトの文面にリンクを添えれば、文面だけより伝わるのではないか。結論を先に書くと、**動画や資料は、一段落目の代わりにはなりません。最初の文面は役割と「なぜあなたに」で完結させ、動画や資料は返信が来た後の補足として使ってください。最初の文面に添えると、読む前にリンクに飛んで戻ってこないか、「見てから返信」で返信が遅れます**。文面の一段落目の作り方は[プロダクトマネージャー向けスカウト文面の型](/media/rpo-pdm-scout/)などの職種別の記事に、職場見学は[職場見学への誘導](/media/scout-shokuba-kengaku/)にまとめています。媒体によって添付やリンクの仕様は違うので、公式の案内で確認してください。

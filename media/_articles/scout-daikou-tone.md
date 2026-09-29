@@ -9,7 +9,7 @@ tags: ["スカウト代行", "文面", "トーン", "ブランド", "運用"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-tone"
-related: ["scout-daikou-hinshitsu-kanri", "scout-daikou-kakunin-flow", "scout-daikou-namae", "scout-daikou-shounin"]
+related: ["scout-daikou-kadai-bunmen", "scout-chimeido-nai-kaisha", "scout-daikou-check", "scout-daikou-hinshitsu-kanri"]
 ---
 
 スカウト代行に文面を任せると、最初に出てくる案が「自社の言葉ではない」と感じることがあります。丁寧すぎる、軽すぎる、どこの会社でも使える文面になっている。こうしたずれは、トーンの指定が言葉だけで行われたときに起きます。結論を先に書くと、**トーンは形容詞で説明せず、実例を渡して指定してください**。既存の文書と過去の文面を渡し、避けたい表現を挙げ、初回の案を一緒に直す。この三段階で、担当者が替わっても揃うトーンになります。渡す情報の全体は[渡す前に用意する情報](/media/scout-daikou-junbi/)にまとめています。

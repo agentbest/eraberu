@@ -9,7 +9,7 @@ tags: ["スカウト代行", "業務委託", "フリーランス", "採用手法
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-gyoumu-itaku-boshuu"
-related: ["scout-daikou-keiyaku", "scout-fukugyo-jinzai", "scout-baitai-kumiawase", "scout-chihou-kigyo"]
+related: ["scout-fukugyo-jinzai", "scout-alumni-scout", "scout-daikou-baitai-hi", "scout-daikou-checklist"]
 ---
 
 正社員を採るほどではないが、専門性のある人に一定期間入ってほしい。業務委託で頼める人を、スカウトで探せないか。結論を先に書くと、**探せます。ただし、正社員の採用と同じ運用では届きません。委託する範囲と期間と成果物を先に決め、文面の一段落目に「業務委託で」と明示し、条件を返信のやり取りの中で出してください**。業務委託の契約と法務については、この記事は一般的な整理にとどめます。個別の判断は、弁護士や社会保険労務士などの専門家にご確認ください。副業人材の探し方は[副業人材をスカウトで探す](/media/scout-fukugyo-jinzai/)に、非正規の考え方は[非正規・パート採用にスカウトは効くか](/media/scout-hijoukin/)にまとめています。

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Findyの検索条件の組み方｜母集団を狭めすぎない設計｜エラベル</title>
+<meta name="description" content="Findyの検索条件を、候補者側の画面から逆算して組み立てました。企業側の検索項目は公開されていませんが、候補者が求人を探す軸は公開されています。技術スタック・職種・年収レンジ・スキル偏差値の四つから、自社の条件を組む順番を整理しています。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/scout-findy-kensaku-jouken/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="Findyの検索条件の組み方｜母集団を狭めすぎない設計｜エラベル">
+<meta property="og:description" content="Findyの検索条件を、候補者側の画面から逆算して組み立てました。企業側の検索項目は公開されていませんが、候補者が求人を探す軸は公開されています。技術スタック・職種・年収レンジ・スキル偏差値の四つから、自社の条件を組む順番を整理しています。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/scout-findy-kensaku-jouken/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Findyの検索条件の組み方｜母集団を狭めすぎない設計","description":"Findyの検索条件を、候補者側の画面から逆算して組み立てました。企業側の検索項目は公開されていませんが、候補者が求人を探す軸は公開されています。技術スタック・職種・年収レンジ・スキル偏差値の四つから、自社の条件を組む順番を整理しています。","datePublished":"2026-09-24","dateModified":"2026-09-24","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/scout-findy-kensaku-jouken/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/scout/">スカウト代行</a><i>›</i><span>Findyの検索条件の組み方｜母集団を狭めすぎない設計</span></div></nav><main class="wrap article">
+  <p class="art__kicker">スカウト代行 / Findy</p>
+  <h1>Findyの検索条件の組み方｜母集団を狭めすぎない設計</h1>
+  <p class="art__meta">公開 2026-09-24</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">分岐に入る前に、候補者のカードに並ぶ四つを確かめる</a></li><li><a href="#h2">最初の関門は、年収レンジが想定年収と重なるか</a></li><li><a href="#h3">言語を一つだけ必須にして引き、出た数で次を決める</a></li><li><a href="#h4">足りなければ、職種の境目をまたいでスキル偏差値の足切りを外す</a></li><li><a href="#h5">尽きたら、企業ページと求人票で待つ側に回る</a></li><li><a href="#h6">分岐の途中で止まらないよう、非公開の部分を商談で埋める</a></li><li><a href="#h7">まとめ</a></li><li><a href="#h8">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>Findyの企業側の検索画面は公開されておらず、法人向けページも検索項目の一覧や候補者数の内訳は出していません。一方で、候補者が求人を探すときの画面は誰でも見られます。同じデータベースを両側から見ている以上、候補者側の軸は、企業側で条件を組むときの手がかりになります。この記事では、条件を一度に決めきるのではなく、<strong>引いてみて足りなければどこを外すかという分岐の順番</strong>で組み立てます。以下は2026年9月24日時点で公式サイトに記載されている内容に基づいており、運営はファインディ株式会社です。</p>
+<h2 id="h1">分岐に入る前に、候補者のカードに並ぶ四つを確かめる</h2>
+<p>候補者向けサイトの求人一覧を見ると、1枚のカードに並んでいる情報は四つです。候補者はこの四つで求人を比べているので、企業側が条件を組むときの軸もこれに対応している可能性が高いと読めます。確定はできませんが、商談で何を確かめるかを絞る材料にはなります。次の表は、カードの情報を、自社の検索条件でどう扱うかに置き換えたものです。</p>
+<div class="tw"><table><thead><tr><th>カードの情報</th><th>掲載されている例</th><th>条件を組むときの扱い</th></tr></thead><tbody><tr><td>職種</td><td>バックエンドエンジニア、QAエンジニア、機械学習エンジニア など</td><td>境目が動いているので、最初から一つに絞らない</td></tr><tr><td>年収レンジ</td><td>600万円〜1,200万円、920万円〜1,400万円 など</td><td>条件より前に、対象層と重なるかを確かめる</td></tr><tr><td>技術スタックのタグ</td><td>Go、Python、GraphQL、gRPC、BigQuery など</td><td>必須は一つ、残りは優先順位として持つ</td></tr><tr><td>アクション</td><td>「いいかも」</td><td>候補者側の興味の表明として受け取る</td></tr></tbody></table></div>
+<p>技術スタックのタグは、カードに5つ程度が表示され、残りは「+4」のように件数で畳まれていました。上位に何を置くかで候補者からの見え方が変わるので、求人票に書く技術の順番も条件設計の一部と考えます。候補者の側で比べられている軸と、自社が条件で絞る軸がずれていると、引いた相手に文面が刺さりません。</p>
+<h2 id="h2">最初の関門は、年収レンジが想定年収と重なるか</h2>
+<p>分岐の一段目は、検索条件ではなく年収レンジです。候補者向けサイトには想定年収の機能があり、「経験やスキルをもとに、自分の市場価値の目安を確認できます」と説明されています。実際の求人には600万円〜1,200万円、920万円〜1,400万円、1,200万円〜2,500万円といった幅で掲載されているものがあり、企業一覧のページでも企業ごとに年収の幅が示されています。<strong>候補者は自分の相場観を持った状態で、企業のレンジを見ています</strong>。</p>
+<p>ここで重ならないと分かったら、条件をどう工夫しても反応は出にくいので、先に進まずに手を打ちます。レンジを上げられるならそれが最短です。上げられないなら、任せる役割の大きさか、学べる環境で差をつけることになります。この判断を条件設計のあとに回すと、送った通数だけが減って理由が分からないまま1か月が過ぎます。</p>
+<aside class="cta-inline">
+<p>年収レンジと技術要件の切り分けを、採用の実務を知る担当者と整理できます</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h3">言語を一つだけ必須にして引き、出た数で次を決める</h2>
+<p>二段目で、技術スタックで引きます。候補者向けサイトのトップには、Ruby、Python、Java、PHPといった言語での絞り込み導線があり、リモート、自社サービスを開発、フロントエンド、業務委託といった切り口も並んでいます。企業ページでは利用技術が、言語、フレームワーク、インフラ・ミドルウェア、開発ツールの四分類で掲載されていました。</p>
+<p>分類が四つに分かれているということは、言語とインフラの組み合わせで経験の意味が決まる設計だと読めます。同じ言語でも、Webアプリケーションを作っている人とデータ基盤を作っている人では経験が違います。それでも最初の検索では、必須にするのは言語一つにとどめ、フレームワークやインフラは並べ替えの優先順位として持つのが無難です。</p>
+<p>出た人数が面談枠に対して多ければ、条件を足さずに送る順番の設計に移ります。少なければ、言語を増やすのではなく三段目に進みます。言語を二つ三つと重ねて調整を始めると、どの条件が効いたのかが後から読めなくなるからです。</p>
+<h2 id="h4">足りなければ、職種の境目をまたいでスキル偏差値の足切りを外す</h2>
+<p>三段目は職種です。求人カードの職種名は、バックエンド、QA、機械学習、Android、iOS、SRE、フロントエンド、データ、セキュリティ、フルスタックの各エンジニアに、エンジニアリングマネージャーやプロダクトマネージャーまで細かく分かれています。候補者向けサイトのトップには、PdM、エンジニア、プロマネ、SIer/SE、FDE、CTO、VPoE、EMという対象の並びもあります。運営のセミナー案内には「AIの台頭でエンジニアの『職種の壁』が消えつつある今、採用基準はどう変わるべきか」という問いと、「越境人材」という言葉が掲げられていました。職種名で機械的に絞ると、隣の職種にいる適任者が落ちます。</p>
+<p>四段目がスキル偏差値です。候補者向けサイトは「GitHub連携で、開発言語ごとのスキルを客観的に把握できます」と説明し、タイトルにも「GitHubからスキル偏差値を算出」と掲げています。公開されたコードが入力なので、業務のコードを外に出せない環境にいる人ほど数字が出にくくなります。企業側でこの数値を必須条件に使うのか、並べ替えに使うのかは公開されていないため、契約前に確かめる項目です。</p>
+<h3>エラベルの見解</h3>
+<p>スキル偏差値という名前は、条件設計を誤らせやすいと考えています。偏差値という語は「高いほど良い」と連想させますが、測っているのは公開されたアウトプットの量と質です。母集団が165,000名（2026年9月時点）という規模でも、指標で上位に絞れば一気に細り、上位層ほど他社からのスカウトも集中します。担当する側から見ると、偏差値で足切りした一覧より、偏差値を外して職歴と一緒に読んだ一覧のほうが、競合の少ない候補者に根拠のある文面を書けます。同じ料金で代行を頼んでも、この読み方をする担当者かどうかで、送る相手の質が変わります。</p>
+<h2 id="h5">尽きたら、企業ページと求人票で待つ側に回る</h2>
+<p>一段ずつ外しても未接触の相手がいなくなる時期は来ます。そのときの打ち手は、条件をさらに緩めることではなく、候補者の側から見つけてもらう準備です。企業ページはミッション、ビジョン、プロダクト、インタビュー、技術ブログ、メンバー、会社概要、利用技術、関連リンクで構成されていました。技術ブログは記事のタイトルと技術タグ、公開日が一覧で並ぶので、自社の技術発信がそのまま企業ページの中身になります。</p>
+<p>コーポレートサイトはサービスを「独自に開発したAIでエンジニアのスキルと企業の求人票を解析し、最適なマッチングを実現」と説明しています。求人票が解析の入力になっている以上、書き直せば届く相手そのものが変わります。条件を絞る作業と求人票を書き直す作業は、この媒体では同じ方向を向いています。文面と求人票の組み立ては<a href="/media/scout-findy-template/">Findyのスカウトテンプレートの作り方</a>にまとめています。</p>
+<p>分岐全体を一枚にすると、次のようになります。各段で「何を見て」「どちらに進むか」を先に決めておけば、担当者が替わっても同じ順番で回せます。四段目まで進んだら、それ以上は条件ではなく待つ側の準備で補う、という線もここで引いておきます。</p>
+<div class="tw"><table><thead><tr><th>分岐</th><th>判定に使うもの</th><th>足りているとき</th><th>足りないとき</th></tr></thead><tbody><tr><td>一段目 年収レンジ</td><td>対象層の想定年収との重なり</td><td>二段目へ</td><td>レンジか役割を見直す</td></tr><tr><td>二段目 言語</td><td>言語一つで引いた人数と面談枠</td><td>送る順番を決める</td><td>三段目へ</td></tr><tr><td>三段目 職種</td><td>隣接職種まで広げた人数</td><td>職歴で並べ替える</td><td>四段目へ</td></tr><tr><td>四段目 偏差値</td><td>足切りを外した人数</td><td>職歴と一緒に読む</td><td>待つ側の準備へ</td></tr></tbody></table></div>
+<aside class="cta-inline">
+<p>企業ページと求人票の整備から、分岐の順番づくりまで一緒に進めます</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h6">分岐の途中で止まらないよう、非公開の部分を商談で埋める</h2>
+<p>企業側の検索項目が公開されていない以上、分岐のどこかで「その条件は使えるのか」が分からずに止まることがあります。止まる場所を契約前に減らすには、ほかの媒体で公開されている情報と並べて、Findyで何を聞くかを決めておきます。次の表は、エンジニア向けの他媒体で公開されている情報と、Findyで確かめる項目の対応です。</p>
+<div class="tw"><table><thead><tr><th>比較の観点</th><th>他媒体で公開されている例</th><th>Findyで確かめること</th></tr></thead><tbody><tr><td>スコアの分布</td><td>LAPRASは平均値と上位何％かを公開</td><td>偏差値帯ごとの人数</td></tr><tr><td>検索項目の一覧</td><td>LAPRASはヘルプで全項目を公開</td><td>使える条件の一覧</td></tr><tr><td>母集団の職種内訳</td><td>OpenWorkは経験職種別の概数を公開</td><td>自社職種での人数</td></tr><tr><td>条件の保存と再利用</td><td>LAPRASは保存機能を公開</td><td>週次の運用が回るか</td></tr></tbody></table></div>
+<p>聞いた数字は、そのまま分岐の判定に使えます。言語別・偏差値帯別の人数が出れば、二段目と四段目でどれだけ増えるかを契約前に見積もれます。自社の面接枠から逆算した月の送信数でその人数を割れば、母集団が何か月持つかも出ます。エンジニア向けの他の媒体の組み方は、<a href="/media/scout-lapras-kensaku-jouken/">LAPRASの検索条件の組み方</a>や<a href="/media/scout-forkwell-kensaku-jouken/">Forkwellの検索条件の組み方</a>もあわせてご覧ください。</p>
+<h3>エラベルの見解</h3>
+<p>企業側の仕様が非公開の媒体を、それだけで候補から外す必要はないと考えています。個社ごとに条件を組む営業方針なら、公開しないのは自然な判断です。ただし発注側は、非公開であることのコストを見込んでおく必要があります。他媒体なら契約前に母集団を試算できるところを、この媒体では商談で出してもらうしかなく、職種別の人数が出てこないまま年間契約を結べば、分岐の設計を契約後に賭けることになります。商談の場で人数が出てくるかどうかは、媒体の良し悪しではなく、自社がこの媒体を比較の土俵に乗せられるかどうかの判定だと捉えてください。</p>
+<h2 id="h7">まとめ</h2>
+<ul><li>Findyの企業側の検索項目は非公開なので、候補者のカードに並ぶ四つ（職種・年収レンジ・技術タグ・アクション）から条件の軸を借りる</li><li>最初の関門は年収レンジ。候補者は想定年収を知っているので、重ならなければ条件より先にレンジか役割を見直す</li><li>技術は言語一つだけを必須にして引き、足りなければ職種の境目をまたぐ</li><li>スキル偏差値は足切りに使わず、職歴と一緒に読む。上位ほど他社のスカウトも集中する</li><li>尽きたら企業ページと求人票を整えて待つ側に回り、非公開の部分は契約前に商談で埋める</li></ul>
+<h2 id="h8">よくある質問</h2>
+<h3>Q. Findyの企業側の検索項目は、どこで確認できますか</h3>
+<p>2026年9月24日時点では、企業側の検索項目の一覧は公開されていません。候補者向けの求人カードや企業ページから軸を推し量ることはできますが、確定には商談での確認が要ります。使える条件の一覧と、偏差値帯ごとの人数を出してもらうよう依頼すると、分岐の見積もりに使えます。</p>
+<h3>Q. スキル偏差値は高めに設定したほうが効率的ですか</h3>
+<p>足切りに使うと、母集団が一気に細るうえ、上位層ほど他社のスカウトが集中します。GitHubに公開されたコードが入力なので、業務のコードを外に出せない実力者は数字に現れにくい点にも注意が要ります。まずは外した状態で引き、職歴と一緒に読んで並べ替える使い方をお勧めします。</p>
+<h3>Q. 条件を緩めても候補者が見つからないときはどうすればよいですか</h3>
+<p>条件をさらに緩めるより、候補者の側から見つけてもらう準備に切り替えます。企業ページの技術ブログやメンバー紹介を整え、AIの解析対象でもある求人票を書き直すと、届く相手そのものが変わります。あわせて、月あたりの新規登録の状況を運営に確認しておくと、待つ期間の見当が付きます。</p>
+<p>※料金・通数・機能の条件は変わります。掲載した内容は2026年9月24日時点で公式サイトに記載されているものであり、企業側の検索仕様については契約前に運営にご確認ください。</p>
+  </div>
+  <section class="sources"><h2>出典</h2><ul><li><a href="https://findy-code.io/" target="_blank" rel="noopener">IT/Webエンジニアの転職・求人サイトFindy – GitHubからスキル偏差値を算出</a></li><li><a href="https://findy-code.io/companies/180/jobs" target="_blank" rel="noopener">株式会社メルカリのエンジニア求人一覧｜Findy</a></li><li><a href="https://findy-code.io/companies/180" target="_blank" rel="noopener">株式会社メルカリ｜Findy 企業ページ</a></li><li><a href="https://findy-code.io/companies" target="_blank" rel="noopener">企業一覧｜Findy</a></li><li><a href="https://findy.co.jp/service" target="_blank" rel="noopener">サービス | ファインディ株式会社(Findy Inc)</a></li><li><a href="https://recruiting.findy-code.io/" target="_blank" rel="noopener">【法人向け】Findy | ハイスキルなエンジニアと出会えるスカウト型リクルーティングサービス</a></li></ul></section>
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/scout-findy-unyou-sekkei/">Findyのスカウト運用設計｜送信数・時間帯・追客</a></li><li><a href="/media/scout-findy-daikou/">Findyのスカウト代行｜任せられる範囲と成果の測り方</a></li><li><a href="/media/scout-findy-template/">Findyのスカウトテンプレートの作り方</a></li><li><a href="/media/scout-ambi-kensaku-jouken/">AMBIの検索条件の組み方｜母集団を狭めすぎない設計</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

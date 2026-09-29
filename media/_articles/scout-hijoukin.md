@@ -9,7 +9,7 @@ tags: ["スカウト代行", "非正規", "パート", "契約社員", "採用�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-hijoukin"
-related: ["scout-chimeido-nai-kaisha", "scout-baitai-kumiawase", "scout-chihou-kigyo", "scout-daikou-kadai-baitai"]
+related: ["scout-alumni-scout", "scout-direct-recruiting", "scout-fukugyo-jinzai", "scout-gyoumu-itaku-boshuu"]
 ---
 
 正社員の採用でスカウトを使っている。パートや契約社員の採用にも使えないか。結論を先に書くと、**スカウトが効くのは、候補者の経歴が媒体に載っていて、経歴から向き不向きが読め、こちらから声をかける理由がある職種です。非正規の採用は、この条件に当てはまる場合と、当てはまらない場合がはっきり分かれます。当てはまらないなら、スカウトより求人媒体や紹介のほうが効率的です**。一職種だけの依頼は[一職種だけ頼めるか](/media/scout-daikou-kadai-spot/)に、少人数の依頼は[採用予定が一名でも頼めるか](/media/scout-daikou-kadai-shousuu/)にまとめています。

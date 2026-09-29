@@ -9,7 +9,7 @@ tags: ["スカウト代行", "担当者交代", "引き継ぎ", "課題", "契�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-tantou"
-related: ["scout-daikou-kadai-hikitsugi", "scout-daikou-kadai-marunage", "scout-daikou-jinin", "scout-daikou-kadai-baitai"]
+related: ["scout-daikou-kadai-hikitsugi", "scout-daikou-baitai-hi", "scout-daikou-checklist", "scout-daikou-getsugaku"]
 ---
 
 「担当者が変わります」。この一言で、半年かけて整えた文面のトーンと対象の基準が、ゼロに戻ることがあります。代行の成果は会社より担当者で決まるので、交代は運用の前提が変わることと同じです。結論を先に書くと、**交代を告げられたら、引き継ぎの一式を発注側の手元から渡し、新しい担当者を最初の一か月で見極め、合わなければ契約の見直しを含めて判断してください**。交代を受け入れるかどうかは、発注側にも選択肢があります。契約上の交代の条件は[契約書で決めておくこと](/media/scout-daikou-keiyaku/)に、担当者の見極めは[担当者の人数と体制](/media/scout-daikou-jinin/)にまとめています。

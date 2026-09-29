@@ -9,7 +9,7 @@ tags: ["スカウト代行", "英語", "文面", "外国籍", "多言語"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-eigo-bunmen"
-related: ["scout-alumni-scout", "scout-chimeido-nai-kaisha", "scout-daikou-kadai-bunmen", "scout-daikou-kadai-hayasa"]
+related: ["scout-chimeido-nai-kaisha", "scout-daikou-hinshitsu-kanri", "scout-daikou-kadai-bunmen", "scout-daikou-kakunin-flow"]
 ---
 
 経歴が英語で書かれている候補者がいる。日本語の文面を送っても、開かれないか、読まれない。英語の文面が要るが、日本語の文面を翻訳ツールに通しただけでは、不自然で、一段落目の個別性が消えます。結論を先に書くと、**英語の文面は、日本語の文面を訳すのではなく、日本語の文面と同じ型（一段落目に役割と「なぜあなたに」、会社の話は後）で、英語から書き起こしてください。型は言語を超えて同じで、変わるのは言葉の選び方と、条件の伝え方の順序だけです**。外国籍の候補者の扱いは[外国籍候補者へのスカウト](/media/scout-gaikokujin-scout/)にまとめています。この記事では、英語の表現の例は扱わず、書き方の考え方を整理します。

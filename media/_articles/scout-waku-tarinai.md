@@ -9,7 +9,7 @@ tags: ["スカウト代行", "送信枠", "優先順位", "媒体", "運用"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-waku-tarinai"
-related: ["scout-shokushu-yuusen", "scout-waku-amaru", "scout-daikou-kadai-baitai", "scout-daikou-kadai-bunmen"]
+related: ["scout-waku-amaru", "scout-daikou-kadai-baitai", "scout-plan-erabi", "scout-baitai-kaiyaku"]
 ---
 
 月の半ばで、送信枠を使い切った。まだ送りたい人がいるのに、送れない。プランを上げるべきか。結論を先に書くと、**枠が足りないときは、枠を増やす前に、「誰に送らないか」を決めてください。対象を優先順位で並べ、枠の中で上から送る。それでも足りず、返信率と面談設定率が安定しているなら、プランを上げます**。枠が足りないのは、多くの場合、対象が広すぎることの表れです。プランの選び方は[媒体のプラン選び](/media/scout-plan-erabi/)に、余るときは[送信枠が余るときの使い方](/media/scout-waku-amaru/)にまとめています。媒体の名前や料金、枠の数には触れません。

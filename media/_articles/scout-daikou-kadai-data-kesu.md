@@ -9,7 +9,7 @@ tags: ["スカウト代行", "候補者情報", "個人情報", "契約終了", 
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-data-kesu"
-related: ["scout-daikou-data", "scout-daikou-kadai-account", "scout-daikou-kengen", "scout-daikou-tool-shitei"]
+related: ["scout-daikou-data", "scout-daikou-kadai-account", "scout-daikou-kadai-baitai", "scout-daikou-kadai-bunmen"]
 ---
 
 契約が終わった。代行会社の担当者の手元には、送った候補者の一覧、返信の内容、面談に進んだ人の経歴が残っている。それは、いつ、どう消されるのか。聞かなければ、答えは返ってきません。結論を先に書くと、**候補者データの削除は、契約時に「何を・いつ・どう消し・どう確認するか」を取り決め、終了時にその取り決めに沿って求め、完了の書面を受け取ってください**。取り決めが無いと、求める根拠がありません。なお、個人情報の扱いは法令と契約に関わるため、個別の判断は弁護士などの専門家にご確認ください。アカウントの返却は[アカウントの返却](/media/scout-daikou-kadai-account/)に、契約の条項は[契約書で決めておくこと](/media/scout-daikou-keiyaku/)にまとめています。

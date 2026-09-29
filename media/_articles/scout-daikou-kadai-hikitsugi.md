@@ -9,7 +9,7 @@ tags: ["スカウト代行", "引き継ぎ", "課題", "担当者交代", "チ�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-hikitsugi"
-related: ["scout-daikou-kadai-tantou", "scout-daikou-kaiyaku", "scout-baitai-kaiyaku", "scout-daikou-ats-renkei"]
+related: ["scout-daikou-kadai-tantou", "scout-daikou-checklist", "scout-daikou-kadai-account", "scout-daikou-kadai-baitai"]
 ---
 
 担当者が替わった。あるいは代行会社を替えた。文面のルールも、対象の基準も、送信の記録も渡した。それなのに、新しい担当者の運用は、前と同じにならない。文面は少し違い、対象は少しずれ、候補者への連絡は一度途切れた。「渡したつもり」のものが、実際には抜けていたのです。結論を先に書くと、**引き継ぎで抜けるのは、書面にしにくいもの——判断の根拠、候補者ごとの文脈、社内の事情、媒体の細かな設定——です。抜けやすい項目を一覧にして、渡す側と受け取る側の両方で確認してください**。担当者交代の全体は[担当者が替わった](/media/scout-daikou-kadai-tantou/)に、解約時の引き継ぎは[解約と引き継ぎ](/media/scout-daikou-kaiyaku/)にまとめています。

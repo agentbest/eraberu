@@ -9,7 +9,7 @@ tags: ["スカウト代行", "管理職", "マネジメント", "対象設定", 
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-kanri-shoku"
-related: ["scout-daikou-kaizen", "scout-daikou-nittei", "scout-senior-scout", "scout-alumni-scout"]
+related: ["scout-persona-sakusei", "scout-daikou-junbi", "scout-daikou-kadai-mismatch", "scout-daikou-kadai-shitsu"]
 ---
 
 管理職を採りたい。「マネジメント経験あり」で抽出して送る。返信は来るが、面談で「思っていたマネジメントと違う」となる。三名の進行管理をしていた人と、三十名の組織で採用と評価と予算を持っていた人は、同じ「マネジメント経験あり」です。結論を先に書くと、**管理職候補のスカウトは、「マネジメント経験」を四つの軸——何を管理するか・人数と構成・決める範囲・上との関係——に分解し、自社の管理職の役割をその軸で定義してから、経歴の記述で対象を選んでください。分解しないと、対象も文面も面談も曖昧なままです**。幹部・役員クラスは[幹部・役員クラスへのアプローチ](/media/scout-kanbu-scout/)に、要件のずれは[面談してみると要件と違う](/media/scout-daikou-kadai-mismatch/)にまとめています。

@@ -9,7 +9,7 @@ tags: ["スカウト代行", "日程調整", "面談", "課題", "選考速度"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-nittei"
-related: ["scout-daikou-kadai-kyougou", "scout-daikou-kadai-hayasa", "scout-golden-week", "scout-alumni-scout"]
+related: ["scout-daikou-kadai-genba", "scout-daikou-kadai-jitai", "scout-daikou-kadai-kyougou", "scout-daikou-nittei"]
 ---
 
 候補者から「面談を希望します」と返信が来た。担当者が社内に候補日を求める。面談者の予定を確認し、三日後に候補日が出る。候補者に送ると、その日は都合が悪い。また社内に戻す。決まったのは、返信から十日後、面談は三週間先。その間に、候補者は他社の面談を終え、内定をもらっています。結論を先に書くと、**日程が押さえられないのは、面談者が忙しいからではなく、「都度探す」作り方をしているからです。週の枠を先に空け、担当者がその枠から候補日を出せる形にすれば、往復は無くなります**。日程調整の設計は[日程調整の設計](/media/scout-daikou-nittei/)に、現場が出ない問題は[現場が面談に出てくれない](/media/scout-daikou-kadai-genba/)にまとめています。

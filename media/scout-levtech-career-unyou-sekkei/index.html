@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>レバテックキャリアのスカウト運用設計｜送信数・時間帯・追客｜エラベル</title>
+<meta name="description" content="レバテックキャリアでスカウト運用を考えるときの前提を整理しました。レバテックキャリアは転職エージェントで、企業が直接スカウトを送る場は同じレバテックの「レバテックダイレクト」です。一括送信機能が無いこと、スカウトの95%が面接・面談確約とされていることを踏まえ、送信数と追客の設計をまとめています。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/scout-levtech-career-unyou-sekkei/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="レバテックキャリアのスカウト運用設計｜送信数・時間帯・追客｜エラベル">
+<meta property="og:description" content="レバテックキャリアでスカウト運用を考えるときの前提を整理しました。レバテックキャリアは転職エージェントで、企業が直接スカウトを送る場は同じレバテックの「レバテックダイレクト」です。一括送信機能が無いこと、スカウトの95%が面接・面談確約とされていることを踏まえ、送信数と追客の設計をまとめています。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/scout-levtech-career-unyou-sekkei/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"レバテックキャリアのスカウト運用設計｜送信数・時間帯・追客","description":"レバテックキャリアでスカウト運用を考えるときの前提を整理しました。レバテックキャリアは転職エージェントで、企業が直接スカウトを送る場は同じレバテックの「レバテックダイレクト」です。一括送信機能が無いこと、スカウトの95%が面接・面談確約とされていることを踏まえ、送信数と追客の設計をまとめています。","datePublished":"2026-09-23","dateModified":"2026-09-23","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/scout-levtech-career-unyou-sekkei/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/scout/">スカウト代行</a><i>›</i><span>レバテックキャリアのスカウト運用設計｜送信数・時間帯・追客</span></div></nav><main class="wrap article">
+  <p class="art__kicker">スカウト代行 / レバテックキャリア</p>
+  <h1>レバテックキャリアのスカウト運用設計｜送信数・時間帯・追客</h1>
+  <p class="art__meta">公開 2026-09-23</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">導入前の2週間で、契約と枠を確かめる</a></li><li><a href="#h2">1か月目は、枠の数だけ読んで送る</a></li><li><a href="#h3">2か月目は、返信の出方で追客と文面を直す</a></li><li><a href="#h4">3か月目は、エージェント経由と並べて配分を決める</a></li><li><a href="#h5">まとめ</a></li><li><a href="#h6">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>レバテックでスカウト運用を組むとき、最初の壁は「どのサービスの話か」です。レバテックの法人向けサイトは正社員サービスを転職エージェントサービスとスカウト型求人メディアの二つに分けていて、レバテックキャリアは前者、企業が自分で探して直接スカウトを送る場は後者の「レバテックダイレクト」にあたります。この記事では、ダイレクトでスカウトを始める企業が、導入前の準備から3か月目の見直しまでに何を決めていくかを、時間の順に整理します。送信数を決めるのは作業量ではなく<strong>面接・面談の枠</strong>だ、というのが全体を通した結論です。以下は2026年9月23日時点で公式サイトに記載されている内容に基づきます。</p>
+<h2 id="h1">導入前の2週間で、契約と枠を確かめる</h2>
+<p>運用を始める前に確かめるのは、社内で「レバテック」と呼んでいるものがどちらのサービスかです。法人向けページは、費用について「成果報酬型なので、人材の閲覧や案件・求人の掲載は無料」としたうえで「（レバテックダイレクトを除く）」と明記しています。推薦を受けるエージェントと、自分で送るダイレクトでは、費用の考え方も社内の作業もまったく違います。契約書に書かれたサービス名を確認するところから始めると、後の設計がずれません。</p>
+<p>次に、スカウトの送信数の上限、送信時間帯の指定、既読や返信の見え方、同じ相手への再送、面接・面談確約の付け方、外部の担当者を管理画面に入れられるかを確かめます。いずれも公式サイトでは公開されていないため、運営に直接聞くしかありません。聞き方を工夫すると、答えがそのまま設計の数字になります。</p>
+<div class="tw"><table><thead><tr><th>確かめること</th><th>誰に何を聞くか</th><th>答えで決まること</th></tr></thead><tbody><tr><td>送信数の上限</td><td>運営に「期間あたり何通まで送れるか」</td><td>月の最大送信数</td></tr><tr><td>確約の付け方と範囲</td><td>運営に「確約なしで送れるか、割合を選べるか」</td><td>送信数と面接枠の比率</td></tr><tr><td>面接・面談の枠</td><td>現場の責任者に「週に何枠出せるか」</td><td>週の送信数の上限</td></tr><tr><td>外部担当者の閲覧</td><td>運営と自社の法務に「誰がどこまで見られるか」</td><td>外注できるかどうか</td></tr></tbody></table></div>
+<p>四つ目は、求職者の経歴という個人情報を社外の人が見ることになるため、契約と社内規程の両方に関わります。外注を考えていなくても、将来の選択肢を残すために早めに聞いておくと後で慌てません。個人情報の扱いについて個別の判断は専門家にご確認ください。</p>
+<aside class="cta-inline">
+<p>契約の確認から面接枠の割り出しまで、IT採用の実務を知る担当者と一緒に進められます</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h2">1か月目は、枠の数だけ読んで送る</h2>
+<p>レバテックの総合サイトはスカウトサービスについて「一括送信機能なし」と案内し、レバテックダイレクトのサイトは「企業が1通1通厳選して送信」するとしています。さらに、全スカウトメールの95%が面接/面談確約の情熱スカウトだと記載されています（2026年1月〜3月実績）。送った相手が返信すれば、そのまま会う予定が一つ入るということです。1か月目は「まず多めに送ってみる」ことができないので、週の枠から逆算して送ります。</p>
+<p>週の流れは、枠の確認から始めて記録で終えると回ります。週の頭に今週使える枠を確かめ、その数に見合う人数だけ経歴を読みます。中日に一通ずつ送り、返信には当日中に返します。週の後半に面接・面談を行い、週の終わりに送信数と返信、実施の数を残します。</p>
+<div class="tw"><table><thead><tr><th>時期</th><th>やること</th><th>持ち主</th></tr></thead><tbody><tr><td>週の頭</td><td>枠の確認、候補の経歴を読む</td><td>採用担当（外注なら外の担当者）</td></tr><tr><td>中日</td><td>一通ずつ送信、当日中の返信</td><td>採用担当</td></tr><tr><td>週の後半</td><td>面接・面談の実施</td><td>現場と採用担当</td></tr><tr><td>週の終わり</td><td>送信数・返信・実施数の記録</td><td>採用担当</td></tr></tbody></table></div>
+<h3>エラベルの見解</h3>
+<p>1か月目の数字は、担当者によってはっきり分かれます。同じ週3枠、同じ検索条件でも、経歴を読んで「この人には何を話せるか」まで決めてから送る担当者と、条件に合った順に送る担当者では、実施まで進む数が変わります。一括送信が無い媒体では、差が出るのは送る速さではなく読む深さです。</p>
+<p>外に出すなら、見積もりの通数より「一人の経歴に何分かけるつもりか」を聞いてください。答えが具体的な担当者は、確約の重さと枠の少なさを前提に考えています。エラベルで担当者を選ぶときも、この一点を最初に確かめ、答えの具体さで候補を絞っています。</p>
+<h2 id="h3">2か月目は、返信の出方で追客と文面を直す</h2>
+<p>2か月目には、送った相手がどう反応したかの記録が一か月分たまります。確約を伴うスカウトでは、追客の回数を増やすより最初の一通の精度を上げるほうが噛み合います。目安としては、追客は送信から一週間後に一回まで、二週間反応が無ければその枠を次の候補に回します。枠を空けたまま待つと、送れる人数そのものが減っていきます。</p>
+<p>レバテックダイレクトのサイトは、スカウト受信を通知してくれる公式アプリがあるとしています。通知から開かれる前提なら、件名と冒頭の一行で読むかどうかが決まります。返信が伸びないときは、どこで止まっているかを分けて考えると、直す場所を取り違えずに済みます。</p>
+<div class="tw"><table><thead><tr><th>見えたこと</th><th>考えられる原因</th><th>直す場所</th></tr></thead><tbody><tr><td>返信が少ない</td><td>件名と冒頭が相手の経歴に触れていない</td><td>文面の書き出し</td></tr><tr><td>返信はあるが辞退が多い</td><td>年収や働き方の条件が合っていない</td><td>検索条件と掲載情報</td></tr><tr><td>返信後に日程が流れる</td><td>返信対応が遅い</td><td>当日中の返信体制</td></tr><tr><td>実施したが次に進まない</td><td>要件と経歴の読み方がずれている</td><td>要件定義と現場の確認</td></tr></tbody></table></div>
+<p>レバテックダイレクトには専門チームが企業を取材して開発環境やエンジニア組織の情報を載せるページがあり、求職者はそれを見て判断します。掲載情報と文面の中身がずれていないかも、このタイミングで確かめておきます。文面の型は<a href="/media/scout-levtech-career-template/">レバテックキャリアのスカウトテンプレートの作り方</a>で、条件の直し方は<a href="/media/scout-levtech-career-kensaku-jouken/">レバテックキャリアの検索条件の組み方</a>で扱っています。</p>
+<h2 id="h4">3か月目は、エージェント経由と並べて配分を決める</h2>
+<p>3か月目の見直しでは、スカウトだけを見ても判断がつきません。法人向けページは、登録者45万人以上、取引社数1万社以上（いずれも2023年7月時点）とし、中途採用について2段階の審査を経た人材の中から厳選して紹介する、短期離職率は1.2%（2023年度実績）としています。推薦が来る仕組みが隣にあるので、スカウトで会えた人が推薦では出てこない人だったかどうかが、続ける理由になります。</p>
+<p>比べるには、面接の記録に経路を残しておくことが前提です。同じ月に推薦とスカウトが混ざると、どちらが効いたのかが分からなくなります。1か月目から記録の欄を分けておけば、3か月目に次のような判断ができます。</p>
+<div class="tw"><table><thead><tr><th>判断</th><th>見るところ</th><th>4か月目の動き</th></tr></thead><tbody><tr><td>続ける</td><td>推薦では出てこなかった層に会えている</td><td>枠と送信数を維持</td></tr><tr><td>条件を直す</td><td>推薦と同じ人ばかり出てくる</td><td>検索の軸を変えて再開</td></tr><tr><td>縮める</td><td>面接枠を圧迫し、推薦の選考が回らない</td><td>送信数を減らし推薦に枠を戻す</td></tr></tbody></table></div>
+<aside class="cta-inline">
+<p>3か月分の記録をもとに、推薦とスカウトの配分を一緒に見直します</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h3>エラベルの見解</h3>
+<p>相談で多いのは、3か月たって「スカウトは効いたのか」と聞かれても答えられない状態です。原因のほとんどは、面接の記録に経路が残っていないことにあります。推薦とスカウトはどちらもレバテックからの候補者なので、現場の面接官は区別していません。</p>
+<p>これは運用の後半では取り戻せず、1か月目の記録の欄で決まります。外注する場合も、外の担当者が付けた記録を社内の面接記録とどうつなぐかを、始める前に決めておいてください。担当者を選ぶ段階で、送信の話より先にこの記録の設計が話に出てくるかどうかが、一つの見分け方になります。</p>
+<h2 id="h5">まとめ</h2>
+<ul><li>導入前に、契約しているのがエージェントかダイレクトかを契約書で確かめる。ダイレクトは「掲載は無料」の対象から除かれている</li><li>非公開の仕様（上限、確約の付け方、外部担当者の閲覧）は、聞く相手と聞き方を決めて答えを数字にする</li><li>1か月目は面接・面談の枠から週の送信数を決め、一通ずつ送って当日中に返す</li><li>2か月目は返信の止まり方で、文面・条件・返信体制のどこを直すかを分ける</li><li>3か月目はエージェント経由と並べて配分を決める。そのために経路の記録を初月から分けておく</li></ul>
+<h2 id="h6">よくある質問</h2>
+<h3>Q. レバテックキャリアで企業からスカウトを送れますか</h3>
+<p>レバテックキャリアは転職エージェントサービスで、企業が直接スカウトを送る場はスカウト型求人メディアの「レバテックダイレクト」です。どちらを契約しているかで、費用の考え方も運用も変わります。まず契約書のサービス名をご確認ください。</p>
+<h3>Q. 1週間に何通送ればよいですか</h3>
+<p>公式サイトでは、全スカウトメールの95%が面接/面談確約だとされています（2026年1月〜3月実績）。返信がそのまま面接の予定になるので、週に出せる面接・面談の枠が送信数の上限の目安になります。送信数の上限そのものは公開されていないため、運営にご確認ください。</p>
+<h3>Q. 追客は何回まで送るべきですか</h3>
+<p>再送の可否は公開されていないため、まず運営に確認します。確約を伴うスカウトでは、追客を重ねるより最初の一通の精度を上げるほうが噛み合います。目安としては一週間後に一回までとし、反応が無ければその枠を次の候補に回します。</p>
+<p>※仕様や提供範囲は変わります。掲載した内容は2026年9月23日時点の公式サイトの記載です。スカウトの通数・送信時間帯・追客の仕様・料金は公開されていないため、契約前に運営の案内でご確認ください。</p>
+  </div>
+  <section class="sources"><h2>出典</h2><ul><li><a href="https://levtech.jp/contact/recruit/" target="_blank" rel="noopener">レバテック【法人向け】｜IT人材採用ならレバテック</a></li><li><a href="https://levtech-direct.jp/" target="_blank" rel="noopener">【公式】レバテックダイレクト｜正社員ITエンジニア特化の転職サイト</a></li><li><a href="https://career.levtech.jp/" target="_blank" rel="noopener">IT転職ならレバテックキャリア</a></li><li><a href="https://levtech.jp/" target="_blank" rel="noopener">【公式】レバテック｜ITエンジニアの転職・フリーランス案件探し</a></li><li><a href="https://levtech.co.jp/" target="_blank" rel="noopener">レバテック株式会社</a></li></ul></section>
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/scout-levtech-career-daikou/">レバテックキャリアのスカウト代行｜任せられる範囲と成果の測り方</a></li><li><a href="/media/scout-levtech-career-kensaku-jouken/">レバテックキャリアの検索条件の組み方｜母集団を狭めすぎない設計</a></li><li><a href="/media/scout-levtech-career-template/">レバテックキャリアのスカウトテンプレートの作り方</a></li><li><a href="/media/scout-geekly-unyou-sekkei/">Geeklyのスカウト運用設計｜送信数・時間帯・追客</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

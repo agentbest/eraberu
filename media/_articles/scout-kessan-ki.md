@@ -9,7 +9,7 @@ tags: ["スカウト代行", "期末", "採用期限", "運用設計", "選考�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-kessan-ki"
-related: ["scout-daikou-kadai-shousuu", "scout-daikou-kadai-tsuzukeru", "scout-alumni-scout", "scout-baitai-kaiyaku"]
+related: ["scout-kikan-sekkei", "scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-baitai-kumiawase"]
 ---
 
 「期末までに採用したい」。この言葉は、社内では通じますが、計画にはなりません。期末までに入社なのか、内定承諾なのか、内定なのか。それによって、送信を始める時期も、期末が近づいてからの動き方も違います。結論を先に書くと、**「期末までに採用」を「期末までに内定承諾」と置き直し、そこから逆算してください。入社を期末に置くと、現職の退職期間で間に合わない候補者を早い段階で外すことになり、母数が減ります**。逆算の手順は[採用期限から逆算した送信計画](/media/scout-kikan-sekkei/)に、新年度の立ち上げは[新年度に向けた採用の立ち上げ](/media/scout-shinnendo/)にまとめています。

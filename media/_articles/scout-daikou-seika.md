@@ -9,7 +9,7 @@ tags: ["スカウト代行", "成果報酬", "料金体系", "契約", "費用"]
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-seika"
-related: ["scout-daikou-baitai-hi", "scout-daikou-getsugaku", "scout-daikou-hiyou-hikaku", "scout-daikou-hiyou-souba"]
+related: ["scout-daikou-baitai-hi", "scout-daikou-getsugaku", "scout-daikou-hiyou-hikaku", "scout-daikou-jikan-tanka"]
 ---
 
 スカウト代行を成果報酬型で契約する。**成果が出なければ費用が発生しないため、始めやすい形です**。ただし、成果をどこに置くかで代行側の動き方が変わり、結果も変わります。この記事では、成果の置き場所と、決めておく項目を整理します。成果の定義の書き方は[成果報酬型の「成果」の定義でもめない書き方](/media/rpo-seikahoushuu-teigi/)にまとめています。

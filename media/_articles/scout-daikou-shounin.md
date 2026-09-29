@@ -9,7 +9,7 @@ tags: ["スカウト代行", "承認", "運用設計", "確認", "品質管理"]
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-shounin"
-related: ["scout-daikou-kakunin-flow", "scout-daikou-hinshitsu-kanri", "scout-daikou-tone", "scout-baitai-kirikae"]
+related: ["scout-daikou-kakunin-flow", "scout-daikou-hinshitsu-kanri", "scout-baitai-kaiyaku", "scout-baitai-kirikae"]
 ---
 
 代行が書いた文面を、一通ずつ承認してから送るか。**全件を承認すれば事故は防げますが、送信が遅れ、確認の時間も積み上がります**。そして、候補者への接触が遅れると、他社が先に声をかけます。この記事では、全件承認が必要な場面と、減らしていく判断を整理します。確認フローの設計は[送信前の文面確認フロー](/media/scout-daikou-kakunin-flow/)にまとめています。

@@ -9,7 +9,7 @@ tags: ["スカウト代行", "候補者の質", "課題", "対象", "要件"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-shitsu"
-related: ["scout-daikou-kadai-marunage", "scout-daikou-kadai-mismatch", "scout-daikou-kadai-baitai", "scout-daikou-kadai-bunmen"]
+related: ["scout-daikou-kadai-mismatch", "scout-daikou-junbi", "scout-daikou-kadai-account", "scout-daikou-kadai-baitai"]
 ---
 
 返信率は悪くない。面談も組めている。それなのに、面談すると「思っていた人と違う」が続く。スカウト代行でよくある詰まり方で、発注側は「担当者の選び方が悪い」と感じ、担当者は「基準を聞いていない」と感じます。結論を先に書くと、**「質が合わない」の中身を言葉にしないまま担当者を責めても直りません。合わないの種類を分け、原因が対象・文面・求人票・見極めのどこにあるかを特定してから、担当者に渡す判断基準を作り直してください**。返信率の問題は[返信率が上がらないと言われたとき](/media/scout-daikou-kadai-henshin/)に、対象の決め方は[候補者像の伝え方](/media/scout-daikou-persona/)にまとめています。

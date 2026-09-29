@@ -9,7 +9,7 @@ tags: ["スカウト代行", "フルリモート", "働き方", "対象設定", 
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-remote-kyuujin"
-related: ["scout-gaikokujin-scout", "scout-baitai-kumiawase", "scout-chihou-kigyo", "scout-chimeido-nai-kaisha"]
+related: ["scout-tenkin-ari", "scout-josei-scout", "scout-kyuuyo-makeru", "scout-mikeiken-boshuu"]
 ---
 
 フルリモートの求人は、スカウトの対象が全国に広がります。勤務地で断られることが無く、母数は大きくなります。一方で、リモートを希望する候補者は、「フルリモート」という言葉を疑って読みます。「実際は月に何回か出社」「最初の三か月は出社」「チームによる」。過去にそうした経験をした候補者ほど、実態を確かめてから返信します。結論を先に書くと、**フルリモート求人のスカウトは、「フルリモート」の一言ではなく、働き方の実態（出社の有無と頻度、時間の扱い、連絡の形、評価の仕組み）を文面で具体的に示してください。対象が広い分、実態の記述で候補者が自分で絞り込めるようにします**。地方企業の働き方の設計は[地方企業のスカウト運用](/media/scout-chihou-kigyo/)に、転勤ありの求人は[転勤ありの求人のスカウト](/media/scout-tenkin-ari/)にまとめています。

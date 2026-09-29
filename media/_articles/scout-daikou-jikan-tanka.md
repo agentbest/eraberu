@@ -9,7 +9,7 @@ tags: ["スカウト代行", "時間単価", "料金体系", "稼働", "契約"]
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-jikan-tanka"
-related: ["scout-daikou-getsugaku", "scout-daikou-seika", "scout-daikou-baitai-hi", "scout-daikou-checklist"]
+related: ["scout-daikou-seika", "scout-daikou-baitai-hi", "scout-daikou-checklist", "scout-daikou-getsugaku"]
 ---
 
 スカウト代行を時間単価で契約する。**実際に動いた分だけ払う形で、業務量が読めないときに使いやすい**。ただし、稼働に何を数えるかと、上限をどう置くかを決めておかないと、費用が想定を超えます。この記事では、時間単価型で決めておく項目を整理します。他の料金体系との比較は[スカウト代行の費用相場](/media/scout-daikou-hiyou-souba/)にまとめています。

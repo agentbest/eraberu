@@ -9,7 +9,7 @@ tags: ["スカウト代行", "職場見学", "候補者体験", "選考設計", 
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-shokuba-kengaku"
-related: ["scout-daikou-kadai-genba", "scout-daikou-kadai-jitai", "scout-daikou-kadai-shanai", "scout-ichiji-menjo"]
+related: ["scout-daikou-henshin-taiou", "scout-daikou-kadai-hayasa", "scout-daikou-namae", "scout-daikou-taiou-jikan"]
 ---
 
 スカウトに返信は来たが、「まだ転職は決めていない」「まず雰囲気を知りたい」という温度の候補者がいる。面談を提案すると、選考の色が出て引かれる。何もしないと、関係が途切れる。この温度の候補者に合う場が、職場見学です。結論を先に書くと、**職場見学は「選考ではない場」として、返信のやり取りで温度が慎重な候補者に提案してください。実態を見せることで、期待のずれを面談の前に減らせます。ただし、見せる実態が魅力になる職場でないと、逆効果になります**。面談を飛ばす設計は[面談なしで選考に進める設計](/media/scout-mendan-nashi/)に、動画や資料での補足は[動画や資料を添えるべきか](/media/scout-doga-tenpu/)にまとめています。

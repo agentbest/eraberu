@@ -9,7 +9,7 @@ tags: ["スカウト代行", "面談", "現場", "課題", "社内体制"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-genba"
-related: ["scout-daikou-kadai-jitai", "scout-daikou-kadai-shanai", "scout-shokuba-kengaku", "scout-daikou-henshin-taiou"]
+related: ["scout-daikou-kadai-jitai", "scout-daikou-kadai-nittei", "scout-daikou-kadai-account", "scout-daikou-kadai-baitai"]
 ---
 
 担当者が候補者を面談まで進めた。ところが、一緒に働く側の責任者が「今週は無理」「来週も埋まっている」。日程が二週間先になり、その間に候補者は他社に決まる。採用担当は現場に頭を下げ、現場は本業で手一杯。この構図は、スカウト代行を使う会社で最も多い詰まりの一つです。結論を先に書くと、**現場が面談に出ないのは、「協力してほしい」という頼み方と、面談の負担の設計に原因があります。負担を減らし、面談を予定に固定し、採用の優先順位を経営で確認してください**。社内の関与全般は[社内の関与が薄れる](/media/scout-daikou-kadai-shanai/)に、日程の押さえ方は[日程が押さえられない](/media/scout-daikou-kadai-nittei/)にまとめています。

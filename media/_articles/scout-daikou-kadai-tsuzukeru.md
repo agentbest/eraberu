@@ -9,7 +9,7 @@ tags: ["スカウト代行", "継続判断", "課題", "意思決定", "撤退"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-tsuzukeru"
-related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-ryou", "scout-daikou-kadai-saikaishi", "scout-waku-amaru"]
+related: ["scout-daikou-hyouka", "scout-daikou-kadai-account", "scout-daikou-kadai-baitai", "scout-daikou-kadai-bunmen"]
 ---
 
 もう半年続けている。採用は一名決まったが、費用に見合っているかは分からない。担当者は熱心で、切りにくい。来月の更新をどうするか。この判断は、多くの会社で「決めきれないまま、自動更新で続く」か「予算の都合で唐突に切られる」かのどちらかになります。結論を先に書くと、**続けるか止めるかは、「ここまで払った」を判断から外し、三つの問い——目的に近づいているか・原因は特定できているか・変えれば動く見込みがあるか——で決めてください**。半期の見直しの手順は[半期での見直し](/media/scout-daikou-hanki/)に、予算の都合で縮める形は[予算が続かない](/media/scout-daikou-kadai-yosan/)にまとめています。

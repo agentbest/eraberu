@@ -9,7 +9,7 @@ tags: ["スカウト代行", "アカウント", "権限", "契約終了", "課�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-account"
-related: ["scout-daikou-kengen", "scout-baitai-kaiyaku", "scout-daikou-baitai-hi", "scout-daikou-kadai-data-kesu"]
+related: ["scout-daikou-kadai-data-kesu", "scout-daikou-data", "scout-daikou-kadai-baitai", "scout-daikou-kadai-bunmen"]
 ---
 
 契約が終わった。媒体のアカウントは、どうなっているか。代行会社の担当者のログインは残っていないか。自社の名義だと思っていたら、実は代行会社の名義で、終了と同時に見られなくなった。こうした問題は、契約の終わりに初めて気づくことが多く、その時点では手遅れになりがちです。結論を先に書くと、**アカウントの返却は、名義が自社か代行会社かで手順が違います。自社名義なら権限の回収と設定の確認、代行会社名義なら記録の引き出しと移管の可否を、契約が終わる前に済ませてください**。名義の決め方は[媒体費は誰が負担するか](/media/scout-daikou-baitai-hi/)に、解約全体の手順は[解約と引き継ぎ](/media/scout-daikou-kaiyaku/)にまとめています。

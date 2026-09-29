@@ -9,7 +9,7 @@ tags: ["スカウト代行", "丸投げ", "課題", "役割分担", "判断"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-marunage"
-related: ["scout-daikou-kadai-mismatch", "scout-daikou-kadai-shitsu", "scout-daikou-kadai-tantou", "scout-daikou-jinin"]
+related: ["scout-baitai-kirikae", "scout-daikou-kadai-account", "scout-daikou-kadai-baitai", "scout-daikou-kadai-bunmen"]
 ---
 
 「誰に、どんな文面を送っているか」と聞かれて、答えられない。定例会は担当者の報告を聞くだけで、社内で何かを決めた記憶が無い。求人票を最後に直したのがいつか思い出せない。この状態は、任せているのではなく、丸投げになっています。結論を先に書くと、**任せてよいのは作業で、判断は社内に残します。対象の条件・求人票の役割・通す基準の三つを社内に戻し、それ以外は引き続き任せてください**。全部を戻す必要はありません。任せる範囲の考え方は[どこまで任せ、どこを持つか](/media/scout-daikou-hanbun-uchisei/)に、社内の関与の保ち方は[社内の関与が薄れる](/media/scout-daikou-kadai-shanai/)にまとめています。

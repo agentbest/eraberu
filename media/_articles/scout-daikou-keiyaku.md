@@ -9,7 +9,7 @@ tags: ["スカウト代行", "契約書", "業務委託", "条項", "帰属"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-keiyaku"
-related: ["scout-gyoumu-itaku-boshuu", "scout-daikou-baitai-hi", "scout-daikou-checklist", "scout-daikou-getsugaku"]
+related: ["scout-fukugyo-jinzai", "scout-gyoumu-itaku-boshuu", "scout-alumni-scout", "scout-baitai-kaiyaku"]
 ---
 
 スカウト代行の契約書を見ると、金額・期間・支払い条件は書かれていても、「どこまでやるか」「誰がやるか」「終わったとき何が残るか」は曖昧なことが多くあります。もめるのは、まさにその曖昧な部分です。結論を先に書くと、**契約書は業務範囲・担当者・記録の帰属・出口の四つの領域で読み、書かれていなければ覚書で足してください**。金額の交渉より、この四つを書面にすることのほうが、後々の損失を防ぎます。見積もりの段階で確認する項目は[見積もりで確認する項目](/media/scout-daikou-mitsumori/)に、解約の実務は[解約と引き継ぎ](/media/scout-daikou-kaiyaku/)にまとめています。なお、契約の個別の判断は、弁護士などの専門家にご確認ください。

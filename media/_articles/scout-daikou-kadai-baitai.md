@@ -9,7 +9,7 @@ tags: ["スカウト代行", "媒体", "課題", "媒体変更", "運用"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-baitai"
-related: ["scout-daikou-kadai-ryou", "scout-daikou-kadai-saikaishi", "scout-daikou-kadai-tsuzukeru", "scout-waku-amaru"]
+related: ["scout-daikou-kadai-hayasa", "scout-daikou-kadai-henshin", "scout-daikou-kadai-houkoku", "scout-daikou-kadai-jouhou"]
 ---
 
 返信が少ない、面談が組めない。担当者からも「この媒体は候補者層が合わないかもしれません」と言われる。媒体を変えれば変わるのか。結論を先に書くと、**媒体の変更は、対象・文面・母数の三つを確かめた後の判断です。三つを確かめずに媒体を変えると、新しい媒体でも同じ結果になり、費用と立ち上げの時間だけが増えます**。媒体が本当に原因である条件と、変えるときの手順を書きます。複数媒体の考え方は[複数媒体の使い分け](/media/scout-daikou-fukusuu-baitai/)に、媒体費の扱いは[媒体費は誰が負担するか](/media/scout-daikou-baitai-hi/)にまとめています。

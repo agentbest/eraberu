@@ -9,7 +9,7 @@ tags: ["スカウト代行", "新年度", "年間計画", "立ち上げ", "運�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-shinnendo"
-related: ["scout-daikou-nagare", "scout-daikou-sokudo", "scout-kyuu-boshuu", "scout-naisei-junbi"]
+related: ["scout-daikou-nagare", "scout-daikou-sokudo", "scout-hajime-30nichi", "scout-kyuu-boshuu"]
 ---
 
 新年度の採用計画が承認された。人数と職種が決まった。そこから代行に相談し、対象と文面を整え、送信が安定するのは、年度が始まって二か月から三か月後。年度の最初の四半期は、ほぼ立ち上げで終わります。結論を先に書くと、**新年度の採用は、前年度の終わりに整えておき、年度初めに送り始める形にしてください。計画の承認を待ってから動くと、立ち上げが年度の中に食い込みます**。期限からの逆算は[採用期限から逆算した送信計画](/media/scout-kikan-sekkei/)に、期末に向けた動きは[期末までに採用したいときの動き方](/media/scout-kessan-ki/)にまとめています。

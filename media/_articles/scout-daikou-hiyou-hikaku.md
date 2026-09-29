@@ -9,7 +9,7 @@ tags: ["スカウト代行", "料金体系", "比較", "見積もり", "費用"]
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-hiyou-hikaku"
-related: ["scout-daikou-hiyou-souba", "scout-daikou-mitsumori", "scout-daikou-seika", "scout-daikou-toha"]
+related: ["scout-daikou-mitsumori", "scout-daikou-seika", "scout-daikou-toha", "scout-baitai-kaiyaku"]
 ---
 
 複数の会社から見積もりを取った。**ところが、料金体系がばらばらで比べられない**。月額固定、時間単価、成果報酬、送信件数あたり。金額の大小だけを見ても判断になりません。この記事では、体系の違う見積もりを共通の単位に揃える手順を整理します。各体系の中身は[月額固定型の料金設計](/media/scout-daikou-getsugaku/)・[成果報酬型のスカウト代行](/media/scout-daikou-seika/)・[時間単価型で頼む場合](/media/scout-daikou-jikan-tanka/)にまとめています。

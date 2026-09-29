@@ -9,7 +9,7 @@ tags: ["スカウト代行", "少人数", "一名採用", "契約", "採用単�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-shousuu"
-related: ["scout-daikou-baitai-hi", "scout-daikou-hanbun-uchisei", "scout-daikou-hanni", "scout-daikou-hiyou-hikaku"]
+related: ["scout-daikou-baitai-hi", "scout-daikou-checklist", "scout-daikou-getsugaku", "scout-daikou-jikan-tanka"]
 ---
 
 採用したいのは一名。それも急ぎではないが、ずっと決まっていない。一名のためにスカウト代行を頼むのは、大げさではないか。結論を先に書くと、**一名でも頼めます。ただし、月額固定で長く続ける形は、一名の採用単価として重くなりやすいので、成果報酬の比率を上げるか、採用決定までの契約にするか、稼働を薄くして長く持つかの、どれかを選んでください**。一名採用は、数を追わず、一人ずつ丁寧に進める運用が合います。一職種の依頼は[一職種だけ頼めるか](/media/scout-daikou-kadai-spot/)に、費用の見方は[スカウト代行の費用の比べ方](/media/scout-daikou-hiyou-hikaku/)にまとめています。

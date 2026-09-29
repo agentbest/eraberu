@@ -9,7 +9,7 @@ tags: ["スカウト代行", "費用相場", "料金", "見積もり", "費用�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-hiyou-souba"
-related: ["scout-daikou-hiyou-hikaku", "scout-daikou-mitsumori", "scout-daikou-seika", "scout-daikou-toha"]
+related: ["scout-daikou-hiyou-hikaku", "scout-daikou-kouhosha-suu", "scout-daikou-mitsumori", "scout-alumni-scout"]
 ---
 
 「スカウト代行の費用相場」を検索すると、記事ごとに違う数字が並び、幅も大きく、結局いくらなのか分かりません。それは記事が悪いのではなく、費用が一つの数字にならない構造だからです。結論を先に書くと、**スカウト代行の費用は、媒体費と代行費の二層で、代行費は稼働時間・個別化の度合い・業務範囲・成果報酬の有無で何倍も変わります。「相場」の数字を見るときは、その数字がどの前提で置かれているかを確かめ、自社の見積もりは同じ前提に揃えてから比べてください**。この記事では、具体的な金額や相場の数値は書きません。金額は、各社の見積もりと、媒体の公式の料金ページでご確認ください。費用の比べ方は[スカウト代行の費用の比べ方](/media/scout-daikou-hiyou-hikaku/)に、見積もりの項目は[見積もりで確認する項目](/media/scout-daikou-mitsumori/)にまとめています。

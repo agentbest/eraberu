@@ -9,7 +9,7 @@ tags: ["スカウト代行", "副業人材", "業務委託", "採用手法", "�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-fukugyo-jinzai"
-related: ["scout-gyoumu-itaku-boshuu", "scout-baitai-kumiawase", "scout-chihou-kigyo", "scout-chimeido-nai-kaisha"]
+related: ["scout-gyoumu-itaku-boshuu", "scout-alumni-scout", "scout-daikou-jikan-tanka", "scout-daikou-keiyaku"]
 ---
 
 正社員では採れない専門性を、副業で受けてくれる人に頼みたい。本業を持つ人に、週に数時間だけ入ってもらう形です。スカウトで探せるか。結論を先に書くと、**探せます。ただし、本業を持つ人は、稼働できる時間帯と量が限られ、本業との兼ね合いを気にしています。文面の一段落目で「副業として、週に何時間程度、この時間帯で」と稼働の期待値を示し、本業に配慮した進め方を伝えてください**。業務委託の一般的な整理は[業務委託人材をスカウトで探す](/media/scout-gyoumu-itaku-boshuu/)にまとめています。副業に関する契約と本業側の規定については、この記事は一般的な整理にとどめます。個別の判断は専門家にご確認ください。

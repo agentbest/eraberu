@@ -9,7 +9,7 @@ tags: ["スカウト代行", "未経験歓迎", "ポテンシャル採用", "対
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-mikeiken-boshuu"
-related: ["scout-baitai-kumiawase", "scout-chihou-kigyo", "scout-chimeido-nai-kaisha", "scout-daikou-kadai-baitai"]
+related: ["scout-josei-scout", "scout-kyuuyo-makeru", "scout-remote-kyuujin", "scout-tenkin-ari"]
 ---
 
 未経験歓迎の求人を、スカウトで送りたい。ただ、未経験の人は経歴にその職種の記述が無く、誰に送ればよいか分かりません。職種名で抽出すれば経験者しか出ず、条件を外せば全員が対象になります。結論を先に書くと、**未経験歓迎の求人でスカウトを使うなら、「その職種の経験」ではなく「隣の経験」——その職種で活きる、別の職種での経験——で対象を選んでください。隣の経験が定義できないなら、スカウトより求人媒体のほうが効率的です**。非正規の考え方は[非正規・パート採用にスカウトは効くか](/media/scout-hijoukin/)に、ペルソナの作り方は[スカウトのターゲットペルソナの作り方](/media/scout-persona-sakusei/)にまとめています。

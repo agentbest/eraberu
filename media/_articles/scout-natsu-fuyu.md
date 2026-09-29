@@ -9,7 +9,7 @@ tags: ["スカウト代行", "賞与", "転職市場", "時期", "運用設計"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-natsu-fuyu"
-related: ["scout-baitai-kirikae", "scout-baitai-kumiawase", "scout-daikou-fukusuu-baitai", "scout-daikou-hanbun-uchisei"]
+related: ["scout-golden-week", "scout-nenmatsu", "scout-tenshoku-ki", "scout-baitai-kaiyaku"]
 ---
 
 夏と冬、賞与の支給がある会社に勤める候補者は、支給の前に転職を決めることを避け、支給を受けてから動き出す傾向がある、と一般に言われます。返信率や面談の進み方が、この時期に変わることは、運用していると見えてきます。結論を先に書くと、**賞与の時期は、「もらってから動く」を前提に、支給前は関係づくり、支給直後は面談の集中、その後は承諾の取り込み、という三つの時期に分けて動いてください**。時期の効果は会社や職種で違い、この記事では統計値を扱いません。自社の過去の数字と、担当者の経験で確かめてください。年末年始の運用は[年末年始のスカウト運用](/media/scout-nenmatsu/)に、大型連休は[大型連休前後の送信計画](/media/scout-golden-week/)にまとめています。

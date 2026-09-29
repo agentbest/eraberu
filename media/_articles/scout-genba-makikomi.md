@@ -9,7 +9,7 @@ tags: ["スカウト代行", "現場", "文面", "巻き込み", "運用体制"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-genba-makikomi"
-related: ["scout-daikou-hinshitsu-kanri", "scout-daikou-kadai-genba", "scout-daikou-kadai-shanai", "scout-daikou-kakunin-flow"]
+related: ["scout-chimeido-nai-kaisha", "scout-daikou-hinshitsu-kanri", "scout-daikou-kadai-bunmen", "scout-daikou-kadai-genba"]
 ---
 
 採用担当や代行の担当者が書いた文面より、一緒に働く現場の人が書いた文面のほうが、候補者に響く。これは多くの運用で見られることです。「〇〇を決める役割で、いま〇〇で詰まっている。あなたの〇〇の経験が活きると思った」を、実際にその仕事をしている人が書けば、具体性と実感が違います。ただし、現場に「スカウトを書いてください」と頼むと、最初の数通で止まります。結論を先に書くと、**現場に頼むのは「文面を全部書く」ことではなく、「一段落目の材料」——この経歴のどこが活きるか、いま何で詰まっているか——を一文か二文でもらうことです。文面の組み立ては担当者が担い、名義を現場の人にする形が、続きます**。面談に出てもらう話は[現場が面談に出てくれない](/media/scout-daikou-kadai-genba/)に、経営者名義は[経営者名義のスカウトは効くか](/media/scout-keieisha-scout/)にまとめています。

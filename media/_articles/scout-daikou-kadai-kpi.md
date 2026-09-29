@@ -9,7 +9,7 @@ tags: ["スカウト代行", "KPI", "未達", "課題", "評価"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-kpi"
-related: ["scout-daikou-hanki", "scout-daikou-hyouka", "scout-daikou-kadai-baitai", "scout-daikou-kadai-bunmen"]
+related: ["scout-daikou-kadai-hiyou", "scout-daikou-hanki", "scout-daikou-hyouka", "scout-daikou-kadai-account"]
 ---
 
 月末のレポートで、面談設定数が目標に届いていない。定例会で「なぜ届かなかったのか」を担当者に問う。担当者は「文面を改善して、来月は届くようにします」と答える。翌月も届かない。この繰り返しは、KPIの未達を「担当者の努力不足」として扱っている間、終わりません。結論を先に書くと、**未達のときは、KPIの置き方が妥当だったかを先に疑い、段階ごとにどこで落ちたかを特定し、次の月に一つだけ変えてください**。KPIは目標であると同時に、原因を見つけるための計器です。数字の読み方は[スカウト代行の数字の見方](/media/scout-daikou-data/)に、半期の判断は[半期での見直し](/media/scout-daikou-hanki/)にまとめています。

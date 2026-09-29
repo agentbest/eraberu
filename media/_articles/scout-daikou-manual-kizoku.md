@@ -9,7 +9,7 @@ tags: ["スカウト代行", "成果物", "権利", "契約", "文面"]
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-manual-kizoku"
-related: ["scout-daikou-baitai-hi", "scout-daikou-checklist", "scout-daikou-getsugaku", "scout-daikou-hinshitsu-kanri"]
+related: ["scout-chimeido-nai-kaisha", "scout-daikou-baitai-hi", "scout-daikou-checklist", "scout-daikou-getsugaku"]
 ---
 
 代行が作ったスカウト文面や検索条件。**契約に定めがなければ、当然に自社のものになるとは限りません**。作成したのは受託者側だからです。そして、この扱いは契約で決められます。この記事では、線引きの考え方と、契約に書く内容を整理します。なお、**権利の帰属や解釈は個別の事情で変わるため、締結前に専門家にご確認ください**。採用代行全般の扱いは[代行が作ったマニュアルの権利は誰のものか](/media/rpo-manual-kizoku/)にまとめています。

@@ -9,7 +9,7 @@ tags: ["スカウト代行", "送信数", "課題", "計画", "運用"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-ryou"
-related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-saikaishi", "scout-daikou-kadai-tsuzukeru", "scout-daikou-kouhosha-suu"]
+related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa", "scout-daikou-kadai-henshin", "scout-daikou-kadai-houkoku"]
 ---
 
 契約時に決めた月の送信数に、実績が届かない。レポートを見て気づき、担当者に「なぜ届かないのか」と聞く。この場面で、発注側が「もっと送ってください」で終わらせると、次の月も届かないか、届いても質が落ちるかのどちらかになります。結論を先に書くと、**送信数が届かない原因は、母数・承認・稼働・個別化・媒体の上限の五つのどこかにあり、まずどこで詰まっているかを特定してください。そのうえで、計画の数字そのものが妥当だったかも見直します**。数の考え方は[ひと月に何名にアプローチできるか](/media/scout-daikou-kouhosha-suu/)にまとめています。

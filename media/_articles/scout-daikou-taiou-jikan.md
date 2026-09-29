@@ -9,7 +9,7 @@ tags: ["スカウト代行", "対応時間", "レスポンス", "運用設計", 
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-taiou-jikan"
-related: ["scout-daikou-henshin-taiou", "scout-daikou-namae", "scout-baitai-kirikae", "scout-baitai-kumiawase"]
+related: ["scout-daikou-henshin-taiou", "scout-daikou-namae", "scout-baitai-kaiyaku", "scout-baitai-kirikae"]
 ---
 
 スカウトの運用で、対応の速さをどう取り決めるか。**特に効くのは返信への対応です**。返信は関心が高い瞬間で、そこから時間が経つほど温度は下がります。この記事では、決める項目と、確認の方法を整理します。採用代行全般の設計は[SLAの決め方](/media/rpo-sla/)にまとめています。

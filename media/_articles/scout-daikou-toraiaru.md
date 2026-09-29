@@ -9,7 +9,7 @@ tags: ["スカウト代行", "トライアル", "選定", "評価", "運用設�
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-toraiaru"
-related: ["scout-baitai-kirikae", "scout-baitai-kumiawase", "scout-daikou-fukusuu-baitai", "scout-daikou-hanbun-uchisei"]
+related: ["scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-baitai-kumiawase", "scout-daikou-fukusuu-baitai"]
 ---
 
 スカウト代行をトライアルで試す。**期間が短いため、採用の成果では判断できません**。見るのは、条件の組み方と文面の質、そして反応の傾向です。この記事では、依頼する内容と、評価の観点を整理します。採用代行全般のトライアル設計は[トライアルの設計のしかた](/media/rpo-toraiaru-sekkei/)にまとめています。

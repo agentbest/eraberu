@@ -9,7 +9,7 @@ tags: ["スカウト代行", "ツール", "運用設計", "情報管理", "選�
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-tool-shitei"
-related: ["scout-daikou-fukusuu-baitai", "scout-daikou-kengen", "scout-baitai-kirikae", "scout-baitai-kumiawase"]
+related: ["scout-daikou-fukusuu-baitai", "scout-daikou-kengen", "scout-baitai-kaiyaku", "scout-baitai-kirikae"]
 ---
 
 スカウトの運用で使うツールを、自社が指定できるか。**多くの場合は指定できますが、習熟の時間と費用の扱いを決めておく必要があります**。そして、代行会社のツールを使う形にすると、記録がそちらに溜まります。この記事では、ツールの種類ごとに整理します。採用代行全般の扱いは[使用ツールを指定できるか](/media/rpo-tool-shitei/)にまとめています。

@@ -9,7 +9,7 @@ tags: ["スカウト代行", "文面", "標準化", "属人化", "文面のル�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-hyoujun-ka"
-related: ["scout-daikou-hinshitsu-kanri", "scout-daikou-kakunin-flow", "scout-daikou-manual-kizoku", "scout-daikou-namae"]
+related: ["scout-chimeido-nai-kaisha", "scout-daikou-hinshitsu-kanri", "scout-daikou-kadai-bunmen", "scout-daikou-kakunin-flow"]
 ---
 
 スカウトの文面を、誰が書いても同じ質になるように標準化したい。しかし標準化した文面は、型に見えて読まれない。一方で、書ける担当者に任せれば響く文面になるが、その担当者が替わると、書き方が消える。標準化と属人化のどちらかを選ぶと、どちらかを失います。結論を先に書くと、**標準化するのは「型」——段落の構成、言葉づかい、二段落目以降の書き方——で、属人化を残すのは「一段落目」——経歴を読んで書く「なぜあなたに」——です。一段落目の属人化は、書いた理由を記録することで、次の担当者に渡せる資産になります**。文面のルールの作り方は[文面のトーンをどう指定するか](/media/scout-daikou-tone/)に、担当者交代への備えは[担当者が替わった](/media/scout-daikou-kadai-tantou/)にまとめています。

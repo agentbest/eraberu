@@ -9,7 +9,7 @@ tags: ["人事副業", "値上げ", "報酬交渉", "契約更新", "単価"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-neage-timing"
-related: ["fukugyo-koushin", "fukugyo-shoninka", "fukugyo-tanka-souba", "fukugyo-agent-keiken"]
+related: ["fukugyo-tanka-agekata", "fukugyo-jikyuu", "fukugyo-koushin", "fukugyo-shoninka"]
 ---
 
 半年続けて、成果も出ている。最初に決めた報酬が、いまの仕事に見合っていない気がする。でも、「値上げしてほしい」とは言い出しにくい。関係が悪くなるかもしれない、断られたら気まずい。人事の副業で、報酬を上げられないまま続けている人は多くいます。結論を先に書くと、**値上げは、「成果が出たから」という実績の主張ではなく、「契約の節目」に「実際の稼働と範囲の変化」を根拠として申し出るものです。節目と根拠があれば、値上げは交渉ではなく、契約の見直しになります**。見積もりの型は[見積もりの出し方](/media/fukugyo-mitsumori/)に、範囲の広がりへの対処は[安請け合いを避ける](/media/fukugyo-yasuuke/)にまとめています。この記事では、金額や上げ幅の数値は扱いません。

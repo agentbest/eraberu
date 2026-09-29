@@ -9,7 +9,7 @@ tags: ["スカウト代行", "媒体", "プラン", "送信枠", "費用"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-plan-erabi"
-related: ["scout-baitai-kumiawase", "scout-waku-amaru", "scout-baitai-kaiyaku", "scout-baitai-kirikae"]
+related: ["scout-waku-amaru", "scout-baitai-kaiyaku", "scout-waku-tarinai", "scout-baitai-kirikae"]
 ---
 
 媒体の営業から、プランの一覧を見せられる。送信枠が多いプランは、費用も高い。「たくさん送れたほうがよい」と上のプランを選ぶと、枠の大半が余り、費用だけがかかります。逆に「安いほうで」と下のプランを選ぶと、必要な数を送れずに頭打ちになります。結論を先に書くと、**プランは送信枠の大きさで選ぶのではなく、必要な面談数から逆算した送信数に合わせて選んでください。枠は使い切るものではなく、必要な分だけあればよいものです**。数の逆算は[ひと月に何名にアプローチできるか](/media/scout-daikou-kouhosha-suu/)に、枠が余る・足りないときの対処は[送信枠が余るときの使い方](/media/scout-waku-amaru/)と[送信枠が足りないときの優先順位](/media/scout-waku-tarinai/)にまとめています。媒体の名前や料金、枠の具体的な数には触れません。公式の案内で確認してください。

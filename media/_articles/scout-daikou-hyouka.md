@@ -9,7 +9,7 @@ tags: ["スカウト代行", "継続判断", "評価", "契約更新", "指標"]
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-hyouka"
-related: ["scout-baitai-kirikae", "scout-daikou-hanki", "scout-daikou-kadai-kpi", "scout-daikou-kadai-tsuzukeru"]
+related: ["scout-daikou-hanki", "scout-daikou-kadai-hiyou", "scout-daikou-kadai-kpi", "scout-daikou-kadai-tsuzukeru"]
 ---
 
 スカウト代行を続けるか、止めるか。**返信率だけで判断すると、原因を見誤ります**。返信率が下がる理由は、文面や条件だけでなく、母数の枯渇や市場の変化にもあります。この記事では、見る材料と、判断の前に確認することを整理します。採用代行全般の継続判断は[継続・停止をどう判断するか](/media/rpo-shoushi-hantei/)にまとめています。

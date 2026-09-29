@@ -9,7 +9,7 @@ tags: ["スカウト代行", "ヘッドハンティング", "ダイレクトリ�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-headhunt"
-related: ["scout-direct-recruiting", "scout-daikou-hiyou-hikaku", "scout-daikou-hiyou-souba", "scout-daikou-toha"]
+related: ["scout-direct-recruiting", "scout-alumni-scout", "scout-daikou-hiyou-hikaku", "scout-daikou-mitsumori"]
 ---
 
 「ヘッドハンティング」と「スカウト」は、どちらも会社の側から候補者に声をかける手法で、同じ意味で使われることがあります。しかし実務では、探す先も、声をかける人も、費用の形も違い、向く採用も違います。結論を先に書くと、**スカウトは「媒体に登録した候補者に、会社（または代行）が文面で声をかける」手法で、ヘッドハンティングは「媒体に載っていない人を、専門の担い手が人脈と調査で見つけ、直接会って口説く」手法です。母数が多く経歴で読める職種はスカウト、市場に数少ない幹部や専門家はヘッドハンティング、と使い分けます**。ダイレクトリクルーティングの全体は[ダイレクトリクルーティングの全体像](/media/scout-direct-recruiting/)に、幹部への声かけは[幹部・役員クラスへのアプローチ](/media/scout-kanbu-scout/)にまとめています。費用の具体的な数値は、各社の見積もりでご確認ください。

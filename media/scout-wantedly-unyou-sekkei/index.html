@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wantedlyのスカウト運用設計｜送信数・時間帯・追客｜エラベル</title>
+<meta name="description" content="Wantedlyの候補者は受信上限を「月5通まで」に設定できます。他社と5通を取り合う前提で、送信数・送信予約の仕様・媒体からのリマインドまで含めて運用を設計します。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/scout-wantedly-unyou-sekkei/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="Wantedlyのスカウト運用設計｜送信数・時間帯・追客｜エラベル">
+<meta property="og:description" content="Wantedlyの候補者は受信上限を「月5通まで」に設定できます。他社と5通を取り合う前提で、送信数・送信予約の仕様・媒体からのリマインドまで含めて運用を設計します。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/scout-wantedly-unyou-sekkei/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Wantedlyのスカウト運用設計｜送信数・時間帯・追客","description":"Wantedlyの候補者は受信上限を「月5通まで」に設定できます。他社と5通を取り合う前提で、送信数・送信予約の仕様・媒体からのリマインドまで含めて運用を設計します。","datePublished":"2026-09-24","dateModified":"2026-09-24","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/scout-wantedly-unyou-sekkei/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/scout/">スカウト代行</a><i>›</i><span>Wantedlyのスカウト運用設計｜送信数・時間帯・追客</span></div></nav><main class="wrap article">
+  <p class="art__kicker">スカウト代行 / Wantedly</p>
+  <h1>Wantedlyのスカウト運用設計｜送信数・時間帯・追客</h1>
+  <p class="art__meta">公開 2026-09-24</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">導入前の週：送れる相手と使える通数を確かめる</a></li><li><a href="#h2">1か月目：無料の枠を日課にし、読まれる場所を整える</a></li><li><a href="#h3">2か月目：曜日と募集の公開状態をそろえる</a></li><li><a href="#h4">3か月目：数字の仕様を踏まえて見直す</a></li><li><a href="#h5">まとめ</a></li><li><a href="#h6">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>Wantedlyのスカウト運用は、自社の送信計画だけでは組み立てられません。候補者の側が受信の上限を持っていて、他社とその枠を取り合う構造になっているからです。この記事では、導入の前の週から3か月目までを時系列に区切り、それぞれの時期に何を決め、何を見ればよいかを整理します。送信数・時間帯・追客の論点は、この時系列の中で順に出てきます。以下は2026年9月24日時点の公式ヘルプの記載に基づく整理で、運営はウォンテッドリー株式会社です。</p>
+<h2 id="h1">導入前の週：送れる相手と使える通数を確かめる</h2>
+<p>最初の週にやるのは、送れる相手の範囲を正しく把握することです。公式ヘルプによれば、送信できるのはWantedly Visitの登録者のうち、スカウトの受け取り設定を「月5通まで受け取る」か「何通でも受け取る」にしている候補者です。月5通の設定の場合、現在から過去1ヶ月以内に5通送られていると、スカウトの受け取りが制限されると明記されています。プロフィールに未入力の項目がある候補者はスカウト対象にならない場合がある、という注記もあります。</p>
+<p>もう一つ、構造的に見えない層があります。候補者が所属している企業と、職歴に登録されている企業は、自動的に「スカウトに表示させない企業」として登録され、解除はできないとされています。<strong>過去に自社に在籍していた人は、この媒体の画面には出てきません。</strong> 元社員の再雇用を狙うなら、最初から別の経路を用意しておきます。反対に、閲覧やブックマークの履歴を採用担当者に公開する設定は、スカウトの受け取りがONの場合にだけ有効で、切り替えの反映には最大24時間かかるとされています。</p>
+<p>使える通数は、契約プランで決まります。金額は料金表のダウンロード制で公開されていませんが、プランごとの構成はヘルプに載っています。いずれのプランでも、契約期間内であれば掲載数と応募者数に上限はないとされています。</p>
+<div class="tw"><table><thead><tr><th>プラン</th><th>編集できる人数</th><th>スカウトの扱い</th></tr></thead><tbody><tr><td>ライトプラン</td><td>最大15名</td><td>スカウトオプションは別途契約が必要。チケットの追加購入は不可</td></tr><tr><td>スタンダードプラン</td><td>最大30名</td><td>ダイレクトスカウト機能が追加。6ヶ月間で150通のプレミアムスカウト</td></tr><tr><td>プレミアムプラン</td><td>無制限</td><td>6ヶ月間で300通のプレミアムスカウト</td></tr></tbody></table></div>
+<p>通数が6ヶ月単位で付与されるので、月ごとの配分を最初に決めておくと、期間の終わりに使い切れず余らせる事態を避けられます。チケットは残数が0通以上でも、契約中と同じプランのものを追加購入でき、請求は申込み月の利用分として処理されます。なお検索フィルターの記事では「プラスプラン」という別の表記も使われているため、自社の契約名と機能の対応は、契約書と担当者の案内で確認してください。</p>
+<h2 id="h2">1か月目：無料の枠を日課にし、読まれる場所を整える</h2>
+<p>最初の1か月で運用の土台にしたいのが、通数を消費しない送信です。この媒体には、プランの通数を使わずに送れる経路が二つあります。どちらも、使うための条件がプレミアムスカウトとは異なります。</p>
+<div class="tw"><table><thead><tr><th>送信の種類</th><th>通数の消費</th><th>使うための条件</th></tr></thead><tbody><tr><td>プレミアムスカウト</td><td>消費する</td><td>スカウトのプラン契約</td></tr><tr><td>無料スカウト</td><td>消費しない（上限なし）</td><td>募集を1つ以上公開している</td></tr><tr><td>Premiumメンバーシップの候補者への送信</td><td>消費しない</td><td>相手がPremiumメンバーシップの利用者</td></tr></tbody></table></div>
+<p>無料スカウトの対象は、プロフィール内容が充実している、ログイン頻度が高い、最近登録した、Premiumメンバーシップに登録している、のいずれかに当たる候補者です。ヘルプにはスカウト通数の上限はないと明記され、トライアル中でも使えるとされています。管理画面の検索条件「今日の無料スカウト」から絞り込めるので、毎日の作業の最初に組み込みます。有料の通数は、要件に近い相手のために残しておく配分になります。</p>
+<p>同じ時期に、送信先から読まれる場所を整えます。ヘルプの「ダイレクトスカウトの返信率を上げたい」は、候補者がスカウトを受け取ってから返信するまでに会社のことを調べるため、返信率はスカウトだけでは決まらないと説明しています。<strong>募集ページとストーリーが空のまま送り始めると、候補者の受信枠を消費するだけで終わりやすくなります。</strong> 1か月目は送信数を無理に増やさず、募集とストーリーの更新を並行させるのが現実的です。</p>
+<h3>エラベルの見解</h3>
+<p>通数が足りないという相談で最初に確かめるのは、無料スカウトを日課にしているかどうかです。募集を一本公開していれば使え、上限もないと公式に書かれているのに、運用に入っていない会社は珍しくありません。対象はログイン頻度が高い人や最近登録した人なので、反応の薄い層とは限らず、ここは担当者によって差が出る部分です。毎日数件を欠かさず送る担当者と、有料の通数から使い始める担当者では、6ヶ月後に残る通数と接点の数が変わります。代行を選ぶなら、無料スカウトを日次でどう回すかを具体的に説明できる人かどうかを見てください。</p>
+<aside class="cta-inline">
+<p>無料の枠と有料の通数の配分から、3か月の運用計画を一緒に組み立てます</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h3">2か月目：曜日と募集の公開状態をそろえる</h2>
+<p>送信が回り始めたら、時間帯と追客の設計に移ります。この媒体では、送信予約の時刻を細かく選べません。ヘルプによれば、予約したスカウトは土日祝を除く営業日の朝9:00から順次配信されます。</p>
+<div class="tw"><table><thead><tr><th>予約した時刻</th><th>実際に送信されるタイミング</th></tr></thead><tbody><tr><td>営業日の9:00〜18:00の外</td><td>直近営業日の9:00〜18:00のあいだ</td></tr><tr><td>営業日の9:00〜18:00の内</td><td>翌営業日の9:00〜18:00のあいだ</td></tr></tbody></table></div>
+<p>例として、8時59分に設定すると同じ日の9時から18時のあいだに、9時に設定すると翌営業日に送信されると示されています。つまり着信の時刻を狙う設計は予約では成り立たず、調整するなら手動送信のタイミングになります。ヘルプは閲覧率に送信時間が影響すると書いていますが、この媒体で動かしやすいのは時刻より曜日のほうです。</p>
+<p>曜日が効くのは、媒体側が追客を代わりにしてくれるからです。未返信のスカウトがある候補者には、メール・PUSH通知・お知らせで、毎週金曜15時前後にリマインドが届きます。対象は、直近1週間以内に送信されたスカウトで、紐づく募集が公開中であり、候補者がアーカイブしておらず、「スカウトに表示させない企業」に含まれていないものです。週の前半に送れば同じ週の金曜にリマインドが効き、木曜や金曜に送れば翌週に回ります。</p>
+<p><strong>2か月目に決めたいのは、送信の曜日と募集の公開期間をセットにする運用です。</strong> 募集を非公開にするとリマインドの対象から外れ、送信予約も「予約に紐づいた募集が非公開になった」としてエラーになります。予約のエラーには、候補者の受け取り設定の変更や、チケットの有効期限・残数の超過もあります。送信から1週間は募集を止めないことを、社内の決まりとして残しておきます。確約を伴う媒体との運用の違いは<a href="/media/scout-bizreach-unyou-sekkei/">ビズリーチのスカウト運用設計</a>に、文面の基本形は<a href="/media/scout-daikou-kadai-bunmen/">スカウト文面の作り方</a>にまとめています。</p>
+<h2 id="h4">3か月目：数字の仕様を踏まえて見直す</h2>
+<p>3か月目は、たまった数字で運用を見直す時期です。ただしこの媒体の数字には、読み方を誤りやすい仕様がいくつかあります。見直しの前に、各数字が何を表しているかを確認しておきます。</p>
+<div class="tw"><table><thead><tr><th>数字</th><th>公式ヘルプの仕様</th><th>見直しでの読み方</th></tr></thead><tbody><tr><td>開封済み</td><td>Wantedly上でメッセージスレッドを開いたときだけ切り替わる。反映まで1時間程度のタイムラグがある場合がある</td><td>メール通知で全文が読めるため、未開封でも読まれている可能性がある</td></tr><tr><td>最終ログイン</td><td>その日に初めてアクセスした時刻が基準。実際とは数時間単位でずれる場合がある</td><td>時間単位の比較には使わない</td></tr><tr><td>返信率</td><td>一定の数を送ってはじめて意味のある指標になる（50通と5通では意味合いが違う）</td><td>少ない通数では判断しない</td></tr><tr><td>◯社が興味あり</td><td>直近1ヶ月にその候補者を閲覧した企業数</td><td>枠の取り合いの度合いとして読む</td></tr></tbody></table></div>
+<p>開封の数字を件名の良し悪しに直結させないことが、見直しでの一つ目の注意点です。二つ目は、送信済みの相手の扱いです。過去に閲覧した候補者は検索結果でグレーアウトし、最終閲覧日から180日が経過した場合にのみ未閲覧の状態に戻ります。閲覧済みの候補者がプロフィールを更新すると、グレーアウトのまま「◯日前にプロフィール更新」と表示されるので、見落とさないようにします。週次の点検は、次の項目に絞ると続けやすくなります。</p>
+<ul><li>残りのチケット数と残りの期間が、6ヶ月の配分どおりか</li><li>無料スカウトを送らなかった日がないか</li><li>送信が週の前半に寄っているか、送信から1週間は募集を公開しているか</li><li>返信率は一定の通数がたまってから、「◯社が興味あり」の多い層とそうでない層に分けて見ているか</li></ul>
+<h3>エラベルの見解</h3>
+<p>3か月目の見直しで意見が割れやすいのは、競合の多い候補者に有料の通数を使い続けるかどうかです。この媒体では「◯社が興味あり」の表示で、枠の取り合いの度合いが送る前に分かります。私たちは、競合が多い層に送るなら、募集ページとストーリーを先に厚くしてからにすべきだと考えています。候補者は会社のことを調べてから返信すると運営自身が書いているので、比較される場面で読まれる材料がないと、枠を使っても選ばれにくいからです。逆に材料が整うまでは、競合の少ない層と無料スカウトで接点を作る。この順番の判断は、画面の数字を読める担当者かどうかで分かれます。</p>
+<aside class="cta-inline">
+<p>3か月分の数字をどう読み、何を変えるかを、実務を知る担当者と整理できます</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h5">まとめ</h2>
+<ul><li>導入前に、受け取り設定（月5通まで／何通でも）と、元社員が画面に出ない仕様を把握しておく</li><li>通数は6ヶ月単位で付与されるため、月ごとの配分を最初に決める</li><li>1か月目は無料スカウトを日課にし、募集ページとストーリーを並行して整える</li><li>2か月目は送信を週の前半に寄せ、送信から1週間は募集を公開し続ける</li><li>3か月目は開封・最終ログイン・返信率の仕様を踏まえて数字を読み直す</li></ul>
+<h2 id="h6">よくある質問</h2>
+<h3>Q. Wantedlyで送信する時間帯は指定できますか</h3>
+<p>送信予約では、営業日の9:00〜18:00のあいだに順次配信される仕様で、分単位や時間単位の指定はできません。時刻を調整したい場合は手動送信のタイミングで行うことになります。運用では、時刻よりも金曜のリマインドに合わせた曜日の設計のほうが効きやすいと考えられます。</p>
+<h3>Q. 送ったスカウトの追客は自社でする必要がありますか</h3>
+<p>未返信のスカウトには、媒体側から毎週金曜15時前後にリマインドが届く仕組みがあります。ただし、紐づく募集が公開中であることなどが条件です。募集を止めるとリマインドが届かなくなるため、募集の公開状態の管理は自社で行います。</p>
+<h3>Q. 未開封が多いのは件名が悪いからでしょうか</h3>
+<p>開封済みはWantedly上でスレッドを開いたときにだけ切り替わり、メール通知では全文が表示されるとヘルプに書かれています。未開封でも内容は読まれている可能性があるため、件名の評価は返信数と合わせて慎重に行ってください。</p>
+<p>※料金・機能・提供条件は変わります。掲載した内容は2026年9月24日時点の公式ヘルプの記載であり、契約中のプランと通数は契約書と担当者の案内をご確認ください。</p>
+  </div>
+  <section class="sources"><h2>出典</h2><ul><li><a href="https://help.wantedly.com/hc/ja/articles/9237683031065" target="_blank" rel="noopener">「スカウト」とは｜Wantedly ヘルプ</a></li><li><a href="https://help.wantedly.com/hc/ja/articles/900005314563" target="_blank" rel="noopener">企業からのスカウト受け取りの設定をしたい｜Wantedly ヘルプ</a></li><li><a href="https://help.wantedly.com/hc/ja/articles/9470954007833" target="_blank" rel="noopener">無料スカウトとは｜Wantedly ヘルプ</a></li><li><a href="https://help.wantedly.com/hc/ja/articles/360025540651" target="_blank" rel="noopener">スカウトチケットを追加購入したい｜Wantedly ヘルプ</a></li><li><a href="https://help.wantedly.com/hc/ja/articles/115002998463" target="_blank" rel="noopener">Wantedly採用サービスの有料プラン価格・掲載料金について｜Wantedly ヘルプ</a></li><li><a href="https://help.wantedly.com/hc/ja/articles/44060870999065" target="_blank" rel="noopener">スカウトの送信予約を利用したい｜Wantedly ヘルプ</a></li><li><a href="https://help.wantedly.com/hc/ja/articles/25219154715161" target="_blank" rel="noopener">未返信スカウトのリマインド通知について｜Wantedly ヘルプ</a></li><li><a href="https://help.wantedly.com/hc/ja/articles/60875452138137" target="_blank" rel="noopener">スカウトのステータスについて｜Wantedly ヘルプ</a></li><li><a href="https://help.wantedly.com/hc/ja/articles/9469356182809" target="_blank" rel="noopener">スカウトの検索結果一覧について｜Wantedly ヘルプ</a></li><li><a href="https://help.wantedly.com/hc/ja/articles/16210113228697" target="_blank" rel="noopener">ダイレクトスカウトの返信率を上げたい｜Wantedly ヘルプ</a></li></ul></section>
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/scout-wantedly-daikou/">Wantedlyのスカウト代行｜任せられる範囲と成果の測り方</a></li><li><a href="/media/scout-wantedly-kensaku-jouken/">Wantedlyの検索条件の組み方｜母集団を狭めすぎない設計</a></li><li><a href="/media/scout-wantedly-template/">Wantedlyのスカウトテンプレートの作り方</a></li><li><a href="/media/scout-bizreach-unyou-sekkei/">ビズリーチのスカウト運用設計｜送信数・時間帯・追客</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

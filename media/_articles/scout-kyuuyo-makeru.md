@@ -9,7 +9,7 @@ tags: ["スカウト代行", "給与", "訴求", "文面", "対象設定"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-kyuuyo-makeru"
-related: ["scout-kyuuyo-teiji", "scout-tenkin-ari", "scout-chimeido-nai-kaisha", "scout-daikou-kadai-jitai"]
+related: ["scout-josei-scout", "scout-mikeiken-boshuu", "scout-remote-kyuujin", "scout-tenkin-ari"]
 ---
 
 同じ職種の他社より、提示できる年収が低い。スカウトで声をかけても、条件で負ける。この状況で、文面に何を書けばよいか。結論を先に書くと、**給与で負ける会社は、給与で戦わず、「給与以外で決める候補者」に届く文面にしてください。給与を隠すのではなく幅を示したうえで、役割・決める範囲・一緒に働く人・働き方・成長の五つの軸で、給与以外の判断材料を具体的に書きます。全員に届く必要はなく、条件以外で決める人に届けば足ります**。この記事では、給与の数値や相場は扱いません。条件の設計は自社の給与制度に沿い、必要に応じて専門家にご確認ください。給与の出し方は[スカウト段階で条件を出すか](/media/scout-kyuuyo-teiji/)に、知名度で負ける場合は[知名度のない会社のスカウト](/media/scout-chimeido-nai-kaisha/)にまとめています。

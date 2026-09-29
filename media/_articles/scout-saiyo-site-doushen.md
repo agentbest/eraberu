@@ -9,7 +9,7 @@ tags: ["スカウト代行", "採用サイト", "導線", "候補者体験", "�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-saiyo-site-doushen"
-related: ["scout-daikou-henshin-taiou", "scout-daikou-kadai-genba", "scout-daikou-kadai-jitai", "scout-daikou-kadai-shanai"]
+related: ["scout-koho-renkei", "scout-kuchikomi-taisaku", "scout-chimeido-nai-kaisha", "scout-daikou-henshin-taiou"]
 ---
 
 スカウトの文面を読んだ候補者は、そのまま返信するわけではありません。会社名で検索し、採用サイトを開き、事業と人と働き方を見て、それから返信するかを決めます。文面がどれだけ良くても、採用サイトが古い、役割の記述と食い違う、働き方の情報が無い、となれば、返信は来ません。結論を先に書くと、**スカウトの文面と採用サイトは、候補者が続けて見る一つの流れです。文面に書いた役割と、採用サイトに書かれた役割と働き方を揃え、候補者が検索した先に「文面の続き」がある状態にしてください**。採用広報との連携は[採用広報とスカウトの連携](/media/scout-koho-renkei/)に、口コミへの対処は[口コミを見られる前提の設計](/media/scout-kuchikomi-taisaku/)にまとめています。

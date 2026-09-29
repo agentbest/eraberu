@@ -9,7 +9,7 @@ tags: ["スカウト代行", "辞退", "面談", "課題", "選考"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-jitai"
-related: ["scout-daikou-kadai-genba", "scout-ichiji-menjo", "scout-mendan-nashi", "scout-shokuba-kengaku"]
+related: ["scout-daikou-kadai-genba", "scout-daikou-kadai-nittei", "scout-daikou-kadai-account", "scout-daikou-kadai-baitai"]
 ---
 
 返信も来る。面談も組める。ところが、面談の後に辞退される。一次面談の後、二次の前、内定の後。どこかで候補者が離れていく。この問題を「代行が連れてくる候補者の質」で片付けると、直りません。結論を先に書くと、**面談後の辞退は、面談までの期待と面談で見せた実態のずれ、選考の速さ、面談者の対応のどれかで起きます。辞退の時点と理由を分けて記録し、原因ごとに直す場所を決めてください**。多くは社内でしか直せず、代行の担当者にできるのは、期待を正しく作ることと、辞退理由を集めることです。取り合いの話は[競合と候補者が取り合いになる](/media/scout-daikou-kadai-kyougou/)に、要件のずれは[面談してみると要件と違う](/media/scout-daikou-kadai-mismatch/)にまとめています。

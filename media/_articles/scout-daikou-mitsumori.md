@@ -9,7 +9,7 @@ tags: ["スカウト代行", "見積もり", "比較", "契約", "業務範囲"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-mitsumori"
-related: ["scout-daikou-baitai-hi", "scout-daikou-hiyou-hikaku", "scout-daikou-hiyou-souba", "scout-daikou-seika"]
+related: ["scout-daikou-hiyou-hikaku", "scout-daikou-baitai-hi", "scout-daikou-checklist", "scout-daikou-getsugaku"]
 ---
 
 スカウト代行の見積もりを数社から取ると、月額に大きな開きが出ることがあります。安いほうを選びたくなりますが、月額の裏にある稼働時間と担当者の条件が違えば、安いほうが高くつくことも珍しくありません。結論を先に書くと、**見積もりは金額の前に「誰が・週何時間・何社掛け持ちで入るか」を確認し、業務範囲・費用の構造・契約条件・記録の帰属を揃えてから比べてください**。この記事では、確認する項目を六つに分けて挙げます。費用の比べ方の考え方は[スカウト代行の費用の比べ方](/media/scout-daikou-hiyou-hikaku/)に、媒体費の扱いは[媒体費は誰が負担するか](/media/scout-daikou-baitai-hi/)にまとめています。

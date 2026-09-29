@@ -9,7 +9,7 @@ tags: ["スカウト代行", "依存", "課題", "内製化", "資産"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-izon"
-related: ["scout-daikou-nouhau", "scout-daikou-jinin", "scout-daikou-kadai-jouhou", "scout-daikou-kadai-marunage"]
+related: ["scout-daikou-kadai-account", "scout-daikou-kadai-baitai", "scout-daikou-kadai-bunmen", "scout-daikou-kadai-data-kesu"]
 ---
 
 契約を見直そうとして、気づく。文面の型も、対象の基準も、送信の記録も、候補者とのやり取りも、全部が代行側にある。切ったら何も残らず、ゼロから始めることになる。だから切れない。この状態が「依存」です。結論を先に書くと、**依存は代行の質が高いから起きるのではなく、社内に資産が残らない運用をしていたから起きます。文面のルール・対象の基準・送信の記録・候補者との関係の四つを社内に残す運用にすれば、任せ続けながら依存はしません**。内製への移行は[代行から内製に戻す](/media/scout-daikou-uchisei-ikou/)に、ノウハウの扱いは[ノウハウを社内に残す](/media/scout-daikou-nouhau/)にまとめています。

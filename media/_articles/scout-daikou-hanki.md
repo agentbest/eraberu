@@ -9,7 +9,7 @@ tags: ["スカウト代行", "半期", "見直し", "評価", "契約更新"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-hanki"
-related: ["scout-daikou-report", "scout-daikou-check", "scout-daikou-hyouka", "scout-daikou-kadai-kpi"]
+related: ["scout-daikou-hyouka", "scout-daikou-kadai-hiyou", "scout-daikou-kadai-kpi", "scout-daikou-toraiaru"]
 ---
 
 スカウト代行の運用は、月ごとの定例会で細かく調整していても、半年経つと「そもそもこの形でよいのか」が問われないまま続いていることがあります。対象と文面は整えたが、採用は決まっていない。数字は横ばいで、やめる理由も続ける理由も無い。結論を先に書くと、**半期に一度は月次の調整から離れて、目的に戻って「続ける・変える・やめる」を決めてください**。月次は運用の調整、半期は方向の判断です。月次の評価は[月次の評価のしかた](/media/scout-daikou-hyouka/)に、担当者の見極めは[担当者を替える判断](/media/scout-daikou-jinin/)にまとめています。

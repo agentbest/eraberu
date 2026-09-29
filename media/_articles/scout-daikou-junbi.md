@@ -9,7 +9,7 @@ tags: ["スカウト代行", "情報提供", "準備", "要件", "運用設計"]
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-junbi"
-related: ["scout-daikou-nagare", "scout-daikou-persona", "scout-daikou-sokudo", "scout-baitai-kirikae"]
+related: ["scout-daikou-nagare", "scout-daikou-persona", "scout-daikou-sokudo", "scout-baitai-kaiyaku"]
 ---
 
 スカウト代行に依頼するとき、**渡す情報の量が結果を決めます**。求人票だけを渡すと、返ってくる文面も求人票の範囲になります。そして、検索条件も表面的なものになる。この記事では、用意する材料と、渡す順番を整理します。導入の流れは[導入から稼働までの流れ](/media/scout-daikou-nagare/)にまとめています。

@@ -9,7 +9,7 @@ tags: ["スカウト代行", "新卒", "中途", "体制", "運用設計"]
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-shinsotsu-chuuto"
-related: ["scout-daikou-jinin", "scout-daikou-kadai-jouhou", "scout-daikou-kyouyu", "scout-daikou-shokushu-betsu"]
+related: ["scout-daikou-jinin", "scout-daikou-kyouyu", "scout-daikou-shokushu-betsu", "scout-baitai-kaiyaku"]
 ---
 
 新卒と中途のスカウトを、同じ代行に任せるか。**この二つは、候補者の層も訴求も運用の進め方も違います**。そして、時期の制約も異なります。この記事では、分ける判断の基準と、共通にできる部分を整理します。なお、**新卒採用の時期に関する取り扱いは変わることがあるため、具体的な運用は最新の情報をご確認ください**。

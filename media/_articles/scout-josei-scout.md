@@ -9,7 +9,7 @@ tags: ["スカウト代行", "多様性", "対象設定", "文面", "法令"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-josei-scout"
-related: ["scout-kuchikomi-taisaku", "scout-daikou-kadai-mismatch", "scout-daikou-kadai-shanai", "scout-alumni-scout"]
+related: ["scout-gaikokujin-scout", "scout-kyuuyo-makeru", "scout-mikeiken-boshuu", "scout-remote-kyuujin"]
 ---
 
 組織に女性が少ない。女性の採用を増やしたい。そのために、スカウトで女性に絞って声をかけたい。この相談は多くありますが、性別を基準にした募集や選別には、法令上の制約があります。結論を先に書くと、**運用でできるのは、性別で対象を絞ることではなく、「返信や応募をためらわせる壁」を取り除くことです。文面の言葉、働き方の記述の欠落、面談者の構成、選考の流れ。これらに、特定の層が返信しにくくなる要因が無いかを見直せば、結果として応募の幅は広がります**。この記事は一般的な整理にとどめ、性別に関する法令（募集・採用における均等な機会の扱い、例外的に認められる取り組みの要件など）の判断は、弁護士や社会保険労務士などの専門家にご確認ください。シニア層の考え方は[シニア層へのスカウト](/media/scout-senior-scout/)にまとめています。

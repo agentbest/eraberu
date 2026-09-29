@@ -9,7 +9,7 @@ tags: ["スカウト代行", "レポート", "報告", "KPI", "運用"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-report"
-related: ["scout-daikou-hanki", "scout-daikou-teirei", "scout-daikou-check", "scout-daikou-hyouka"]
+related: ["scout-daikou-kadai-houkoku", "scout-daikou-check", "scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa"]
 ---
 
 スカウト代行から届くレポートを開いて、送信数と返信率を眺めて閉じる。多くの会社で、レポートはそういう扱いになっています。数字は並んでいるのに、次に何をすればよいかが書かれていないためです。結論を先に書くと、**レポートには「段階ごとの数字」と「次に変えること」の両方を入れてもらい、後者が無いレポートは受け取らないでください**。数字は状況の説明で、判断の材料はその先にあります。数字の見方そのものは[スカウト代行の数字の見方](/media/scout-daikou-data/)にまとめています。

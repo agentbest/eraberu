@@ -9,7 +9,7 @@ tags: ["スカウト代行", "費用対効果", "採用単価", "課題", "評�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-hiyou"
-related: ["scout-daikou-hanbun-uchisei", "scout-naisei-junbi", "scout-alumni-scout", "scout-baitai-kaiyaku"]
+related: ["scout-daikou-kadai-kpi", "scout-daikou-hanki", "scout-daikou-hyouka", "scout-daikou-kadai-account"]
 ---
 
 半年払った。採用も一名決まった。それでも、「費用に見合っているのか」と聞かれると答えられない。経営に説明しようとしても、「返信率が上がりました」以上のことが言えない。結論を先に書くと、**費用対効果が見えないのは、効果が無いからではなく、測る形——面談一件あたりの費用、採用一名あたりの費用、他の手法との比較——を作っていないからです。三つの数字を出せば、見えます。見えれば、続けるか、変えるか、止めるかを、数字で決められます**。この記事では、具体的な費用や相場の数値は扱いません。費用相場の読み方は[スカウト代行の費用相場](/media/scout-daikou-hiyou-souba/)に、続けるか止めるかの判断は[続けるか止めるかの判断](/media/scout-daikou-kadai-tsuzukeru/)にまとめています。

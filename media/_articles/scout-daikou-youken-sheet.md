@@ -9,7 +9,7 @@ tags: ["スカウト代行", "要件シート", "要件定義", "検索条件", 
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-youken-sheet"
-related: ["scout-baitai-kirikae", "scout-baitai-kumiawase", "scout-daikou-fukusuu-baitai", "scout-daikou-hanbun-uchisei"]
+related: ["scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-baitai-kumiawase", "scout-daikou-fukusuu-baitai"]
 ---
 
 スカウトの要件をシートにまとめる。**目的は、検索条件に翻訳できる形にすることです**。求人票をそのまま渡しても、条件は組めません。求人票は候補者に見せる文書、要件シートは運用のための文書。この記事では、含める項目と書き方を整理します。ターゲット像のすり合わせは[ターゲット像のすり合わせ方](/media/scout-daikou-persona/)にまとめています。

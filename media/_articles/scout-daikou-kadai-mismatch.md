@@ -9,7 +9,7 @@ tags: ["スカウト代行", "要件", "ミスマッチ", "課題", "見極め"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-mismatch"
-related: ["scout-daikou-kadai-marunage", "scout-daikou-kadai-shitsu", "scout-daikou-kadai-baitai", "scout-daikou-kadai-bunmen"]
+related: ["scout-daikou-kadai-shitsu", "scout-daikou-junbi", "scout-daikou-kadai-account", "scout-daikou-kadai-baitai"]
 ---
 
 経歴には「〇〇の経験あり」と書いてある。担当者もそれを見て送っている。面談すると、経験はあるが想定していた深さや範囲ではない。「要件と違う」と面談者が言い、担当者は「経歴には書いてあります」と言う。どちらも間違っていません。結論を先に書くと、**経歴に書かれた経験と、要件が求める経験の間には、書類では見えないずれがあります。ずれの型を知り、送る前の判断材料と面談の前半の質問で、ずれを早く見つけてください**。質の問題全般は[来る候補者の質が合わない](/media/scout-daikou-kadai-shitsu/)に、要件の作り方は[要件シートの作り方](/media/scout-daikou-youken-sheet/)にまとめています。

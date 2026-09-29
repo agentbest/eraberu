@@ -9,7 +9,7 @@ tags: ["スカウト代行", "体制", "人数", "運用設計", "分担"]
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-jinin"
-related: ["scout-daikou-shokushu-betsu", "scout-daikou-hanbun-uchisei", "scout-daikou-henshin-taiou", "scout-daikou-kadai-jouhou"]
+related: ["scout-daikou-shokushu-betsu", "scout-daikou-hanbun-uchisei", "scout-daikou-henshin-taiou", "scout-daikou-kyouyu"]
 ---
 
 スカウトの運用を、代行側が何名で回すか。**一人で完結する形と、工程ごとに分ける形があります**。一人なら情報が落ちませんが、量には限りがある。複数名なら量は出せますが、工程間で情報が分断されます。この記事では、分け方と判断の基準を整理します。採用代行全般の体制は[専任担当と複数名体制のどちらがよいか](/media/rpo-senzoku-vs-fukusuu/)にまとめています。

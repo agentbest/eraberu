@@ -9,7 +9,7 @@ tags: ["スカウト代行", "権限管理", "媒体", "情報管理", "運用�
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-kengen"
-related: ["scout-baitai-kirikae", "scout-baitai-kumiawase", "scout-daikou-kadai-account", "scout-daikou-tool-shitei"]
+related: ["scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-baitai-kumiawase", "scout-daikou-tool-shitei"]
 ---
 
 スカウトの運用を任せるには、媒体の管理画面にアクセスしてもらう必要があります。**ここで、自社担当者のIDをそのまま共有する形が選ばれがちです**。速いのですが、誰が何をしたかが追えず、退任時の処理も曖昧になります。この記事では、権限の設計と、渡した後の管理を整理します。なお、**媒体ごとの機能や権限の仕組みは異なるため、具体的な設定は各媒体の情報をご確認ください**。

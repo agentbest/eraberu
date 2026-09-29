@@ -9,7 +9,7 @@ tags: ["スカウト代行", "転勤", "働き方", "文面", "対象設定"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-tenkin-ari"
-related: ["scout-kyuuyo-makeru", "scout-chihou-kigyo", "scout-daikou-kadai-jitai", "scout-daikou-kadai-kyougou"]
+related: ["scout-remote-kyuujin", "scout-josei-scout", "scout-kyuuyo-makeru", "scout-mikeiken-boshuu"]
 ---
 
 転勤がある求人は、スカウトの文面に書きにくい。書けば返信が減り、書かなければ後で離れる。結論を先に書くと、**転勤は隠さず、文面で「転勤の中身」——頻度、範囲、時期、支援、拒否の可否——を先に書いてください。「転勤あり」の一言では、候補者は最悪を想像します。中身が具体的なら、受け入れられる候補者は返信し、受け入れられない候補者は返信の前に見送ります。面談や内定後に離れるより、はるかに損失が小さい**。フルリモートの求人は[フルリモート求人のスカウト](/media/scout-remote-kyuujin/)に、勤務地の壁の考え方は[地方企業のスカウト運用](/media/scout-chihou-kigyo/)にまとめています。転勤に関する制度や法令の扱いは、専門家にご確認ください。

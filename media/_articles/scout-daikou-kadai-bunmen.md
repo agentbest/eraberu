@@ -9,7 +9,7 @@ tags: ["スカウト代行", "文面", "課題", "トーン", "ブランド"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-bunmen"
-related: ["scout-chimeido-nai-kaisha", "scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa", "scout-daikou-kadai-henshin"]
+related: ["scout-daikou-tone", "scout-chimeido-nai-kaisha", "scout-daikou-hinshitsu-kanri", "scout-daikou-kadai-account"]
 ---
 
 代行が作った文面を読んで、「間違ってはいないが、うちの言葉じゃない」と感じる。返信率が悪いわけでもないのに、候補者に届いているのが自社の姿ではない気がする。この違和感は正しいことが多く、放置すると会社の印象が「どこにでもある会社」で固まります。結論を先に書くと、**「らしくない」は担当者のセンスの問題ではなく、らしさを渡せる形にしていないことの問題です。らしさの正体を言葉と構造と実態の三つに分け、材料を渡し、順番に直してください**。トーンの指定の基本は[文面のトーンをどう指定するか](/media/scout-daikou-tone/)にまとめています。

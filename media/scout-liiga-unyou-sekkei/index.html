@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Liigaのスカウト運用設計｜送信数・時間帯・追客｜エラベル</title>
+<meta name="description" content="Liigaのスカウト運用を考えるときの前提を整理しました。Liigaは現在「外資就活ネクスト」に名称が変わっており、liiga.meは同サイトへ転送されます。企業とエージェントの双方がスカウトを送るプラットフォームであること、コンサル・金融に強い層が集まることを踏まえ、送信計画と追客の設計をまとめています。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/scout-liiga-unyou-sekkei/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="Liigaのスカウト運用設計｜送信数・時間帯・追客｜エラベル">
+<meta property="og:description" content="Liigaのスカウト運用を考えるときの前提を整理しました。Liigaは現在「外資就活ネクスト」に名称が変わっており、liiga.meは同サイトへ転送されます。企業とエージェントの双方がスカウトを送るプラットフォームであること、コンサル・金融に強い層が集まることを踏まえ、送信計画と追客の設計をまとめています。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/scout-liiga-unyou-sekkei/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Liigaのスカウト運用設計｜送信数・時間帯・追客","description":"Liigaのスカウト運用を考えるときの前提を整理しました。Liigaは現在「外資就活ネクスト」に名称が変わっており、liiga.meは同サイトへ転送されます。企業とエージェントの双方がスカウトを送るプラットフォームであること、コンサル・金融に強い層が集まることを踏まえ、送信計画と追客の設計をまとめています。","datePublished":"2026-09-23","dateModified":"2026-09-23","author":{"@type":"Organization","name":"株式会社エージェントベスト"},"publisher":{"@type":"Organization","name":"エラベル"},"mainEntityOfPage":"https://eraberusaiyodaiko.com/media/scout-liiga-unyou-sekkei/"}</script>
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">メディア</a><i>›</i><a href="/media/scout/">スカウト代行</a><i>›</i><span>Liigaのスカウト運用設計｜送信数・時間帯・追客</span></div></nav><main class="wrap article">
+  <p class="art__kicker">スカウト代行 / Liiga</p>
+  <h1>Liigaのスカウト運用設計｜送信数・時間帯・追客</h1>
+  <p class="art__meta">公開 2026-09-23</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">契約前の2週間：名前をそろえ、公開されていない仕様を照会する</a></li><li><a href="#h2">1か月目：面談枠を押さえてから、週の型を決める</a></li><li><a href="#h3">2か月目：追客と見送りの間隔を固める</a></li><li><a href="#h4">3か月目：求人情報とコラムまで運用に入れる</a></li><li><a href="#h5">3か月の終わりの振り返り</a></li><li><a href="#h6">まとめ</a></li><li><a href="#h7">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>Liigaは現在「外資就活ネクスト」に名称が変わっていて、<code>liiga.me</code> を開くと同サイトに転送されます。企業とエージェントの双方がスカウトを送る場で、通数や送信の仕様は公開されていないため、運用の設計は照会から始めることになります。この記事では、<strong>契約前の2週間から導入後3か月目までを時系列に並べ</strong>、各時期に何を決めるかを整理します。以下は、2026年9月23日時点で公式サイトおよび運営会社のサイトに記載されている内容に基づいており、運営は株式会社ハウテレビジョンです。</p>
+<h2 id="h1">契約前の2週間：名前をそろえ、公開されていない仕様を照会する</h2>
+<p>最初の2週間でやるのは、社内の呼び名をそろえることです。サイトのタイトルは「外資就活ネクスト(旧Liiga)」、企業向けページも「外資就活ネクスト(旧Liiga) 採用担当者向け」と名乗っています。社内でまだ「Liiga」と呼んでいる場合でも、契約や問い合わせは外資就活ネクストの名前で進みます。稟議書と契約書でサービス名が食い違うと、担当が替わったときに同じサービスだと気づかれないことがあるので、ここで一度そろえておきます。</p>
+<p>次に、運用の設計に必要な仕様を運営に照会します。スカウトの通数、送信時間帯の指定、予約送信、開封や返信の可視化、同じ相手への再送、テンプレートの管理、検索できる項目、料金、管理画面の権限は、公式サイトでは公開されていません。企業向けページに掲載されている情報も限られています。次の表は、照会する項目と、その答えが運用のどこを決めるかを並べたものです。</p>
+<div class="tw"><table><thead><tr><th>照会すること</th><th>聞き方の例</th><th>運用で決まること</th></tr></thead><tbody><tr><td>通数の上限</td><td>期間あたり何通まで送れるか、プランで違うか</td><td>週の本数の上限</td></tr><tr><td>予約送信・時間帯の指定</td><td>送信日時を指定できるか</td><td>在職者に届く時刻を設計できるか</td></tr><tr><td>開封・返信の可視化</td><td>開封したかどうかが企業側から見えるか</td><td>追客の判断に使える数字があるか</td></tr><tr><td>同じ相手への再送</td><td>返信がない相手に再度送れるか、間隔の制限はあるか</td><td>追客の回数</td></tr><tr><td>料金の体系</td><td>期間の料金か、通数か、成果報酬か</td><td>3か月の予算の組み方</td></tr><tr><td>管理画面の権限</td><td>外部の担当者にアカウントを発行できるか</td><td>運用を外に出せるか</td></tr></tbody></table></div>
+<p>料金が公開されていない以上、3か月の予算は自社で組み立てるしかありません。照会で料金の形が分かったら、3か月で送る通数を「週の面談枠から逆算した本数 × 12週」で置き、そこに当てはめます。次の章で決める面談枠が、この計算の起点になります。<strong>照会の答えが揃うまで、送信本数の目標は置かない</strong>ほうが、後で計画を作り直さずに済みます。</p>
+<aside class="cta-inline">
+<p>照会の項目から3か月の計画まで、ハイクラス採用の実務を知る担当者が一緒に整理します</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h2">1か月目：面談枠を押さえてから、週の型を決める</h2>
+<p>1か月目に決めるのは、送信本数ではなく面談枠です。外資就活ネクストのサイトは、特徴の一つ目として「トップ企業・厳選エージェントから直接メッセージが届くスカウト」を挙げています。同じ受信箱に、企業からのスカウトとエージェントからのスカウトが並ぶということです。エージェントは複数の求人をまとめて提示できるので、一社の案内として送る企業側は情報量では勝てず、勝てるのは現場の具体と意思決定の速さになります。</p>
+<p>その強みを出すには、現場の責任者が会う必要があります。在職中の層が相手なので、人事だけが出る一次面談では、会う理由が伝わりにくくなります。<strong>役員や部門長が出られる枠を月の頭に押さえ、その数から送信本数を決める</strong>のが、この媒体の運用の順番です。枠が月に二つしか取れないなら、それに合わせて一通ずつ書く本数を絞ります。</p>
+<p>枠が決まったら、週の型を作ります。一通ずつ書く媒体なので、読む日と書く日を分けておくと質が安定します。次の表は、1か月目に回す一週間の型です。</p>
+<div class="tw"><table><thead><tr><th>曜日の目安</th><th>やること</th><th>担当</th></tr></thead><tbody><tr><td>週の頭</td><td>条件を見直し、候補の経歴を読む</td><td>人事または運用担当</td></tr><tr><td>中日</td><td>一通ずつ書いて送る。冒頭の一行は現場の材料から書く</td><td>人事または運用担当（材料は部門長）</td></tr><tr><td>週の後半</td><td>返信に対応し、面談の日程を押さえる</td><td>人事</td></tr><tr><td>週の終わり</td><td>開封と返信の状況を記録する</td><td>運用担当</td></tr></tbody></table></div>
+<p>時間帯の指定ができると照会で分かった場合は、この型の「中日」に送る時刻も決めます。在職中の層なので、平日の日中に届いても開かれにくいことがあります。指定できるなら、朝か夜に寄せる設計が取れます。1か月目は時刻を二通りに分けて送り、返信の差を記録しておくと、2か月目の判断に使えます。</p>
+<h2 id="h3">2か月目：追客と見送りの間隔を固める</h2>
+<p>2か月目は、1か月目に送った相手への追客が中心になります。忙しい層なので、返信が遅いことと興味が無いことは別です。在職中で、年度末や期末の繁忙期は特に動けません。比較検討も長く、一度の接触では決まらないことを前提に、追客の間隔を長めに置きます。</p>
+<div class="tw"><table><thead><tr><th>動き</th><th>目安</th><th>理由</th></tr></thead><tbody><tr><td>送信</td><td>週の頭から中日にまとめて</td><td>返信対応を週の後半に集められる</td></tr><tr><td>返信対応</td><td>当日中</td><td>意思決定の速さが企業側の強みになる</td></tr><tr><td>追客</td><td>送信から十日後に一回まで</td><td>在職中で返信に日数がかかる</td></tr><tr><td>見送り</td><td>三週間反応が無ければ次に回す</td><td>追客を重ねても読まれにくくなる</td></tr></tbody></table></div>
+<p>追客は内容を変えます。同じ文面を送り直しても読まれないので、二通目は一通目に書かなかったこと、たとえば事業の直近の動き、会う相手の変更、別ポジションの提示を書きます。照会で「同じ相手への再送ができない」と分かった場合は、一通目の段階で次の一歩を具体的に書いておくことに比重を移します。文面の型は<a href="/media/scout-liiga-template/">Liigaのスカウトテンプレートの作り方</a>にまとめています。</p>
+<h3>エラベルの見解</h3>
+<p>同じ料金・同じ仕様でも結果が分かれるのは、2か月目の追客の中身です。十日後の二通目を「ご確認いただけましたでしょうか」で済ませる担当者と、一通目に書かなかった事業の動きを一つ足す担当者では、同じ回数の追客でも返ってくる数が違います。前者は相手に「同じ話の催促」と読まれ、後者は「新しい知らせ」として読まれるからです。</p>
+<p>後者の担当者は、二通目の材料を部門長から月に一度もらう段取りを、1か月目のうちに作っています。つまり、追客の質は2か月目に頑張って上がるものではなく、1か月目の段取りで決まっています。運用を任せる担当者を選ぶときは、「二通目に何を書く予定か」を最初の打ち合わせで聞いてみてください。答えが具体的なら、段取りまで見えている担当者です。</p>
+<h2 id="h4">3か月目：求人情報とコラムまで運用に入れる</h2>
+<p>3か月目は、スカウトの外側に目を向けます。同サイトは、特徴の二つ目に「外資就活ネクストだけの特別求人が掲載されるジョブサーチ」、四つ目に「キャリア磨きやロールモデルの発見につながるオリジナルコラム」を挙げています。スカウトを読んだ相手は、求人情報とコラムを見に来ます。スカウトだけを磨いても、掲載が薄ければそこで止まります。</p>
+<p>見直しの頻度は、対象ごとに変えます。求人情報の中身は月に一度、スカウトのテンプレートは月に一度・一か所ずつ、会う相手と枠は四半期に一度が目安です。テンプレートを一度に何か所も変えると、どれが効いたのか分からなくなります。3か月目は、この頻度を運用の予定表に書き込むところまでやります。</p>
+<p>企業向けページは「若手優秀層の採用マーケティング」を掲げ、挑戦的なキャリア戦略を学ぶ『コラム』や、ケーススタディでスキルを磨くといった説明を置いています。企業として出せる情報発信の選択肢があるかどうかは、この時期に運営へ確認しておくと打ち手が増えます。発信で自社の現場を見せられれば、スカウトの一通目で書き切れない部分を補えます。</p>
+<aside class="cta-inline">
+<p>いまの送信計画が体制と合っているか、整理からご一緒します</p>
+<a href="/#consult">無料で相談する</a>
+</aside>
+<h2 id="h5">3か月の終わりの振り返り</h2>
+<p>3か月が終わったら、数字を並べて次の四半期に戻します。見る項目と、悪かったときに次にやることを対にしておくと、数字を眺めるだけで終わりません。一度に直すのは一か所だけにします。</p>
+<div class="tw"><table><thead><tr><th>見る項目</th><th>悪いときに次にやること</th></tr></thead><tbody><tr><td>送信数</td><td>面談枠と釣り合っているかを確かめる</td></tr><tr><td>開封率（見える場合）</td><td>件名を見直す</td></tr><tr><td>返信率</td><td>本文と会う相手を見直す</td></tr><tr><td>面談実施数</td><td>受け皿（面談に出る人と枠）が動いているかを確かめる</td></tr><tr><td>内定・承諾</td><td>提示条件が市場と合っているかを見る</td></tr></tbody></table></div>
+<p>返信が少ない原因を切り分けるときの物差しとして、同サイトが示す転職後の平均年収（20代620万円、30代930万円、40代1,300万円。2020年〜2024年の当社転職決定実績から算出）が使えます。自社の提示レンジがこの水準と大きく離れていれば、文面や時期をいくら直しても返信は増えにくいからです。条件の組み直しは<a href="/media/scout-liiga-kensaku-jouken/">Liigaの検索条件の組み方</a>で扱っています。</p>
+<p>運営会社は、外資就活ネクストのほかに外資就活ドットコム（新卒）、外資就活エージェント、Executive Agent、RPO・採用コンサルティング（旧ログリオ）などを提供しています。複数を併用しているなら、面談の記録に入り口を書いておく運用にしておくと、振り返りでスカウト経由の成果だけを取り出せます。3か月の数字を正しく読むための、最低限の準備です。</p>
+<h3>エラベルの見解</h3>
+<p>相談で多い思い込みは、名前が変わった媒体でも社内の資料はそのままで困らない、というものです。実際には、稟議書に「Liiga」と書いてあり、請求書には別の名前が並ぶ状態が続くと、担当が替わったときに同じサービスだと気づかないまま二重に検討することがあります。3か月の振り返りで数字を集めるときにも、呼び名がそろっていないと記録が分かれます。</p>
+<p>契約前の2週間で名前をそろえるのは、地味ですが運用の土台です。運用を外に出す場合も、呼び名がそろっていれば引き継ぎで迷いません。契約書のサービス名を一度確認し、社内の管理表や面談の記録の入り口欄も同じ名前にしておくことをおすすめします。</p>
+<h2 id="h6">まとめ</h2>
+<ul><li>契約前の2週間で、社内の呼び名を「外資就活ネクスト」にそろえ、通数・時間帯・再送・料金・権限など公開されていない仕様を照会する</li><li>1か月目は、部門長や役員の面談枠を先に押さえ、その数から送信本数と週の型を決める</li><li>2か月目は、返信対応は当日中、追客は十日後に一回、三週間で見送りを目安に、二通目は内容を変える</li><li>3か月目は、求人情報とコラムを含めて見直しの頻度を決め、発信の選択肢を運営に確認する</li><li>3か月の終わりに、送信数から承諾までを並べ、提示レンジを平均年収の数字と照らして原因を切り分ける</li></ul>
+<h2 id="h7">よくある質問</h2>
+<h3>Q. Liigaと外資就活ネクストは別のサービスですか</h3>
+<p><code>liiga.me</code> を開くと外資就活ネクストのサイトに転送され、サイトのタイトルも「外資就活ネクスト(旧Liiga)」と表記されています。名称が変わったもので、契約や問い合わせは外資就活ネクストの名前で進みます。</p>
+<h3>Q. 月に何通までスカウトを送れますか</h3>
+<p>通数の上限は公式サイトで公開されていません。料金の体系や予約送信の可否とあわせて、契約前に運営へ照会してください。この層では、通数の上限より面談枠のほうが先に送信本数を決めることが多くなります。</p>
+<h3>Q. 返信がない相手には、いつ追客すればよいですか</h3>
+<p>在職中で返信に日数がかかる層なので、送信から十日後に一回、一通目と違う内容で送るのが目安です。三週間反応が無ければ、次の候補に回します。同じ相手への再送ができるかどうかは、契約前に運営に確認しておきます。</p>
+<p>※仕様や料金は変わります。掲載した内容は2026年9月23日時点の公式サイトおよび運営会社のサイトの記載であり、通数・送信時間帯・追客の仕様・料金は契約前に運営の案内でご確認ください。</p>
+  </div>
+  <section class="sources"><h2>出典</h2><ul><li><a href="https://next.gaishishukatsu.com/" target="_blank" rel="noopener">外資就活ネクスト（旧Liiga）｜ハイクラス転職プラットフォーム</a></li><li><a href="https://liiga.me/" target="_blank" rel="noopener">Liiga（外資就活ネクストへ転送）</a></li><li><a href="https://biz.next.gaishishukatsu.com/" target="_blank" rel="noopener">外資就活ネクスト（旧Liiga）採用担当者向け</a></li><li><a href="https://www.howtelevision.co.jp/business/" target="_blank" rel="noopener">株式会社ハウテレビジョン 事業概要</a></li><li><a href="https://www.howtelevision.co.jp/" target="_blank" rel="noopener">株式会社ハウテレビジョン</a></li></ul></section>
+  <aside class="cta-end">
+  <p class="cta-end__lead">担当者を選べる採用代行「エラベル」</p>
+  <p class="cta-end__sub">基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。</p>
+  <a class="btn btn-primary" href="/#consult">無料で相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/scout-liiga-daikou/">Liigaのスカウト代行｜任せられる範囲と成果の測り方</a></li><li><a href="/media/scout-liiga-kensaku-jouken/">Liigaの検索条件の組み方｜母集団を狭めすぎない設計</a></li><li><a href="/media/scout-liiga-template/">Liigaのスカウトテンプレートの作り方</a></li><li><a href="/media/scout-jac-unyou-sekkei/">JAC Recruitmentのスカウト運用設計｜送信数・時間帯・追客</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表。人材紹介・採用支援の実務に携わり、企業の採用体制づくりと、
+  人事経験者が副業で力を発揮できる場づくりに取り組んでいます。（有料職業紹介事業 厚生労働大臣許可 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

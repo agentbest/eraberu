@@ -9,7 +9,7 @@ tags: ["スカウト代行", "データ", "引き渡し", "契約終了", "個�
 pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-data"
-related: ["scout-daikou-kadai-data-kesu", "scout-alumni-scout", "scout-baitai-kaiyaku", "scout-baitai-kirikae"]
+related: ["scout-daikou-kadai-data-kesu", "scout-daikou-kadai-account", "scout-daikou-kaiyaku", "scout-alumni-scout"]
 ---
 
 スカウト代行との契約が終わるとき、**送信データの引き渡しがスカウト特有の論点になります**。誰に送ったか、どんな返信があったか。この記録がないと、次の担い手が同じ候補者に送ることになります。この記事では、受け取る項目と形式、返還と削除の順番を整理します。なお、**個人データの取り扱いは自社の管理体制によって判断が変わるため、専門家にご確認ください**。採用代行全般の扱いは[契約終了時に返してもらうデータ](/media/rpo-data-henkan/)にまとめています。

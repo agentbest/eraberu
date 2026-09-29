@@ -9,7 +9,7 @@ tags: ["スカウト代行", "切り替え", "乗り換え", "課題", "選び�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-kirikae"
-related: ["scout-baitai-kirikae", "scout-daikou-kadai-baitai", "scout-daikou-kadai-hikitsugi", "scout-daikou-kadai-tantou"]
+related: ["scout-baitai-kirikae", "scout-daikou-fukusuu-baitai", "scout-daikou-kadai-account", "scout-daikou-kadai-baitai"]
 ---
 
 いまの代行会社に不満がある。別の会社の営業からも提案が来ている。切り替えれば良くなるのか。結論を先に書くと、**切り替えは、前の会社で何が合わなかったかを整理し、それが会社の問題だったのか担当者の問題だったのか社内の問題だったのかを分けてからです。分けずに切り替えると、次の会社でも同じところで詰まります**。解約の実務は[解約と引き継ぎ](/media/scout-daikou-kaiyaku/)に、担当者だけを替える選択肢は[担当者が替わった](/media/scout-daikou-kadai-tantou/)に、続けるか止めるかの判断は[続けるか止めるかの判断](/media/scout-daikou-kadai-tsuzukeru/)にまとめています。
