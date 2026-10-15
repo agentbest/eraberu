@@ -9,7 +9,7 @@ tags: ["人事副業", "経費", "税務", "記録", "確定申告"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-keihi"
-related: ["fukugyo-kakutei-shinkoku", "fukugyo-20man", "fukugyo-genzei", "fukugyo-invoice"]
+related: ["fukugyo-kakutei-shinkoku", "fukugyo-20man", "fukugyo-aoiro", "fukugyo-genzei"]
 ---
 
 副業の収入があると、「何が経費になるのか」が気になります。パソコン、通信費、書籍、カフェの作業代。全部が経費になるわけではなく、どこまでが認められるかは、制度と個別の状況で変わります。結論を先に書くと、**経費にできるかどうかの判断は、税理士などの専門家に委ねてください。受ける側が自分でできるのは、「副業に直接要った支出か」で仕分けて記録を残し、専門家に判断してもらえる状態にすることです。判断を自分で下すより、判断できる材料を揃えるほうが、正確で安全です**。請求書は[請求書の書き方](/media/fukugyo-seikyuusho/)に、申告は[確定申告の進め方](/media/fukugyo-kakutei-shinkoku/)にまとめています。この記事は、税務上の判断を示すものではありません。

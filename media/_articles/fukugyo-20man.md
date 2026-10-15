@@ -9,7 +9,7 @@ tags: ["人事副業", "確定申告", "住民税", "20万円", "税務"]
 pubDate: 2026-10-15
 reviewedAt: 2026-10-15
 slug: "fukugyo-20man"
-related: ["fukugyo-kakutei-shinkoku", "fukugyo-keihi", "fukugyo-genzei", "fukugyo-invoice"]
+related: ["fukugyo-aoiro", "fukugyo-jyuumin-zei", "fukugyo-kakutei-shinkoku", "fukugyo-keihi"]
 sources:
   - name: "e-Gov法令検索「所得税法」（第121条）"
     url: "https://laws.e-gov.go.jp/law/340AC0000000033"

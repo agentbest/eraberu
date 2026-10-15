@@ -9,7 +9,7 @@ tags: ["人事副業", "年間収入", "見立て", "計画", "税務"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-nenkan-shuunyuu"
-related: ["fukugyo-20man", "fukugyo-genzei", "fukugyo-invoice", "fukugyo-kakutei-shinkoku"]
+related: ["fukugyo-20man", "fukugyo-aoiro", "fukugyo-genzei", "fukugyo-invoice"]
 ---
 
 月の目安が出たら、年間はその十二倍。そう見立てると、年末に「思ったより少なかった」となります。案件は途切れ、本業の繁忙期には稼働が減り、成果型の案件は月ごとに波があります。結論を先に書くと、**年間の副業収入は、月の目安を十二倍にせず、「稼働できる月数」「案件の途切れ」「成果の波」を織り込んで見立ててください。そして、手取りは税務と社会保険の扱いで変わるので、その点は専門家に確認したうえで計画します**。月の目標の置き方は[副業で月いくらを目指せるか](/media/fukugyo-nenshuu-mokuhyou/)に、複数案件の考え方は[複数案件を掛け持ちできるか](/media/fukugyo-fukusuu-anken/)にまとめています。この記事では、金額の数値は扱いません。

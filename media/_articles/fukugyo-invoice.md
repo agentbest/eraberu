@@ -9,7 +9,7 @@ tags: ["人事副業", "インボイス", "消費税", "業務委託", "税務"]
 pubDate: 2026-10-15
 reviewedAt: 2026-10-15
 slug: "fukugyo-invoice"
-related: ["fukugyo-genzei", "fukugyo-20man", "fukugyo-daikigyo-keiken", "fukugyo-getsugaku"]
+related: ["fukugyo-genzei", "fukugyo-20man", "fukugyo-aoiro", "fukugyo-daikigyo-keiken"]
 sources:
   - name: "国税庁「インボイス制度について」"
     url: "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_about.htm"

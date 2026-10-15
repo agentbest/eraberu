@@ -9,7 +9,7 @@ tags: ["人事副業", "源泉徴収", "所得税", "業務委託", "税務"]
 pubDate: 2026-10-15
 reviewedAt: 2026-10-15
 slug: "fukugyo-genzei"
-related: ["fukugyo-invoice", "fukugyo-20man", "fukugyo-daikigyo-keiken", "fukugyo-getsugaku"]
+related: ["fukugyo-invoice", "fukugyo-20man", "fukugyo-aoiro", "fukugyo-daikigyo-keiken"]
 sources:
   - name: "e-Gov法令検索「所得税法」（第204条・第205条）"
     url: "https://laws.e-gov.go.jp/law/340AC0000000033"
