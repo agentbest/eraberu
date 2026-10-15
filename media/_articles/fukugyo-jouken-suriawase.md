@@ -9,7 +9,7 @@ tags: ["人事副業", "条件", "すり合わせ", "契約", "合意"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-jouken-suriawase"
-related: ["fukugyo-choka-kadou", "fukugyo-honmyo", "fukugyo-keiyaku-kikan", "fukugyo-koushin"]
+related: ["fukugyo-choka-kadou", "fukugyo-honmyo", "fukugyo-keiyaku-kikan", "fukugyo-kougyou-hishi"]
 ---
 
 面談で、依頼側と話が合った。「ぜひお願いしたい」と言われた。そのまま契約書が来て、署名して、始まる。始まってから、業務の範囲が思っていたより広い、稼働の期待が違う、支払いが翌々月、と分かる。面談の「合った」と、契約の「合意」は、別のものです。結論を先に書くと、**面談の後、契約の前に、条件のすり合わせを一段階置いてください。八つの項目を一枚にまとめて依頼側と合意し、その一枚を契約書か覚書に反映します。すり合わせを飛ばすと、面談の手応えが、契約後のずれになります**。面談で聞くことは[こちらから聞くべき質問](/media/fukugyo-mensetsu-shitsumon/)に、見積もりの型は[見積もりの出し方](/media/fukugyo-mitsumori/)にまとめています。契約の個別の条項については、専門家にご確認ください。

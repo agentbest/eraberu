@@ -9,7 +9,7 @@ tags: ["人事副業", "副業禁止", "就業規則", "副業・兼業ガイド
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-fukugyo-kinshi"
-related: ["fukugyo-fukusuu-anken", "fukugyo-ikkyuu", "fukugyo-kadou-jikan", "fukugyo-kaigo-ikuji"]
+related: ["fukugyo-kougyou-hishi", "fukugyo-fukusuu-anken", "fukugyo-ikkyuu", "fukugyo-kadou-jikan"]
 sources:
   - name: "厚生労働省「副業・兼業の促進に関するガイドライン」（令和4年7月8日改定版）"
     url: "https://www.mhlw.go.jp/content/11200000/000962665.pdf"

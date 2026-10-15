@@ -9,7 +9,7 @@ tags: ["人事副業", "契約期間", "更新", "解約", "契約"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-keiyaku-kikan"
-related: ["fukugyo-choka-kadou", "fukugyo-honmyo", "fukugyo-jouken-suriawase", "fukugyo-koushin"]
+related: ["fukugyo-choka-kadou", "fukugyo-honmyo", "fukugyo-jouken-suriawase", "fukugyo-kougyou-hishi"]
 ---
 
 契約期間を、どう決めるか。一年の契約なら収入は安定するが、合わなかったときに一年抜けられない。一か月の契約なら抜けやすいが、立ち上げの負担が回収できず、毎月「続くか」を気にすることになる。結論を先に書くと、**最初の契約は三か月で始め、更新の節目に範囲と報酬を見直す形にしてください。三か月は、立ち上げを終えて運用が見える最短の期間で、合わなければ抜けられ、合えば更新で延ばせます**。支払い条件は[支払いサイトの確認](/media/fukugyo-shiharai-site/)にまとめています。契約の個別の条項については、専門家にご確認ください。

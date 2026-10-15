@@ -9,7 +9,7 @@ tags: ["人事副業", "本名", "名義", "匿名", "契約"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-honmyo"
-related: ["fukugyo-choka-kadou", "fukugyo-jouken-suriawase", "fukugyo-keiyaku-kikan", "fukugyo-koushin"]
+related: ["fukugyo-choka-kadou", "fukugyo-jouken-suriawase", "fukugyo-keiyaku-kikan", "fukugyo-kougyou-hishi"]
 ---
 
 副業をしたいが、本名を出したくない。本業の会社に知られたくない、候補者に個人名で連絡したくない、検索されたときに副業が見つかるのが嫌。本名を出さずに、副業は受けられるのか。結論を先に書くと、**契約の相手（依頼側）には本名が要ります。契約と請求と税務は、本名でしか成り立ちません。一方、業務で接する相手（候補者）には、依頼側の会社の名義や、採用担当の名義で接することができ、本名を出す必要はありません。「依頼側には本名、候補者には会社の名義」で分ければ、多くの場合、成り立ちます**。副業の申請は[副業許可の申請の出し方](/media/fukugyo-kyoka-shinsei/)にまとめています。契約・請求・税務での本名の扱いは、この記事では一般的な整理にとどめ、個別の判断は専門家にご確認ください。
