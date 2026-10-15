@@ -9,7 +9,7 @@ tags: ["採用代行", "カスタマーサクセス", "工程の切り分け", "
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-customer-success-rpo"
-related: ["rpo-customer-success-boshuudan", "rpo-customer-success-scout", "rpo-customer-success-youken", "rpo-data-scientist-rpo"]
+related: ["rpo-customer-success-boshuudan", "rpo-customer-success-hiyou", "rpo-customer-success-scout", "rpo-customer-success-youken"]
 ---
 
 カスタマーサクセスの採用を代行に出すとき、「顧客対応ができる人」という依頼になりがちですが、カスタマーサクセスと呼ばれる役割の中身は、会社によって大きく違います。契約後の顧客の問い合わせに答えて定着を支える役割（サポート寄り）、顧客の活用を促して継続と拡大を作る役割（営業寄り）、少数の大口顧客に深く関わる役割、多数の顧客を仕組みで支える役割。型が違えば、経歴も、市場も、求める指標も違います。結論を先に書くと、**カスタマーサクセス採用で代行に出せるのは「探す・届ける・一次対応する・進捗を回す」で、「自社のカスタマーサクセスの型（サポート寄りか営業寄りか、顧客の数と単価、成果の指標）の決定・営業やサポートとの分担の設計・顧客対応の質の評価」は社内に残す**のが線です。型が決まっていない募集は、代行に出しても、「顧客対応」の肩書で探すことになり、サポートの人か営業の人が来て噛み合いません。営業との分担の考え方は[インサイドセールス採用を代行に出す判断基準](/media/rpo-inside-sales-rpo/)に、採用代行そのものの整理は[採用代行（RPO）とは](/media/rpo-toha/)にまとめています。

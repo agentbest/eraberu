@@ -9,7 +9,7 @@ tags: ["採用代行", "インサイドセールス", "工程の切り分け", "
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-inside-sales-rpo"
-related: ["rpo-inside-sales-boshuudan", "rpo-inside-sales-scout", "rpo-inside-sales-youken", "rpo-customer-success-rpo"]
+related: ["rpo-inside-sales-boshuudan", "rpo-inside-sales-hiyou", "rpo-inside-sales-scout", "rpo-inside-sales-youken"]
 ---
 
 インサイドセールスの採用を代行に出すとき、「営業の採用」と同じ感覚で頼むと、ずれます。インサイドセールスは、マーケティングが集めた見込み客に電話やメールで接触し、商談の機会を作ってフィールドセールスに渡す役割で、営業組織の中の分担で成り立つ職種です。分担（マーケティングが何をどこまで、インサイドセールスが何をどこまで、フィールドセールスが何を）と、成果の指標（商談化の数か、質か、受注への貢献か）が社内で決まっていないと、求人票が書けず、来る人は「電話営業」の経験者か「営業事務」の経験者で、役割が噛み合いません。結論を先に書くと、**インサイドセールス採用で代行に出せるのは「探す・届ける・一次対応する・進捗を回す」で、「営業組織の中の分担の設計・成果の指標の決定・架電の量と型の決定・接触の質の評価」は社内に残す**のが線です。営業全般の代行の線は[営業採用を代行に出す判断基準](/media/rpo-sales-rpo/)に、採用代行そのものの整理は[採用代行（RPO）とは](/media/rpo-toha/)にまとめています。

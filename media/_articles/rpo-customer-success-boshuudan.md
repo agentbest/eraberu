@@ -9,7 +9,7 @@ tags: ["採用代行", "カスタマーサクセス", "母集団形成", "求人
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-customer-success-boshuudan"
-related: ["rpo-customer-success-youken", "rpo-customer-success-rpo", "rpo-customer-success-scout", "rpo-inside-sales-boshuudan"]
+related: ["rpo-customer-success-youken", "rpo-customer-success-hiyou", "rpo-customer-success-rpo", "rpo-customer-success-scout"]
 ---
 
 カスタマーサクセスの募集で起きる母集団の問題は、応募がまったく来ない場合と、応募は来るが型が違う（営業寄りの役割を求めているのにサポートの経験者ばかり、またはその逆）場合、面接まで進んで「評価が曖昧」「何でも屋になりそう」と見送られる場合に分かれます。原因の多くは求人票と分担の設計にあります。結論を先に書くと、**カスタマーサクセスの母集団形成は、「求人票で型・分担・指標と評価を示す」「出し先を型に合う転向層のいる場所にする」「スカウトを転向元ごとに分ける」「面接で分担と評価を正直に伝える」の順に見直し、前の段階が直る前に次に進まない**ことが要です。カスタマーサクセスは比較的新しい職種で、経験者だけを待つと母集団が狭く、型に合う転向層を入れる設計が母集団の大きさを決めます。代行に出す工程の線は[カスタマーサクセス採用を代行に出す判断基準](/media/rpo-customer-success-rpo/)に、インサイドセールスの母集団形成は[インサイドセールスの母集団形成](/media/rpo-inside-sales-boshuudan/)にまとめています。

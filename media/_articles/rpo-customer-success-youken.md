@@ -9,7 +9,7 @@ tags: ["採用代行", "カスタマーサクセス", "採用要件", "必須と
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-customer-success-youken"
-related: ["rpo-customer-success-boshuudan", "rpo-customer-success-rpo", "rpo-customer-success-scout", "rpo-inside-sales-youken"]
+related: ["rpo-customer-success-boshuudan", "rpo-customer-success-hiyou", "rpo-customer-success-rpo", "rpo-customer-success-scout"]
 ---
 
 カスタマーサクセスの求人票の必須要件には、「カスタマーサクセスの実務経験」「継続率や解約率の改善実績」「営業とサポートの両方の経験」「特定のプロダクトの種類の経験」「経験三年以上」が並びがちです。カスタマーサクセスの経験者は限られ、継続率の実績は前職のプロダクトや営業の売り方で決まり、営業とサポートの両方を深く持つ人はさらに限られます。結論を先に書くと、**カスタマーサクセスの採用要件は、先に自社の型（サポート寄りか営業寄りか、顧客の数と単価、指標）と営業・サポートとの分担を決め、必須を「入社初日に自社の型で顧客対応が成り立つか」で三つ以内に絞り、肩書・実績の数字・年数は必須にせず、型に合う経験の中身（どんな顧客に、何を、どう働きかけたか）で書く**と、経験者だけでなく転向層も母集団に入ります。型を決めずに要件を積むと、サポート寄りと営業寄りの両方の要件が混ざり、誰にも当てはまらなくなります。母集団形成は[カスタマーサクセスの母集団形成](/media/rpo-customer-success-boshuudan/)に、代行に出す工程の線は[カスタマーサクセス採用を代行に出す判断基準](/media/rpo-customer-success-rpo/)にまとめています。

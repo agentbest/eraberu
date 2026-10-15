@@ -9,7 +9,7 @@ tags: ["採用代行", "インサイドセールス", "スカウト", "ダイレ
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-inside-sales-scout"
-related: ["rpo-inside-sales-boshuudan", "rpo-inside-sales-rpo", "rpo-inside-sales-youken", "rpo-biyoshi-scout"]
+related: ["rpo-inside-sales-boshuudan", "rpo-inside-sales-hiyou", "rpo-inside-sales-rpo", "rpo-inside-sales-youken"]
 ---
 
 インサイドセールスにスカウトを送っても返信が来ない会社の文面には、共通点があります。「インサイドセールスを募集しています」「架電でアポイントを獲得していただきます」「成長企業で営業組織を一緒に」と書かれていて、分担も、指標も、見込み客の状態も、フィールドセールスとの関係も無い。インサイドセールスの経験者はこれを読んで、「テレアポの募集をインサイドセールスと呼んでいる会社」と判断し、閉じます。結論を先に書くと、**インサイドセールスへのスカウトは、転向元ごとに対象を分け、一行目で候補者が聞き出してきた課題や作った商談の一点に触れ、分担・指標・見込み客の質と量・架電の型・フィールドセールスとの関係を先に書き、会社の紹介は後ろに回す**型にすると、返信が変わります。母集団形成の全体は[インサイドセールスの母集団形成](/media/rpo-inside-sales-boshuudan/)に、営業全般の文面は[営業向けスカウト文面の型](/media/rpo-sales-scout/)にまとめています。

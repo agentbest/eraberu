@@ -9,7 +9,7 @@ tags: ["採用代行", "インサイドセールス", "母集団形成", "求人
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-inside-sales-boshuudan"
-related: ["rpo-inside-sales-youken", "rpo-inside-sales-rpo", "rpo-inside-sales-scout", "rpo-customer-success-boshuudan"]
+related: ["rpo-inside-sales-youken", "rpo-inside-sales-hiyou", "rpo-inside-sales-rpo", "rpo-inside-sales-scout"]
 ---
 
 インサイドセールスの募集で起きる母集団の問題は、応募がまったく来ない場合と、応募は来るがテレアポや営業事務の経験者ばかりで、見込み客の課題を聞き出して質の高い商談を作る経験のある人が来ない場合に分かれます。後者のほうが多く、原因の大半は求人票にあります。結論を先に書くと、**インサイドセールスの母集団形成は、「求人票で分担・指標・見込み客の質と量・架電の型を示す」「出し先を転向層を含む場所にする」「スカウトを接触の質の経験で絞る」「一次対応を速くする」の順に見直し、前の段階が直る前に次に進まない**ことが要です。インサイドセールスは比較的新しい職種で、経験者だけを待つと母集団が狭く、転向層を入れる設計が母集団の大きさを決めます。代行に出す工程の線は[インサイドセールス採用を代行に出す判断基準](/media/rpo-inside-sales-rpo/)に、営業全般の母集団形成は[営業の母集団形成](/media/rpo-sales-boshuudan/)にまとめています。

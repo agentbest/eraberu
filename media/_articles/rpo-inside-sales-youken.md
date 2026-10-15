@@ -9,7 +9,7 @@ tags: ["採用代行", "インサイドセールス", "採用要件", "必須と
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-inside-sales-youken"
-related: ["rpo-inside-sales-boshuudan", "rpo-inside-sales-rpo", "rpo-inside-sales-scout", "rpo-customer-success-youken"]
+related: ["rpo-inside-sales-boshuudan", "rpo-inside-sales-hiyou", "rpo-inside-sales-rpo", "rpo-inside-sales-scout"]
 ---
 
 インサイドセールスの求人票の必須要件には、「インサイドセールスの実務経験」「一日〇〇件以上の架電の実績」「法人営業の経験」「経験二年以上」が並びがちです。インサイドセールスの経験者は限られ、架電の数は商談の質を示さず、法人営業の経験は分担が違えば再現されません。結論を先に書くと、**インサイドセールスの採用要件は、先に自社の分担（マーケティング・インサイドセールス・フィールドセールスが何を）と指標（数か質か受注への貢献か）を決め、必須を「入社初日に自社の分担で接触が成り立つか」で三つ以内に絞り、肩書・架電の数・年数は必須にせず、「顧客の課題を聞き出す接触」の経験で書く**と、経験者だけでなく転向層も母集団に入り、質の高い商談を作れる人が採れます。肩書と架電の数で書くと、テレアポの経験者が来て、商談の質が上がりません。母集団形成は[インサイドセールスの母集団形成](/media/rpo-inside-sales-boshuudan/)に、営業全般の要件は[営業の採用要件の作り方](/media/rpo-sales-youken/)にまとめています。

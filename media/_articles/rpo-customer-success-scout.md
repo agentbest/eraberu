@@ -9,7 +9,7 @@ tags: ["採用代行", "カスタマーサクセス", "スカウト", "ダイレ
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-customer-success-scout"
-related: ["rpo-customer-success-boshuudan", "rpo-customer-success-rpo", "rpo-customer-success-youken", "rpo-biyoshi-scout"]
+related: ["rpo-customer-success-boshuudan", "rpo-customer-success-hiyou", "rpo-customer-success-rpo", "rpo-customer-success-youken"]
 ---
 
 カスタマーサクセスにスカウトを送っても返信が来ない会社の文面には、共通点があります。「カスタマーサクセスを募集しています」「顧客の成功を一緒に支えてくれる仲間を」「顧客に寄り添う仕事です」と書かれていて、サポート寄りか営業寄りか、営業やサポートとの分担、何で評価されるか、顧客の状態が無い。カスタマーサクセスの経験者はこれを読んで、「型が分からない」「何でも屋になりそう」と判断し、閉じます。結論を先に書くと、**カスタマーサクセスへのスカウトは、転向元ごとに対象を分け、一行目で候補者が担当してきた顧客と継続・拡大の取り組みの一点に触れ、自社の型・分担・指標と評価・顧客の状態を先に書き、会社の紹介は後ろに回す**型にすると、返信が変わります。母集団形成の全体は[カスタマーサクセスの母集団形成](/media/rpo-customer-success-boshuudan/)に、インサイドセールス向けの文面は[インサイドセールス向けスカウト文面の型](/media/rpo-inside-sales-scout/)にまとめています。
