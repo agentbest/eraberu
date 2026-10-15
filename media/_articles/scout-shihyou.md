@@ -9,7 +9,7 @@ tags: ["スカウト代行", "指標", "KPI", "スカウト運用", "改善"]
 pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "scout-shihyou"
-related: ["scout-kensho-tan-i", "scout-abtest", "scout-ai-bunmen", "scout-boshuudan-hirosugi"]
+related: ["scout-henshinritsu-souba", "scout-kensho-tan-i", "scout-abtest", "scout-ai-bunmen"]
 ---
 
 スカウトの指標として、何を見ればよいのか。返信率は見ている。ただ、その数字が良いのか悪いのかも、次に何をすればよいのかも、そこからは出てこない。代行のレポートには数字が並ぶが、読んでも「で、どうする」が決まらない。結論を先に書くと、**スカウトの指標は、「返信率」一つではなく、送信・開封・返信・面談・応募・内定の六段について、「数」「日数」「層」の三つを並べます。そのうえで、自社がいま動かせる指標を三つに絞り、それだけを毎週見ます。六段全部を毎週見ると、数字を眺めるだけで終わります**。どの単位で切るかは[どの単位で効果を検証するか](/media/scout-kensho-tan-i/)に、採用全体のKPIの置き方は[採用KPIに何を置くべきか](/media/rpo-kpi-erabenai/)にまとめています。

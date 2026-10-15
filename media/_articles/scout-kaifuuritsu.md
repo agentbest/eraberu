@@ -9,7 +9,7 @@ tags: ["スカウト代行", "開封率", "返信率", "スカウト改善", "�
 pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "scout-kaifuuritsu"
-related: ["scout-henshin-nashi-genin", "scout-kenmei", "scout-kenmei-ng", "scout-soushin-jikantai"]
+related: ["scout-henshin-nashi-genin", "scout-henshinritsu-souba", "scout-kenmei", "scout-kenmei-ng"]
 ---
 
 スカウトを送っているが、開封率も返信率も低い。「件名を変えれば開封が上がる」「本文を変えれば返信が上がる」と言われるが、どちらから手を付ければよいか分からない。両方を同時に変えて、何が効いたか分からなくなった。結論を先に書くと、**開封率と返信率のどちらを先に改善するかは、「数字が低いほう」で決めるものではなく、「どこで落ちているか」と「自社で動かせるか」で決めます。開封率は「件名と送り主」で動き、返信率は「一段落目と対象と条件」で動きます。落ちている場所を見分け、動かせるものから、一つずつ変えて測ります。両方が低いなら、先に対象を見直します**。返信が来ない場合の全体は[スカウトの返信が来ない](/media/rpo-scout-henshin-nai/)に、週次の振り返りは[週次の振り返りで見る数字](/media/scout-furikaeri/)にまとめています。開封率や返信率の数字は、媒体によって取れるものと取れないものがあり、仕様は各媒体の公式の案内で確認します。

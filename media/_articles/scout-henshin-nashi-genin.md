@@ -9,7 +9,7 @@ tags: ["スカウト代行", "返信率", "スカウト運用", "原因の切り
 pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "scout-henshin-nashi-genin"
-related: ["scout-abtest", "scout-ai-bunmen", "scout-boshuudan-hirosugi", "scout-boshuudan-semasugi"]
+related: ["scout-henshinritsu-souba", "scout-abtest", "scout-ai-bunmen", "scout-boshuudan-hirosugi"]
 ---
 
 スカウトを送っている。数十通、数百通。返信がゼロのまま、数週間が過ぎた。文面を何度も直したが変わらない。担当者に聞くと「もう少し様子を見ましょう」「文面をもう一度変えてみます」。何が原因かが分からないまま、送信だけが続く。結論を先に書くと、**返信ゼロが続くときは、「文面」から直しません。「届いているか」「対象は合っているか」「送り主と件名」「一段落目」「役割と条件」「時期」の順に、一つずつ切り分けます。返信率が低いのではなく「ゼロ」のときは、文面より手前の、届いていないか、対象が違うか、のどちらかであることが多く、そこを見ずに文面を直しても変わりません**。返信が少ない（ゼロではない）ときの切り分けは[スカウトの返信が来ない原因の切り分け](/media/rpo-scout-henshin-nai/)に、担当者の説明の受け止め方は[返信率が上がらないと言われたとき](/media/scout-daikou-kadai-henshin/)にまとめています。
