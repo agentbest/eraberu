@@ -9,7 +9,7 @@ tags: ["採用代行", "機械設計採用", "任せる範囲", "装置設計", 
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-kikai-sekkei-rpo"
-related: ["rpo-kikai-sekkei-boshuudan", "rpo-kikai-sekkei-youken", "rpo-kikai-sekkei-scout", "rpo-biyoshi-rpo"]
+related: ["rpo-kikai-sekkei-boshuudan", "rpo-kikai-sekkei-youken", "rpo-kikai-sekkei-scout", "rpo-kikai-sekkei-hiyou"]
 ---
 
 機械設計の採用を代行に出すか迷う会社は、「求人票を作って媒体に出す工程はお願いしたいが、機械を知らない人に設計者の採用が回せるのか」「図面を見ないと判断できないのに、外の人に何ができるのか」で止まります。結論を先に書くと、**求人票の作成・媒体の運用・スカウト・応募者への一次対応・面接の日程の確保・内定後の対応は代行に任せられ、機械設計の中身と対象と工程の整理・任せる範囲・図面の扱い・要件の決定・設計の質の評価・合否の判断は社内に残す**のが線です。機械設計は、電気設計や建築設計と同じく「設計の分かる人」は社内にいます。足りないのは、採用の工程を回す人と、「何を設計し、どこまで任せるか」を候補者に伝わる形で書く工程です。そこが代行に出す価値になります。他の職種と共通する分け方は[人事採用を代行に出す判断基準](/media/rpo-jinji-rpo/)に、隣接する電気設計の線は[電気設計採用を代行に出す判断基準](/media/rpo-denki-sekkei-rpo/)にまとめています。

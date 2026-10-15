@@ -9,7 +9,7 @@ tags: ["採用代行", "電気設計採用", "任せる範囲", "制御設計", 
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-denki-sekkei-rpo"
-related: ["rpo-denki-sekkei-boshuudan", "rpo-denki-sekkei-youken", "rpo-denki-sekkei-scout", "rpo-biyoshi-rpo"]
+related: ["rpo-denki-sekkei-boshuudan", "rpo-denki-sekkei-youken", "rpo-denki-sekkei-hiyou", "rpo-denki-sekkei-scout"]
 ---
 
 電気設計の採用を代行に出すか迷う会社は、「求人票を作って媒体に出す工程はお願いしたいが、電気を知らない人に設計者の採用が回せるのか」「そもそも電気設計の経験者が市場にいないのに、代行に出して意味があるのか」で止まります。結論を先に書くと、**求人票の作成・媒体の運用・スカウト・応募者への一次対応・面接の日程の確保・内定後の対応は代行に任せられ、電気設計の中身と対象と工程の整理・任せる範囲・要件の決定・設計の質の評価・合否の判断は社内に残す**のが線です。電気設計は、施工管理や建築設計と同じく「設計の分かる人」は社内にいます。足りないのは、採用の工程を回す人と、「何を設計し、どこまで任せるか」を候補者に伝わる形で書く工程です。そこが代行に出す価値になります。他の職種と共通する分け方は[人事採用を代行に出す判断基準](/media/rpo-jinji-rpo/)に、同じ設計職の建築設計の線は[建築設計採用を代行に出す判断基準](/media/rpo-kenchiku-sekkei-rpo/)にまとめています。

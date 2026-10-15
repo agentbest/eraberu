@@ -9,7 +9,7 @@ tags: ["採用代行", "生産技術採用", "任せる範囲", "工程設計", 
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-seisan-gijutsu-rpo"
-related: ["rpo-seisan-gijutsu-boshuudan", "rpo-seisan-gijutsu-youken", "rpo-seisan-gijutsu-scout", "rpo-biyoshi-rpo"]
+related: ["rpo-seisan-gijutsu-boshuudan", "rpo-seisan-gijutsu-youken", "rpo-seisan-gijutsu-scout", "rpo-seisan-gijutsu-hiyou"]
 ---
 
 生産技術の採用を代行に出すか迷う会社は、「求人票を作って媒体に出す工程はお願いしたいが、工場を知らない人に生産技術の採用が回せるのか」「生産技術という言葉が会社ごとに違いすぎて、外の人に伝わるのか」で止まります。結論を先に書くと、**求人票の作成・媒体の運用・スカウト・応募者への一次対応・面接の日程の確保・内定後の対応は代行に任せられ、生産技術の中身と加工の種類と工程の整理・任せる範囲と設備投資の裁量・要件の決定・技術と現場との関わりの評価・合否の判断は社内に残す**のが線です。生産技術は、機械設計や電気設計と同じく「技術の分かる人」は社内にいます。足りないのは、採用の工程を回す人と、「何を任せ、どこまで裁量があるか」を候補者に伝わる形で書く工程です。そこが代行に出す価値になります。他の職種と共通する分け方は[人事採用を代行に出す判断基準](/media/rpo-jinji-rpo/)に、隣接する機械設計の線は[機械設計採用を代行に出す判断基準](/media/rpo-kikai-sekkei-rpo/)にまとめています。
