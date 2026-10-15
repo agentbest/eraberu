@@ -9,7 +9,7 @@ tags: ["採用代行", "マーケター採用", "母集団形成", "求人票", 
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-marketer-boshuudan"
-related: ["rpo-marketer-rpo", "rpo-marketer-scout", "rpo-marketer-youken", "rpo-biyoshi-boshuudan"]
+related: ["rpo-marketer-rpo", "rpo-marketer-scout", "rpo-marketer-youken", "rpo-marketer-hiyou"]
 ---
 
 マーケターの募集で起きる母集団の問題は、応募がまったく来ない場合と、応募は来るが領域が違う（広告運用の人が欲しいのにコンテンツの人が来る、その逆）場合、面接まで進んで「予算が無い」「経営者が全部決める」と見送られる場合に分かれます。原因の多くは求人票にあります。結論を先に書くと、**マーケターの母集団形成は、「求人票で課題・領域・実行か戦略か・予算・指標を示す」「出し先を領域に合う人のいる場所にする」「スカウトを領域と段階で分ける」「面接で予算と評価を正直に伝える」の順に見直し、前の段階が直る前に次に進まない**ことが要です。マーケターは、求人票で「何の課題を、いくらの予算で、どこまで任されるか」を読んで応募を決め、面接で「本当にそうか」を確かめます。代行に出す工程の線は[マーケター採用を代行に出す判断基準](/media/rpo-marketer-rpo/)に、営業系の母集団形成は[営業の母集団形成](/media/rpo-sales-boshuudan/)にまとめています。
