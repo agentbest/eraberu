@@ -9,7 +9,7 @@ tags: ["採用代行", "プロダクトマネージャー", "母集団形成", "
 pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "rpo-pdm-boshuudan"
-related: ["rpo-pdm-scout", "rpo-pdm-rpo", "rpo-pdm-youken", "rpo-data-scientist-boshuudan"]
+related: ["rpo-pdm-scout", "rpo-pdm-hiyou", "rpo-pdm-rpo", "rpo-pdm-youken"]
 ---
 
 プロダクトマネージャーの募集を出したのに、応募が集まらない。あるいは応募は来るのに、面談まで進むと話が噛み合わない。この職種の母集団形成で起きるのは、たいてい後者です。結論を先に書くと、**出し先や文面を変える前に、「何を決める役割か」が求人に書かれているかを確認してください**。そこが空いたまま母集団を広げても、合わない応募が増えるだけです。外に出せる工程の全体像は、この記事の後半で整理します。

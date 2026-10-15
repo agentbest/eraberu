@@ -9,7 +9,7 @@ tags: ["採用代行", "プロダクトマネージャー", "スカウト", "文
 pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "rpo-pdm-scout"
-related: ["rpo-pdm-boshuudan", "rpo-pdm-rpo", "rpo-pdm-youken", "rpo-biyoshi-scout"]
+related: ["rpo-pdm-boshuudan", "rpo-pdm-hiyou", "rpo-pdm-rpo", "rpo-pdm-youken"]
 ---
 
 プロダクトマネージャーにスカウトを送っても、返信が来ない。来ても、面談で「思っていた役割と違う」と言われる。この職種のスカウトで起きる問題は、ほぼこの二つです。結論を先に書くと、**文面の一行目に「何を決める役割か」を書き、会社の紹介はその後に回してください**。読む側が最初に知りたいのはそこです。母集団形成の全体の順番は[プロダクトマネージャーの母集団形成](/media/rpo-pdm-boshuudan/)にまとめています。

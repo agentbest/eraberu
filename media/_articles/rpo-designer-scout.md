@@ -9,7 +9,7 @@ tags: ["採用代行", "デザイナー採用", "スカウト", "ポートフォ
 pubDate: 2026-09-16
 reviewedAt: 2026-09-16
 slug: "rpo-designer-scout"
-related: ["rpo-designer-boshuudan", "rpo-designer-rpo", "rpo-designer-youken", "rpo-biyoshi-scout"]
+related: ["rpo-designer-boshuudan", "rpo-designer-rpo", "rpo-designer-youken", "rpo-designer-hiyou"]
 ---
 
 デザイナーにスカウトを送っても返信が来ない会社の文面には、共通点があります。ポートフォリオを見ずに、経歴の肩書で「デザイナーを募集しています」から始まり、会社の紹介が続き、「ぜひお話を」で終わる。デザイナーは、一行目で「自分の作品を見たか」を判断し、見ていないと分かれば閉じます。結論を先に書くと、**デザイナーへのスカウトは、領域とポートフォリオで対象を絞り、一行目でポートフォリオの具体的な作品の一点と自社の課題の重なりに触れ、領域・作るもの・デザインの位置づけ・環境を先に書き、会社の紹介は後ろに回す**型にすると、同じ送信数で返信が変わります。母集団形成の全体は[デザイナーの母集団形成](/media/rpo-designer-boshuudan/)に、開発エンジニア向けの文面は[エンジニア向けスカウト文面の型](/media/rpo-engineer-scout/)にまとめています。

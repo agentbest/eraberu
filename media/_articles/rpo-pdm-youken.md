@@ -9,7 +9,7 @@ tags: ["採用代行", "プロダクトマネージャー", "採用要件", "必
 pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "rpo-pdm-youken"
-related: ["rpo-pdm-boshuudan", "rpo-pdm-rpo", "rpo-pdm-scout", "rpo-biyoshi-youken"]
+related: ["rpo-pdm-boshuudan", "rpo-pdm-hiyou", "rpo-pdm-rpo", "rpo-pdm-scout"]
 ---
 
 プロダクトマネージャーの採用要件を書き出すと、たいてい全部が必須に見えます。企画もできて、開発とも話せて、数字も見られて、人もまとめられる。そんな人は少なく、いても他社が先に決めています。結論を先に書くと、**必須は「入社後すぐに担う範囲で、無いと仕事が始まらないもの」だけに絞り、それ以外は歓迎に回してください**。要件を使った母集団の作り方は[プロダクトマネージャーの母集団形成](/media/rpo-pdm-boshuudan/)にまとめています。

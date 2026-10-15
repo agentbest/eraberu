@@ -9,7 +9,7 @@ tags: ["採用代行", "デザイナー採用", "母集団形成", "求人票", 
 pubDate: 2026-09-16
 reviewedAt: 2026-09-16
 slug: "rpo-designer-boshuudan"
-related: ["rpo-designer-rpo", "rpo-designer-scout", "rpo-designer-youken", "rpo-kenchiku-sekkei-boshuudan"]
+related: ["rpo-designer-rpo", "rpo-designer-scout", "rpo-designer-youken", "rpo-designer-hiyou"]
 ---
 
 デザイナーの募集で起きる母集団の問題は、応募がまったく来ない場合と、応募は来るが領域が違う（UIデザイナーが欲しいのにグラフィックの人が来る、その逆）場合、ポートフォリオを見ても判断できず選考が止まる場合に分かれます。どれも、原因の多くは求人票と評価の体制にあります。結論を先に書くと、**デザイナーの母集団形成は、「求人票で領域・作るもの・位置づけ・環境を示す」「出し先をデザイナーのいる場所にする」「スカウトをポートフォリオを見て個別化する」「選考にポートフォリオを評価する人が出る」の順に見直し、前の段階が直る前に次に進まない**ことが要です。デザイナーは、求人票で「何を作るか」「デザインがどう扱われるか」を読んで応募を決め、面接で「デザインの話が通じるか」を確かめます。代行に出す工程の線は[デザイナー採用を代行に出す判断基準](/media/rpo-designer-rpo/)に、開発エンジニアの母集団形成は[エンジニアの母集団形成](/media/rpo-engineer-boshuudan/)にまとめています。
