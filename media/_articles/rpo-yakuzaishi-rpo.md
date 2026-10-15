@@ -9,7 +9,7 @@ tags: ["採用代行", "薬剤師採用", "任せる範囲", "調剤薬局", "�
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-yakuzaishi-rpo"
-related: ["rpo-yakuzaishi-boshuudan", "rpo-yakuzaishi-youken", "rpo-yakuzaishi-scout", "rpo-biyoshi-rpo"]
+related: ["rpo-yakuzaishi-boshuudan", "rpo-yakuzaishi-youken", "rpo-yakuzaishi-hiyou", "rpo-yakuzaishi-scout"]
 ---
 
 薬剤師の採用を代行に出すか迷う会社は、「これまで人材紹介会社に頼んできたが、成功報酬が重く、自社で採れる形にしたい」「求人票を作って媒体に出す工程はお願いしたいが、薬局の実態を知らない人に薬剤師の採用が回せるのか」で止まります。結論を先に書くと、**求人票の作成・媒体の運用・スカウト・応募者への一次対応・面接の日程の確保・内定後の対応は代行に任せられ、業態と店舗と業務の整理・配置と管理薬剤師の方針・店舗の異動と勤務地の方針・要件の決定・調剤と服薬指導の質の評価・合否の判断は社内に残す**のが線です。薬剤師は、国家資格で母数が限られ、法令上の配置基準が関わり、業界が人材紹介会社に依存してきたという特有の事情があります。「自社で採る仕組みを作る」ことが、代行に出す価値になります。他の職種と共通する分け方は[人事採用を代行に出す判断基準](/media/rpo-jinji-rpo/)に、隣接するMRの線は[MR採用を代行に出す判断基準](/media/rpo-mr-rpo/)にまとめています。
