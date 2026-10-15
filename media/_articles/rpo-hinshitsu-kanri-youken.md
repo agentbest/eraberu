@@ -9,7 +9,7 @@ tags: ["採用代行", "品質管理採用", "採用要件", "必須条件", "�
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-hinshitsu-kanri-youken"
-related: ["rpo-hinshitsu-kanri-boshuudan", "rpo-hinshitsu-kanri-rpo", "rpo-hinshitsu-kanri-scout", "rpo-biyoshi-youken"]
+related: ["rpo-hinshitsu-kanri-boshuudan", "rpo-hinshitsu-kanri-rpo", "rpo-hinshitsu-kanri-hiyou", "rpo-hinshitsu-kanri-scout"]
 ---
 
 品質管理の採用要件を作ると、「品質管理経験五年以上」「工程内の品質管理と品質保証の両方」「同じ業界の経験」「ISOの内部監査員の経験」「品質管理の資格」「統計的手法の知識」「英語での顧客対応」「粘り強さのある方」と膨らみます。中身（工程内・品質保証・検査）と業界と任せる工程と権限を決めずに、品質保証部長や経営者が「理想の品質管理者」と「自社にある仕組みと同じ経験」を要件にしてしまうことが原因です。膨らんだ要件は、該当する人が市場にほとんどいないか、該当しても他社に決まるか、同じ業界そのものや資格を必須にして、顧客の要求が近い業界で是正の仕組みを作ってきた人を外してしまうかのどれかになります。結論を先に書くと、**品質管理の要件は「任せる中身・業界・工程」から決め、必須を「同じ中身で顧客の要求が近い業界の経験」「任せる工程を担った経験」「製造と一緒に原因を究明して是正した経験」の三つに絞り、それ以外の中身・同じ業界そのもの・資格や認証の経験・統計的手法・英語・年数は歓迎に回す**と、該当する人が現れ、面接で確かめるべきことも決まります。中身・業界・工程と権限の整理は[品質管理採用を代行に出す判断基準](/media/rpo-hinshitsu-kanri-rpo/)に、母集団形成は[品質管理の母集団形成](/media/rpo-hinshitsu-kanri-boshuudan/)にまとめています。

@@ -9,7 +9,7 @@ tags: ["採用代行", "研究開発採用", "母集団形成", "求人票", "�
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-kenkyu-kaihatsu-boshuudan"
-related: ["rpo-kenkyu-kaihatsu-rpo", "rpo-kenkyu-kaihatsu-youken", "rpo-kenkyu-kaihatsu-scout", "rpo-biyoshi-boshuudan"]
+related: ["rpo-kenkyu-kaihatsu-rpo", "rpo-kenkyu-kaihatsu-youken", "rpo-kenkyu-kaihatsu-scout", "rpo-kenkyu-kaihatsu-hiyou"]
 ---
 
 研究開発の募集で起きる母集団の問題は、応募がまったく来ない場合、応募は来るが基礎・応用・開発のうち自社と違う中身の人か、違う分野の人ばかりの場合、面接まで進んで「テーマは全部決まっていて研究者は手を動かすだけ」「論文も学会発表もできない」「事業化まで遠すぎる、または近すぎる」と分かって辞退される場合に分かれます。研究開発の採用に特有なのは、研究者が求人媒体をほとんど見ておらず、研究室のつながりや学会や任期の区切りで動くこと、そして「何のテーマを、どこまで自由に、どう評価するか」で会社を判断することです。結論を先に書くと、**研究開発の母集団形成は、「求人票で中身・分野・テーマ・自由度・評価と発表・環境と学位・研究所長を示す」「出し先を大学や研究機関との接点に移す」「スカウトを分野とテーマで分け、候補者の研究に触れる」「面接で研究所長が研究の話をし、研究室を見せ、一次対応を当日にする」の順に見直し、前の段階が直る前に次に進まない**ことが要です。代行に出す工程の線は[研究開発採用を代行に出す判断基準](/media/rpo-kenkyu-kaihatsu-rpo/)に、隣接する機械設計の母集団形成は[機械設計の母集団形成](/media/rpo-kikai-sekkei-boshuudan/)にまとめています。

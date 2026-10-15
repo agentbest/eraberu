@@ -9,7 +9,7 @@ tags: ["採用代行", "品質管理採用", "任せる範囲", "品質保証", 
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-hinshitsu-kanri-rpo"
-related: ["rpo-hinshitsu-kanri-boshuudan", "rpo-hinshitsu-kanri-youken", "rpo-hinshitsu-kanri-scout", "rpo-biyoshi-rpo"]
+related: ["rpo-hinshitsu-kanri-boshuudan", "rpo-hinshitsu-kanri-youken", "rpo-hinshitsu-kanri-hiyou", "rpo-hinshitsu-kanri-scout"]
 ---
 
 品質管理の採用を代行に出すか迷う会社は、「求人票を作って媒体に出す工程はお願いしたいが、品質を知らない人に品質管理の採用が回せるのか」「うちの業界の品質の要求は特殊で、外の人に伝わるのか」で止まります。結論を先に書くと、**求人票の作成・媒体の運用・スカウト・応募者への一次対応・面接の日程の確保・内定後の対応は代行に任せられ、品質管理の中身と業界と工程の整理・権限と製造との関係の決定・要件の決定・品質の判断と顧客対応の評価・合否の判断は社内に残す**のが線です。品質管理は、生産技術と同じく「品質の分かる人」は社内にいます。足りないのは、採用の工程を回す人と、「何を任せ、どこまで権限があるか」を候補者に伝わる形で書く工程です。そこが代行に出す価値になります。他の職種と共通する分け方は[人事採用を代行に出す判断基準](/media/rpo-jinji-rpo/)に、隣接する生産技術の線は[生産技術採用を代行に出す判断基準](/media/rpo-seisan-gijutsu-rpo/)にまとめています。

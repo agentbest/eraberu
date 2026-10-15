@@ -9,7 +9,7 @@ tags: ["採用代行", "研究開発採用", "任せる範囲", "テーマの自
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-kenkyu-kaihatsu-rpo"
-related: ["rpo-kenkyu-kaihatsu-boshuudan", "rpo-kenkyu-kaihatsu-youken", "rpo-kenkyu-kaihatsu-scout", "rpo-biyoshi-rpo"]
+related: ["rpo-kenkyu-kaihatsu-boshuudan", "rpo-kenkyu-kaihatsu-youken", "rpo-kenkyu-kaihatsu-scout", "rpo-kenkyu-kaihatsu-hiyou"]
 ---
 
 研究開発の採用を代行に出すか迷う会社は、「求人票を作って媒体に出す工程はお願いしたいが、研究の中身を知らない人に研究者の採用が回せるのか」「研究者は求人媒体を見ていないのに、代行に出して意味があるのか」で止まります。結論を先に書くと、**求人票の作成・媒体の運用・スカウト・応募者への一次対応・面接の日程の確保・内定後の対応は代行に任せられ、研究開発の中身と分野とテーマの整理・テーマの自由度と成果の測り方の決定・学位の要否・要件の決定・研究の質の評価・合否の判断は社内に残す**のが線です。研究開発は、設計や生産技術と同じく「研究の分かる人」は社内にいます。足りないのは、採用の工程を回す人と、「何のテーマを、どこまで自由に、どう評価するか」を候補者に伝わる形で書く工程です。そこが代行に出す価値になります。他の職種と共通する分け方は[人事採用を代行に出す判断基準](/media/rpo-jinji-rpo/)に、隣接する機械設計の線は[機械設計採用を代行に出す判断基準](/media/rpo-kikai-sekkei-rpo/)にまとめています。
