@@ -9,7 +9,7 @@ tags: ["採用代行", "エンジニア採用", "スカウト", "ダイレクト
 pubDate: 2026-09-16
 reviewedAt: 2026-09-16
 slug: "rpo-engineer-scout"
-related: ["rpo-engineer-boshuudan", "rpo-engineer-rpo", "rpo-engineer-youken", "rpo-biyoshi-scout"]
+related: ["rpo-engineer-boshuudan", "rpo-engineer-hiyou", "rpo-engineer-rpo", "rpo-engineer-youken"]
 ---
 
 エンジニアにスカウトを送っても返信が来ない。送る数を増やしても変わらない。この状態の会社の文面を見ると、ほとんどが同じ形をしています。会社の紹介から始まり、事業の説明が続き、最後に「ぜひ一度お話を」で終わる。候補者の経歴には触れていない。結論を先に書くと、**エンジニアへのスカウトは、一行目で候補者の経歴の具体的な一点に触れ、次に技術環境と任される範囲を書き、会社の紹介は最後に回す**型にすると、同じ送信数で返信が変わります。エンジニアは、一行目で「自分の経歴を読んだか」を判断し、読んでいないと分かれば以降を読みません。母集団形成の全体は[エンジニアの母集団形成](/media/rpo-engineer-boshuudan/)に、代行に出す工程の線は[エンジニア採用を代行に出す判断基準](/media/rpo-engineer-rpo/)にまとめています。

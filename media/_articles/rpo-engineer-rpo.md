@@ -9,7 +9,7 @@ tags: ["採用代行", "エンジニア採用", "工程の切り分け", "技術
 pubDate: 2026-09-16
 reviewedAt: 2026-09-16
 slug: "rpo-engineer-rpo"
-related: ["rpo-engineer-boshuudan", "rpo-engineer-scout", "rpo-engineer-youken", "rpo-data-scientist-rpo"]
+related: ["rpo-engineer-boshuudan", "rpo-engineer-hiyou", "rpo-engineer-scout", "rpo-engineer-youken"]
 ---
 
 エンジニアの採用がうまくいかず、代行に出すことを考える会社は多い。ただ、エンジニア採用は他の職種と違い、「全部任せる」が最も失敗しやすい職種です。母集団を作る工程は外に出せても、技術を見極める工程と、どんなエンジニアが要るかを決める工程は、社内に残さないと採れません。結論を先に書くと、**エンジニア採用で代行に出せるのは「探す・届ける・一次対応する・進捗を回す」の工程で、「要件を決める・技術を評価する・条件を決める」は社内に残す**のが線です。この線を引かずに任せると、応募は増えても、面接で合わない人ばかりになります。エンジニアが採れない構造の全体は[エンジニアが採れない理由と打ち手](/media/rpo-engineer-torenai/)に、採用代行そのものの整理は[採用代行（RPO）とは](/media/rpo-toha/)にまとめています。

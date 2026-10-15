@@ -9,7 +9,7 @@ tags: ["採用代行", "エンジニア採用", "母集団形成", "求人票", 
 pubDate: 2026-09-16
 reviewedAt: 2026-09-16
 slug: "rpo-engineer-boshuudan"
-related: ["rpo-engineer-rpo", "rpo-engineer-scout", "rpo-engineer-youken", "rpo-data-scientist-boshuudan"]
+related: ["rpo-engineer-rpo", "rpo-engineer-scout", "rpo-engineer-hiyou", "rpo-engineer-youken"]
 ---
 
 エンジニアの募集を出したのに、応募がほとんど来ない。来ても、求めている経験と違う。この状態で多くの会社がやるのは、媒体を増やすことです。ただ、媒体を増やしても、求人票の中身が変わらなければ、同じ結果が増えるだけです。結論を先に書くと、**エンジニアの母集団形成で応募が集まらないときは、「求人票の中身」「出し先」「スカウトの個別化」「選考の速さ」の順に見直し、前の段階が直っていないうちに次の段階に手を付けない**のが、遠回りに見えて最短です。エンジニアは候補者の側が選ぶ職種で、選ばれる材料が求人票に無いまま母集団を広げても、選ばれません。代行に出す工程の線は[エンジニア採用を代行に出す判断基準](/media/rpo-engineer-rpo/)に、スカウトの文面は[エンジニア向けスカウト文面の型](/media/rpo-engineer-scout/)にまとめています。

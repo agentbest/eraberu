@@ -9,7 +9,7 @@ tags: ["採用代行", "エンジニア採用", "採用要件", "必須と歓迎
 pubDate: 2026-09-16
 reviewedAt: 2026-09-16
 slug: "rpo-engineer-youken"
-related: ["rpo-engineer-boshuudan", "rpo-engineer-rpo", "rpo-engineer-scout", "rpo-data-scientist-youken"]
+related: ["rpo-engineer-boshuudan", "rpo-engineer-hiyou", "rpo-engineer-rpo", "rpo-engineer-scout"]
 ---
 
 エンジニアの求人票の「必須要件」を見ると、十項目を超えていることがあります。言語が三つ、フレームワークが二つ、クラウドの経験、設計の経験、チームリードの経験、年数。全部を満たす人は市場にほとんどおらず、いても他社で決まっています。結論を先に書くと、**エンジニアの採用要件は、必須を「入社初日にこれが無いと業務が成り立たないもの」に絞って三つ以内にし、それ以外は歓迎に回す**と、母集団が生まれ、面接で見るべき点も定まります。必須が多い求人は、要件が整理されていないことの表れで、応募が来ないだけでなく、来た応募の何を見ればよいかも分からなくなります。母集団形成の全体は[エンジニアの母集団形成](/media/rpo-engineer-boshuudan/)に、代行に出す工程の線は[エンジニア採用を代行に出す判断基準](/media/rpo-engineer-rpo/)にまとめています。
