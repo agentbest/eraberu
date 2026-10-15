@@ -9,7 +9,7 @@ tags: ["採用代行", "データサイエンティスト", "スカウト", "ダ
 pubDate: 2026-09-16
 reviewedAt: 2026-09-16
 slug: "rpo-data-scientist-scout"
-related: ["rpo-data-scientist-boshuudan", "rpo-data-scientist-rpo", "rpo-data-scientist-youken", "rpo-biyoshi-scout"]
+related: ["rpo-data-scientist-boshuudan", "rpo-data-scientist-hiyou", "rpo-data-scientist-rpo", "rpo-data-scientist-youken"]
 ---
 
 データサイエンティストにスカウトを送っても返信が来ない会社の文面には、共通点があります。「データ活用を推進する仲間を募集」「データドリブンな組織へ」といった言葉が並び、どんなデータがあり、何を分析してほしいのか、結果を誰が使うのかが書かれていない。データ職の候補者はこれを読んで、「データも問いも無い会社」と判断し、閉じます。結論を先に書くと、**データサイエンティストへのスカウトは、役割（分析・モデル・基盤）で対象を分け、一行目で候補者の扱ったデータや解いた問いの一点に触れ、自社の役割・データの状態・最初の問い・結果を使う体制を先に書き、会社の紹介は後ろに回す**型にすると、返信が変わります。母集団形成の全体は[データサイエンティストの母集団形成](/media/rpo-data-scientist-boshuudan/)に、開発エンジニア向けの文面は[エンジニア向けスカウト文面の型](/media/rpo-engineer-scout/)にまとめています。

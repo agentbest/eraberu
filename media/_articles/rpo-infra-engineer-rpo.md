@@ -9,7 +9,7 @@ tags: ["採用代行", "インフラエンジニア", "工程の切り分け", "
 pubDate: 2026-09-16
 reviewedAt: 2026-09-16
 slug: "rpo-infra-engineer-rpo"
-related: ["rpo-infra-engineer-boshuudan", "rpo-infra-engineer-scout", "rpo-infra-engineer-youken", "rpo-data-scientist-rpo"]
+related: ["rpo-infra-engineer-boshuudan", "rpo-infra-engineer-hiyou", "rpo-infra-engineer-scout", "rpo-infra-engineer-youken"]
 ---
 
 インフラエンジニアの採用を代行に出すとき、開発エンジニアと同じ感覚で頼むと、ずれます。インフラの職種は、運用・保守が中心の人と、設計・構築ができる人で、市場も経歴も大きく違い、求人票で「どちらを採るか」が曖昧なまま募集すると、来てほしい層と違う応募ばかりになります。結論を先に書くと、**インフラエンジニア採用で代行に出せるのは「探す・届ける・一次対応する・進捗を回す」で、「運用と構築のどちらを採るかの決定・技術の評価・オンコールや夜間対応の条件の決定」は社内に残す**のが線です。代行は、自社のインフラの構成と運用の実態を知らないので、要件と評価を任せると、名前の一致で絞ることになります。開発エンジニア全般の代行の線は[エンジニア採用を代行に出す判断基準](/media/rpo-engineer-rpo/)に、採用代行そのものの整理は[採用代行（RPO）とは](/media/rpo-toha/)にまとめています。

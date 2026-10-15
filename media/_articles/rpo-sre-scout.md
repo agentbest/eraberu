@@ -9,7 +9,7 @@ tags: ["採用代行", "SRE", "スカウト", "ダイレクトリクルーティ
 pubDate: 2026-09-16
 reviewedAt: 2026-09-16
 slug: "rpo-sre-scout"
-related: ["rpo-sre-boshuudan", "rpo-sre-rpo", "rpo-sre-youken", "rpo-biyoshi-scout"]
+related: ["rpo-sre-boshuudan", "rpo-sre-hiyou", "rpo-sre-rpo", "rpo-sre-youken"]
 ---
 
 SREにスカウトを送っても返信が来ない会社の文面には、共通点があります。「SREを募集しています」と肩書で始まり、業務内容が「インフラの運用・監視・改善」で、信頼性の指標も開発チームとの関係も書かれていない。SREの経験者はこれを読んで、「運用担当をSREと呼んでいる会社」と判断し、閉じます。結論を先に書くと、**SREへのスカウトは、肩書ではなく経験（指標の設計、運用の改善、自動化、開発チームとの協力）で対象を絞り、一行目でその経験の一点に触れ、自社の役割の定義・指標の現状・改善の時間・開発チームとの関係を先に書き、会社の紹介は後ろに回す**型にすると、返信が変わります。母集団形成の全体は[SREの母集団形成](/media/rpo-sre-boshuudan/)に、インフラエンジニア向けの文面は[インフラエンジニア向けスカウト文面の型](/media/rpo-infra-engineer-scout/)にまとめています。

@@ -9,7 +9,7 @@ tags: ["採用代行", "データサイエンティスト", "採用要件", "必
 pubDate: 2026-09-16
 reviewedAt: 2026-09-16
 slug: "rpo-data-scientist-youken"
-related: ["rpo-data-scientist-boshuudan", "rpo-data-scientist-rpo", "rpo-data-scientist-scout", "rpo-engineer-youken"]
+related: ["rpo-data-scientist-boshuudan", "rpo-data-scientist-hiyou", "rpo-data-scientist-rpo", "rpo-data-scientist-scout"]
 ---
 
 データサイエンティストの求人票の必須要件には、「統計の知識」「機械学習の実務経験」「データ基盤の構築経験」「修士以上」「特定の言語と可視化ツール」「事業への貢献の実績」「経験三年以上」が並びがちです。全部を満たす人は市場にほとんどおらず、いても複数の会社から声がかかっています。結論を先に書くと、**データサイエンティストの採用要件は、先に分析・モデル・基盤のどの役割を採るかを決め、必須を「入社初日に自社の問いとデータで業務が成り立つか」で三つ以内に絞り、学位と経験年数は必須にせず、経験の中身（扱ったデータの種類、解いた問い、実運用に乗ったか）で書く**と、母集団が生まれ、面接で見る点も定まります。役割を決めずに要件を積むと、三つの役割の要件が混ざり、誰にも当てはまらなくなります。開発エンジニアの要件は[エンジニアの採用要件の作り方](/media/rpo-engineer-youken/)に、代行に出す工程の線は[データサイエンティスト採用を代行に出す判断基準](/media/rpo-data-scientist-rpo/)にまとめています。

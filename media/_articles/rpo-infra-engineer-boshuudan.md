@@ -9,7 +9,7 @@ tags: ["採用代行", "インフラエンジニア", "母集団形成", "求人
 pubDate: 2026-09-16
 reviewedAt: 2026-09-16
 slug: "rpo-infra-engineer-boshuudan"
-related: ["rpo-infra-engineer-scout", "rpo-infra-engineer-rpo", "rpo-infra-engineer-youken", "rpo-data-scientist-boshuudan"]
+related: ["rpo-infra-engineer-scout", "rpo-infra-engineer-hiyou", "rpo-infra-engineer-rpo", "rpo-infra-engineer-youken"]
 ---
 
 インフラエンジニアの募集で起きる母集団の問題は、二つに分かれます。応募がまったく来ない場合と、応募は来るが運用しかできない人ばかりで、構築ができる人が来ない場合です。後者のほうが多く、会社は「応募は来ているのに決まらない」と感じます。結論を先に書くと、**インフラエンジニアの母集団形成は、「求人票で採る層と働き方の条件を示す」「出し先をインフラ職のいる場所にする」「スカウトを運用と構築で分ける」「現場の面接の枠を確保する」の順に見直し、前の段階が直る前に次に進まない**ことが要です。層と条件が求人票に無いまま母集団を広げると、合わない層が増えるだけです。代行に出す工程の線は[インフラエンジニア採用を代行に出す判断基準](/media/rpo-infra-engineer-rpo/)に、開発エンジニアの母集団形成は[エンジニアの母集団形成](/media/rpo-engineer-boshuudan/)にまとめています。

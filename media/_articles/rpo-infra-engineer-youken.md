@@ -9,7 +9,7 @@ tags: ["採用代行", "インフラエンジニア", "採用要件", "必須と
 pubDate: 2026-09-16
 reviewedAt: 2026-09-16
 slug: "rpo-infra-engineer-youken"
-related: ["rpo-infra-engineer-boshuudan", "rpo-infra-engineer-rpo", "rpo-infra-engineer-scout", "rpo-data-scientist-youken"]
+related: ["rpo-infra-engineer-boshuudan", "rpo-infra-engineer-hiyou", "rpo-infra-engineer-rpo", "rpo-infra-engineer-scout"]
 ---
 
 インフラエンジニアの求人票の必須要件には、「オンプレとクラウドの両方」「サーバとネットワークの両方」「運用と構築の両方」「特定の資格」「経験五年以上」が並びがちです。全部を満たす人は、市場にほとんどおらず、いても条件が高い。結論を先に書くと、**インフラエンジニアの採用要件は、先に「運用か構築か」の層を決め、必須を「入社初日に自社の環境で業務が成り立つか」で三つ以内に絞り、資格と年数は必須にしない**のが、母集団が生まれる形です。層を決めずに要件を積むと、運用の人と構築の人の両方の要件が混ざり、誰にも当てはまらなくなります。開発エンジニアの要件の作り方は[エンジニアの採用要件の作り方](/media/rpo-engineer-youken/)に、代行に出す工程の線は[インフラエンジニア採用を代行に出す判断基準](/media/rpo-infra-engineer-rpo/)にまとめています。

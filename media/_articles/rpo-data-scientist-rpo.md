@@ -9,7 +9,7 @@ tags: ["採用代行", "データサイエンティスト", "工程の切り分�
 pubDate: 2026-09-16
 reviewedAt: 2026-09-16
 slug: "rpo-data-scientist-rpo"
-related: ["rpo-data-scientist-boshuudan", "rpo-data-scientist-scout", "rpo-data-scientist-youken", "rpo-engineer-rpo"]
+related: ["rpo-data-scientist-boshuudan", "rpo-data-scientist-hiyou", "rpo-data-scientist-scout", "rpo-data-scientist-youken"]
 ---
 
 「データを活用したい」という方針から、データサイエンティストの採用を考える会社は多い。ただ、データサイエンティストは、採ること自体より、採ったあとに活躍できる状態が社内にあるかで、採用の成否が決まる職種です。分析に使えるデータが無い、何を分析してほしいかの問いが無い、分析の結果を使う意思決定の場が無い。この状態で採ると、候補者は面接で見抜いて見送るか、入社後に離れます。結論を先に書くと、**データサイエンティスト採用で代行に出せるのは「探す・届ける・一次対応する・進捗を回す」で、「どの役割（分析・モデル・基盤）を採るかの決定・社内のデータと問いの整理・技術と分析力の評価・分析の結果を使う体制の設計」は社内に残す**のが線です。役割とデータと問いが社内で整理されていない募集は、代行に出しても社内で回しても、活躍できる人は採れません。開発エンジニアの代行の線は[エンジニア採用を代行に出す判断基準](/media/rpo-engineer-rpo/)に、採用代行そのものの整理は[採用代行（RPO）とは](/media/rpo-toha/)にまとめています。

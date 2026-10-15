@@ -9,7 +9,7 @@ tags: ["採用代行", "SRE", "母集団形成", "求人票", "スカウト"]
 pubDate: 2026-09-16
 reviewedAt: 2026-09-16
 slug: "rpo-sre-boshuudan"
-related: ["rpo-sre-scout", "rpo-sre-rpo", "rpo-sre-youken", "rpo-data-scientist-boshuudan"]
+related: ["rpo-sre-scout", "rpo-sre-hiyou", "rpo-sre-rpo", "rpo-sre-youken"]
 ---
 
 SREの募集で起きる母集団の問題は、応募がまったく来ない場合と、インフラ運用の人が来てSREの経験者が来ない場合に分かれます。どちらも、原因の多くは求人票にあります。SREの経験者は市場に少なく、求人票で「この会社は本当にSREとして働ける場所か」を厳しく読みます。結論を先に書くと、**SREの母集団形成は、「求人票で役割の定義・指標・改善の時間・開発チームとの関係を示す」「出し先をSREの経験者のいる場所にする」「スカウトでSREと運用を区別する」「面接に開発チームの責任者が出る」の順に見直し、前の段階が直る前に次に進まない**ことが要です。四つの中身が求人票に無いまま母集団を広げても、SREの経験者は見送り、運用の人が増えるだけです。代行に出す工程の線は[SRE採用を代行に出す判断基準](/media/rpo-sre-rpo/)に、インフラエンジニアの母集団形成は[インフラエンジニアの母集団形成](/media/rpo-infra-engineer-boshuudan/)にまとめています。

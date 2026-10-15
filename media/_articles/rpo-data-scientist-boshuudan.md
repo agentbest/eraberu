@@ -9,7 +9,7 @@ tags: ["採用代行", "データサイエンティスト", "母集団形成", "
 pubDate: 2026-09-16
 reviewedAt: 2026-09-16
 slug: "rpo-data-scientist-boshuudan"
-related: ["rpo-data-scientist-scout", "rpo-data-scientist-rpo", "rpo-data-scientist-youken", "rpo-engineer-boshuudan"]
+related: ["rpo-data-scientist-scout", "rpo-data-scientist-hiyou", "rpo-data-scientist-rpo", "rpo-data-scientist-youken"]
 ---
 
 データサイエンティストの募集で起きる母集団の問題は、三つに分かれます。応募がまったく来ない、応募は来るが役割が違う（基盤を作ってほしいのに分析の人が来る、分析をしてほしいのにモデルの研究をしていた人が来る）、面接まで進むと「データが無い」「問いが無い」と見送られる。結論を先に書くと、**データサイエンティストの母集団形成は、「求人票で役割・データの状態・最初の問い・結果を使う体制を示す」「出し先をデータ職のいる場所にする」「スカウトを役割で分ける」「面接に分析の分かる人が出る」の順に見直し、前の段階が直る前に次に進まない**ことが要です。データ職の候補者は、「この会社で分析ができる状態か」を求人票で読み、無ければ応募せず、面接で確かめて無ければ見送ります。代行に出す工程の線は[データサイエンティスト採用を代行に出す判断基準](/media/rpo-data-scientist-rpo/)に、開発エンジニアの母集団形成は[エンジニアの母集団形成](/media/rpo-engineer-boshuudan/)にまとめています。

@@ -9,7 +9,7 @@ tags: ["採用代行", "インフラエンジニア", "スカウト", "ダイレ
 pubDate: 2026-09-16
 reviewedAt: 2026-09-16
 slug: "rpo-infra-engineer-scout"
-related: ["rpo-infra-engineer-boshuudan", "rpo-infra-engineer-rpo", "rpo-infra-engineer-youken", "rpo-biyoshi-scout"]
+related: ["rpo-infra-engineer-boshuudan", "rpo-infra-engineer-hiyou", "rpo-infra-engineer-rpo", "rpo-infra-engineer-youken"]
 ---
 
 インフラエンジニアにスカウトを送っても返信が来ない会社の文面を見ると、二つの共通点があります。運用の人にも構築の人にも同じ文面を送っていることと、夜間対応やオンコールの条件が書かれていないことです。前者は「自分向けではない」と読まれ、後者は「聞くまでもなく条件が合わないだろう」と読まれます。結論を先に書くと、**インフラエンジニアへのスカウトは、運用か構築かで対象と文面を分け、一行目で候補者の環境の規模や移行・構築の経験に触れ、自社の構成・これからやること・働き方の条件を先に書き、会社の紹介は後ろに回す**型にすると、返信が変わります。母集団形成の全体は[インフラエンジニアの母集団形成](/media/rpo-infra-engineer-boshuudan/)に、開発エンジニア向けの文面の型は[エンジニア向けスカウト文面の型](/media/rpo-engineer-scout/)にまとめています。
