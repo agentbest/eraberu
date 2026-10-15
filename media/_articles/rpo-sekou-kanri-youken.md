@@ -9,7 +9,7 @@ tags: ["採用代行", "施工管理採用", "採用要件", "必須条件", "�
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-sekou-kanri-youken"
-related: ["rpo-sekou-kanri-boshuudan", "rpo-sekou-kanri-rpo", "rpo-sekou-kanri-scout", "rpo-biyoshi-youken"]
+related: ["rpo-sekou-kanri-boshuudan", "rpo-sekou-kanri-rpo", "rpo-sekou-kanri-scout", "rpo-sekou-kanri-hiyou"]
 ---
 
 施工管理の採用要件を作ると、「施工管理技士の資格」「経験五年以上」「大型案件の経験」「建築も設備も分かる方」「即戦力」「協調性のある方」と膨らみます。経験者の母数が少ない市場で、配置する現場を決めずに、経営者や工事部長が「理想の人」を要件にしてしまうことが原因です。膨らんだ要件は、該当する人が市場にほとんどいないか、該当しても他社に決まるか、資格を必須にして入社後に取得できる人を外してしまうかのどれかになります。結論を先に書くと、**施工管理の要件は「配置する現場」から決め、必須を「その現場の種類と規模に近い工事を回した経験」「竣工まで一通り回した経験」「配置に法令上必要な資格（要るなら）」の三つに絞り、それ以外の種類・大型の経験・配置に不要な資格・年数は歓迎に回す**と、該当する人が現れ、面接で確かめるべきことも決まります。種類と規模と資格の整理は[施工管理採用を代行に出す判断基準](/media/rpo-sekou-kanri-rpo/)に、母集団形成は[施工管理の母集団形成](/media/rpo-sekou-kanri-boshuudan/)にまとめています。

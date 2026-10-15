@@ -9,7 +9,7 @@ tags: ["採用代行", "施工管理採用", "任せる範囲", "建設業", "�
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-sekou-kanri-rpo"
-related: ["rpo-sekou-kanri-boshuudan", "rpo-sekou-kanri-scout", "rpo-sekou-kanri-youken", "rpo-biyoshi-rpo"]
+related: ["rpo-sekou-kanri-boshuudan", "rpo-sekou-kanri-hiyou", "rpo-sekou-kanri-scout", "rpo-sekou-kanri-youken"]
 ---
 
 施工管理の採用を代行に出すか迷う会社は、「求人票を作って媒体に出す工程はお願いしたいが、現場を知らない人に施工管理の採用が回せるのか」「経験者がそもそも市場にいないのに、代行に出して意味があるのか」で止まります。結論を先に書くと、**求人票の作成・媒体の運用・スカウト・応募者への一次対応・面接の日程の確保・内定後の対応は代行に任せられ、現場の条件の開示範囲・工事の種類と規模の整理・資格の要否・要件の決定・現場の技術と段取りの評価・合否の判断は社内に残す**のが線です。施工管理は、法務や人事と違って「現場の分かる人」は社内にいます。足りないのは、採用の工程を回す人と、現場の条件を候補者に伝わる形で正直に書く工程です。そこが代行に出す価値になります。他の職種と共通する分け方は[人事採用を代行に出す判断基準](/media/rpo-jinji-rpo/)に、現場の協力の取り付け方は[現場が採用に協力してくれない](/media/rpo-genba-kyouryoku/)にまとめています。

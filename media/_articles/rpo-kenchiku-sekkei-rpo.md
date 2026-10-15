@@ -9,7 +9,7 @@ tags: ["採用代行", "建築設計採用", "任せる範囲", "設計事務所
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-kenchiku-sekkei-rpo"
-related: ["rpo-kenchiku-sekkei-boshuudan", "rpo-kenchiku-sekkei-scout", "rpo-kenchiku-sekkei-youken", "rpo-biyoshi-rpo"]
+related: ["rpo-kenchiku-sekkei-boshuudan", "rpo-kenchiku-sekkei-scout", "rpo-kenchiku-sekkei-youken", "rpo-kenchiku-sekkei-hiyou"]
 ---
 
 建築設計の採用を代行に出すか迷う会社は、「求人票を作って媒体に出す工程はお願いしたいが、設計を知らない人に設計者の採用が回せるのか」「作品を見ないと判断できないのに、外の人に何ができるのか」で止まります。結論を先に書くと、**求人票の作成・媒体の運用・スカウト・応募者への一次対応・面接の日程の確保・内定後の対応は代行に任せられ、分野と用途と段階の整理・任せる範囲・作品の扱い・労働時間の実態の開示・資格の要否・要件の決定・設計の質の評価・合否の判断は社内に残す**のが線です。建築設計は、施工管理と同じく「設計の分かる人」は社内にいます。足りないのは、採用の工程を回す人と、「どんな建物を、どこまで任せるか」を候補者に伝わる形で書く工程です。そこが代行に出す価値になります。他の職種と共通する分け方は[人事採用を代行に出す判断基準](/media/rpo-jinji-rpo/)に、同じ建設業の施工管理の線は[施工管理採用を代行に出す判断基準](/media/rpo-sekou-kanri-rpo/)にまとめています。

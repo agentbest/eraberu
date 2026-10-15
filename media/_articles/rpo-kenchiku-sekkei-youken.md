@@ -9,7 +9,7 @@ tags: ["採用代行", "建築設計採用", "採用要件", "必須条件", "�
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-kenchiku-sekkei-youken"
-related: ["rpo-kenchiku-sekkei-boshuudan", "rpo-kenchiku-sekkei-rpo", "rpo-kenchiku-sekkei-scout", "rpo-biyoshi-youken"]
+related: ["rpo-kenchiku-sekkei-boshuudan", "rpo-kenchiku-sekkei-rpo", "rpo-kenchiku-sekkei-scout", "rpo-kenchiku-sekkei-hiyou"]
 ---
 
 建築設計の採用要件を作ると、「一級建築士」「意匠設計経験五年以上」「基本設計から監理まで一貫した経験」「非住宅の大規模案件の経験」「BIMや各種ソフトの経験」「デザイン力のある方」「施主との折衝ができる方」と膨らみます。任せる用途と段階を決めずに、設計部長や経営者が「理想の設計者」と「安心のための資格」を要件にしてしまうことが原因です。膨らんだ要件は、該当する人が市場にほとんどいないか、該当しても他社に決まるか、資格を必須にして二級で非住宅を担ってきた人や取得前の若手を外してしまうかのどれかになります。結論を先に書くと、**建築設計の要件は「任せる用途と段階」から決め、必須を「その用途に近い建物を設計した経験」「任せる段階を担った経験」「登録や配置に法令上必要な資格（要るなら）」の三つに絞り、それ以外の用途・一貫した経験・配置に不要な資格・ソフト・年数は歓迎に回す**と、該当する人が現れ、面接で確かめるべきことも決まります。分野・用途・段階と任せる範囲の整理は[建築設計採用を代行に出す判断基準](/media/rpo-kenchiku-sekkei-rpo/)に、母集団形成は[建築設計の母集団形成](/media/rpo-kenchiku-sekkei-boshuudan/)にまとめています。
