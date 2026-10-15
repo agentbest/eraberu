@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>記事を検索｜エラベル</title>
+<meta name="description" content="エラベルのメディア内を、キーワードで検索できます。">
+<meta name="robots" content="noindex,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://eraberusaiyodaiko.com/media/search/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="エラベル">
+<meta property="og:title" content="記事を検索｜エラベル">
+<meta property="og:description" content="エラベルのメディア内を、キーワードで検索できます。">
+<meta property="og:url" content="https://eraberusaiyodaiko.com/media/search/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/media/assets/media.css">
+
+<!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/">
+      <span class="mk"><svg width="20" height="20" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 20h24M20 32h18M20 44h24" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></svg></span>
+      <span class="nm">エラベル<small>ERABERU</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">メディア</a>
+      <a href="/media/rpo/">採用代行</a>
+      <a href="/media/scout/">スカウト代行</a>
+      <a href="/media/fukugyo/">人事副業</a>
+      <a href="/partner.html">担当者として登録</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+  </div>
+</header><main class="wrap hub">
+  <nav class="crumb" aria-label="パンくず"><a href="/">ホーム</a><i aria-hidden="true">/</i><a href="/media/">メディア</a><i aria-hidden="true">/</i><span>検索</span></nav>
+  <h1>記事を検索</h1>
+  <form class="msearch" role="search" id="f" action="/media/search/" method="get">
+    <label class="sr-only" for="q">検索語</label>
+    <input id="q" type="search" name="q" placeholder="キーワード（例：スカウト 返信率、費用相場、確定申告）" autocomplete="off">
+    <button type="submit">検索</button>
+  </form>
+  <p class="status" id="status" role="status" aria-live="polite">検索語を入力してください。</p>
+  <ul class="art" id="results"></ul>
+  <p class="note" id="more" hidden></p>
+  <p class="note fallback">うまく見つからないときは、<a href="/media/#tag">タグの一覧</a>や、<a href="/media/rpo/">採用代行</a>・<a href="/media/scout/">スカウト代行</a>・<a href="/media/fukugyo/">人事副業</a>の一覧からもたどれます。</p>
+</main>
+<script>
+(function(){
+  var input=document.getElementById('q'),statusEl=document.getElementById('status'),
+      list=document.getElementById('results'),moreEl=document.getElementById('more'),LIMIT=60,index=null,loading=null;
+  function loadIndex(){
+    if(index)return Promise.resolve(index);
+    if(!loading){
+      /* 容量を削るため [slug, title, desc, 柱番号, ハブ番号, target, タグ番号の配列] の配列で来る */
+      loading=fetch('/media/search.json').then(function(r){if(!r.ok)throw new Error(r.status);return r.json();})
+        .then(function(raw){index=raw.i.map(function(a){return{s:a[0],t:a[1],d:a[2],p:raw.p[a[3]],h:raw.h[a[4]],x:a[5]||'',
+          g:(a[6]||[]).map(function(i){return raw.g[i];}).join(' ')};});return index;});
+    }
+    return loading;
+  }
+  function norm(s){return(s||'').toLowerCase()
+    .replace(/[Ａ-Ｚａ-ｚ０-９]/g,function(c){return String.fromCharCode(c.charCodeAt(0)-0xfee0);})
+    .replace(/[ァ-ヶ]/g,function(c){return String.fromCharCode(c.charCodeAt(0)-0x60);})
+    .replace(/[・･\s　‐-‒–—―ー_.,]/g,'');}
+  function score(it,terms){
+    var t=norm(it.t),x=norm(it.x),h=norm(it.h+it.p),g=norm(it.g),d=norm(it.d)+it.s,total=0;
+    for(var i=0;i<terms.length;i++){var q=terms[i];
+      if(t.indexOf(q)>=0)total+=30;else if(x.indexOf(q)>=0)total+=24;else if(h.indexOf(q)>=0)total+=20;
+      else if(g.indexOf(q)>=0)total+=14;else if(d.indexOf(q)>=0)total+=8;else return -1;}
+    return total;
+  }
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  function render(q){
+    var terms=q.split(/[\s　,、]+/).map(norm).filter(Boolean);
+    if(!terms.length){statusEl.textContent='検索語を入力してください。';list.innerHTML='';moreEl.hidden=true;return;}
+    var hits=[];index.forEach(function(it){var s=score(it,terms);if(s>0)hits.push([s,it]);});
+    hits.sort(function(a,b){return b[0]-a[0]||a[1].t.localeCompare(b[1].t,'ja');});
+    if(!hits.length){statusEl.textContent='「'+q+'」に一致する記事は見つかりませんでした。';list.innerHTML='';moreEl.hidden=true;return;}
+    statusEl.textContent='「'+q+'」の検索結果：'+hits.length+'件';
+    list.innerHTML=hits.slice(0,LIMIT).map(function(h){var it=h[1];return '<li><a href="/media/'+it.s+'/">'
+      +'<span class="art__t">'+esc(it.t)+'</span><span class="art__d">'+esc(it.d)+'</span>'
+      +'<span class="art__m"><span class="chip chip--p">'+esc(it.p)+'</span><span class="chip">'+esc(it.h)+'</span></span></a></li>';}).join('');
+    if(hits.length>LIMIT){moreEl.hidden=false;moreEl.textContent='上位'+LIMIT+'件を表示しています。絞り込むには語を足してください（例：「スカウト 新卒」）。';}
+    else moreEl.hidden=true;
+  }
+  var timer;
+  function run(q){statusEl.textContent='検索中…';loadIndex().then(function(){render(q);})
+    .catch(function(){statusEl.textContent='検索データを読み込めませんでした。時間をおいて再度お試しください。';});}
+  input.addEventListener('input',function(){clearTimeout(timer);var q=input.value.trim();if(!q){list.innerHTML='';statusEl.textContent='検索語を入力してください。';moreEl.hidden=true;return;}timer=setTimeout(function(){run(q);},150);});
+  document.getElementById('f').addEventListener('submit',function(e){e.preventDefault();run(input.value.trim());});
+  var q0=new URLSearchParams(location.search).get('q');
+  if(q0){input.value=q0;run(q0.trim());}
+  input.focus();
+})();
+</script><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">エラベル</div>
+        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+      </div>
+      <div class="foot-links">
+        <a href="/media/">メディア</a>
+        <a href="/media/rpo/">採用代行</a>
+        <a href="/media/scout/">スカウト代行</a>
+        <a href="/media/fukugyo/">人事副業</a>
+        <a href="/media/search/">記事を検索</a>
+        <a href="/#fee">費用</a>
+        <a href="/#consult">無料で相談する</a>
+        <a href="/members.html">会員サイト</a>
+        <a href="/partner.html">担当者として登録する</a>
+        <a href="/privacy.html">プライバシーポリシー</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">運営：株式会社エージェントベスト（厚生労働大臣許可 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>
