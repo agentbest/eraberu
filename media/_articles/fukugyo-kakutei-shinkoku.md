@@ -9,7 +9,7 @@ tags: ["人事副業", "確定申告", "税務", "記録", "専門家"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-kakutei-shinkoku"
-related: ["fukugyo-keihi", "fukugyo-nenkan-shuunyuu", "fukugyo-agent-keiken", "fukugyo-choka-kadou"]
+related: ["fukugyo-keihi", "fukugyo-20man", "fukugyo-genzei", "fukugyo-invoice"]
 ---
 
 副業の収入が入り始めた。確定申告は要るのか、いつ、何を、どうやるのか。調べると、基準額や期限や様式の情報が出てくるが、自分に当てはまるかが分からない。結論を先に書くと、**確定申告の要否、方法、期限、様式は、制度と自分の状況で変わるため、この記事では扱いません。税理士などの専門家に確認してください。受ける側が自分でできるのは、年間を通じて記録を残し、収入と経費を整理し、早めに専門家に相談することです。年末に慌てるか、年の初めから準備するかで、申告の負担はまったく違います**。請求書は[請求書の書き方](/media/fukugyo-seikyuusho/)に、経費は[経費にできるもの](/media/fukugyo-keihi/)に、年間の見立ては[年間の副業収入の見立て](/media/fukugyo-nenkan-shuunyuu/)にまとめています。
