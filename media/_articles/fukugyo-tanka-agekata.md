@@ -9,7 +9,7 @@ tags: ["人事副業", "単価", "交渉", "契約更新", "報酬・契約"]
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "fukugyo-tanka-agekata"
-related: ["fukugyo-jikyuu", "fukugyo-neage-timing", "fukugyo-getsugaku", "fukugyo-koushin"]
+related: ["fukugyo-jikyuu", "fukugyo-koushou", "fukugyo-neage-timing", "fukugyo-daikigyo-keiken"]
 sources:
   - name: "国税庁「消費税の仕入税額控除制度における適格請求書等保存方式に関するQ&A」問113（免税事業者等からの仕入れに係る経過措置）"
     url: "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/113.pdf"

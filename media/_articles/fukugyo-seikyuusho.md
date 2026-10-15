@@ -9,7 +9,7 @@ tags: ["人事副業", "請求書", "請求", "経理", "書類"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-seikyuusho"
-related: ["fukugyo-shiharai-site", "fukugyo-agent-keiken", "fukugyo-choka-kadou", "fukugyo-fukusuu-anken"]
+related: ["fukugyo-shiharai-site", "fukugyo-agent-keiken", "fukugyo-choka-kadou", "fukugyo-daikigyo-keiken"]
 ---
 
 最初の月の稼働が終わり、請求書を出すことになった。何を書けばよいのか、依頼側の経理に迷われない形はどれか、税務上の決まりは何か。分からないまま出すと、差し戻され、支払いが遅れます。結論を先に書くと、**請求書は、「依頼側の経理が迷わない項目」と「業務の内容と根拠が分かる書き方」を整えれば、実務としては足ります。税務上の記載事項（適格請求書に関する事項など）は、制度と自分の立場によって変わるため、この記事では扱わず、税理士などの専門家への確認を前提にしてください**。支払いの条件は[支払いサイトの確認](/media/fukugyo-shiharai-site/)に、経費は[経費にできるもの](/media/fukugyo-keihi/)に、申告は[確定申告の進め方](/media/fukugyo-kakutei-shinkoku/)にまとめています。

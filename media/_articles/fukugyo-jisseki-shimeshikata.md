@@ -9,7 +9,7 @@ tags: ["人事副業", "実績", "経歴", "自己紹介", "案件獲得"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-jisseki-shimeshikata"
-related: ["fukugyo-shokumu-keirekisho", "fukugyo-portfolio", "fukugyo-agent-keiken", "fukugyo-jissekikoukai"]
+related: ["fukugyo-shokumu-keirekisho", "fukugyo-portfolio", "fukugyo-agent-keiken", "fukugyo-daikigyo-keiken"]
 ---
 
 「採用担当を五年」「年間〇名を採用」「〇〇制度を導入」。依頼側にこう伝えても、反応は薄い。依頼側は、あなたの経歴を知りたいのではなく、自分の会社の課題を解けるかどうかを知りたいからです。結論を先に書くと、**実績は、「何をした」ではなく「どんな課題に、何をして、何が変わったか」の形で、依頼側の課題に当てて示してください。依頼側は、自分の課題と似た課題を解いた実績を見て、「この人なら」と判断します**。ポートフォリオの作り方は[ポートフォリオの作り方](/media/fukugyo-portfolio/)に、副業用の職務経歴書は[副業用の職務経歴書](/media/fukugyo-shokumu-keirekisho/)にまとめています。

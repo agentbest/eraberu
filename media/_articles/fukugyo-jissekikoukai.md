@@ -9,7 +9,7 @@ tags: ["人事副業", "実績", "公開", "守秘", "発信"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-jissekikoukai"
-related: ["fukugyo-jisseki-shimeshikata", "fukugyo-portfolio", "fukugyo-agent-keiken", "fukugyo-choka-kadou"]
+related: ["fukugyo-jisseki-shimeshikata", "fukugyo-keiken-nensuu", "fukugyo-portfolio", "fukugyo-agent-keiken"]
 ---
 
 副業で、依頼側の採用を支援し、成果が出た。この実績を、次の案件の獲得に使いたい。経歴書に書きたい、ポートフォリオに入れたい、記事や登壇で話したい。しかし、依頼側の会社名、採用の数字、候補者の情報を含む実績は、どこまで公開してよいのか。結論を先に書くと、**実績の公開は、「依頼側の了承」「公開する粒度」「候補者の情報」の三つで線を引きます。了承があれば会社名まで、無ければ業種と規模まで。数字は比率に、成果物は固有名詞を伏せて。候補者の情報は、どの場合も出さない。この線を守れば、実績は公開でき、信頼も保てます**。実績の示し方は[実績の示し方](/media/fukugyo-jisseki-shimeshikata/)に、ポートフォリオは[ポートフォリオの作り方](/media/fukugyo-portfolio/)にまとめています。契約上の守秘の範囲と、個人情報の扱いは、この記事では一般的な整理にとどめ、個別の判断は専門家にご確認ください。

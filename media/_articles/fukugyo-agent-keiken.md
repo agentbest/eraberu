@@ -9,7 +9,7 @@ tags: ["人事副業", "人材紹介", "エージェント", "経歴", "評価"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-agent-keiken"
-related: ["fukugyo-startup-keiken", "fukugyo-jisseki-shimeshikata", "fukugyo-shokumu-keirekisho", "fukugyo-choka-kadou"]
+related: ["fukugyo-startup-keiken", "fukugyo-daikigyo-keiken", "fukugyo-jisseki-shimeshikata", "fukugyo-shokumu-keirekisho"]
 ---
 
 人材紹介会社で、候補者と企業の間に立ってきた。企業の人事として働いた経験は無い。この経歴は、企業の採用を支援する副業で、評価されるのか。結論を先に書くと、**人材紹介の経験は、「候補者に声をかけ、動かし、企業に引き合わせた」経験として、スカウトの運用や面接の設計の副業で、最も直接的に売れる経験の一つです。ただし、企業側の人事の視点（社内の調整、制度、労務）は別のもので、そこを求める依頼側には評価されにくい。売る場面を選び、視点を企業側に切り替えれば、強く評価されます**。スタートアップ人事の経験は[スタートアップ人事の経験は評価されるか](/media/fukugyo-startup-keiken/)にまとめています。この記事では、単価の数値は扱いません。人材紹介の経験を副業で活かすときの法令上の扱いは、一般的な整理にとどめ、個別の判断は専門家にご確認ください。

@@ -9,7 +9,7 @@ tags: ["人事副業", "スタートアップ", "経歴", "評価", "案件の�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-startup-keiken"
-related: ["fukugyo-agent-keiken", "fukugyo-jisseki-shimeshikata", "fukugyo-shokumu-keirekisho", "fukugyo-choka-kadou"]
+related: ["fukugyo-agent-keiken", "fukugyo-daikigyo-keiken", "fukugyo-jisseki-shimeshikata", "fukugyo-shokumu-keirekisho"]
 ---
 
 スタートアップで人事を担ってきた。採用も、労務も、制度も、一人で全部。整った仕組みは無く、作りながらやってきた。この経験は、副業で評価されるのか。大企業で「〇〇制度の運用を五年」という経験と比べて、どう見られるのか。結論を先に書くと、**スタートアップ人事の経験は、「仕組みが無いところに仕組みを作った」経験として、同じ段階の会社には強く評価されます。逆に、整った仕組みの運用を求める依頼側には評価されにくい。売る相手を選び、経歴を「作った」の言葉で書けば、評価されます**。単価の考え方は[最初の1件の価格の決め方](/media/fukugyo-shoninka/)に、人材紹介の経験は[人材紹介の経験は評価されるか](/media/fukugyo-agent-keiken/)にまとめています。この記事では、単価の数値は扱いません。

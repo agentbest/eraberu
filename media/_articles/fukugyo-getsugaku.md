@@ -9,7 +9,7 @@ tags: ["人事副業", "月額固定", "稼働時間", "業務委託", "報酬�
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "fukugyo-getsugaku"
-related: ["fukugyo-jikyuu", "fukugyo-kadou-jikan", "fukugyo-tanka-agekata", "fukugyo-tanka-souba"]
+related: ["fukugyo-jikyuu", "fukugyo-daikigyo-keiken", "fukugyo-honnngyou-hikaku", "fukugyo-kadou-jikan"]
 sources:
   - name: "厚生労働省「令和7年賃金構造基本統計調査 結果の概況」雇用形態別の賃金（PDF）"
     url: "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/z2025/dl/06.pdf"

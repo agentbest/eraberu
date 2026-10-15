@@ -9,7 +9,7 @@ tags: ["人事副業", "副業申請", "副業規定", "本業", "就業規則"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-kyoka-shinsei"
-related: ["fukugyo-riekisouhan", "fukugyo-agent-keiken", "fukugyo-choka-kadou", "fukugyo-fukusuu-anken"]
+related: ["fukugyo-riekisouhan", "fukugyo-agent-keiken", "fukugyo-choka-kadou", "fukugyo-daikigyo-keiken"]
 ---
 
 本業の会社が、副業を届出制か許可制にしている。申請を出さなければならないが、何を書けば通るのか、断られたらどうするのか、上司にどう言えばよいのか。結論を先に書くと、**副業の申請は、「認めてもらう」お願いではなく、「会社が持つ懸念を、先に潰す」書類です。会社が見ているのは、本業への影響・情報の漏えい・競業・労働時間の四つ。四つの懸念に対して、副業の内容と自分の運用で「起きない」と示せれば、通ります**。人事の副業そのものの始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に、本業と利益が相反する案件は[本業と利益相反になる案件](/media/fukugyo-riekisouhan/)にまとめています。就業規則の効力、副業に関する法令、競業避止や守秘の法的な範囲は、この記事では扱わず、専門家にご確認ください。

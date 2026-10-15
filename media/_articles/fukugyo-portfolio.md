@@ -9,7 +9,7 @@ tags: ["人事副業", "ポートフォリオ", "実績", "成果物", "案件�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-portfolio"
-related: ["fukugyo-jisseki-shimeshikata", "fukugyo-jissekikoukai", "fukugyo-mensetsu", "fukugyo-shokumu-keirekisho"]
+related: ["fukugyo-jisseki-shimeshikata", "fukugyo-jissekikoukai", "fukugyo-keiken-nensuu", "fukugyo-mensetsu"]
 ---
 
 デザイナーやライターの副業ではポートフォリオが当たり前ですが、人事の副業では、何を見せればよいか分かりにくい。「作ったもの」が、文面や制度や仕組みで、見せにくいからです。結論を先に書くと、**人事の副業のポートフォリオは、職務経歴書とは別に、「課題と変化」「成果物の見本」「進め方の型」を一枚ずつ見せる資料です。守秘を守って抽象化しても、依頼側は「この人の仕事の質」を判断できます**。実績の示し方は[実績の示し方](/media/fukugyo-jisseki-shimeshikata/)に、副業用の職務経歴書は[副業用の職務経歴書](/media/fukugyo-shokumu-keirekisho/)にまとめています。

@@ -9,7 +9,7 @@ tags: ["人事副業", "時給", "単価", "業務委託", "報酬・契約"]
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "fukugyo-jikyuu"
-related: ["fukugyo-getsugaku", "fukugyo-tanka-agekata", "fukugyo-tanka-souba", "fukugyo-neage-timing"]
+related: ["fukugyo-honnngyou-hikaku", "fukugyo-daikigyo-keiken", "fukugyo-getsugaku", "fukugyo-keiken-nensuu"]
 sources:
   - name: "厚生労働省「令和7年賃金構造基本統計調査 結果の概況」"
     url: "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/z2025/index.html"

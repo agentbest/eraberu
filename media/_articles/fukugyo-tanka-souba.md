@@ -9,7 +9,7 @@ tags: ["人事副業", "単価", "業務委託", "報酬", "契約"]
 pubDate: 2026-09-06
 reviewedAt: 2026-09-06
 slug: "fukugyo-tanka-souba"
-related: ["fukugyo-choka-kadou", "fukugyo-jikyuu", "fukugyo-koushin", "fukugyo-mibarai"]
+related: ["fukugyo-choka-kadou", "fukugyo-daikigyo-keiken", "fukugyo-honnngyou-hikaku", "fukugyo-jikyuu"]
 sources:
   - name: "厚生労働省「副業・兼業の促進に関するガイドライン」"
     url: "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000192188.html"

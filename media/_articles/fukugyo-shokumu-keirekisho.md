@@ -9,7 +9,7 @@ tags: ["人事副業", "職務経歴書", "経歴", "自己紹介", "案件獲�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-shokumu-keirekisho"
-related: ["fukugyo-jisseki-shimeshikata", "fukugyo-agent-keiken", "fukugyo-mensetsu", "fukugyo-portfolio"]
+related: ["fukugyo-jisseki-shimeshikata", "fukugyo-agent-keiken", "fukugyo-daikigyo-keiken", "fukugyo-mensetsu"]
 ---
 
 転職のときに作った職務経歴書がある。副業の依頼側にも、それを送ればよいのか。送ってみると、反応が薄い。転職用の職務経歴書は「この人を雇ったら、将来どう活躍するか」を示すもので、副業の依頼側が知りたい「いま、うちの課題を解けるか」とは、見せる方向が違うからです。結論を先に書くと、**副業用の職務経歴書は、転職用をそのまま使わず、「要約・得意領域・課題と変化・経歴・条件」の順に組み替え、依頼側の課題に効く経験を最初に置いてください。二枚に収め、依頼側ごとに順番を調整します**。実績の示し方は[実績の示し方](/media/fukugyo-jisseki-shimeshikata/)に、ポートフォリオは[ポートフォリオの作り方](/media/fukugyo-portfolio/)にまとめています。本業の会社名の扱いは、本業の副業規定と秘密保持に関わるため、個別の判断は専門家にご確認ください。
