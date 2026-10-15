@@ -9,7 +9,7 @@ tags: ["人事副業", "複数案件", "掛け持ち", "稼働配分", "働き�
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-fukusuu-anken"
-related: ["fukugyo-kadou-jikan", "fukugyo-kaigo-ikuji", "fukugyo-taishoku-go", "fukugyo-teinen-go"]
+related: ["fukugyo-fukugyo-kinshi", "fukugyo-ikkyuu", "fukugyo-kadou-jikan", "fukugyo-kaigo-ikuji"]
 ---
 
 一つの案件を続けている。更新されなければ、副業の収入はゼロになる。もう一つ案件を持ちたいが、本業があり、時間は限られる。掛け持ちは、できるのか。結論を先に書くと、**掛け持ちは、「固定できる時間」を案件ごとに分け、合計が固定できる時間を超えない範囲で、できます。時間帯を案件ごとに分け、情報を混ぜず、返信対応の速さを両方で保てるなら、掛け持ちは収入の安定と経験の幅の両方をもたらします**。固定できる時間の考え方は[週何時間から受けられるか](/media/fukugyo-kadou-jikan/)に、更新の話は[契約更新のされ方](/media/fukugyo-koushin/)にまとめています。本業の副業規定と、競業や情報の扱いに関する法令は、一般的な整理にとどめ、個別の判断は専門家にご確認ください。

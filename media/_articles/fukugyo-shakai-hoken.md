@@ -9,7 +9,7 @@ tags: ["人事副業", "社会保険", "厚生年金", "健康保険", "雇用�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-shakai-hoken"
-related: ["fukugyo-houjin-ka", "fukugyo-20man", "fukugyo-agent-keiken", "fukugyo-aoiro"]
+related: ["fukugyo-houjin-ka", "fukugyo-ikkyuu", "fukugyo-shitsugyou-hoken", "fukugyo-20man"]
 sources:
   - name: "厚生労働省「副業・兼業の促進に関するガイドライン」（令和4年7月8日改定版）"
     url: "https://www.mhlw.go.jp/content/11200000/000962665.pdf"

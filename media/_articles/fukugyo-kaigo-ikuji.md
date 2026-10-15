@@ -9,7 +9,7 @@ tags: ["人事副業", "育児", "介護", "両立", "働き方"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-kaigo-ikuji"
-related: ["fukugyo-kadou-jikan", "fukugyo-fukusuu-anken", "fukugyo-taishoku-go", "fukugyo-teinen-go"]
+related: ["fukugyo-kadou-jikan", "fukugyo-fukugyo-kinshi", "fukugyo-fukusuu-anken", "fukugyo-ikkyuu"]
 ---
 
 育児や介護があり、本業だけで手一杯。それでも、人事の経験を副業で活かしたい。時間は不規則で、突発の対応で予定が崩れる。そんな状況で、副業は続けられるのか。結論を先に書くと、**育児・介護と副業の両立は、「時間帯が読めない」ことを前提に、業務の種類と契約の形を選べば、できます。返信対応のように時間帯を選ばない業務は避け、固定の時間帯で完結する業務を、月額か成果物の形で受ける。突発の中断を、契約の前提に組み込みます**。固定できる時間の考え方は[週何時間から受けられるか](/media/fukugyo-kadou-jikan/)に、稼働の増減は[複数案件を掛け持ちできるか](/media/fukugyo-fukusuu-anken/)にまとめています。育児休業や介護休業の制度と、その期間中の副業の扱いは、制度に関わるため、この記事では扱わず、専門家にご確認ください。

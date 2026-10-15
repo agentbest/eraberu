@@ -9,7 +9,7 @@ tags: ["人事副業", "定年後", "シニア", "経験", "働き方"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-teinen-go"
-related: ["fukugyo-fukusuu-anken", "fukugyo-kadou-jikan", "fukugyo-kaigo-ikuji", "fukugyo-taishoku-go"]
+related: ["fukugyo-fukugyo-kinshi", "fukugyo-fukusuu-anken", "fukugyo-ikkyuu", "fukugyo-kadou-jikan"]
 ---
 
 定年を迎え、長く担ってきた人事の経験を、副業という形で活かしたい。経験は誰よりもある。ただ、「昔のやり方」と見られないか、体力は続くか、若い依頼側と合うか、不安もある。結論を先に書くと、**定年後の人事副業は、「長い経験」をそのまま売るのではなく、「いまの採用に効く形」に翻訳して、稼働を小さく、助言や設計の業務を中心に受けてください。経験の中で、時代が変わっても効くもの（判断の型、人を見る目、組織の力学の理解）を選び、変わったもの（媒体、手法、候補者の動き）は依頼側や若い人から学ぶ姿勢で**。経験の売り方は[スタートアップ人事の経験は評価されるか](/media/fukugyo-startup-keiken/)にも通じる考え方があります。年齢に関する募集・採用の法令、年金や社会保険の制度は、この記事では扱わず、専門家にご確認ください。

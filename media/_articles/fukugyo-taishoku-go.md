@@ -9,7 +9,7 @@ tags: ["人事副業", "退職後", "転職活動", "独立", "働き方"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "fukugyo-taishoku-go"
-related: ["fukugyo-fukusuu-anken", "fukugyo-kadou-jikan", "fukugyo-kaigo-ikuji", "fukugyo-teinen-go"]
+related: ["fukugyo-fukugyo-kinshi", "fukugyo-fukusuu-anken", "fukugyo-ikkyuu", "fukugyo-kadou-jikan"]
 ---
 
 会社を辞めた。次はまだ決まっていない。時間はある。人事の経験を、副業で活かせないか。収入の穴埋めにもなる。結論を先に書くと、**退職後の期間に副業を始めるなら、「収入の穴埋め」ではなく「次のキャリアの材料を作る期間」と位置づけてください。時間があるからといって安い案件を数で受けると、消耗し、次の本業の準備も進みません。案件を絞り、実績を作り、次の本業か独立かの判断材料にします**。最初の案件の選び方は[最初の1件の価格の決め方](/media/fukugyo-shoninka/)に、実績の作り方は[実績の示し方](/media/fukugyo-jisseki-shimeshikata/)にまとめています。退職後の制度（失業に関する給付との関係、社会保険の扱いなど）は、制度に関わるため、この記事では扱わず、専門家にご確認ください。
