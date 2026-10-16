@@ -9,7 +9,7 @@ tags: ["人事副業", "就業規則", "労務", "業務別", "案件の流れ"]
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-shugyo-kisoku-shigoto"
-related: ["fukugyo-shugyo-kisoku-fukugyo", "fukugyo-shugyo-kisoku-hajimekata", "fukugyo-gaikokujin-roumu-shigoto", "fukugyo-roumu-jitsumu-shigoto"]
+related: ["fukugyo-shugyo-kisoku-fukugyo", "fukugyo-shugyo-kisoku-hajimekata", "fukugyo-shugyo-kisoku-tanka", "fukugyo-gaikokujin-roumu-shigoto"]
 ---
 
 就業規則の整備を副業で受けるとき、見えにくいのは「自分が条文に触れない形で、どうやって整備を進めるか」です。募集文には「就業規則の見直し」とだけあり、実際には、条文の作成と変更と法令の判断は専門家、決定は会社、自分は実態のずれの一覧と材料と周知と運用の確認、と役割が分かれ、分かれたまま進めないと、条文を書く形に引き込まれます。結論を先に書くと、**1案件は「契約前→実態の照らし合わせ→変えたい点の整理と専門家への材料→専門家の作成と確認と会社の決定→周知の支援→運用の確認の仕組みと終了」の六つの段階で進み、契約前に受けられる範囲と受けられない範囲を書面にし専門家の有無と契約と条文を書かないことと個人情報を見る範囲と社員の相談の流れと周知の場の役割と終わりの定義を決め、項目ごとに書いてあることとやっていることを照らしてずれと書かれていない働き方と社員から指摘された点を一覧にし（判断は書かない）、会社が変えたい点と理由と社員の声といまの運用の記録を専門家が聞きたい形に整え、専門家が作成と確認を行い会社が決め（自分は関わらない）、読まれる資料と進行と質問の受け皿と周知の記録で周知を支え、運用の確認の項目と頻度と記録の仕組みを作って担当者が回せる形で終えます。**受けられる範囲と案件の型は[就業規則の整備の副業案件](/media/fukugyo-shugyo-kisoku-fukugyo/)に、労務実務の流れは[労務実務の副業の実務](/media/fukugyo-roumu-jitsumu-shigoto/)に書いていますので、ここでは「就業規則の1案件の流れ」に絞ります。個別の判断は専門家にご確認ください。

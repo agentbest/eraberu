@@ -9,7 +9,7 @@ tags: ["人事副業", "研修講師", "面接官研修", "業務別", "最初�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-kensyu-koushi-hajimekata"
-related: ["fukugyo-kensyu-koushi-fukugyo", "fukugyo-kensyu-koushi-shigoto", "fukugyo-agent-control-hajimekata", "fukugyo-ats-dounyu-hajimekata"]
+related: ["fukugyo-kensyu-koushi-fukugyo", "fukugyo-kensyu-koushi-shigoto", "fukugyo-kensyu-koushi-tanka", "fukugyo-agent-control-hajimekata"]
 ---
 
 社内で研修の講師をしてきた。面接官研修、評価者研修、新任管理職の研修。設計し、登壇し、翌週の現場を見てきた。この経験を副業で使えないか。そう思って募集を見ると、「研修講師」の案件はあるのに、応募者は人前で話すのが得意な人ばかりで、自分の何を見せれば選ばれるのかが分からない。「研修の講師経験があります」「人前で話すのが得意です」では、話がうまい人にしか見えないからです。結論を先に書くと、**最初の1件を取るには、「受講者が研修の翌週に何をしていれば成功かから設計し、架空の例で演習を作り、講師が話す時間を半分以下にして受講者に答えさせ、最後に受講者自身に翌週の一つを言ってもらい、翌週から一か月の現場で使われたかを確かめた」と、設計と演習と現場の三つで見せます。見本はできるようになることの型と進行表と演習の素材と受講者の一枚と事前事後の確認の型で作り、入口は、面接や評価の案件の中で提案、紹介、副業のプラットフォーム、担当者を選べる窓口の四つで、最初は「一回の面接官研修だけ」「演習と進行表の設計だけ」「社内講師への同席だけ」と小さく受け、受ける前にできるようになることと教材の権利と法令に関わる内容の扱いと評価に使わないことを確かめ、最初の1件を「進行表と演習と現場での確認の記録が残る形」で終えて2件目につなげます。**案件の型と求められる経験は[研修講師の副業案件](/media/fukugyo-kensyu-koushi-fukugyo/)に、1案件の流れは[研修講師の副業の実務](/media/fukugyo-kensyu-koushi-shigoto/)に、研修担当の経験の売り方は[研修担当が副業でできること](/media/fukugyo-kyouiku-tantou-fukugyo/)に書いています。ここでは「最初の1件の取り方」に絞ります。

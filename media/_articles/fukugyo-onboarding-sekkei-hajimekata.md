@@ -9,7 +9,7 @@ tags: ["人事副業", "オンボーディング", "入社後の定着", "業務
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-onboarding-sekkei-hajimekata"
-related: ["fukugyo-onboarding-sekkei-fukugyo", "fukugyo-onboarding-sekkei-shigoto", "fukugyo-agent-control-hajimekata", "fukugyo-ats-dounyu-hajimekata"]
+related: ["fukugyo-onboarding-sekkei-fukugyo", "fukugyo-onboarding-sekkei-shigoto", "fukugyo-onboarding-sekkei-tanka", "fukugyo-agent-control-hajimekata"]
 ---
 
 社内でオンボーディングを整えてきた。入社前の連絡、初日の準備、上司との面談の設計、質問の窓口、三か月の定着の記録。この経験を副業で使えないか。そう思って募集を見ると、「オンボーディングの構築」「入社後フォロー」の案件はあるのに、自分の何を見せれば選ばれるのかが分からない。「研修が作れます」「新人育成の経験があります」では、研修の資料を作る人か、新しい人に教える人にしか見えないからです。結論を先に書くと、**最初の1件を取るには、「過去の退職の時期と理由から三か月までの計画を作り、上司と同僚に聞いて教える内容と担当と時期の表にし、面談の日程を先に押さえ、窓口で答えずに取り次ぎ、質問が減るなどの兆しを事実で渡して、三か月の定着を記録した」と、計画と表と兆しの三つで見せます。見本は三か月の計画の型と教える内容の表の型と初日の準備の一覧と面談の型と記録の型で作り、入口は、採用の代行や労務の一覧の案件の中で提案、紹介、副業のプラットフォーム、担当者を選べる窓口の四つで、最初は「初日の準備の一覧と面談の日程だけ」「教える内容の表だけ」「一人の三か月だけ」と小さく受け、受ける前に教える人と上司の時間と窓口の名義と評価を書かないことを確かめ、最初の1件を「計画と表と記録が残り、担当者が回せる形」で終えて2件目につなげます。**案件の型と求められる経験は[オンボーディング設計の副業案件](/media/fukugyo-onboarding-sekkei-fukugyo/)に、1案件の流れは[オンボーディング設計の副業の実務](/media/fukugyo-onboarding-sekkei-shigoto/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは「最初の1件の取り方」に絞ります。

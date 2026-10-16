@@ -9,7 +9,7 @@ tags: ["人事副業", "研修講師", "面接官研修", "業務別", "案件�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-kensyu-koushi-shigoto"
-related: ["fukugyo-kensyu-koushi-fukugyo", "fukugyo-kensyu-koushi-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-shigoto"]
+related: ["fukugyo-kensyu-koushi-fukugyo", "fukugyo-kensyu-koushi-hajimekata", "fukugyo-kensyu-koushi-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 研修講師の副業を初めて受けるとき、見えにくいのは「当日の前後に何があるか」と「何で評価されるか」です。募集文には「研修講師、〇時間」とだけあり、実際には、できるようになることの整理、受講者の状態の確認、演習の設計、教材の権利、当日の進行、翌週の現場での確認と、当日の前後に工程が並び、評価は当日の満足度か翌週の行動かで、稼働も責任も変わります。順番を知っていれば、契約前に決めておけます。結論を先に書くと、**1案件は「契約前→設計→当日の前→当日→振り返りと現場での確認→次の回と終了」の六つの段階で進み、契約前に範囲・できるようになること・受講者の選定と人数・教材の権利・法令に関わる内容の扱い・研修の様子を評価に使わないこと・振り返りの有無・評価の基準を決め、受講者の状態を確かめて教える順番と演習と進行表と教材と事前事後の確認の型を設計し、当日の前に会場と事前の確認と上司への案内を整え、当日は最初の五分で翌週の姿を示して演習を長く取り受講者に答えさせ最後に翌週の一つを言ってもらい、振り返りで当日の反応と翌週から一か月の現場の行動を確かめ、次の回を直して教材と進行表を引き継ぎ、受講者の情報を残さずに終えます。**案件の型と求められる経験は[研修講師の副業案件](/media/fukugyo-kensyu-koushi-fukugyo/)に書いていますので、ここでは「1案件の流れ」に絞ります。

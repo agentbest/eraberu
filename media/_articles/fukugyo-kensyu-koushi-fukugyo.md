@@ -9,7 +9,7 @@ tags: ["人事副業", "研修講師", "面接官研修", "業務別", "副業�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-kensyu-koushi-fukugyo"
-related: ["fukugyo-kensyu-koushi-hajimekata", "fukugyo-kensyu-koushi-shigoto", "fukugyo-agent-control-fukugyo", "fukugyo-ats-dounyu-fukugyo"]
+related: ["fukugyo-kensyu-koushi-hajimekata", "fukugyo-kensyu-koushi-shigoto", "fukugyo-kensyu-koushi-tanka", "fukugyo-agent-control-fukugyo"]
 ---
 
 研修講師は、人事の副業の中で、稼働の区切りが見えやすく、単価も比較的読みやすい案件です。面接官がばらばらで研修をしたい、評価者の目線を合わせたい、新しく採用を担当する人を立ち上げたい、新任の管理職に人事の基礎を教えたい。その状態で「研修をしてほしい」と外に出されます。ただ、「知っていることを話す仕事」と思って受けると、当日は満足度が高く、翌週の現場では何も変わらず、二回目の依頼は来ません。結論を先に書くと、**研修講師の副業案件は、「単発の登壇」「設計から登壇と振り返りまで」「社内講師の育成」「教材の型作り」の四つの型に分かれ、求められるのは、「受講者が研修のあとに何ができるようになるべきか」から設計できること、演習を作れること、講師が話すより受講者が自分の言葉で答える場を回せること、研修のあとに現場で使われたかを確かめた経験の四つです。進め方は、できるようになることを会社が決める→いまの受講者の状態を確かめる→教える順番と演習の設計→教材と進行表→当日の進行→振り返りと現場での確認→次の回を直す、の順で、内容の最終決定・受講者の選定・研修の結果の扱いは会社、他社の教材を写さず、研修の様子を評価に使わせず、法令に関わる内容は専門家と組み、効果を保証しない線を先に引いておきます。**研修担当の経験を採用の副業に活かす形は[研修担当が副業でできること](/media/fukugyo-kyouiku-tantou-fukugyo/)に、面接官の育成の型は[面接代行の副業案件](/media/fukugyo-mensetsu-daikou-fukugyo/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは、研修講師の案件に絞ります。

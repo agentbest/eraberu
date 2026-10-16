@@ -9,7 +9,7 @@ tags: ["人事副業", "オンボーディング", "入社後の定着", "業務
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-onboarding-sekkei-fukugyo"
-related: ["fukugyo-onboarding-sekkei-hajimekata", "fukugyo-onboarding-sekkei-shigoto", "fukugyo-agent-control-fukugyo", "fukugyo-ats-dounyu-fukugyo"]
+related: ["fukugyo-onboarding-sekkei-hajimekata", "fukugyo-onboarding-sekkei-shigoto", "fukugyo-onboarding-sekkei-tanka", "fukugyo-agent-control-fukugyo"]
 ---
 
 オンボーディング設計は、採用はできているのに入社後に辞める会社から出る副業案件です。入社した人が三か月で辞めた、初日に机と端末が無かった、誰に聞けばよいか分からず抱えていた、上司が忙しくて面談が後回し。その状態で「オンボーディングを作ってほしい」と外に出されます。ただ、「研修を作る仕事」「新しい人に教える仕事」と思って受けると、きれいな研修の資料ができて、上司と同僚が教える時間は変わらず、辞める人は減りません。結論を先に書くと、**オンボーディング設計の副業案件は、「計画の設計と教える内容の表」「初日の準備と面談の日程と窓口の運用」「つまずきと定着の記録と見直し」「型作りと引き継ぎ」の四つの型に分かれ、求められるのは、立ち上がりを設計した経験、上司と同僚が教える内容を表にできること、新しい人が話しやすい窓口になれること、辞める前の兆しを読めることの四つです。進め方は、なぜ辞めたかと教える人と上司の時間を会社が決める→入社前から三か月までの計画→教える内容と担当と時期の表→初日の準備の一覧→面談の日程と質問の窓口→つまずきと兆しの記録→定着の記録と見直しの提案、の順で、教えること・面談で話すこと・配属と役割・評価・対応の判断は会社、自分は教えず、評価せず、新しい人の相談を抱えず、上司の代わりにならず、情報を手元に残さない線を先に引いておきます。**会社側の考え方は[オンボーディングの代行](/media/rpo-task-onboarding-daikou/)に、労務の手続きの側は[労務実務の副業案件](/media/fukugyo-roumu-jitsumu-fukugyo/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは、オンボーディングの案件に絞ります。

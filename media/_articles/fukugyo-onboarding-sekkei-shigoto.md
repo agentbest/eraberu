@@ -9,7 +9,7 @@ tags: ["人事副業", "オンボーディング", "入社後の定着", "業務
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-onboarding-sekkei-shigoto"
-related: ["fukugyo-onboarding-sekkei-fukugyo", "fukugyo-onboarding-sekkei-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-shigoto"]
+related: ["fukugyo-onboarding-sekkei-fukugyo", "fukugyo-onboarding-sekkei-hajimekata", "fukugyo-onboarding-sekkei-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 オンボーディング設計を初めて受けるとき、見えにくいのは「入社の前に何を整え、入社の後に何を回し、自分はどこで手を引くか」です。募集文には「オンボーディングの構築」とだけあり、実際には、上司の時間の確保、教える内容の表、初日の準備の段取り、面談の日程、質問の窓口、つまずきと兆しの記録、定着の見直しと、入社の前後に工程が並び、しかも入社ごとに繰り返します。順番を知っていれば、契約前に決めておけます。結論を先に書くと、**1案件は「契約前→設計→入社前→入社後の運用→月次と三か月→終了と引き継ぎ」の六つの段階で進み、契約前に範囲・教える人と上司の時間・入社の人数と時期・窓口の名義と時間帯・記録の置き場と評価を書かないこと・労務の手続きは担当者であること・終わりの定義を決め、過去の退職の理由から三か月までの計画と教える内容の表と初日の一覧と面談の型と記録の型を設計し、入社前に連絡と準備の段取りと面談の日程の確保と上司への共有を行い、入社後は窓口と取り次ぎと面談の実施の確認とつまずきと兆しの記録を回し、月次と三か月で定着の記録から計画を見直し、型と記録を引き継いで情報を残さずに終えます。**案件の型と求められる経験は[オンボーディング設計の副業案件](/media/fukugyo-onboarding-sekkei-fukugyo/)に書いていますので、ここでは「1案件の流れ」に絞ります。
