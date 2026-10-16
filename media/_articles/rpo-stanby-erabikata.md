@@ -9,7 +9,7 @@ tags: ["スタンバイ", "運用代行", "選び方", "見積もり", "クリ�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-stanby-erabikata"
-related: ["rpo-stanby-shippai", "rpo-stanby-henshinritsu", "rpo-green-erabikata", "rpo-wantedly-erabikata"]
+related: ["rpo-stanby-shippai", "rpo-stanby-henshinritsu", "rpo-doda-erabikata", "rpo-green-erabikata"]
 sources:
   - name: "求人掲載はスタンバイで｜アルバイト・パート・正社員の採用におすすめ"
     url: "https://jinji.stanby.co.jp/"

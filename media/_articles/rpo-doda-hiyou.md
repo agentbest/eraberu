@@ -9,7 +9,7 @@ tags: ["doda", "doda ダイレクト", "費用", "定額プラン", "採用代�
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-doda-hiyou"
-related: ["rpo-doda-scout-bunmen", "rpo-doda-unyou-daikou", "rpo-ambi-hiyou", "rpo-bizreach-hiyou"]
+related: ["rpo-doda-henshinritsu", "rpo-doda-scout-bunmen", "rpo-doda-shippai", "rpo-doda-unyou-daikou"]
 sources:
   - name: "doda ダイレクト｜doda 中途採用をお考えの法人様へ"
     url: "https://www.saiyo-doda.jp/service/recruiters"

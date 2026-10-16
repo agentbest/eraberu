@@ -9,7 +9,7 @@ tags: ["doda", "doda ダイレクト", "運用代行", "スカウト", "採用�
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-doda-unyou-daikou"
-related: ["rpo-doda-hiyou", "rpo-doda-scout-bunmen", "rpo-findy-unyou-daikou", "rpo-green-unyou-daikou"]
+related: ["rpo-doda-henshinritsu", "rpo-doda-shippai", "rpo-doda-erabikata", "rpo-doda-hiyou"]
 sources:
   - name: "doda ダイレクト｜doda 中途採用をお考えの法人様へ"
     url: "https://www.saiyo-doda.jp/service/recruiters"

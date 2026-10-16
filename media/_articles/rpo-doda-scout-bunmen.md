@@ -9,7 +9,7 @@ tags: ["doda", "doda ダイレクト", "スカウト文面", "プレミアムオ
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-doda-scout-bunmen"
-related: ["rpo-doda-hiyou", "rpo-doda-unyou-daikou", "rpo-ambi-scout-bunmen", "rpo-bizreach-scout-bunmen"]
+related: ["rpo-doda-henshinritsu", "rpo-doda-hiyou", "rpo-doda-shippai", "rpo-doda-unyou-daikou"]
 sources:
   - name: "doda ダイレクト｜doda 中途採用をお考えの法人様へ"
     url: "https://www.saiyo-doda.jp/service/recruiters"
