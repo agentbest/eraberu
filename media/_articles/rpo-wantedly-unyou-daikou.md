@@ -9,7 +9,7 @@ tags: ["Wantedly", "運用代行", "スカウト", "ストーリー", "採用代
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-wantedly-unyou-daikou"
-related: ["rpo-wantedly-hiyou", "rpo-wantedly-scout-bunmen", "rpo-findy-unyou-daikou", "rpo-green-unyou-daikou"]
+related: ["rpo-wantedly-henshinritsu", "rpo-wantedly-shippai", "rpo-wantedly-erabikata", "rpo-wantedly-hiyou"]
 sources:
   - name: "権限について｜Wantedly ヘルプ"
     url: "https://help.wantedly.com/hc/ja/articles/8761119733017"

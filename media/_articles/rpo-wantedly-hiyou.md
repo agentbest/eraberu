@@ -9,7 +9,7 @@ tags: ["Wantedly", "採用代行", "費用", "掲載料金", "スカウト"]
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-wantedly-hiyou"
-related: ["rpo-wantedly-unyou-daikou", "rpo-wantedly-scout-bunmen", "rpo-ambi-hiyou", "rpo-bizreach-hiyou"]
+related: ["rpo-wantedly-henshinritsu", "rpo-wantedly-shippai", "rpo-wantedly-unyou-daikou", "rpo-wantedly-erabikata"]
 sources:
   - name: "Wantedlyの掲載料金・有料プランのご案内｜Wantedly ヘルプ"
     url: "https://help.wantedly.com/hc/ja/articles/115002998463"

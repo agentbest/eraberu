@@ -9,7 +9,7 @@ tags: ["Wantedly", "スカウト文面", "返信率", "カジュアル面談", "
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-wantedly-scout-bunmen"
-related: ["rpo-wantedly-hiyou", "rpo-wantedly-unyou-daikou", "rpo-green-scout-bunmen", "rpo-ambi-henshinritsu"]
+related: ["rpo-wantedly-henshinritsu", "rpo-wantedly-erabikata", "rpo-wantedly-hiyou", "rpo-wantedly-shippai"]
 sources:
   - name: "スカウトメッセージを魅力的にしたい｜Wantedly ヘルプ"
     url: "https://help.wantedly.com/hc/ja/articles/16221157555737"
