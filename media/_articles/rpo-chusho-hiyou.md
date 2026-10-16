@@ -9,7 +9,7 @@ tags: ["採用代行", "中小企業", "採用費用", "ハローワーク", "�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-chusho-hiyou"
-related: ["rpo-chusho-rpo", "rpo-chusho-shippai", "rpo-chusho-taisei", "rpo-ipo-junbi-hiyou"]
+related: ["rpo-chusho-rpo", "rpo-chusho-shippai", "rpo-chusho-taisei", "rpo-jugyoin-30-hiyou"]
 sources:
   - name: "e-Gov法令検索「中小企業基本法」（第2条）"
     url: "https://laws.e-gov.go.jp/law/338AC0000000154"
