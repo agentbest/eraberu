@@ -9,7 +9,7 @@ tags: ["人事副業", "組織サーベイ", "従業員調査", "業務別", "�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-soshiki-survey-shigoto"
-related: ["fukugyo-soshiki-survey-fukugyo", "fukugyo-soshiki-survey-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-shigoto"]
+related: ["fukugyo-soshiki-survey-fukugyo", "fukugyo-soshiki-survey-hajimekata", "fukugyo-soshiki-survey-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 組織サーベイ（従業員向けの意識調査）の設計を初めて受けるとき、見えにくいのは「実施の前に何を決め、結果が出たあとに何をすれば次の回も答えてもらえるか」です。募集文には「サーベイの設計と実施」とだけあり、実際には、結果を見て何を決めるかの整理、匿名性の設計、出さない単位の決まり、案内、回収、集計の確認、結果を返す場、行動を決める場、次の回の設計と、実施の前後に工程が並びます。順番を知っていれば、契約前に決めておけます。結論を先に書くと、**1案件は「契約前→設計→実施→集計→結果を返して行動へ→次の回と終了」の六つの段階で進み、契約前に範囲と結果を見て何を決めるかと結果の使い方と集計の単位と出さない単位とツールとデータの置き場と結果を返す日と行動を決める場と法令に基づく調査でないことを決め、設問を絞って回答の形式と集計の単位と案内と返し方の型を設計し、案内を送って回収を確認し、匿名性を確かめて少人数の単位を除いて集計し、社員に結果を返して会社と管理職が一つ決める場を回し、次の回で同じ設問で変化を見て型を引き継ぎ、データを残さずに終えます。**案件の型と扱わない調査の線は[組織サーベイの設計の副業案件](/media/fukugyo-soshiki-survey-fukugyo/)に書いていますので、ここでは「1案件の流れ」に絞ります。

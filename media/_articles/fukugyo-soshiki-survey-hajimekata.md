@@ -9,7 +9,7 @@ tags: ["人事副業", "組織サーベイ", "従業員調査", "業務別", "�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-soshiki-survey-hajimekata"
-related: ["fukugyo-soshiki-survey-fukugyo", "fukugyo-soshiki-survey-shigoto", "fukugyo-agent-control-hajimekata", "fukugyo-ats-dounyu-hajimekata"]
+related: ["fukugyo-soshiki-survey-fukugyo", "fukugyo-soshiki-survey-shigoto", "fukugyo-soshiki-survey-tanka", "fukugyo-agent-control-hajimekata"]
 ---
 
 社内で組織サーベイを設計し、実施し、結果を返してきた。設問を絞り、匿名性を守り、管理職と行動を決め、次の回で変化を見てきた。この経験を副業で使えないか。そう思って募集を見ると、「エンゲージメントサーベイの導入」「組織診断」の案件はあるのに、自分の何を見せれば選ばれるのかが分からない。「サーベイの設計経験があります」「データ分析ができます」では、アンケートを作って集計する人にしか見えないからです。結論を先に書くと、**最初の1件を取るには、「結果を見て何を決めるかから設問を絞り、少人数の単位を出さない集計の単位を設計し、案内に出さない単位と結果を返す日を書き、結果を返して会社が一つ決めて伝え、次の回で変化を見た」と、決めることと匿名性と返す工程の三つで見せます。見本は設問の絞り方の対比と集計の単位と出さない単位の決まりと案内の一枚と結果の返し方の型と行動を決める場の型で作り、入口は、評価制度や1on1やオンボーディングの案件の中で提案、紹介、副業のプラットフォーム、担当者を選べる窓口の四つで、最初は「一回の設計だけ」「既存のサーベイの返し方の見直しだけ」「行動を決める場だけ」と小さく受け、受ける前に結果の使い方と出さない単位と返す日と法令に基づく調査でないことを確かめ、最初の1件を「設問と単位の決まりと案内と返し方の型と決めたことの記録が残り、回答のデータは残らない形」で終えて2件目につなげます。**案件の型と扱わない調査の線は[組織サーベイの設計の副業案件](/media/fukugyo-soshiki-survey-fukugyo/)に、1案件の流れは[組織サーベイの設計の副業の実務](/media/fukugyo-soshiki-survey-shigoto/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは「最初の1件の取り方」に絞ります。

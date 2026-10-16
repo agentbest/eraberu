@@ -9,7 +9,7 @@ tags: ["人事副業", "オンボーディング", "定着", "単価", "副業"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-onboarding-sekkei-tanka"
-related: ["fukugyo-onboarding-sekkei-fukugyo", "fukugyo-onboarding-sekkei-hajimekata", "fukugyo-onboarding-sekkei-shigoto", "fukugyo-agent-control-tanka"]
+related: ["fukugyo-onboarding-sekkei-fukugyo", "fukugyo-onboarding-sekkei-hajimekata", "fukugyo-onboarding-sekkei-shigoto", "fukugyo-engagement-tanka"]
 sources:
   - name: "e-Gov法令検索「労働基準法」（第15条）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000049"
