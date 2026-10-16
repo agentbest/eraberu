@@ -9,7 +9,7 @@ tags: ["採用代行", "地方企業", "失敗パターン", "フェーズ別", 
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-chihou-kigyo-shippai"
-related: ["rpo-chihou-kigyo-rpo", "rpo-chihou-kigyo-taisei", "rpo-chusho-shippai", "rpo-daikigyo-shippai"]
+related: ["rpo-chihou-kigyo-rpo", "rpo-chihou-kigyo-taisei", "rpo-chihou-kigyo-hiyou", "rpo-chusho-shippai"]
 ---
 
 地方企業の採用には、都市部の会社とは違う条件があります。候補者の数が限られる、地元の経路（学校、知人、ハローワーク、地域の媒体）が効く、移住やリモートという選択肢を扱う必要がある、代行の会社が遠くにいる。この条件で採用代行を使うと、都市部の会社では起きない失敗の形が出ます。結論を先に書くと、**地方企業の失敗は「都市部の採用のやり方を、そのまま地方に持ち込む」ことから起きます。全国型の媒体とスカウトで探し、地元の経路を使わず、移住の条件を整理せず、遠隔で回すと、応募が来ないか、来ても地元に残らない人になります。**代行に出す前に、「地元の経路を誰が持つか」を決めておけば、失敗の大半は避けられます。この記事では、五つのパターンを、症状・原因・先に打つ手の順に整理します。地方拠点の採用の課題は[地方拠点の採用が進まない](/media/rpo-chihou-saiyo/)に、地域の媒体の考え方は[地域の求人媒体は使うべきか](/media/rpo-chiiki-media/)に、代行の全体像は[採用代行（RPO）とは](/media/rpo-toha/)にまとめています。

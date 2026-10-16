@@ -9,7 +9,7 @@ tags: ["採用代行", "急成長", "採用体制", "フェーズ別", "増員"]
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-kyuu-seichou-taisei"
-related: ["rpo-kyuu-seichou-shippai", "rpo-kyuu-seichou-rpo", "rpo-chihou-kigyo-taisei", "rpo-chusho-taisei"]
+related: ["rpo-kyuu-seichou-shippai", "rpo-kyuu-seichou-rpo", "rpo-kyuu-seichou-hiyou", "rpo-chihou-kigyo-taisei"]
 ---
 
 急成長フェーズの会社が採用代行を使うとき、決めるべきことは「何人採るか」ではなく、「人が増えても崩れない体制を、増える前にどう作るか」です。急成長フェーズでは、採用の数が増え、面接官が増え、入る人が増え、代行との接点が増えます。増えてから体制を作ろうとすると、作っている間に崩れます。結論を先に書くと、**社内に残す役割は「要件の軸を決める人」「週に一度、優先順位を決める場」「最終の面接官」「受け入れの担当」の四つで、この四つを増える前に置いてから代行に出せば、数が増えても崩れません。**この記事では、四つの役割の中身と、増え方の段階ごとに何を作るか、代行との線の引き方を整理します。失敗の形は[急成長フェーズの会社が採用代行で失敗するパターン](/media/rpo-kyuu-seichou-shippai/)に、急な増員への対応は[急な増員要請に対応できない](/media/rpo-kyuu-zouin/)に、代行の全体像は[採用代行（RPO）とは](/media/rpo-toha/)にまとめています。

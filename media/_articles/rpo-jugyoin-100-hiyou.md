@@ -9,7 +9,7 @@ tags: ["採用代行", "従業員100名", "採用費用", "人事チーム", "�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-jugyoin-100-hiyou"
-related: ["rpo-jugyoin-100-rpo", "rpo-jugyoin-100-shippai", "rpo-jugyoin-100-taisei", "rpo-chusho-hiyou"]
+related: ["rpo-jugyoin-100-rpo", "rpo-jugyoin-100-shippai", "rpo-jugyoin-100-taisei", "rpo-chihou-kigyo-hiyou"]
 sources:
   - name: "e-Gov法令検索「女性の職業生活における活躍の推進に関する法律」（第8条）"
     url: "https://laws.e-gov.go.jp/law/427AC0000000064"

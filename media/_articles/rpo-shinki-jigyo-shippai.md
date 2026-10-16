@@ -9,7 +9,7 @@ tags: ["採用代行", "新規事業", "失敗パターン", "フェーズ別", 
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-shinki-jigyo-shippai"
-related: ["rpo-shinki-jigyo-rpo", "rpo-shinki-jigyo-taisei", "rpo-chihou-kigyo-shippai", "rpo-chusho-shippai"]
+related: ["rpo-shinki-jigyo-rpo", "rpo-shinki-jigyo-taisei", "rpo-shinki-jigyo-hiyou", "rpo-chihou-kigyo-shippai"]
 ---
 
 新規事業の立ち上げ期の採用は、既存の事業の採用と同じやり方では動きません。事業の中身が固まっていない、候補者に説明できる実績がない、既存の人事は既存の事業の採用で手一杯、事業の責任者は事業そのものに追われている。この条件で採用代行を使うと、既存の事業では起きない失敗の形が出ます。結論を先に書くと、**新規事業の立ち上げ期の失敗は「既存の事業のやり方を、新規事業の採用に当てはめる」ことから起きます。要件も、候補者への説明も、選考の流れも、既存の事業のものを流用すると、新規事業に合う人が来ず、来ても通らず、通っても入る前に事業が変わります。**代行に出す前に、「新規事業の採用は別の流れで回す」と決めておけば、失敗の大半は避けられます。この記事では、五つのパターンを、症状・原因・先に打つ手の順に整理します。急成長フェーズの失敗は[急成長フェーズの会社が採用代行で失敗するパターン](/media/rpo-kyuu-seichou-shippai/)に、事業開発の職種の採用は[事業開発向けスカウト文面の型](/media/rpo-jigyo-kaihatsu-scout/)に、代行の全体像は[採用代行（RPO）とは](/media/rpo-toha/)にまとめています。

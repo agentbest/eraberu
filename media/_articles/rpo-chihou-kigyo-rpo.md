@@ -9,7 +9,7 @@ tags: ["採用代行", "地方企業", "外注の順番", "フェーズ別", "�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-chihou-kigyo-rpo"
-related: ["rpo-chihou-kigyo-taisei", "rpo-chihou-kigyo-shippai", "rpo-chusho-rpo", "rpo-daikigyo-rpo"]
+related: ["rpo-chihou-kigyo-taisei", "rpo-chihou-kigyo-shippai", "rpo-chihou-kigyo-hiyou", "rpo-chusho-rpo"]
 ---
 
 地方企業で、採用に手が回らず、代行に頼りたい。ただ、何から出せばよいか。代行の会社に聞くと「全国から探します」と言われ、それで応募が来るのか不安になる。この記事は、その順番を決めるためのものです。結論を先に書くと、**地方企業が最初に出すべきは「地元の経路から来た人への連絡・日程・記録」で、次が「案内と原稿の作成」、最後が「移住できる人の探索」です。**順番の理由は、地方企業で決まる人の多くは地元の経路から来ており、その経路は社内にしか持てず、代行に出せるのは経路から来た後の運用だからです。探す工程を最初に出すと、代行は全国型の媒体で探し、地元の経路に社内が使う時間は増えず、応募も薄いままになります。社内に残す役割は[地方企業の採用体制の作り方](/media/rpo-chihou-kigyo-taisei/)に、失敗の形は[地方企業が採用代行で失敗するパターン](/media/rpo-chihou-kigyo-shippai/)に、地方拠点の採用の課題は[地方拠点の採用が進まない](/media/rpo-chihou-saiyo/)にまとめています。

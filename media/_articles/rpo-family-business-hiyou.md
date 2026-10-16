@@ -9,7 +9,7 @@ tags: ["採用代行", "同族企業", "オーナー企業", "採用費用", "�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-family-business-hiyou"
-related: ["rpo-family-business-rpo", "rpo-family-business-shippai", "rpo-family-business-taisei", "rpo-chusho-hiyou"]
+related: ["rpo-family-business-rpo", "rpo-family-business-shippai", "rpo-family-business-taisei", "rpo-chihou-kigyo-hiyou"]
 sources:
   - name: "e-Gov法令検索「労働基準法」（第15条・第89条・第116条）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000049"

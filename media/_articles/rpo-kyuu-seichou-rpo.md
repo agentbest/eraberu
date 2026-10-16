@@ -9,7 +9,7 @@ tags: ["採用代行", "急成長", "外注の順番", "フェーズ別", "一�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-kyuu-seichou-rpo"
-related: ["rpo-kyuu-seichou-shippai", "rpo-kyuu-seichou-taisei", "rpo-chihou-kigyo-rpo", "rpo-chusho-rpo"]
+related: ["rpo-kyuu-seichou-shippai", "rpo-kyuu-seichou-taisei", "rpo-kyuu-seichou-hiyou", "rpo-chihou-kigyo-rpo"]
 ---
 
 急成長フェーズの会社で、採用の数が急に増え、社内が追いつかず、代行に頼りたい。ただ、何から出せばよいか。多くの会社は「まず候補者を集めてほしい」と探す工程から出しますが、急成長フェーズではそれが最初ではないことが多いです。結論を先に書くと、**急成長フェーズの会社が最初に出すべきは「一次面接と日程調整」で、次が「探す工程」、最後が「入社の準備と受け入れの運用」です。**順番の理由は、急成長フェーズで最初に詰まるのは「集める」ではなく「集まった後の選考」だからです。候補者は集まっているのに、面接官の予定が埋まらず、判断が溜まり、候補者が離れる。この詰まりを先に解かないと、探す工程を出しても、集めた候補者をまた失います。社内に残す役割は[急成長フェーズの会社の採用体制の作り方](/media/rpo-kyuu-seichou-taisei/)に、失敗の形は[急成長フェーズの会社が採用代行で失敗するパターン](/media/rpo-kyuu-seichou-shippai/)に、急な増員への対応は[急な増員要請に対応できない](/media/rpo-kyuu-zouin/)にまとめています。

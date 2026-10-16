@@ -9,7 +9,7 @@ tags: ["採用代行", "新規事業", "外注の順番", "フェーズ別", "�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-shinki-jigyo-rpo"
-related: ["rpo-shinki-jigyo-shippai", "rpo-shinki-jigyo-taisei", "rpo-chihou-kigyo-rpo", "rpo-chusho-rpo"]
+related: ["rpo-shinki-jigyo-shippai", "rpo-shinki-jigyo-taisei", "rpo-shinki-jigyo-hiyou", "rpo-chihou-kigyo-rpo"]
 ---
 
 新規事業の立ち上げ期で、事業の責任者が採用まで手が回らず、既存の人事は既存の事業で手一杯、代行に頼りたい。ただ、何から出せばよいか。多くの会社は「まず候補者を探してほしい」と探す工程から出しますが、新規事業では、探す前に詰まっていることがあります。結論を先に書くと、**新規事業の立ち上げ期に最初に出すべきは「事業の責任者の言葉を候補者に届ける工程」で、具体的にはスカウトの文面の作成、応募前の面談、連絡と日程調整です。次が「探す工程」、最後が「条件の伝達と内定の後の連絡」です。**順番の理由は、新規事業では「候補者に事業が伝わらない」ことが最初の詰まりで、伝わらないまま探しても返信が来ず、来ても面接で離れるからです。社内に残す役割は[新規事業の立ち上げ期の採用体制の作り方](/media/rpo-shinki-jigyo-taisei/)に、失敗の形は[新規事業の立ち上げ期が採用代行で失敗するパターン](/media/rpo-shinki-jigyo-shippai/)に、急成長フェーズの順番は[急成長フェーズの会社の採用代行](/media/rpo-kyuu-seichou-rpo/)にまとめています。

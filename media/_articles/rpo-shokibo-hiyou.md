@@ -9,7 +9,7 @@ tags: ["採用代行", "小規模事業者", "採用費用", "経営者", "1人�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-shokibo-hiyou"
-related: ["rpo-shokibo-rpo", "rpo-shokibo-shippai", "rpo-shokibo-taisei", "rpo-chusho-hiyou"]
+related: ["rpo-shokibo-rpo", "rpo-shokibo-shippai", "rpo-shokibo-taisei", "rpo-chihou-kigyo-hiyou"]
 sources:
   - name: "e-Gov法令検索「中小企業基本法」（第2条第5項）"
     url: "https://laws.e-gov.go.jp/law/338AC0000000154"

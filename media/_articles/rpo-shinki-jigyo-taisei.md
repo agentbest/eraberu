@@ -9,7 +9,7 @@ tags: ["採用代行", "新規事業", "採用体制", "フェーズ別", "事�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-shinki-jigyo-taisei"
-related: ["rpo-shinki-jigyo-rpo", "rpo-shinki-jigyo-shippai", "rpo-chihou-kigyo-taisei", "rpo-chusho-taisei"]
+related: ["rpo-shinki-jigyo-rpo", "rpo-shinki-jigyo-shippai", "rpo-shinki-jigyo-hiyou", "rpo-chihou-kigyo-taisei"]
 ---
 
 新規事業の立ち上げ期に採用代行を使うとき、決めるべきことは「既存の人事の流れにどう乗せるか」ではなく、「既存の流れから切り離した小さい流れを、誰と誰で回すか」です。新規事業の採用は、少人数を、速く、要件が変わる前提で、実績のない事業を候補者に伝えながら進めます。既存の事業の流れは、この条件に合いません。結論を先に書くと、**社内に残す役割は「事業の責任者」「経営者か担当役員」「既存の人事」の三つで、事業の責任者が要件と一次面接と候補者への説明を持ち、経営者か担当役員が最終の面接と事業の節目の判断を持ち、既存の人事は流れの承認と記録の共有だけを持ちます。**代行は、この小さい流れの中で、事業の責任者と直接つながって動きます。失敗の形は[新規事業の立ち上げ期が採用代行で失敗するパターン](/media/rpo-shinki-jigyo-shippai/)に、急成長フェーズの体制は[急成長フェーズの会社の採用体制の作り方](/media/rpo-kyuu-seichou-taisei/)に、代行の全体像は[採用代行（RPO）とは](/media/rpo-toha/)にまとめています。

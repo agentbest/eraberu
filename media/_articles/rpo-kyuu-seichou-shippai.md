@@ -9,7 +9,7 @@ tags: ["採用代行", "急成長", "失敗パターン", "フェーズ別", "�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-kyuu-seichou-shippai"
-related: ["rpo-kyuu-seichou-taisei", "rpo-kyuu-seichou-rpo", "rpo-chihou-kigyo-shippai", "rpo-chusho-shippai"]
+related: ["rpo-kyuu-seichou-taisei", "rpo-kyuu-seichou-rpo", "rpo-kyuu-seichou-hiyou", "rpo-chihou-kigyo-shippai"]
 ---
 
 急成長フェーズの会社は、採用代行を最も必要とし、最も失敗しやすい会社です。社員が年に倍になるような時期には、人事の手が足りず、代行に頼るのは自然です。ただ、急成長フェーズには、この時期にしか起きない失敗の形があります。結論を先に書くと、**急成長フェーズの失敗は「採用の数を増やすことに全部を寄せて、数以外が崩れる」ことから起きます。要件、面接官、受け入れ、代行の管理。この四つが数に追いつかず、採れたのに辞める、採れたのに現場が回らない、という形になります。**代行に出す前に、「数を増やしても崩れないもの」を一つ決めておけば、失敗の大半は避けられます。この記事では、五つのパターンを、症状・原因・先に打つ手の順に整理します。急な増員への対応は[急な増員要請に対応できない](/media/rpo-kyuu-zouin/)に、スタートアップに向く代行の条件は[スタートアップに向く採用代行の条件](/media/rpo-startup-muke/)に、代行の全体像は[採用代行（RPO）とは](/media/rpo-toha/)にまとめています。

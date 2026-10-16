@@ -9,7 +9,7 @@ tags: ["採用代行", "IPO準備", "管理部門採用", "採用費用", "労�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-ipo-junbi-hiyou"
-related: ["rpo-ipo-junbi-rpo", "rpo-ipo-junbi-shippai", "rpo-ipo-junbi-taisei", "rpo-chusho-hiyou"]
+related: ["rpo-ipo-junbi-rpo", "rpo-ipo-junbi-shippai", "rpo-ipo-junbi-taisei", "rpo-chihou-kigyo-hiyou"]
 sources:
   - name: "e-Gov法令検索「労働安全衛生法」（第66条の8の3）"
     url: "https://laws.e-gov.go.jp/law/347AC0000000057"

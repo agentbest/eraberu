@@ -9,7 +9,7 @@ tags: ["採用代行", "地方企業", "採用体制", "フェーズ別", "地�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-chihou-kigyo-taisei"
-related: ["rpo-chihou-kigyo-rpo", "rpo-chihou-kigyo-shippai", "rpo-chusho-taisei", "rpo-daikigyo-taisei"]
+related: ["rpo-chihou-kigyo-rpo", "rpo-chihou-kigyo-shippai", "rpo-chihou-kigyo-hiyou", "rpo-chusho-taisei"]
 ---
 
 地方企業が採用代行を使うとき、決めるべきことは「代行に何を探してもらうか」ではなく、「地元の経路を社内の誰が持ち続け、代行にどの運用を出すか」です。地方企業の採用で決まる人の多くは、地元にいる人か、地元に戻りたい人で、その人たちに届く経路は、会社の名前と地域での関係で成り立っています。代行はその関係を持てません。結論を先に書くと、**社内に残す役割は「地元の経路を持つ人」「会社と地域を語る人」「移住とリモートの条件を決める人」の三つで、代行には経路に依存しない運用（連絡、日程、記録、案内の作成、遠方の候補者の探索）を出します。**この記事では、三つの役割の中身と、狙う層ごとの体制、遠隔の代行との線の引き方を整理します。失敗の形は[地方企業が採用代行で失敗するパターン](/media/rpo-chihou-kigyo-shippai/)に、地方拠点の採用の課題は[地方拠点の採用が進まない](/media/rpo-chihou-saiyo/)に、代行の全体像は[採用代行（RPO）とは](/media/rpo-toha/)にまとめています。
