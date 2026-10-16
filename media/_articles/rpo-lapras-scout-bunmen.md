@@ -9,7 +9,7 @@ tags: ["LAPRAS", "エンジニア採用", "スカウト文面", "採用代行", 
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-lapras-scout-bunmen"
-related: ["rpo-lapras-unyou-daikou", "rpo-lapras-hiyou", "rpo-offers-scout-bunmen", "rpo-ambi-scout-bunmen"]
+related: ["rpo-lapras-unyou-daikou", "rpo-lapras-hiyou", "rpo-green-scout-bunmen", "rpo-offers-scout-bunmen"]
 sources:
   - name: "LAPRAS スカウトガイドライン｜採用担当者向けLAPRASヘルプ"
     url: "https://help.lapras.com/scout-quality-guideline"
