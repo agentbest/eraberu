@@ -9,7 +9,7 @@ tags: ["採用代行", "採用広報", "オウンドメディア", "業務別", 
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-saiyo-koho-susumekata"
-related: ["rpo-task-saiyo-koho-daikou", "rpo-task-sns-saiyo-susumekata", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
+related: ["rpo-task-saiyo-koho-daikou", "rpo-task-saiyo-koho-hiyou", "rpo-task-sns-saiyo-susumekata", "rpo-task-agent-taiou-susumekata"]
 ---
 
 採用広報を自社で進めようとして、「まず記事を一本書いてみる」から始めると、書けるのは会社の説明で、社員の話は「やりがいがあります」で終わり、二本目は忙しくて書けず、採用サイトには半年前の記事が一本だけ残り、候補者が検索した先は「更新の止まった場所」になります。採用広報で最初にやるべきは、一本書くことではなく、「何を伝えるか」「誰が語るか」「月に何本出すか」を決めて、出し続けられる型を作ることです。型があれば、一本の質より続いていることが候補者に伝わります。結論を先に書くと、**進め方は、伝えることと伝えないことを決める→出す場所を一つに絞る→候補者の五つの問いから企画の一覧を作る→取材に応じる社員と承認する人と期限を決める→場面を聞く取材の型を作る→社員の言葉を残す原稿の型を作る→月に何本と決めて公開の予定表を作る→記録の表を作り、月に一度、閲覧と候補者の言及を見る、の八つの手順**です。代行に出す場合の切り分けは[採用広報・オウンドメディアは代行に出せるか](/media/rpo-task-saiyo-koho-daikou/)に、何を発信するかは[採用SNSで何を発信すればよいか](/media/rpo-sns-nani/)に書いていますので、ここでは自社で進める手順に絞ります。

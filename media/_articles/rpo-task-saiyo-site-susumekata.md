@@ -9,7 +9,7 @@ tags: ["採用代行", "採用サイト", "サイト運用", "業務別", "進�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-saiyo-site-susumekata"
-related: ["rpo-task-saiyo-site-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-saiyo-site-daikou", "rpo-task-saiyo-site-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 採用サイトを自社で運用しようとして、「作ったあとは気づいたときに直す」から始めると、終わった募集が半年残り、応募フォームの自動返信が止まっていることに候補者からの問い合わせで気づき、社員の話は一年前に作ったまま、候補者が検索した先は「更新の止まった場所」になります。採用サイトの運用で最初にやるべきは、記事を足すことではなく、「何を載せ、誰が更新し、募集が終わったら誰が消すか」を決めて、いまあるものが正しく動いている状態を作ることです。それができれば、記事を足すのは月に一度の作業になります。結論を先に書くと、**進め方は、載せる情報と載せない情報を決める→社員の顔出しと名前の方針を決める→現状を棚卸しして直す順番を決める→募集の開始と終了を伝える流れと差し替えの担当を決める→応募フォームと導線を候補者の立場で通す→社員記事を足す型を作る→更新の担当と承認の期限を決める→月に一度、募集の一覧とフォームと閲覧と応募を確認する、の八つの手順**です。代行に出す場合の切り分けは[採用サイトの運用は代行に出せるか](/media/rpo-task-saiyo-site-daikou/)に、記事の作り方は[採用広報・オウンドメディアの進め方](/media/rpo-task-saiyo-koho-susumekata/)に書いていますので、ここでは自社で進める手順に絞ります。サイトの制作ツールや費用の話はしません。

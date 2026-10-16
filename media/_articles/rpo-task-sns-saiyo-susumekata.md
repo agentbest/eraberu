@@ -9,7 +9,7 @@ tags: ["採用代行", "SNS採用", "採用広報", "業務別", "進め方"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-sns-saiyo-susumekata"
-related: ["rpo-task-sns-saiyo-daikou", "rpo-task-saiyo-koho-susumekata", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
+related: ["rpo-task-sns-saiyo-daikou", "rpo-task-sns-saiyo-hiyou", "rpo-task-saiyo-koho-susumekata", "rpo-task-agent-taiou-susumekata"]
 ---
 
 SNS採用を自社で進めようとして、「とりあえずアカウントを作って投稿してみる」から始めると、書けるのは求人の案内と会社の告知で、社員に頼んだ投稿は二回で止まり、コメントに気づかず放置され、承認に一週間かかって投稿の時期を逃し、三か月後には更新の止まったアカウントが会社名の検索結果に残ります。SNS採用で最初にやるべきは、投稿することではなく、「誰に届けるか」「誰の名義か」「何を出さないか」「批判が来たら誰が判断するか」を決めて、社員の負担が小さいまま続く型を作ることです。結論を先に書くと、**進め方は、狙う候補者が見ている場を一つ選び名義を決める→発信しない情報の一覧と批判への対応の流れを作る→社員の顔出しの方針と同意を決める→候補者の五つの問いから投稿の型を作る→社員への週一問の質問を決める→承認を短くする型を作る→週の予定表を作り予約投稿する→コメントとDMの対応の範囲を決め、月に一度、反応と応募への影響を見る、の八つの手順**です。代行に出す場合の切り分けは[SNS採用の運用は代行に出せるか](/media/rpo-task-sns-saiyo-daikou/)に、何を発信するかは[採用SNSで何を発信すればよいか](/media/rpo-sns-nani/)に書いていますので、ここでは自社で進める手順に絞ります。特定のSNSの仕様や機能には触れません。仕様は各サービスの公式情報でご確認ください。

@@ -9,7 +9,7 @@ tags: ["採用代行", "採用広報", "オウンドメディア", "業務別", 
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-saiyo-koho-daikou"
-related: ["rpo-task-saiyo-koho-susumekata", "rpo-task-sns-saiyo-daikou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
+related: ["rpo-task-saiyo-koho-susumekata", "rpo-task-saiyo-koho-hiyou", "rpo-task-sns-saiyo-daikou", "rpo-task-agent-taiou-daikou"]
 ---
 
 「採用広報をやりたいが、社内に書ける人がいないので代行に出したい」という相談は、スカウトや媒体で候補者が「会社名で検索した先」を整えたい会社から来ます。出せます。ただ、採用広報で候補者に届くのは「社員が自分の言葉で語ったこと」であり、外の人が会社を代わりに語る記事は、きれいでも候補者には届きません。外の人が持てるのは、社員から聞き出し、文章にし、出し続ける部分です。結論を先に書くと、**採用広報・オウンドメディアは、「何を伝え何を伝えないかの決定」「社員が自分の言葉で語ること」「公開の承認」「会社としての表現の判断」は会社が持ち、「候補者が知りたいことの整理と企画・社員への取材と原稿化・記事や投稿の制作と公開の運用・採用サイトやSNSの更新・閲覧と応募への影響の記録」は代行に出せます**。何を発信すればよいかは[採用SNSで何を発信すればよいか](/media/rpo-sns-nani/)に、ネタが尽きたときは[採用広報のネタが尽きたとき](/media/rpo-koho-neta/)に書いていますので、ここでは「採用広報を工程に分けて出す」観点に絞ります。
