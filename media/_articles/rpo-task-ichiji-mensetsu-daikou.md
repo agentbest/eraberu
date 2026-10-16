@@ -9,7 +9,7 @@ tags: ["採用代行", "一次面接", "面接代行", "業務別", "任せる�
 pubDate: 2026-09-19
 reviewedAt: 2026-09-19
 slug: "rpo-task-ichiji-mensetsu-daikou"
-related: ["rpo-task-ichiji-mensetsu-susumekata", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou", "rpo-task-ats-unyou-daikou"]
+related: ["rpo-task-ichiji-mensetsu-susumekata", "rpo-task-ichiji-mensetsu-hiyou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
 ---
 
 「一次面接を代行に出せますか」という質問には、「面接の合否を外の人に決めさせてよいのか」という迷いと、「面接官の時間が足りない」という切実さの両方が入っています。答えは、出せる部分と出せない部分があり、その線は「面接の実施」と「合否の決定」の間にあります。一次面接は、観点と質問と記録の型を決めて、その型で聞き、根拠を添えて記録する工程と、その記録を見て次に進めるかを決める工程に分かれます。前者は型があれば外の人ができ、後者は会社にしかできません。結論を先に書くと、**一次面接は、「観点と基準の決定」「次に進めるかの決定」「会社を代表して語ること」「二次以降の面接」は会社が持ち、「観点と質問と記録の型の設計・型に沿った面接の実施・根拠を添えた記録の提出・日程の調整・候補者への連絡・通過した人が二次でどう評価されたかの記録」は代行に出せます**。面接の評価を代行に付けさせてよいかという論点は[面接評価を代行に付けさせてよいか](/media/rpo-mensetsu-hyouka/)に、面接官が足りないときの組み方は[面接官が足りないとき](/media/rpo-mensetsukan-tarinai/)に書いていますので、ここでは「一次面接を工程に分けて出す」観点に絞ります。

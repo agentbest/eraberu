@@ -9,7 +9,7 @@ tags: ["採用代行", "面接の日程調整", "面接設定", "業務別", "�
 pubDate: 2026-09-19
 reviewedAt: 2026-09-19
 slug: "rpo-task-nittei-chousei-susumekata"
-related: ["rpo-task-nittei-chousei-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-nittei-chousei-daikou", "rpo-task-nittei-chousei-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 面接の日程調整を自社で進めようとして、「候補者にご希望の日時を聞く」から始めると、候補者が出した希望が面接官の予定と合わず、別の日を聞き直し、面接官の返事を待ち、また候補者に戻す、という往復が重なります。往復のたびに一日か二日が過ぎ、面接が決まる頃には候補者は他社の面接を終えています。日程調整で最初にやるべきは、候補者に聞くことではなく、面接官の枠を先に空けて、その中から候補日を出せる状態にしておくことです。結論を先に書くと、**進め方は、面接官の枠を週単位で先に空ける→誰が何次で見るかと所要時間を決める→候補日を三つ以上先に出す文面を作る→候補者と面接官の返事の期限を決める→確定の連絡と面接官への共有の型を作る→変更やキャンセルの決まりを作る→往復の回数と社内で止まった日数を記録する→週に一度、枠の空きと止まった日数を見る、の八つの手順**で、順番を守ると、往復は一回か二回になり、社内で止まる日数が減り、辞退と無断欠席が減ります。代行に出す場合の切り分けは[面接の日程調整は代行に出せるか](/media/rpo-task-nittei-chousei-daikou/)に、遅くて候補者が流れる構造は[日程調整が遅くて候補者が流れるとき](/media/rpo-nittei-chousei-osoi/)に書いていますので、ここでは自社で進める手順に絞ります。

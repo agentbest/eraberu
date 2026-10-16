@@ -9,7 +9,7 @@ tags: ["採用代行", "カジュアル面談", "面談設計", "業務別", "�
 pubDate: 2026-09-19
 reviewedAt: 2026-09-19
 slug: "rpo-task-casual-mendan-daikou"
-related: ["rpo-task-casual-mendan-susumekata", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou", "rpo-task-ats-unyou-daikou"]
+related: ["rpo-task-casual-mendan-susumekata", "rpo-task-casual-mendan-hiyou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
 ---
 
 「カジュアル面談が増えて現場の時間が持たないので、代行に出したい」という相談は、スカウトを始めた会社に多くあります。出せる部分はありますが、面談そのものを外の人に丸ごと任せると、期待した効果は出にくくなります。カジュアル面談に来る候補者が聞きたいのは、会社の人が語る「この会社で働くとどうなるか」であり、外の人はそれを本人の言葉では語れません。候補者の質問に「確認してご連絡します」が続くと、面談は説明会になり、応募には進みません。結論を先に書くと、**カジュアル面談は、「面談に出る人の決定」「会社の話を語ること」「選考に進めるかどうかの判断」「面談を選考にしないという決まり」は会社が持ち、「目的と流れの設計・誘いの文面・日程の調整・同席と記録・面談後の連絡と応募への案内・面談から応募に進んだ率の記録」は代行に出せます**。面談が選考になってしまう構造は[カジュアル面談が選考になってしまうとき](/media/rpo-casual-mendan-kadai/)に、誘い方は[カジュアル面談への誘い方](/media/scout-casual-mendan-sasoi/)に書いていますので、ここでは「代行に出す」観点に絞ります。

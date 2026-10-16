@@ -9,7 +9,7 @@ tags: ["採用代行", "カジュアル面談", "面談設計", "業務別", "�
 pubDate: 2026-09-19
 reviewedAt: 2026-09-19
 slug: "rpo-task-casual-mendan-susumekata"
-related: ["rpo-task-casual-mendan-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-casual-mendan-daikou", "rpo-task-casual-mendan-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 カジュアル面談を自社で進めようとして、「とりあえず現場に会わせる」から始めると、出る人によって話す内容が変わり、ある回は会社の説明で終わり、ある回は経歴を深掘りして選考のようになり、面談の後には何も届かず、候補者は他社の面談に進みます。カジュアル面談で最初にやるべきは、現場の予定を空けることではなく、「この面談は選考ではなく、何を話す場か」を会社として決めることです。目的が決まれば、出る人と話す内容と面談後に送るものが決まり、誰が出ても同じ流れになります。結論を先に書くと、**進め方は、面談の目的を「選考ではない」と決めて何を話す場かを定める→面談に出る人と枠を決める→話す内容を一枚にまとめる→誘いの文面を作る→当日の流れと時間配分を決める→面談後に翌日までに送るものを決める→記録の表を作る→月に一度、誰が出た面談が応募に進んだかを見る、の八つの手順**で、順番を守ると、面談の数を増やさなくても応募に進む数が増えます。代行に出す場合の切り分けは[カジュアル面談は代行に出せるか](/media/rpo-task-casual-mendan-daikou/)に、面談が選考になってしまう構造は[カジュアル面談が選考になってしまうとき](/media/rpo-casual-mendan-kadai/)に書いていますので、ここでは自社で進める手順に絞ります。

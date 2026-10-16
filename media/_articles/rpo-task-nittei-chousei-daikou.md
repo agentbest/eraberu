@@ -9,7 +9,7 @@ tags: ["採用代行", "面接の日程調整", "面接設定", "業務別", "�
 pubDate: 2026-09-19
 reviewedAt: 2026-09-19
 slug: "rpo-task-nittei-chousei-daikou"
-related: ["rpo-task-nittei-chousei-susumekata", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou", "rpo-task-ats-unyou-daikou"]
+related: ["rpo-task-nittei-chousei-susumekata", "rpo-task-nittei-chousei-hiyou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
 ---
 
 「面接の日程調整くらいは代行に出せますよね」という相談は多く、出せることは出せます。ただ、日程調整を「候補者にメールを送る事務」と捉えて出すと、期待した効果が出ません。日程調整で候補者が流れる原因は、メールの速さではなく、面接官の枠が空いていないこと、候補者からの返信が社内で止まること、往復が何度も重なることにあります。代行が候補者に当日返信しても、面接官の枠が二週間先しか無ければ、候補者は二週間待たされます。結論を先に書くと、**面接の日程調整は、「面接官の枠を空ける決定」「誰が何次で見るかの順序」「候補者の優先順位」「枠が足りないときの最終判断」は会社が持ち、「候補日の提示・候補者との往復・確定と前日の確認の連絡・変更やキャンセルの受付・面接官への共有・往復の回数と社内で止まった日数の記録」は代行に出せます**。日程調整が遅くて候補者が流れる構造は[日程調整が遅くて候補者が流れるとき](/media/rpo-nittei-chousei-osoi/)に、面接官が足りないときの組み方は[面接官が足りないとき](/media/rpo-mensetsukan-tarinai/)に書いていますので、ここでは「代行に出す」観点に絞ります。

@@ -9,7 +9,7 @@ tags: ["採用代行", "一次面接", "構造化面接", "業務別", "進め�
 pubDate: 2026-09-19
 reviewedAt: 2026-09-19
 slug: "rpo-task-ichiji-mensetsu-susumekata"
-related: ["rpo-task-ichiji-mensetsu-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-ichiji-mensetsu-daikou", "rpo-task-ichiji-mensetsu-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 一次面接を自社で進めようとして、「面接官が空いている時間に、思いついたことを聞く」から始めると、面接官によって聞くことが変わり、記録は「良い印象」「少し弱い」のような感想で終わり、二次の面接官は一次で何を聞いたか知らずに同じことを聞き、一次で通した人が二次で落ちても理由が分かりません。一次面接で最初にやるべきは、面接官の予定を空けることではなく、「一次で何を確かめるか」を二つか三つに絞ることです。観点が絞れれば、質問が決まり、記録が根拠になり、二次は一次の続きから始められます。結論を先に書くと、**進め方は、一次で確かめる観点を二つか三つに絞る→観点ごとに過去の場面を聞く質問を作る→記録の様式を作る→面接官と枠を決める→当日の流れと時間配分を決める→次に進めるかを決める人と期限を決める→記録の表を作る→月に一度、一次で通した人が二次でどうだったかを見る、の八つの手順**で、順番を守ると、面接官が替わっても記録が揃い、一次で通した人が二次で落ちる率が下がります。代行に出す場合の切り分けは[一次面接は代行に出せるか](/media/rpo-task-ichiji-mensetsu-daikou/)に、質問の作り方は[面接で何を聞けばよいか分からないとき](/media/rpo-mensetsu-shitsumon/)に書いていますので、ここでは自社で進める手順に絞ります。
