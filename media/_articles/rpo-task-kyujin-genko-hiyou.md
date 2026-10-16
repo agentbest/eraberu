@@ -9,7 +9,7 @@ tags: ["採用代行", "求人原稿", "求人広告", "費用", "工数"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-task-kyujin-genko-hiyou"
-related: ["rpo-task-kyujin-genko-daikou", "rpo-task-kyujin-genko-susumekata", "rpo-task-saiyo-keikaku-hiyou", "rpo-task-youken-teigi-hiyou"]
+related: ["rpo-task-kyujin-genko-daikou", "rpo-task-kyujin-genko-susumekata", "rpo-task-baitai-unyou-hiyou", "rpo-task-saiyo-keikaku-hiyou"]
 sources:
   - name: "e-Gov法令検索「職業安定法」（第5条の3・第5条の4）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000141"

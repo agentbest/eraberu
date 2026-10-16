@@ -9,7 +9,7 @@ tags: ["採用代行", "求人媒体", "媒体運用", "業務別", "進め方"]
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-task-baitai-unyou-susumekata"
-related: ["rpo-task-baitai-unyou-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-baitai-unyou-daikou", "rpo-task-baitai-unyou-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 求人媒体を自社で運用しようとして、掲載した後に応募を待つだけになると、応募が来ないか、来ても確認が週に一度で連絡が数日後になり、その間に他社に決まります。原稿は掲載時のまま、媒体の営業担当からの提案は未読、どの媒体が効いているかは分からないまま、契約の期限が来て「効かなかった」で終わる。媒体の運用で最初にやるべきは掲載することではなく、「誰が、いつ、応募を見るか」を決めることです。結論を先に書くと、**進め方は、見る人と見る時間を決める→応募確認と連絡の型を作る→媒体ごとの記録の表を作る→週に一度、反応を見る→原稿の冒頭と条件の表記を直す→表示の仕組みを使う→媒体担当者の提案を記録で判断する→月に一度、残す媒体とやめる媒体を決める、の八つの手順**で、順番を守ると、同じ媒体で応募と面接が増え、効かない媒体の費用が減ります。代行に出す場合の切り分けは[求人媒体の運用は代行に出せるか](/media/rpo-task-baitai-unyou-daikou/)に、媒体の組み合わせ方は[媒体の組み合わせ方](/media/scout-baitai-kumiawase/)に書いていますので、ここでは自社で進める手順に絞ります。

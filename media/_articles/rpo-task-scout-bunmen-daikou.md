@@ -9,7 +9,7 @@ tags: ["採用代行", "スカウト", "スカウト文面", "業務別", "任�
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-task-scout-bunmen-daikou"
-related: ["rpo-task-scout-bunmen-susumekata", "rpo-task-scout-soushin-daikou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
+related: ["rpo-task-scout-bunmen-susumekata", "rpo-task-scout-bunmen-hiyou", "rpo-task-scout-soushin-daikou", "rpo-task-agent-taiou-daikou"]
 ---
 
 「スカウト文面を代行に書いてもらいたい」という相談で、いまの文面を見せてもらうと、「貴殿のご経歴を拝見し、ぜひ一度お話ししたく」「当社は成長中の企業で、裁量を持って働けます」「一緒に働きませんか」の三段でできていることが多い。これを代行が書き直すと、読みやすく整った文面にはなりますが、「なぜ採るか」「日々の中身の割合」「条件の数字」「上司の言葉」「いまより良くなる一点」が無ければ、整っただけで返信は来ません。文面の良し悪しは書き方ではなく材料で決まり、材料は社内にしかありません。結論を先に書くと、**スカウト文面の作成は、「材料を持つこと」「条件の数字」「実態との一致の確認」「自社らしさの元になる言葉」は会社が持ち、「材料の聞き取り・型の設計・層ごとの書き分け・相手ごとの一点の差し込み・外す言葉の削除・返信率を見た書き直し」は代行に出せます**。文面が自社らしくならない場合は[文面が自社らしくないとき](/media/scout-daikou-kadai-bunmen/)に、AIで書いた文面の扱いは[AIで書いた文面をそのまま送ってよいか](/media/scout-ai-bunmen/)に書いていますので、ここでは「代行に出す」観点に絞ります。

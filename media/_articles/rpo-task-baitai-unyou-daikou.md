@@ -9,7 +9,7 @@ tags: ["採用代行", "求人媒体", "媒体運用", "業務別", "任せる�
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-task-baitai-unyou-daikou"
-related: ["rpo-task-baitai-unyou-susumekata", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou", "rpo-task-ats-unyou-daikou"]
+related: ["rpo-task-baitai-unyou-susumekata", "rpo-task-baitai-unyou-hiyou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
 ---
 
 「求人媒体に掲載したのに応募が来ない」という相談で、掲載後に何をしているかを聞くと、「掲載して、応募が来るのを待っている」という答えが多い。求人媒体の運用は、掲載して終わりではなく、応募の確認と連絡、原稿の更新、掲載順位や表示の調整、媒体担当者とのやり取り、反応の記録と見直しの繰り返しで、これが止まっていると、どの媒体に出しても応募は来ないか、来ても対応が遅れて他社に決まります。「媒体を変えれば応募が来る」と考えて媒体を増やす前に、運用が回っているかを見ます。結論を先に書くと、**求人媒体の運用は、「どの媒体に出すかの最終判断」「費用の承認」「掲載内容が実態と合っているかの確認」「面接」は会社が持ち、「日々の応募確認と連絡・原稿の更新・表示の調整・媒体担当者とのやり取り・反応の記録と見直しの提案」は代行に出せます**。媒体の組み合わせ方は[媒体の組み合わせ方](/media/scout-baitai-kumiawase/)に、媒体が多すぎる場合は[媒体を増やしすぎて管理できないとき](/media/rpo-media-oosugi/)に書いていますので、ここでは「代行に出す」観点に絞ります。

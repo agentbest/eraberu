@@ -9,7 +9,7 @@ tags: ["採用代行", "スカウト", "スカウト送信", "業務別", "進�
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-task-scout-soushin-susumekata"
-related: ["rpo-task-scout-soushin-daikou", "rpo-task-scout-bunmen-susumekata", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
+related: ["rpo-task-scout-soushin-daikou", "rpo-task-scout-soushin-hiyou", "rpo-task-scout-bunmen-susumekata", "rpo-task-agent-taiou-susumekata"]
 ---
 
 スカウトを自社で送ろうとして、媒体の検索で「営業経験」と入れて出てきた人に、同じ文面を上から順に送ると、返信はほとんど来ません。来ても、返信を見るのが数日後で、返す頃には他社に決まっています。「スカウトは返信が来ない」と結論づける前に、送り方を見ます。スカウトの送信で最初にやるべきは検索することではなく、「誰に送るか」の基準を具体にすることです。結論を先に書くと、**進め方は、送る相手の基準を具体にする→検索条件を作って保存する→経歴を読んで選び、触れる一点を見つける→型に一点を差し込む→送る時間と数を決めて送る→返信を当日中に返す→送信と返信の記録を付ける→週に一度、層と文面を見直す、の八つの手順**で、順番を守ると、送信数は減っても返信と面談が増えます。代行に出す場合の切り分けは[スカウトの送信は代行に出せるか](/media/rpo-task-scout-soushin-daikou/)に、返信ゼロが続くときの疑う順番は[返信ゼロが続くときに疑う順番](/media/scout-henshin-nashi-genin/)に書いていますので、ここでは自社で進める手順に絞ります。

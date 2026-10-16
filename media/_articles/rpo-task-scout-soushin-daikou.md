@@ -9,7 +9,7 @@ tags: ["採用代行", "スカウト", "スカウト送信", "業務別", "任�
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-task-scout-soushin-daikou"
-related: ["rpo-task-scout-soushin-susumekata", "rpo-task-scout-bunmen-daikou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
+related: ["rpo-task-scout-soushin-susumekata", "rpo-task-scout-soushin-hiyou", "rpo-task-scout-bunmen-daikou", "rpo-task-agent-taiou-daikou"]
 ---
 
 「スカウトの送信を代行に出したい」という相談で、出したい範囲を聞くと、「送るのが大変なので、送る作業を」という答えが多い。ただ、スカウトの送信は「送る」だけの作業ではなく、候補者の検索、経歴を読んで送る相手を選ぶ、相手ごとに文面の一点を変える、送る、返信を確認して当日中に対応する、送信と返信の記録を付けて見直す、の繰り返しです。「送る作業」だけを外に出すと、検索と送信は回りますが、選ぶ基準が曖昧なまま数だけ送られ、返信が来ても社内で対応が遅れて止まります。結論を先に書くと、**スカウトの送信は、「送る相手の基準の最終決定」「条件の数字」「返信後の面談」「個人情報の扱いの決まり」は会社が持ち、「検索条件の運用・経歴の読み取りと選定・相手ごとの一点の差し込み・送信・返信の一次対応・記録と見直し」は代行に出せます**。スカウト代行に任せる範囲の全体は[スカウト代行に任せる範囲の決め方](/media/scout-daikou-hanni/)に、返信後の分担は[返信が来たあとの対応分担](/media/scout-daikou-henshin-taiou/)に書いていますので、ここでは「送信」の工程に絞って切り分けます。

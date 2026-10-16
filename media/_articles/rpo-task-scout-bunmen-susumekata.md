@@ -9,7 +9,7 @@ tags: ["採用代行", "スカウト", "スカウト文面", "業務別", "進�
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-task-scout-bunmen-susumekata"
-related: ["rpo-task-scout-bunmen-daikou", "rpo-task-scout-soushin-susumekata", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
+related: ["rpo-task-scout-bunmen-daikou", "rpo-task-scout-bunmen-hiyou", "rpo-task-scout-soushin-susumekata", "rpo-task-agent-taiou-susumekata"]
 ---
 
 スカウト文面を自社で書こうとして、媒体の送信画面を開いていきなり書き始めると、「貴殿のご経歴を拝見し、ぜひ一度お話ししたく」「当社は成長中の企業で、裁量を持って働けます」「一緒に働きませんか」の三段になります。候補者はこれを一日に何通も受け取っていて、開いた瞬間に一斉送信と読んで閉じます。文面で最初にやるべきは書き始めることではなく、「なぜ採るか」を一文にして、現場に「同業から来た人が、うちの何を良いと言うか」を聞くことです。結論を先に書くと、**進め方は、なぜ採るかを一文にする→現場に中身の割合と「うちの何が良いか」を聞く→条件の数字を揃える→上司の言葉を一つもらう→型を五段で組む→層ごとに重心と外す言葉を変える→相手ごとに一点だけ差し込む→型を二つ並行して送り返信率で直す、の八つの手順**で、順番を守ると、文面が「一斉送信」から「自分を見て送っている」に変わります。代行に出す場合の切り分けは[スカウト文面の作成は代行に出せるか](/media/rpo-task-scout-bunmen-daikou/)に、文面の基本の構造は[スカウト文面の構造](/media/scout-reibun-kouzou/)に書いていますので、ここでは自社で進める手順に絞ります。
