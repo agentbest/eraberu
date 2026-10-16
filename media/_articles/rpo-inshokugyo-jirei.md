@@ -9,7 +9,7 @@ tags: ["採用代行", "飲食業界", "機能する条件", "店舗採用", "�
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-inshokugyo-jirei"
-related: ["rpo-inshokugyo-kadai", "rpo-inshokugyo-rpo", "rpo-kouri-jirei", "rpo-butsuryu-jirei"]
+related: ["rpo-inshokugyo-kadai", "rpo-inshokugyo-rpo", "rpo-inshokugyo-hiyou", "rpo-kouri-jirei"]
 ---
 
 同じ採用代行を使っても、機能する飲食の会社と機能しない会社があります。差を作るのは代行の腕ではなく、店の営業の一日のどこに採用の仕事を置いているかです。この記事では、よくある状況を組み合わせた架空の飲食チェーンの一店舗を置き、仕込みから閉店後までの時間割に採用の仕事がどう入り込み、どこへ置き直したかを追います。結論を先に書くと、**飲食で代行が機能しないのは「返事は閉店後に店長が、飲食は辞めるもの、全部任せたい」という会社で、機能するのは営業の時間割に合わせて、店長の外に出す仕事と店長に残す仕事を分けた会社です。**工程の切り分けは[飲食業界の採用代行](/media/rpo-inshokugyo-rpo/)に、課題の分解は[飲食業界の採用課題](/media/rpo-inshokugyo-kadai/)に、小売の条件は[小売業界で採用代行が機能する条件・機能しない条件](/media/rpo-kouri-jirei/)に書いています。

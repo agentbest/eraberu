@@ -9,7 +9,7 @@ tags: ["採用代行", "物流・運送業界", "機能する条件", "ドライ
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-butsuryu-jirei"
-related: ["rpo-butsuryu-kadai", "rpo-butsuryu-rpo", "rpo-fudosan-jirei", "rpo-game-jirei"]
+related: ["rpo-butsuryu-kadai", "rpo-butsuryu-rpo", "rpo-butsuryu-hiyou", "rpo-fudosan-jirei"]
 ---
 
 同じ採用代行を使っても、機能する物流・運送の会社と機能しない会社があります。差を作るのは代行の腕ではなく、辞めた人の理由をどう扱っているかです。この記事では、よくある状況を組み合わせた架空の運送会社の拠点を一つ置き、退職面談の記録を理由ごとの箱に分け、箱ごとに誰が何を直すかを決めていく流れを追います。結論を先に書くと、**物流・運送で代行が機能しないのは「業界だから辞めるもの、実態は面接で、全部任せたい」という会社で、機能するのは辞める理由を分けて直してから、穴埋めではない形で代行に頼んだ会社です。**工程の切り分けは[物流・運送業界の採用代行](/media/rpo-butsuryu-rpo/)に、課題の分解は[物流・運送業界の採用課題](/media/rpo-butsuryu-kadai/)に、職種の切り分けは[ドライバー採用を代行に出す判断基準](/media/rpo-driver-rpo/)に書いています。

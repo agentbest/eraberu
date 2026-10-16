@@ -9,7 +9,7 @@ tags: ["採用代行", "小売業界", "機能する条件", "店舗採用", "�
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-kouri-jirei"
-related: ["rpo-kouri-kadai", "rpo-kouri-rpo", "rpo-inshokugyo-jirei", "rpo-butsuryu-jirei"]
+related: ["rpo-kouri-kadai", "rpo-kouri-rpo", "rpo-kouri-hiyou", "rpo-inshokugyo-jirei"]
 ---
 
 同じ採用代行を使っても、機能する小売の会社と機能しない会社があります。差を作るのは代行の腕ではなく、本部と店長と代行のあいだで仕事をどう分けたかです。この記事では、よくある状況を組み合わせた架空の小売チェーンを一つ置き、店長にすべてが集まっていた状態から、三者の分担を一枚にするまでを追います。結論を先に書くと、**小売で代行が機能しないのは「返事は店長が手が空いたときに、店舗は店長に任せている、そのうえで全部任せたい」という会社で、機能するのは店長の手から返事と日程を外し、決めることだけを店長に残した会社です。**工程の切り分けは[小売業界の採用代行](/media/rpo-kouri-rpo/)に、課題の分解は[小売業界の採用課題](/media/rpo-kouri-kadai/)に、職種の切り分けは[販売スタッフ採用を代行に出す判断基準](/media/rpo-hanbai-rpo/)に書いています。
