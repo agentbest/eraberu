@@ -9,7 +9,7 @@ tags: ["YOUTRUST", "採用代行", "返信率", "リファラル", "スカウト
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-youtrust-henshinritsu"
-related: ["rpo-youtrust-shippai", "rpo-youtrust-erabikata", "rpo-bizreach-henshinritsu", "rpo-careercross-henshinritsu"]
+related: ["rpo-youtrust-shippai", "rpo-youtrust-erabikata", "rpo-youtrust-hiyou", "rpo-youtrust-scout-bunmen"]
 sources:
   - name: "ネットワークリクルーティングで採用を強化｜YOUTRUST TALENT"
     url: "https://youtrust.jp/talent"
