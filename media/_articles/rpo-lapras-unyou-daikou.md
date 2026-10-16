@@ -9,7 +9,7 @@ tags: ["LAPRAS", "エンジニア採用", "採用代行", "運用代行", "ダ�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-lapras-unyou-daikou"
-related: ["rpo-lapras-hiyou", "rpo-lapras-scout-bunmen", "rpo-bizreach-unyou-daikou", "rpo-careercross-unyou-daikou"]
+related: ["rpo-lapras-erabikata", "rpo-lapras-hiyou", "rpo-lapras-scout-bunmen", "rpo-lapras-shippai"]
 sources:
   - name: "LAPRAS上での禁止行為に関するよくあるご質問｜採用担当者向けLAPRASヘルプ"
     url: "https://help.lapras.com/scout-prohibited-conduct2"

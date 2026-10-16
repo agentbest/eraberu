@@ -9,7 +9,7 @@ tags: ["LAPRAS", "エンジニア採用", "採用代行", "費用", "運用代�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-lapras-hiyou"
-related: ["rpo-lapras-unyou-daikou", "rpo-lapras-scout-bunmen", "rpo-findy-hiyou", "rpo-ambi-hiyou"]
+related: ["rpo-lapras-erabikata", "rpo-lapras-shippai", "rpo-lapras-unyou-daikou", "rpo-lapras-henshinritsu"]
 sources:
   - name: "取扱職種の範囲等の明示｜LAPRAS株式会社"
     url: "https://corp.lapras.com/job-category/"
