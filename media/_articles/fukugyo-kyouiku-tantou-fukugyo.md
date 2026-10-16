@@ -9,7 +9,7 @@ tags: ["人事副業", "研修", "人材開発", "経歴別", "面接官"]
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-kyouiku-tantou-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo", "fukugyo-chusho-jinji-fukugyo"]
+related: ["fukugyo-kyouiku-tantou-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
 ---
 
 人材開発や研修の担当として、新人研修や管理職研修を設計し、講師を手配し、教材を作り、研修の後に何が変わったかを追ってきた。この経験は、人事の副業、とくに採用まわりの副業で売れるのか。研修の担当は採用の担当と部門が分かれていることが多く、採用の実務からは離れて見えます。結論を先に書くと、**研修担当の経験は、「人が何をできるようになるべきかを分解し、教える順番を設計し、できたかを確かめてきた」型で売れます。売れるのは、「面接官の育成」「受け入れ研修の設計」「要件を『できること』で書き直す作業」「採用担当者の立ち上げ」の四つです。人事の部門が小さい会社では、面接官が面接のやり方を教わっておらず、新しく入った人に何を教えるかが決まっておらず、要件が「経験何年」で書かれていて、初めての採用担当者が何から手を付ければよいか分かっていません。どれも「できるようになる仕組み」がない詰まりで、研修担当の経験がそのまま効きます。「研修をしていました」ではなく、「採用に関わる人が判断できるようになる仕組みを作る」と売ります。**組織開発の経験の売り方は[組織開発担当が副業でできること](/media/fukugyo-soshiki-kaihatsu-fukugyo/)に、HRBPの経験は[HRBPが副業でできること](/media/fukugyo-hrbp-fukugyo/)に、人事マネージャーの経験は[人事マネージャー経験を活かす](/media/fukugyo-manager/)にまとめています。

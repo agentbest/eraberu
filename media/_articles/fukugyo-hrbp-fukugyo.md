@@ -9,7 +9,7 @@ tags: ["人事副業", "HRBP", "経歴別", "事業部人事", "管理職"]
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-hrbp-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo", "fukugyo-chusho-jinji-fukugyo"]
+related: ["fukugyo-hrbp-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
 ---
 
 HRBP（人事ビジネスパートナー）として、特定の事業部に付き、事業部長や現場の管理職と一緒に、採用の要件を決め、配置を考え、辞める人の理由を追ってきた。この経験は、副業で売れるのか。HRBPは会社によって役割の幅が広く、「何をしていた人か」を外に説明しにくいところがあります。結論を先に書くと、**HRBPの経験は、「事業部の隣に座り、事業の数字と人の課題を同じ机で見て、現場の管理職を動かしてきた」型で売れます。売れるのは、「事業部ごとの採用要件の整理」「現場の管理職の巻き込み」「採用と配置と定着をつなぐ見方」「人事と現場の翻訳」の四つです。人事の部門が小さい会社では、採用が人事だけの仕事になっていて、現場の管理職が動かず、要件も面接も定着も現場と噛み合っていません。「事業部担当でした」ではなく、「現場の管理職が採用に動く形を作る」と売ります。**人事責任者の経験の売り方は[人事責任者・CHROが副業でできること](/media/fukugyo-chro-fukugyo/)に、人事マネージャーの経験は[人事マネージャー経験を活かす](/media/fukugyo-manager/)に、人事コンサルタントの経験は[人事コンサルタントが副業でできること](/media/fukugyo-consultant-jinji-fukugyo/)にまとめています。

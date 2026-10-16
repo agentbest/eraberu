@@ -9,7 +9,7 @@ tags: ["人事副業", "組織開発", "経歴別", "定着", "受け入れ"]
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-soshiki-kaihatsu-fukugyo"
-related: ["fukugyo-gaikokujin-saiyo-tantou-fukugyo", "fukugyo-shougaisha-koyou-tantou-fukugyo", "fukugyo-haken-coordinator-fukugyo", "fukugyo-kyaria-consultant-fukugyo"]
+related: ["fukugyo-soshiki-kaihatsu-tanka", "fukugyo-gaikokujin-saiyo-tantou-fukugyo", "fukugyo-shougaisha-koyou-tantou-fukugyo", "fukugyo-haken-coordinator-fukugyo"]
 ---
 
 組織開発の担当として、組織の調査を回し、対話の場を作り、管理職の研修を設計し、部門の間の詰まりをほぐしてきた。この経験は、人事の副業、とくに採用の副業で売れるのか。組織開発は成果が見えにくく、言葉も抽象的になりがちで、採用の実務とは離れているように見えます。結論を先に書くと、**組織開発の経験は、「組織の状態を観察し、対話の場を設計し、人が動く仕組みに変えてきた」型で売れます。売れるのは、「採用の要件を組織の状態から決めること」「受け入れと定着の設計」「面接官の目線合わせ」「辞める理由の構造化」の四つです。採用が決まっても早く辞める、面接官によって判断がばらつく、要件が「今いる人と同じ人」になっている。こうした詰まりは、採用の技術ではなく組織の状態から来ていて、組織開発の経験がそのまま効きます。「組織開発をしていました」ではなく、「採用した人が組織で機能する形を作る」と売ります。**HRBPの経験の売り方は[HRBPが副業でできること](/media/fukugyo-hrbp-fukugyo/)に、人事コンサルタントの経験は[人事コンサルタントが副業でできること](/media/fukugyo-consultant-jinji-fukugyo/)に、人事責任者の経験は[人事責任者・CHROが副業でできること](/media/fukugyo-chro-fukugyo/)にまとめています。
