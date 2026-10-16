@@ -9,7 +9,7 @@ tags: ["採用代行", "人材紹介", "紹介会社との折衝", "業務別", 
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-task-agent-taiou-daikou"
-related: ["rpo-task-agent-taiou-susumekata", "rpo-task-alumni-daikou", "rpo-task-ats-unyou-daikou", "rpo-task-baitai-unyou-daikou"]
+related: ["rpo-task-agent-taiou-susumekata", "rpo-task-agent-taiou-hiyou", "rpo-task-alumni-daikou", "rpo-task-ats-unyou-daikou"]
 ---
 
 「人材紹介会社とのやり取りを代行に出せますか」という相談の背景には、「紹介会社が多くて対応しきれない」「推薦への返事が遅れて、紹介会社から催促される」「良い候補者を推薦されたのに、社内の調整に時間が掛かって他社に決まった」があります。人材紹介会社との折衝は、求人の説明、推薦への返事、面接の日程調整、結果の連絡、条件のすり合わせ、契約と手数料の確認、取引する会社の絞り込みの繰り返しで、社内で回らないと、紹介会社から「返事が遅い会社」と見られ、良い候補者は返事の速い他社に先に推薦されます。結論を先に書くと、**人材紹介会社との折衝は、「契約と手数料の判断」「内定の条件の決定」「面接」「取引を絞る最終判断」は会社が持ち、「紹介会社への求人の説明と更新・推薦の一次確認と返事・日程調整・結果の連絡・推薦の記録と紹介会社ごとの見直し・新しい紹介会社の受付」は代行に出せます**。紹介会社が多すぎる場合の絞り方は[紹介会社が多すぎて対応しきれないとき](/media/rpo-agent-ooi/)に、採用代行と人材紹介の違いは[採用代行と人材紹介の違い](/media/rpo-agent-tono-chigai/)に書いていますので、ここでは「代行に出す」観点に絞ります。

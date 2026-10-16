@@ -9,7 +9,7 @@ tags: ["採用代行", "母集団形成", "採用チャネル", "業務別", "�
 pubDate: 2026-09-18
 reviewedAt: 2026-09-18
 slug: "rpo-task-boshuudan-daikou"
-related: ["rpo-task-boshuudan-susumekata", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou", "rpo-task-ats-unyou-daikou"]
+related: ["rpo-task-boshuudan-susumekata", "rpo-task-boshuudan-hiyou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
 ---
 
 「母集団形成を代行に出したい」という相談の多くは、「応募が少ないので増やしてほしい」という意味で来ます。ただ、母集団形成は「応募の数を増やすこと」ではなく、「要件に合う人が集まる経路と文面と対応を設計し、記録で見直すこと」で、数だけ増やしても、書類で九割落とすなら手間が増えるだけです。代行に出して効くのは、経路を足すことではなく、層を決めて経路を選び、経路ごとに文面を書き分け、応募と返信に当日中に対応し、経路ごとに記録して「決まる経路」に寄せる、という工程の集まりです。結論を先に書くと、**母集団形成は、「要件と条件の決定」「経路と費用の最終判断」「現場の言葉」「面接」は会社が持ち、「層ごとの経路の選定案・経路ごとの文面の書き分け・媒体とスカウトとリファラルの運用・応募と返信の当日中の対応・経路ごとの記録と見直し」は代行に出せます**。母集団が小さすぎる場合の広げ方は[母集団が小さすぎるときの広げ方](/media/scout-boshuudan-semasugi/)に、広すぎる場合の絞り方は[母集団が広すぎるときの絞り方](/media/scout-boshuudan-hirosugi/)に書いていますので、ここでは「代行に出す」観点に絞ります。

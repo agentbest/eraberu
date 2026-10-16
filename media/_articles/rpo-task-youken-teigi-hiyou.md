@@ -9,7 +9,7 @@ tags: ["採用代行", "採用要件", "要件定義", "費用", "工数"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-task-youken-teigi-hiyou"
-related: ["rpo-task-youken-teigi-daikou", "rpo-task-youken-teigi-susumekata", "rpo-task-baitai-unyou-hiyou", "rpo-task-kyujin-genko-hiyou"]
+related: ["rpo-task-youken-teigi-daikou", "rpo-task-youken-teigi-susumekata", "rpo-task-agent-taiou-hiyou", "rpo-task-baitai-unyou-hiyou"]
 sources:
   - name: "エラベル 料金（公式）"
     url: "https://eraberusaiyodaiko.com/"

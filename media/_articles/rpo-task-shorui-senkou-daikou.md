@@ -9,7 +9,7 @@ tags: ["採用代行", "書類選考", "選考基準", "業務別", "任せる�
 pubDate: 2026-09-18
 reviewedAt: 2026-09-18
 slug: "rpo-task-shorui-senkou-daikou"
-related: ["rpo-task-shorui-senkou-susumekata", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou", "rpo-task-ats-unyou-daikou"]
+related: ["rpo-task-shorui-senkou-susumekata", "rpo-task-shorui-senkou-hiyou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
 ---
 
 「書類選考を代行に出せますか」という質問には、「合否を外の人に決めさせてよいのか」という迷いが含まれています。迷いはもっともで、書類選考には「誰を通すかの基準を決める」ことと、「基準に照らして一件ずつ仕分ける」ことの二つがあり、前者は会社にしかできず、後者は外に出せます。多くの会社で書類選考が滞るのは、基準が「良さそうな人」のように曖昧で、見る人によって通す人が違い、見る時間が取れずに応募が溜まり、連絡が遅れて候補者が他社に決まるからです。基準を具体にして渡せば、仕分けは外の人ができ、迷う人だけを会社が見れば済みます。結論を先に書くと、**書類選考は、「基準の決定」「迷う人の最終判断」「法令に関わる項目の扱い」「面接」は会社が持ち、「基準の案・経歴の読み取りと仕分け・迷う人の切り出し・当日中の受付と翌日までの連絡・通過率の記録と基準の見直しの提案」は代行に出せます**。書類通過率が低いときの見方は[書類通過率が低いときに見る数字](/media/rpo-shorui-tsuuka-hikui/)に、評価基準が言葉になっていない場合は[評価基準が言語化できていないとき](/media/rpo-hyouka-kijun/)に書いていますので、ここでは「代行に出す」観点に絞ります。

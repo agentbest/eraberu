@@ -9,7 +9,7 @@ tags: ["採用代行", "書類選考", "選考基準", "業務別", "進め方"]
 pubDate: 2026-09-19
 reviewedAt: 2026-09-19
 slug: "rpo-task-shorui-senkou-susumekata"
-related: ["rpo-task-shorui-senkou-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-shorui-senkou-daikou", "rpo-task-shorui-senkou-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 書類選考を自社で進めようとして、「届いた順に責任者が見る」から始めると、責任者の手が空くまで応募が溜まり、見る人の気分で通す人が変わり、連絡が遅れて候補者が他社に決まります。書類選考で最初にやるべきは、見る人を決めることではなく、「誰を通すか」の基準を、経歴で確かめられる形に分けておくことです。基準が分かれていれば、仕分けは責任者でなくてもでき、責任者は迷う人だけを見れば済み、連絡は翌日までに出せます。結論を先に書くと、**進め方は、要件から基準を「通す・断る・面接で確かめる」の三つに分ける→迷う人を決める人と期限を決める→受付の連絡と仕分けの型を作る→通す人・断る人への連絡の期限と文面を決める→記録の表を作る→週に一度、通過率と面接でのずれを見る→月に一度、基準を見直す、の七つの手順**で、順番を守ると、責任者が見る件数は減り、連絡は速くなり、通した人が面接でずれることが減ります。代行に出す場合の切り分けは[書類選考は代行に出せるか](/media/rpo-task-shorui-senkou-daikou/)に、通過率が低いときの見方は[書類通過率が低いときに見る数字](/media/rpo-shorui-tsuuka-hikui/)に書いていますので、ここでは自社で進める手順に絞ります。

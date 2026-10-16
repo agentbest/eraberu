@@ -9,7 +9,7 @@ tags: ["採用代行", "人材紹介", "紹介会社との折衝", "業務別", 
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-task-agent-taiou-susumekata"
-related: ["rpo-task-agent-taiou-daikou", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata", "rpo-task-baitai-unyou-susumekata"]
+related: ["rpo-task-agent-taiou-daikou", "rpo-task-agent-taiou-hiyou", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
 ---
 
 人材紹介会社と自社でやり取りしようとして、契約して求人票を送って、推薦を待つだけになると、推薦は来ないか、来ても書類を見るのが一週間後で、返事をする頃には候補者が他社に決まっています。紹介会社の担当者は多くの求人を持っていて、「中身が分からず、返事が遅く、結果が来ない会社」の求人は候補者に勧めません。紹介会社との折衝で最初にやるべきは契約を増やすことではなく、「いまの紹介会社から見て、勧めやすい会社になっているか」を確かめることです。結論を先に書くと、**進め方は、取引している紹介会社を一覧にする→求人を紹介会社が一言で説明できる形にして伝える→推薦への返事の期限と型を決める→面接の枠を先に確保する→結果を翌日までに伝える→紹介会社ごとの記録を付ける→月に一度、残す会社と絞る会社を決める→新しい紹介会社の受付の型を決める、の八つの手順**で、順番を守ると、同じ紹介会社から推薦が増え、面接に進む推薦をしてくる会社が見えてきます。代行に出す場合の切り分けは[人材紹介会社との折衝は代行に出せるか](/media/rpo-task-agent-taiou-daikou/)に、紹介会社が多すぎる場合の絞り方は[紹介会社が多すぎて対応しきれないとき](/media/rpo-agent-ooi/)に書いていますので、ここでは自社で進める手順に絞ります。

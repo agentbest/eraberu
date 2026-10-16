@@ -9,7 +9,7 @@ tags: ["採用代行", "求人媒体", "媒体運用", "費用", "工数"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-task-baitai-unyou-hiyou"
-related: ["rpo-task-baitai-unyou-daikou", "rpo-task-baitai-unyou-susumekata", "rpo-task-kyujin-genko-hiyou", "rpo-task-saiyo-keikaku-hiyou"]
+related: ["rpo-task-baitai-unyou-daikou", "rpo-task-baitai-unyou-susumekata", "rpo-task-agent-taiou-hiyou", "rpo-task-boshuudan-hiyou"]
 sources:
   - name: "エラベル 料金（公式）"
     url: "https://eraberusaiyodaiko.com/"

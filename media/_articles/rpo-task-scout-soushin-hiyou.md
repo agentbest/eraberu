@@ -9,7 +9,7 @@ tags: ["採用代行", "スカウト", "スカウト代行", "費用", "工数"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-task-scout-soushin-hiyou"
-related: ["rpo-task-scout-soushin-daikou", "rpo-task-scout-soushin-susumekata", "rpo-task-scout-bunmen-hiyou", "rpo-task-baitai-unyou-hiyou"]
+related: ["rpo-task-scout-soushin-daikou", "rpo-task-scout-soushin-susumekata", "rpo-task-scout-bunmen-hiyou", "rpo-task-agent-taiou-hiyou"]
 sources:
   - name: "エラベル 料金（公式）"
     url: "https://eraberusaiyodaiko.com/"

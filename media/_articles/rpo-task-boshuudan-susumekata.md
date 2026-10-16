@@ -9,7 +9,7 @@ tags: ["採用代行", "母集団形成", "採用チャネル", "業務別", "�
 pubDate: 2026-09-18
 reviewedAt: 2026-09-18
 slug: "rpo-task-boshuudan-susumekata"
-related: ["rpo-task-boshuudan-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-boshuudan-daikou", "rpo-task-boshuudan-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 母集団形成を自社で進めようとして、「応募が少ないから媒体を足す」から始めると、応募の数は増えますが、要件に合わない応募が増えて、書類で落とす手間だけが増えます。媒体を三つ、四つと足しても、面接に進む数は変わらず、費用だけが増えていく。母集団形成で最初にやるべきは経路を足すことではなく、「要件に合う人が、いまどこにいて、何を見て動くか」で層を決めることです。層が決まれば、経路は一つか二つで足り、文面は層に向けて書け、記録で「決まる経路」が見えます。結論を先に書くと、**進め方は、層を決める→層ごとに経路を一つ選ぶ→経路ごとに文面を書き分ける→応募と返信を当日中に対応する型を作る→経路ごとの記録の表を作る→週に一度、書類で残る率と面接に進む数を見る→月に一度、決まる経路に寄せる→足りなければ次の経路を足す、の八つの手順**で、順番を守ると、応募の数は減っても、面接に進む数と決まる数が増えます。代行に出す場合の切り分けは[母集団形成は代行に出せるか](/media/rpo-task-boshuudan-daikou/)に、応募が来ない原因の分解は[応募が来ないとき](/media/rpo-ouboga-konai/)に書いていますので、ここでは自社で進める手順に絞ります。
