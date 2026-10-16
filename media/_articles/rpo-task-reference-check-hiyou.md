@@ -9,7 +9,7 @@ tags: ["採用代行", "リファレンスチェック", "個人情報", "選考
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-task-reference-check-hiyou"
-related: ["rpo-task-reference-check-daikou", "rpo-task-reference-check-susumekata", "rpo-task-tekisei-kensa-hiyou", "rpo-task-agent-taiou-hiyou"]
+related: ["rpo-task-reference-check-daikou", "rpo-task-reference-check-susumekata", "rpo-task-ats-unyou-hiyou", "rpo-task-tekisei-kensa-hiyou"]
 sources:
   - name: "e-Gov法令検索「個人情報の保護に関する法律」（第18条・第20条・第27条）"
     url: "https://laws.e-gov.go.jp/law/415AC0000000057"

@@ -9,7 +9,7 @@ tags: ["採用代行", "条件提示", "オファー面談", "業務別", "進�
 pubDate: 2026-09-19
 reviewedAt: 2026-09-19
 slug: "rpo-task-jouken-teiji-susumekata"
-related: ["rpo-task-jouken-teiji-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-jouken-teiji-daikou", "rpo-task-jouken-teiji-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 条件提示を自社で進めようとして、「最終面接に通ったら額を決めて書面を送る」から始めると、提示の場で初めて候補者の希望を知って折り合わず、他社の状況を知らないまま出して「他社に決めました」と言われ、提示の後は承諾期限まで連絡が無く、辞退が来てから理由を探すことになります。条件提示で最初にやるべきは、額の決め方を考えることではなく、「提示の時点で、候補者の希望と他社の状況を知っている状態」を作ることです。それができていれば、額は同じでも辞退は減り、オファー面談は「あなたに来てほしい」を伝える場になります。結論を先に書くと、**進め方は、募集ごとの年収の幅と内訳を決める→一次面接で幅を伝え、希望と現年収を聞く→最終面接の前に他社の状況と重視点を聞く→額の決裁の流れと期限を決める→オファー面談の出る人と話すことを決める→提示書の型を作る→提示から承諾までの連絡と期限の管理の型を作る→記録の表を作り、月に一度、承諾と辞退を見る、の八つの手順**です。代行に出す場合の切り分けは[条件提示・オファー面談は代行に出せるか](/media/rpo-task-jouken-teiji-daikou/)に、交渉で折り合わないときの直し方は[年収交渉で毎回折り合わないとき](/media/rpo-nenshu-kousho/)に書いていますので、ここでは自社で進める手順に絞ります。

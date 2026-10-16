@@ -9,7 +9,7 @@ tags: ["採用代行", "オンボーディング", "定着", "業務別", "任�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-onboarding-daikou"
-related: ["rpo-task-onboarding-susumekata", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou", "rpo-task-ats-unyou-daikou"]
+related: ["rpo-task-onboarding-susumekata", "rpo-task-onboarding-hiyou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
 ---
 
 「採用は決まるのに、入社後に早く辞めてしまう。オンボーディングまで代行に出せますか」という相談は、採用の後半を外に出している会社から来ます。出せる部分はあります。ただ、新しい人が辞める理由の多くは「仕事を教えてもらえない」「上司と話す機会が無い」「誰に聞けばよいか分からない」で、これは上司と同僚の時間の問題であり、外の人が代わりに教えたり関係を作ったりすることはできません。外に出せるのは、上司と同僚がそれをできるように、計画を作り、段取りを回し、つまずきを早く見つける部分です。結論を先に書くと、**入社後のオンボーディングは、「仕事を教えること」「上司の面談で話すこと」「配属と役割の決定」「評価」「つまずきへの対応の判断」は会社が持ち、「入社から数か月までの計画の設計・初日から一週間の準備と手続きの管理・定期面談の日程調整と記録・新しい人からの質問の受付と取り次ぎ・つまずきの兆しの記録と共有・定着の記録と計画の見直しの提案」は代行に出せます**。営業が早く辞めるときの見方は[営業がすぐ辞めてしまうとき](/media/rpo-eigyo-teichaku/)に、新卒の定着は[新卒が定着しないとき](/media/rpo-shinsotsu-teichaku/)に書いていますので、ここでは「オンボーディングを工程に分けて出す」観点に絞ります。

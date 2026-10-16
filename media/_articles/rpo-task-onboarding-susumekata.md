@@ -9,7 +9,7 @@ tags: ["採用代行", "オンボーディング", "定着", "業務別", "進�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-onboarding-susumekata"
-related: ["rpo-task-onboarding-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-onboarding-daikou", "rpo-task-onboarding-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 入社後のオンボーディングを自社で進めようとして、「初日に研修をして、あとは配属先に任せる」から始めると、配属先では教える人が決まっておらず、上司との面談は「落ち着いたら」で後回しになり、新しい人は誰に聞けばよいか分からず抱え込み、三か月目に「思っていた会社と違う」と辞めます。オンボーディングで最初にやるべきは、研修の内容を作ることではなく、「三か月後に何ができるようになっていればよいか」と「それを誰がいつ教えるか」を決めることです。到達点と教える人が決まれば、研修も面談も窓口も、その到達点に向けた段取りになります。結論を先に書くと、**進め方は、入社から三か月の到達点を決める→配属先で教える人と時間を決める→教える内容の一覧と順番を作る→上司面談の日程を入社前に押さえる→初日から一週間の準備の一覧を作る→質問の窓口を決める→つまずきの兆しと対応を決める→記録の表を作り、月に一度、定着とつまずきを見る、の八つの手順**で、順番を守ると、部署によって定着が違う状態が減り、辞める前に手が打てます。代行に出す場合の切り分けは[入社後のオンボーディングは代行に出せるか](/media/rpo-task-onboarding-daikou/)に書いていますので、ここでは自社で進める手順に絞ります。

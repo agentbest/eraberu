@@ -9,7 +9,7 @@ tags: ["採用代行", "ATS", "採用管理システム", "業務別", "進め�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-ats-unyou-susumekata"
-related: ["rpo-task-ats-unyou-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-baitai-unyou-susumekata"]
+related: ["rpo-task-ats-unyou-daikou", "rpo-task-ats-unyou-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 ATSを自社で運用しようとして、「導入して、使いながら覚える」から始めると、選考の段階の名前は既定のままで自社の流れと合わず、面接官はログインせずメールで判定を送り、人事はスプレッドシートを残したまま二重に管理し、数か月後には「ATSとスプレッドシートのどちらが正か」を誰も答えられなくなります。ATSの運用で最初にやるべきは、機能を覚えることではなく、「どの情報をATSに集約し、誰がどの画面を使うか」を決めることです。それが決まれば、設定は最初に一度で済み、毎日の更新は型になり、面接官は一つの画面だけを使えばよくなります。結論を先に書くと、**進め方は、集約する情報と残さない情報を決める→選考の段階の名前と記録する項目を決める→誰がどの画面を使うかを決めて権限を設定する→毎日の更新の担当と時刻を決める→面接官向けの一枚の手順書を作る→連絡のテンプレートを作る→併用しているスプレッドシートを止める日を決める→週に一度、段階ごとの人数と止まっている候補者を見る、の八つの手順**です。代行に出す場合の切り分けは[ATSの運用は代行に出せるか](/media/rpo-task-ats-unyou-daikou/)に、使いこなせていないときの直し方は[ATSを入れたが使いこなせていないとき](/media/rpo-ats-tsukaikonasenai/)に書いていますので、ここでは自社で進める手順に絞ります。製品の比較や機能の説明はしません。仕様は提供元の公式情報でご確認ください。

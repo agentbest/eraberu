@@ -9,7 +9,7 @@ tags: ["採用代行", "ATS", "採用管理システム", "業務別", "任せ�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-ats-unyou-daikou"
-related: ["rpo-task-ats-unyou-susumekata", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou", "rpo-task-baitai-unyou-daikou"]
+related: ["rpo-task-ats-unyou-susumekata", "rpo-task-ats-unyou-hiyou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
 ---
 
 「ATSを入れたが更新が止まっていて、運用ごと代行に出したい」という相談は、導入から数か月たった会社に多くあります。出せます。ただ、ATSが止まる原因は「更新する人がいない」だけでなく、「どの情報をATSに集約するか」「面接官はどこまで使うか」「スプレッドシートを残すか」が決まっていないことにあり、そこは外に出しても決まりません。運用を外に出すなら、決めることと回すことを分けて、決めることは会社が先に済ませます。結論を先に書くと、**ATSの運用は、「集約先と運用ルールの決定」「ユーザーの追加と削除」「設定変更の承認」「個人情報の方針」「契約」「やめるかどうかの判断」は会社が持ち、「初期設定と運用設計の案・毎日の応募者の登録と段階の更新・面接官への判定依頼と未入力の催促・テンプレートによる連絡・集計と報告・面接官向けの手順書と同席・併用しているスプレッドシートの解消」は代行に出せます**。使いこなせていないときの直し方は[ATSを入れたが使いこなせていないとき](/media/rpo-ats-tsukaikonasenai/)に、渡す権限の考え方は[採用代行に渡すATSの権限範囲](/media/rpo-ats-kengen/)に書いていますので、ここでは「運用を工程に分けて出す」観点に絞ります。この記事では製品の比較や機能の説明はしません。仕様は提供元の公式情報でご確認ください。
