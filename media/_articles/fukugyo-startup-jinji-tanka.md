@@ -9,7 +9,7 @@ tags: ["人事副業", "スタートアップ", "単価", "案件の探し方", 
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-startup-jinji-tanka"
-related: ["fukugyo-startup-jinji-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-daikigyo-jinji-tanka", "fukugyo-venture-jinji-tanka"]
+related: ["fukugyo-startup-jinji-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-daikigyo-jinji-tanka", "fukugyo-gaishi-jinji-tanka"]
 sources:
   - name: "e-Gov法令検索「社会保険労務士法」（第2条・第27条）"
     url: "https://laws.e-gov.go.jp/law/343AC1000000089"

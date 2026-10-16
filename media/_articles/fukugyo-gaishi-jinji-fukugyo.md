@@ -9,7 +9,7 @@ tags: ["人事副業", "外資系", "経歴別", "ジョブディスクリプシ
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-gaishi-jinji-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo", "fukugyo-chusho-jinji-fukugyo"]
+related: ["fukugyo-gaishi-jinji-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
 ---
 
 外資系の会社の人事として、本社の方針を日本の現場に落とし、職務を定義して採用し、成果で評価し、採用も退職も速く回してきた。この経験は、日本の会社が多い人事の副業で売れるのか。外資系の人事のやり方は、日本の会社には合わない、英語が前提、ドライに見える、と感じる人が多いところです。結論を先に書くと、**外資系の人事の経験は、「本社の方針と日本の現場の間で、職務を定義し、成果で評価し、採用と退職を速く回してきた」型で売れます。売れるのは、「職務の定義で要件を書く型」「成果で見る評価と採用の接続」「速い意思決定で回す採用」「本社と現場の翻訳」の四つです。日本の会社でも、要件が「人柄」と「経験何年」で止まり、面接で何を見るか決まっておらず、決めるのが遅くて候補者に逃げられ、経営者の方針が現場に伝わっていない詰まりは多く、外資系の人事の型が効きます。「外資の人事でした」ではなく、「仕事を定義して、それができる人を、速く公平に採る形を作る」と売ります。**英語が要るかどうかは[英語は必要か](/media/fukugyo-eigo/)に、金融機関の人事の経験は[金融機関の人事が副業でできること](/media/fukugyo-kinyu-jinji-fukugyo/)に、IT企業の人事の経験は[IT企業の人事が副業でできること](/media/fukugyo-it-jinji-fukugyo/)にまとめています。

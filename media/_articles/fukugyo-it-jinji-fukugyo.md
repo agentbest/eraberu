@@ -9,7 +9,7 @@ tags: ["人事副業", "IT企業", "経歴別", "エンジニア採用", "ダイ
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-it-jinji-fukugyo"
-related: ["fukugyo-engineer-kara-fukugyo", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
+related: ["fukugyo-it-jinji-tanka", "fukugyo-engineer-kara-fukugyo", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo"]
 ---
 
 IT企業の人事として、エンジニアやデザイナーやプロダクトの職種を、スカウトを送り、現場のエンジニアを面接に巻き込み、他社との競争の中で速く決めて、採ってきた。この経験は、人事の副業で売れるのか。IT企業の採用は他の業界と進め方が違い、自社の技術や知名度があったから成り立っていたと感じる人が多いところです。結論を先に書くと、**IT企業の人事の経験は、「採りにくいエンジニアを、ダイレクトリクルーティングと現場の巻き込みと速い選考で、競争の中で採ってきた」型で売れます。売れるのは、「スカウトを軸にした母集団の設計」「技術職の要件を現場と一緒に決める型」「選考の速さと候補者体験の設計」「採用の数字を回す運用」の四つです。IT以外の業界でも、社内にエンジニアやデータの職種を持ち始めた会社は、その職種の採り方が分からず、媒体に出しても来ず、現場が面接に関わらず、選考が遅くて他社に取られています。「IT企業の人事でした」ではなく、「採りにくい職種を、スカウトと現場と速さで採る形を作る」と売ります。**エンジニアからの転身は[エンジニアからの転身が副業でできること](/media/fukugyo-engineer-kara-fukugyo/)に、スタートアップの経験は[スタートアップ人事の経験は評価されるか](/media/fukugyo-startup-keiken/)に、社内リクルーターの経験は[社内リクルーターが副業でできること](/media/fukugyo-shanai-recruiter-fukugyo/)にまとめています。

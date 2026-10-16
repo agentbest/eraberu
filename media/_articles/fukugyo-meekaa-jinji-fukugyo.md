@@ -9,7 +9,7 @@ tags: ["人事副業", "メーカー", "製造業", "経歴別", "技術職採�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-meekaa-jinji-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo", "fukugyo-chusho-jinji-fukugyo"]
+related: ["fukugyo-meekaa-jinji-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
 ---
 
 メーカーの人事として、本社と工場と研究所という性質の違う職場の採用を担い、新卒を年間の計画で採り、技術職と技能職と事務職を分けて見て、制度の中で長く働く人を育ててきた。この経験は、人事の副業で売れるのか。メーカーの人事は、じっくり採って長く育てる形で動いており、速さを求める副業の依頼には合わないと感じる人が多いところです。結論を先に書くと、**メーカーの人事の経験は、「工場と本社と技術という性質の違う職場を、年間の計画と制度の中で、長く働く前提で採って育ててきた」型で売れます。売れるのは、「技術職と技能職と事務職を分けて採る型」「新卒と中途を年間の計画で回す設計」「工場の現場の管理者を採用に巻き込む型」「長く働く前提の要件と受け入れ」の四つです。人事の部門が小さい会社でも、職種によって採り方を変える必要があり、年間の計画で回したい採用があり、現場の管理者を巻き込めておらず、採ってもすぐ辞める詰まりを抱えています。「メーカーの人事でした」ではなく、「性質の違う職場を、計画と制度で、長く働く人を採る形にする」と売ります。**建設業の人事の経験は[建設業の人事が副業でできること](/media/fukugyo-kensetsu-jinji-fukugyo/)に、IT企業の人事の経験は[IT企業の人事が副業でできること](/media/fukugyo-it-jinji-fukugyo/)に、新卒採用の経験は[新卒採用担当が副業でできること](/media/fukugyo-shinsotsu-tantou-fukugyo/)にまとめています。
