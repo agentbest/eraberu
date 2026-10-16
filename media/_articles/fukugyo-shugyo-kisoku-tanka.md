@@ -9,7 +9,7 @@ tags: ["人事副業", "就業規則", "労務", "単価", "副業"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-shugyo-kisoku-tanka"
-related: ["fukugyo-shugyo-kisoku-fukugyo", "fukugyo-shugyo-kisoku-hajimekata", "fukugyo-shugyo-kisoku-shigoto", "fukugyo-roumu-jitsumu-tanka"]
+related: ["fukugyo-shugyo-kisoku-fukugyo", "fukugyo-shugyo-kisoku-hajimekata", "fukugyo-shugyo-kisoku-shigoto", "fukugyo-gaikokujin-roumu-tanka"]
 sources:
   - name: "e-Gov法令検索「社会保険労務士法」（第2条・第27条）"
     url: "https://laws.e-gov.go.jp/law/343AC1000000089"

@@ -9,7 +9,7 @@ tags: ["人事副業", "外国人雇用", "労務", "業務別", "最初の1件"
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-gaikokujin-roumu-hajimekata"
-related: ["fukugyo-gaikokujin-roumu-fukugyo", "fukugyo-gaikokujin-roumu-shigoto", "fukugyo-roumu-jitsumu-hajimekata", "fukugyo-shugyo-kisoku-hajimekata"]
+related: ["fukugyo-gaikokujin-roumu-fukugyo", "fukugyo-gaikokujin-roumu-shigoto", "fukugyo-gaikokujin-roumu-tanka", "fukugyo-roumu-jitsumu-hajimekata"]
 ---
 
 社内で外国人社員の労務に関わってきた。入社前から退職までの流れを回し、専門家と往復し、本人と上司の間のずれを埋めてきた。この経験を副業で使えないか。そう思って募集を見ると、「外国人材の労務サポート」「在留手続きの支援」の案件はあるのに、自分の何を見せれば選ばれるのか、そして何を受けてよいのかが分からない。「在留資格に詳しい」「手続きができます」と書くと、受けられない範囲の案件が来るからです。結論を先に書くと、**最初の1件を取るには、「初めて外国人を雇う会社の、入社前から退職までの流れを一覧にし、確認が要る点を専門家（行政書士・社会保険労務士など）に聞く形に整え、本人の言葉で言い直してもらう受け入れの型で伝わったつもりを防ぎ、担当者が回せる状態にした」と、一覧と橋渡しと受け入れの型の三つで見せます。在留の判断・申請書類の作成と提出・法令の判断は受けないことを、先に自分の言葉で書きます。見本は一覧の型と確認が要る点の印と質問の型と受け入れの型と役割の線で作り、入口は、外国人採用や労務の一覧の案件の中で提案、紹介、副業のプラットフォーム、担当者を選べる窓口の四つで、最初は「一覧と確認の型だけ」「受け入れの型だけ」「専門家との窓口の整理だけ」と小さく受け、受ける前に専門家の有無と受けない範囲の同意と在留に関わる個人情報の扱いを確かめ、最初の1件を「一覧と型と記録が残り、在留の情報は残らない形」で終えて2件目につなげます。**受けられる範囲と案件の型は[外国人雇用の労務の副業案件](/media/fukugyo-gaikokujin-roumu-fukugyo/)に、1案件の流れは[外国人雇用の労務の副業の実務](/media/fukugyo-gaikokujin-roumu-shigoto/)に、外国人採用の経験の売り方は[外国人採用担当が副業でできること](/media/fukugyo-gaikokujin-saiyo-tantou-fukugyo/)に書いています。ここでは「最初の1件の取り方」に絞ります。個別の判断は専門家にご確認ください。

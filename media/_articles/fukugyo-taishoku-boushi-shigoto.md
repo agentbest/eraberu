@@ -9,7 +9,7 @@ tags: ["人事副業", "離職防止", "定着", "業務別", "案件の流れ"]
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-taishoku-boushi-shigoto"
-related: ["fukugyo-taishoku-boushi-fukugyo", "fukugyo-taishoku-boushi-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-shigoto"]
+related: ["fukugyo-taishoku-boushi-fukugyo", "fukugyo-taishoku-boushi-hajimekata", "fukugyo-taishoku-boushi-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 離職防止の施策設計を副業で初めて受けるとき、見えにくいのは「施策の設計と、個々の退職の場面を、どう分けたまま進めるか」と「効果をいつ何で見るか」です。募集文には「離職防止」とだけあり、実際には、辞めそうな人の話が随時流れてきて、施策の設計が進まないまま個々の場面に引き込まれ、効果は三か月で「下がっていない」と言われます。順番と線を知っていれば、契約前に決めておけます。結論を先に書くと、**1案件は「契約前→記録の整理→理由を聞く型と集計の仕組み→施策の選択肢と会社の選択→設計と実行の進行→効果の確認と終了」の六つの段階で進み、契約前に範囲と個々の退職に関わらないことと離職の記録の提供の形と理由を聞くのは会社の人であることと処遇に関わる施策の扱いと効果の見方と期間を決め、離職の記録を時期と理由で分けて段階に当てて一つに絞り、理由が無ければ会社の人が聞く型と集計の仕組みを作り、採用の側と受け入れと上司と役割から選択肢を出して会社が選び、動く形に設計して最初の三か月の進行を支え、同じ時期と理由の離職を半年から一年で見て直し、型を引き継いで退職者の情報を残さずに終えます。**案件の型と受けられない範囲は[離職防止の施策設計の副業案件](/media/fukugyo-taishoku-boushi-fukugyo/)に書いていますので、ここでは「1案件の流れ」に絞ります。個別の判断は専門家にご確認ください。

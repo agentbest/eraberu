@@ -9,7 +9,7 @@ tags: ["人事副業", "外国人雇用", "労務", "業務別", "案件の流�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-gaikokujin-roumu-shigoto"
-related: ["fukugyo-gaikokujin-roumu-fukugyo", "fukugyo-gaikokujin-roumu-hajimekata", "fukugyo-roumu-jitsumu-shigoto", "fukugyo-shugyo-kisoku-shigoto"]
+related: ["fukugyo-gaikokujin-roumu-fukugyo", "fukugyo-gaikokujin-roumu-hajimekata", "fukugyo-gaikokujin-roumu-tanka", "fukugyo-roumu-jitsumu-shigoto"]
 ---
 
 外国人雇用の労務を副業で初めて受けるとき、見えにくいのは「在留に関わる判断と手続きに一切触れずに、どうやって会社の役に立つか」と「一般の労務より重い個人情報をどう扱うか」です。募集文には「外国人材の労務サポート」とだけあり、実際には、判断を求める質問が毎週来て、在留の情報が手元に流れてきます。線を契約前に引いていないと、受けられない範囲に踏み込みます。結論を先に書くと、**1案件は「契約前→第1週→一覧と確認の型の作成→受け入れの型→運用の伴走→引き継ぎと終了」の六つの段階で進み、契約前に受けられる範囲と受けられない範囲を書面にし専門家の有無と契約と在留に関わる個人情報の扱いと本人への回答の担当と翻訳と通訳の扱いと緊急時の流れと終わりの定義を決め、第1週はいまの流れと詰まりと落としかけた期日と伝わっていなかったことと専門家との往復を整理し、入社前から退職までの一覧を作って確認が要る点に印を付け期日と要件は専門家の確認後に記入し質問の型と回答の記録の型を整え、伝わったつもりを防ぐ受け入れの型を作り、入社ごとに運用を伴走して更新や変更の時期の把握と記録を整え、担当者が回せる状態で引き継いで個人情報を残さずに終えます。**受けられる範囲と案件の型は[外国人雇用の労務の副業案件](/media/fukugyo-gaikokujin-roumu-fukugyo/)に、労務の一般の流れは[労務実務の副業の実務](/media/fukugyo-roumu-jitsumu-shigoto/)に書いていますので、ここでは「外国人雇用の1案件の流れ」に絞ります。個別の判断は専門家にご確認ください。
