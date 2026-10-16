@@ -9,7 +9,7 @@ tags: ["採用代行", "人材業界", "機能する条件", "キャリアアド
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-jinzai-jirei"
-related: ["rpo-jinzai-kadai", "rpo-jinzai-rpo", "rpo-agri-jirei", "rpo-consul-gyokai-jirei"]
+related: ["rpo-jinzai-hiyou", "rpo-jinzai-kadai", "rpo-jinzai-rpo", "rpo-agri-jirei"]
 ---
 
 人材業界の会社が採用代行を使ったとき、ある会社では自社の応募への返事が翌営業日中になり、キャリアアドバイザーの早期の離職が減り、別の会社では「自分たちのほうがうまくできる」で終わることがあります。同業なので代行の腕に目が行きがちですが、差を作るのは代行の腕より、発注側の条件です。人材業界の会社は、顧客の採用には「実態を書く」「返事を早く」「観点を揃える」と助言しながら、自社の採用ではそれが後回しになっていることが少なくありません。この記事では、顧客に言っていることを自社に当てはめる形で、代行が機能する条件を整理します。代行に出す工程の切り分けは[人材業界の採用代行](/media/rpo-jinzai-rpo/)に、課題の分解は[人材業界の採用課題](/media/rpo-jinzai-kadai/)に書いています。

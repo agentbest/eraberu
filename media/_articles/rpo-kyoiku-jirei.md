@@ -9,7 +9,7 @@ tags: ["採用代行", "教育業界", "機能する条件", "講師採用", "�
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-kyoiku-jirei"
-related: ["rpo-kyoiku-kadai", "rpo-kyoiku-rpo", "rpo-agri-jirei", "rpo-consul-gyokai-jirei"]
+related: ["rpo-kyoiku-kadai", "rpo-kyoiku-rpo", "rpo-kyoiku-hiyou", "rpo-agri-jirei"]
 ---
 
 教育業界の法人や会社が採用代行を使って「うまくいかなかった」と言うとき、よく聞くのは「応募は増えたがコマ数が合わず、決まっても数か月で離れた」という結果です。代行の腕の差だと思われがちですが、多くの場合は、性質の違う二種類の欠員を同じ頼み方で代行に渡していたことが原因です。この記事では、よくある状況を組み合わせた架空の塾の法人を一つ置き、年度の切り替わりの欠員と学期の途中の欠員を分けて設計し直すまでを追います。結論を先に書くと、**教育で代行が機能するかは、切り替わりは逆算、途中は通年の型、と二つの欠員を分けて頼めるかで決まります。**代行に出す工程の切り分けは[教育業界の採用代行](/media/rpo-kyoiku-rpo/)に、課題の分解は[教育業界の採用課題](/media/rpo-kyoiku-kadai/)に書いています。
