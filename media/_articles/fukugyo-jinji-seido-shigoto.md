@@ -9,7 +9,7 @@ tags: ["人事副業", "人事制度", "評価制度", "業務別", "案件の�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-jinji-seido-shigoto"
-related: ["fukugyo-jinji-seido-fukugyo", "fukugyo-jinji-seido-hajimekata", "fukugyo-hyouka-seido-shigoto", "fukugyo-agent-control-shigoto"]
+related: ["fukugyo-jinji-seido-fukugyo", "fukugyo-jinji-seido-hajimekata", "fukugyo-jinji-seido-tanka", "fukugyo-hyouka-seido-shigoto"]
 ---
 
 人事制度（等級・評価・報酬）の設計を副業で受けるとき、見えにくいのは「誰が何を決め、誰が何を確かめ、自分は何をするか」の役割の線です。募集文には「人事制度の構築」とだけあり、実際には、経営者が決めること、専門家（社会保険労務士など）が確かめること、副業の人が材料と進行を担うこと、の三つが混ざったまま始まりやすく、混ざったまま進むと、責任だけが副業の人に残ります。結論を先に書くと、**1案件は「契約前→現状の整理→設計の材料と選択肢→会社の決定と専門家の確認→導入の進行と説明の支援→運用の定着と見直し」の六つの段階で進み、契約前に三つの条件（設計から運用まで見た経験・専門家の関与・決めるのは会社）を確かめて範囲を工程で分け、現状の整理で処遇の実態と声と困りごとを課題の一覧にし、絞った課題について等級・評価・報酬のつながりを構造で示して選択肢と全体の影響を出し、会社が決めて理由を書面にし、専門家が就業規則と労務を確かめ、導入の計画と説明の資料と進行を支え、最初の評価の期間の運用を伴走して一年後の見直しの材料を残して終えます。**案件の型と受けてよいかの条件は[人事制度の設計の副業案件](/media/fukugyo-jinji-seido-fukugyo/)に書いていますので、ここでは「1案件の流れ」に絞ります。

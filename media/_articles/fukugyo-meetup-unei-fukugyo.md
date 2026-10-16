@@ -9,7 +9,7 @@ tags: ["人事副業", "採用イベント", "ミートアップ", "業務別", 
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-meetup-unei-fukugyo"
-related: ["fukugyo-meetup-unei-hajimekata", "fukugyo-meetup-unei-shigoto", "fukugyo-agent-control-fukugyo", "fukugyo-ats-dounyu-fukugyo"]
+related: ["fukugyo-meetup-unei-hajimekata", "fukugyo-meetup-unei-shigoto", "fukugyo-meetup-unei-tanka", "fukugyo-agent-control-fukugyo"]
 ---
 
 採用イベント（ミートアップ、説明会、座談会）の企画・運営は、平日の夜や土日に稼働できる人に向く副業案件です。人が集まらない、来た人に次が無い、運営で社員が疲れる、会社の説明ばかりで終わる。その状態で外に出されます。ただ、「人を集めて会社を説明する仕事」と思って受けると、大きく告知して数人しか来ず、来た人は会社の説明を聞いて帰り、翌日に何も届かず、応募に一人もつながりません。結論を先に書くと、**採用イベントの企画・運営の副業案件は、「当日の運営だけ」「企画から集客と当日まで」「翌日の連絡と記録を含む一式」「型作りと引き継ぎ」の四つの型に分かれ、求められるのは、目的から企画できること、登壇する社員の話す中身を聞き出せること、当日を一人で回せること、翌日に一言添えた連絡を出して記録することの四つです。進め方は、誰に・何のために・何を持ち帰ってもらうかを会社が決める→五人から始める形とテーマ→対象がいる場所への告知と申込→社員が語る中身の聞き出しと事前の共有→手配と当日の運営→翌日の連絡→記録と振り返り→次の会、の順で、開くかどうか・対象とテーマ・登壇する社員・費用・参加者情報の方針は会社、会社の説明をする役にならず、選考にせず、参加者情報を手元に残さず、費用を立て替えない線を先に引いておきます。**会社側の考え方は[採用イベントに人が来ない](/media/rpo-meetup-hito-konai/)と[採用イベントの代行](/media/rpo-task-meetup-daikou/)に、カジュアル面談との違いは[カジュアル面談の代行の副業案件](/media/fukugyo-casual-mendan-fk-fukugyo/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは、イベントの案件に絞ります。

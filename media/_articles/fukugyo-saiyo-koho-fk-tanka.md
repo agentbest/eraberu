@@ -9,7 +9,7 @@ tags: ["人事副業", "採用広報", "記事執筆", "単価", "副業"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-saiyo-koho-fk-tanka"
-related: ["fukugyo-saiyo-koho-fk-fukugyo", "fukugyo-saiyo-koho-fk-hajimekata", "fukugyo-saiyo-koho-fk-shigoto", "fukugyo-agent-control-tanka"]
+related: ["fukugyo-saiyo-koho-fk-fukugyo", "fukugyo-saiyo-koho-fk-hajimekata", "fukugyo-saiyo-koho-fk-shigoto", "fukugyo-sns-unyou-fk-tanka"]
 sources:
   - name: "e-Gov法令検索「職業安定法」（第5条の4）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000141"

@@ -9,7 +9,7 @@ tags: ["人事副業", "採用SNS", "SNS運用", "業務別", "最初の1件"]
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-sns-unyou-fk-hajimekata"
-related: ["fukugyo-sns-unyou-fk-fukugyo", "fukugyo-sns-unyou-fk-shigoto", "fukugyo-agent-control-hajimekata", "fukugyo-ats-dounyu-hajimekata"]
+related: ["fukugyo-sns-unyou-fk-fukugyo", "fukugyo-sns-unyou-fk-shigoto", "fukugyo-sns-unyou-fk-tanka", "fukugyo-agent-control-hajimekata"]
 ---
 
 社内で採用のSNSを回してきた。社員に聞いて、投稿を作り、承認を取り、週に何本かを続けてきた。この経験を副業で使えないか。そう思って募集を見ると、「採用SNS運用」の案件はあるのに、応募者はSNSに詳しい人ばかりで、自分の何を見せれば選ばれるのかが分からない。「SNSに慣れている」「フォロワーが多い」では、採用に効くかどうかとは別の話だからです。結論を先に書くと、**最初の1件を取るには、「候補者が知りたい五つで月の予定表を作り、社員に月一の十分の聞き出しをして社員の言葉で投稿にし、週に一〜二回を途切れず続け、面接で『見た』と言われた投稿を記録して型を寄せた」と、予定表と社員の言葉と続けた記録の三つで見せます。見本は月の予定表の型と聞き出しの質問と投稿の型と例と記録の表で作り、入口は、採用広報や原稿の案件の中で提案、紹介、副業のプラットフォーム、担当者を選べる窓口の四つで、最初は「月の予定表と型作りだけ」「投稿の作成と予約だけ」「放置されたアカウントの三か月の立て直し」と小さく受け、受ける前に場と名義と発信しない情報と承認と批判の流れと権限を確かめ、最初の1件を「予定表と型と記録が残る形」で終えて2件目につなげます。**案件の型と求められる経験は[採用SNSの運用の副業案件](/media/fukugyo-sns-unyou-fk-fukugyo/)に、1案件の流れは[採用SNSの運用の副業の実務](/media/fukugyo-sns-unyou-fk-shigoto/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは「最初の1件の取り方」に絞ります。

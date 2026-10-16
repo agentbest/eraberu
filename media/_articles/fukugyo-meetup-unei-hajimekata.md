@@ -9,7 +9,7 @@ tags: ["人事副業", "採用イベント", "ミートアップ", "業務別", 
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-meetup-unei-hajimekata"
-related: ["fukugyo-meetup-unei-fukugyo", "fukugyo-meetup-unei-shigoto", "fukugyo-agent-control-hajimekata", "fukugyo-ats-dounyu-hajimekata"]
+related: ["fukugyo-meetup-unei-fukugyo", "fukugyo-meetup-unei-shigoto", "fukugyo-meetup-unei-tanka", "fukugyo-agent-control-hajimekata"]
 ---
 
 社内で採用イベントを回してきた。ミートアップや説明会を企画し、告知し、当日を回し、翌日に連絡を出してきた。この経験を副業で使えないか。そう思って募集を見ると、「採用イベントの運営」「ミートアップの企画」の案件はあるのに、自分の何を見せれば選ばれるのかが分からない。「イベント運営の経験があります」では、当日の受付をする人にしか見えないからです。結論を先に書くと、**最初の1件を取るには、「誰に何を持ち帰ってもらうかから五人の会を設計し、対象がいる場所に告知し、社員が語る場を回し、翌日に一言添えた連絡を出して、面談に進んだ人を記録した」と、設計と当日と翌日の三つで見せます。見本は企画の型と告知の場所と誰が動くかの表と進行表と翌日の連絡の型と記録の表で作り、入口は、カジュアル面談や広報の案件の中で提案、紹介、副業のプラットフォーム、担当者を選べる窓口の四つで、最初は「当日の運営だけ」「翌日の連絡と記録だけ」「五人の会の一回だけ」と小さく受け、受ける前に登壇する社員と費用の流れと参加者情報の方針と当日の稼働を確かめ、最初の1件を「企画の型と進行表と翌日の連絡の型と記録が残る形」で終えて2件目につなげます。**案件の型と求められる経験は[採用イベントの企画・運営の副業案件](/media/fukugyo-meetup-unei-fukugyo/)に、1案件の流れは[採用イベントの企画・運営の副業の実務](/media/fukugyo-meetup-unei-shigoto/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは「最初の1件の取り方」に絞ります。

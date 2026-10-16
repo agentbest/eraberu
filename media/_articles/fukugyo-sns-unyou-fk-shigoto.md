@@ -9,7 +9,7 @@ tags: ["人事副業", "採用SNS", "SNS運用", "業務別", "案件の流れ"]
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-sns-unyou-fk-shigoto"
-related: ["fukugyo-sns-unyou-fk-fukugyo", "fukugyo-sns-unyou-fk-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-shigoto"]
+related: ["fukugyo-sns-unyou-fk-fukugyo", "fukugyo-sns-unyou-fk-hajimekata", "fukugyo-sns-unyou-fk-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 採用SNSの運用を初めて受けるとき、見えにくいのは「投稿の前に何を決め、投稿の後に何を回すか」です。募集文には「採用SNSの運用、週〇本」とだけあり、実際には、場と名義、発信しない情報の一覧、承認の期限、顔出しの同意、批判が来たときの流れ、一次対応の範囲、権限の受け渡し、社員への聞き出しの日程、記録と、投稿の前後に工程が並びます。順番を知っていれば、契約前に決めておけます。結論を先に書くと、**1案件は「契約前→第1週→第2週以降→三か月ごとの振り返り→終了と更新」の五つの段階で進み、契約前に範囲・場と名義・発信しない情報・承認する人と期限・顔出しと同意・批判やトラブルの流れ・一次対応の範囲・権限・記録と評価を決め、第1週は投稿せずに五つの確認と月の予定表と投稿の型と聞き出しの質問と素材の置き場と記録の表を整え、第2週から聞き出し→投稿の作成→承認→予約→一次対応と取り次ぎ→記録を週の頻度で回し、三か月ごとに続いているかと五つが出せているかと面接で見たと言われたかを見て型を直し、型と記録を引き継いで権限を返して終えます。**案件の型と求められる経験は[採用SNSの運用の副業案件](/media/fukugyo-sns-unyou-fk-fukugyo/)に書いていますので、ここでは「1案件の流れ」に絞ります。

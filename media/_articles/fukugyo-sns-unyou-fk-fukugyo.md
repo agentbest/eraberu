@@ -9,7 +9,7 @@ tags: ["人事副業", "採用SNS", "SNS運用", "業務別", "副業案件"]
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-sns-unyou-fk-fukugyo"
-related: ["fukugyo-sns-unyou-fk-hajimekata", "fukugyo-sns-unyou-fk-shigoto", "fukugyo-agent-control-fukugyo", "fukugyo-ats-dounyu-fukugyo"]
+related: ["fukugyo-sns-unyou-fk-hajimekata", "fukugyo-sns-unyou-fk-shigoto", "fukugyo-sns-unyou-fk-tanka", "fukugyo-agent-control-fukugyo"]
 ---
 
 採用SNSの運用は、「SNSに慣れている人」が集まりやすい副業案件です。採用のアカウントを作ったが放置されている、募集の告知ばかりで誰も見ない、コメントに返せていない、社員に頼んだが続かない。その状態で外に出されます。ただ、「フォロワーを増やす仕事」「バズる投稿を作る仕事」と思って受けると、反応の数は増えても応募は変わらず、社員の言葉でない投稿が並び、三か月で「効いていない」と終わります。結論を先に書くと、**採用SNSの運用の副業案件は、「投稿の作成と予約だけ」「企画から聞き出しと投稿まで」「一次対応と記録を含む運用一式」「型作りと引き継ぎ」の四つの型に分かれ、求められるのは、決めた頻度で続けた経験、社員の言葉で書けること、コメントの一次対応の型、面接で「見た」と言われたかを記録した経験の四つです。進め方は、場と名義と発信しない情報と承認と顔出しの方針を会社に決めてもらう→候補者が知りたい五つで月の予定表を作る→社員への月一の十分の聞き出し→社員の言葉で投稿を作って承認→予約と投稿→一次対応と取り次ぎ→記録→三か月ごとの振り返り、の順で、場と名義・発信しない情報・公開の承認・批判への対応の判断は会社、本人の言葉でない投稿を本人名義で出さず、同意なく出さず、個人のアカウントと混ぜない線を先に引いておきます。**会社側の考え方は[SNS採用で何を出すか](/media/rpo-sns-nani/)と[SNS採用の運用代行](/media/rpo-task-sns-saiyo-daikou/)に、自分の発信の線は[発信で書いてはいけないこと](/media/fukugyo-hasshin-nglines/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは、採用SNSの運用の案件に絞ります。

@@ -9,7 +9,7 @@ tags: ["人事副業", "採用イベント", "ミートアップ", "業務別", 
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-meetup-unei-shigoto"
-related: ["fukugyo-meetup-unei-fukugyo", "fukugyo-meetup-unei-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-shigoto"]
+related: ["fukugyo-meetup-unei-fukugyo", "fukugyo-meetup-unei-hajimekata", "fukugyo-meetup-unei-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 採用イベント（ミートアップ、説明会、座談会）の企画・運営を初めて受けるとき、見えにくいのは「当日の前後に何があるか」です。募集文には「採用イベントの企画運営」とだけあり、実際には、対象の像の確認、社員の時間の確保、費用の承認と支払いの流れ、告知の場所と文面、申込の受け皿、社員への聞き出し、進行表、前日の案内、当日の進行、翌日の連絡、記録と、当日の前後に工程が並びます。順番を知っていれば、契約前に決めておけます。結論を先に書くと、**1案件は「契約前→開催の一か月前→一週間前から当日→翌日→振り返りと次の会」の五つの段階で進み、契約前に範囲・誰に何のために何を持ち帰るか・登壇する社員と時間・費用の承認と支払いの流れ・参加者情報の方針・当日の稼働・翌日の連絡の名義・評価を決め、一か月前に形とテーマと告知と申込の受け皿と進行表と社員の中身の聞き出しを整え、一週間前から当日に申込内容の共有と手配と前日の案内と進行を回し、翌日に一言添えた連絡と記録を出し、振り返りで効いた形を残して次の会か引き継ぎにつなげます。**案件の型と求められる経験は[採用イベントの企画・運営の副業案件](/media/fukugyo-meetup-unei-fukugyo/)に書いていますので、ここでは「1案件の流れ」に絞ります。
