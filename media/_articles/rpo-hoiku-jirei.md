@@ -9,7 +9,7 @@ tags: ["採用代行", "保育業界", "機能する条件", "保育士採用", 
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-hoiku-jirei"
-related: ["rpo-hoiku-kadai", "rpo-hoiku-rpo", "rpo-agri-jirei", "rpo-consul-gyokai-jirei"]
+related: ["rpo-hoiku-hiyou", "rpo-hoiku-kadai", "rpo-hoiku-rpo", "rpo-agri-jirei"]
 ---
 
 保育業界の運営法人が採用代行を使って「うまくいった」「うまくいかなかった」と言うとき、その差は代行の腕の差だと思われがちです。実際には、同じ代行に同じ範囲を頼んでも、発注側の条件で結果が分かれます。この記事では、よくある状況を組み合わせた架空の二つの法人を置き、年度の切り替わりに向けて一年をどう過ごしたかを時系列で追います。結論を先に書くと、**保育の採用代行は、切り替わりから逆算して動き始めた時点で半分が決まります。**代行に出す工程の切り分けは[保育業界の採用代行](/media/rpo-hoiku-rpo/)に、課題の分解は[保育業界の採用課題](/media/rpo-hoiku-kadai/)に書いているので、ここでは「機能する側」と「機能しない側」の違いを場面ごとに見ていきます。

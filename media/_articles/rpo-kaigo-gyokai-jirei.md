@@ -9,7 +9,7 @@ tags: ["採用代行", "介護業界", "機能する条件", "介護職採用", 
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-kaigo-gyokai-jirei"
-related: ["rpo-kaigo-gyokai-kadai", "rpo-kaigo-gyokai-rpo", "rpo-butsuryu-jirei", "rpo-fudosan-jirei"]
+related: ["rpo-kaigo-gyokai-kadai", "rpo-kaigo-gyokai-rpo", "rpo-kaigo-gyokai-hiyou", "rpo-butsuryu-jirei"]
 ---
 
 同じ採用代行を使っても、うまく回る介護の会社と回らない会社があります。差を作るのは代行の腕より、発注側の条件です。介護の現場では、施設長が現場と採用と受け入れを一人で抱え、法人の本部は加算と運営で手一杯という形がよく見られ、誰が何を決めるかが決まらないまま代行を入れると、判断が代行に寄って止まります。この記事では、本部・施設長・代行の担当者の三者で何を持つかを分け、それぞれが持つものを順に見ていきます。工程の切り分けは[介護業界の採用代行](/media/rpo-kaigo-gyokai-rpo/)に、課題の分解は[介護業界の採用課題](/media/rpo-kaigo-gyokai-kadai/)に、職種の切り分けは[介護職採用を代行に出す判断基準](/media/rpo-kaigo-rpo/)に書いています。
