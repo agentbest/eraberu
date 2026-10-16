@@ -9,7 +9,7 @@ tags: ["採用代行", "不動産業界", "採用単価", "RPO費用", "宅地�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-fudosan-hiyou"
-related: ["rpo-fudosan-jirei", "rpo-fudosan-kadai", "rpo-fudosan-rpo", "rpo-consul-gyokai-hiyou"]
+related: ["rpo-fudosan-jirei", "rpo-fudosan-kadai", "rpo-fudosan-rpo", "rpo-agri-hiyou"]
 sources:
   - name: "e-Gov法令検索「宅地建物取引業法」（第31条の3）"
     url: "https://laws.e-gov.go.jp/law/327AC1000000176"

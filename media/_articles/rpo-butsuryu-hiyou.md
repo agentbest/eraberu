@@ -9,7 +9,7 @@ tags: ["採用代行", "物流", "運送", "ドライバー採用", "RPO費用"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-butsuryu-hiyou"
-related: ["rpo-butsuryu-jirei", "rpo-butsuryu-kadai", "rpo-butsuryu-rpo", "rpo-consul-gyokai-hiyou"]
+related: ["rpo-butsuryu-jirei", "rpo-butsuryu-kadai", "rpo-butsuryu-rpo", "rpo-agri-hiyou"]
 sources:
   - name: "厚生労働省「自動車運転者の長時間労働改善に向けたポータルサイト」トラック運転者の改善基準告示"
     url: "https://driver-roudou-jikan.mhlw.go.jp/truck/notice"

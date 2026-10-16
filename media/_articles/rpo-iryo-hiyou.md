@@ -9,7 +9,7 @@ tags: ["採用代行", "医療業界", "病院", "採用単価", "RPO費用"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-iryo-hiyou"
-related: ["rpo-iryo-jirei", "rpo-iryo-kadai", "rpo-iryo-rpo", "rpo-consul-gyokai-hiyou"]
+related: ["rpo-iryo-jirei", "rpo-iryo-kadai", "rpo-iryo-rpo", "rpo-agri-hiyou"]
 sources:
   - name: "厚生労働省・都道府県労働局「医療・介護・保育分野の人手確保のために有料職業紹介事業者を利用される求人事業主の皆さまへ」"
     url: "https://www.mhlw.go.jp/content/001525303.pdf"

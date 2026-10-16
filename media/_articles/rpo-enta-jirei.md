@@ -9,7 +9,7 @@ tags: ["採用代行", "エンタメ業界", "機能する条件", "制作職採
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-enta-jirei"
-related: ["rpo-enta-kadai", "rpo-enta-rpo", "rpo-agri-jirei", "rpo-consul-gyokai-jirei"]
+related: ["rpo-enta-hiyou", "rpo-enta-kadai", "rpo-enta-rpo", "rpo-agri-jirei"]
 ---
 
 エンタメ業界の会社が採用代行を使ったとき、ある会社では応募は減ったのに一年後の定着が上がり、別の会社では「応募はさらに増えたが、制作の山で離れるのは変わらなかった」で終わることがあります。差を作るのは代行の腕より、発注側が代行に何を頼んだかです。エンタメ業界は、憧れで応募が集まりやすく、他の業界と同じ頼み方をすると逆に働く場面があります。この記事では、エンタメの会社が代行に言いがちな頼み方を一つずつ取り上げ、機能する頼み方にどう言い換えるかで整理します。代行に出す工程の切り分けは[エンタメ業界の採用代行](/media/rpo-enta-rpo/)に、課題の分解は[エンタメ業界の採用課題](/media/rpo-enta-kadai/)に書いています。

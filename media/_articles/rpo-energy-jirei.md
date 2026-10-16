@@ -9,7 +9,7 @@ tags: ["採用代行", "エネルギー業界", "機能する条件", "技術職
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-energy-jirei"
-related: ["rpo-energy-kadai", "rpo-energy-rpo", "rpo-agri-jirei", "rpo-consul-gyokai-jirei"]
+related: ["rpo-energy-kadai", "rpo-energy-rpo", "rpo-energy-hiyou", "rpo-agri-jirei"]
 ---
 
 エネルギー業界の会社が採用代行を使ったとき、ある会社では技術職の応募が隣接の業界から来るようになり、別の会社では「同業の掲載型に出し直しただけで、応募は変わらず、承認で止まった」で終わることがあります。差は代行の腕より、発注側の条件にあります。ただ、条件を頭から順に点検しても、拠点と職種が多い会社では、どこから手を付けるかが決まりません。この記事では、候補者が離れる場所を「応募の前」「選考の途中」「入社のあと」に分け、記録から詰まりを突き止めて、そこに効く条件を直す順で整理します。代行に出す工程の切り分けは[エネルギー業界の採用代行](/media/rpo-energy-rpo/)に、課題の分解は[エネルギー業界の採用課題](/media/rpo-energy-kadai/)に書いています。

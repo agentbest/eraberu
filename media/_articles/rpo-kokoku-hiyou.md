@@ -9,7 +9,7 @@ tags: ["採用代行", "広告業界", "クリエイター採用", "採用単価
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-kokoku-hiyou"
-related: ["rpo-kokoku-jirei", "rpo-kokoku-kadai", "rpo-kokoku-rpo", "rpo-consul-gyokai-hiyou"]
+related: ["rpo-kokoku-jirei", "rpo-kokoku-kadai", "rpo-kokoku-rpo", "rpo-agri-hiyou"]
 sources:
   - name: "e-Gov法令検索「労働基準法」（第36条）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000049"

@@ -9,7 +9,7 @@ tags: ["採用代行", "保険業界", "保険代理店", "採用単価", "RPO�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-hoken-hiyou"
-related: ["rpo-hoken-jirei", "rpo-hoken-kadai", "rpo-hoken-rpo", "rpo-consul-gyokai-hiyou"]
+related: ["rpo-hoken-jirei", "rpo-hoken-kadai", "rpo-hoken-rpo", "rpo-agri-hiyou"]
 sources:
   - name: "e-Gov法令検索「保険業法」（第276条）"
     url: "https://laws.e-gov.go.jp/law/407AC0000000105"

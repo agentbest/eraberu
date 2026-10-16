@@ -9,7 +9,7 @@ tags: ["採用代行", "保育業界", "保育士採用", "採用単価", "RPO�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-hoiku-hiyou"
-related: ["rpo-hoiku-jirei", "rpo-hoiku-kadai", "rpo-hoiku-rpo", "rpo-consul-gyokai-hiyou"]
+related: ["rpo-hoiku-jirei", "rpo-hoiku-kadai", "rpo-hoiku-rpo", "rpo-agri-hiyou"]
 sources:
   - name: "e-Gov法令検索「児童福祉施設の設備及び運営に関する基準」（第33条）"
     url: "https://laws.e-gov.go.jp/law/323M40000100063"

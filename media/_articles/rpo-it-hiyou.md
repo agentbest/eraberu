@@ -9,7 +9,7 @@ tags: ["採用代行", "IT・Web", "採用単価", "RPO費用", "エンジニア
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-it-hiyou"
-related: ["rpo-it-jirei", "rpo-it-kadai", "rpo-it-rpo", "rpo-consul-gyokai-hiyou"]
+related: ["rpo-it-jirei", "rpo-it-kadai", "rpo-it-rpo", "rpo-agri-hiyou"]
 sources:
   - name: "e-Gov法令検索「職業安定法」（第32条の3）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000141"

@@ -9,7 +9,7 @@ tags: ["採用代行", "SaaS", "採用単価", "RPO費用", "採用計画"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-saas-hiyou"
-related: ["rpo-saas-jirei", "rpo-saas-kadai", "rpo-saas-rpo", "rpo-consul-gyokai-hiyou"]
+related: ["rpo-saas-jirei", "rpo-saas-kadai", "rpo-saas-rpo", "rpo-agri-hiyou"]
 sources:
   - name: "e-Gov法令検索「職業安定法」（第5条の4・第32条の3）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000141"
