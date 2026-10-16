@@ -9,7 +9,7 @@ tags: ["採用代行", "リファラル採用", "社員紹介", "業務別", "�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-referral-susumekata"
-related: ["rpo-task-referral-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-referral-daikou", "rpo-task-referral-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 リファラル採用を自社で設計しようとして、「制度を作って全社に案内する」から始めると、社員は「誰を紹介すればよいか分からない」「気まずい」「評価に響くのでは」と動かず、たまに紹介があっても最初の連絡が遅く、社員には何も戻らず、不採用になると気まずくなり、数か月で紹介はゼロになります。リファラルで最初にやるべきは、制度を作ることではなく、「社員がなぜ紹介しないか」を聞き、「責任者がどう頼み、紹介の後に何を戻すか」を決めることです。それができれば、制度は簡単なもので足ります。結論を先に書くと、**進め方は、方針と謝礼の扱いを決める→社員が紹介しない理由を聞き取る→頼み方の一枚と渡せる材料を作る→責任者が個別に頼む場を作る→受付と最初の連絡と面談の型を作る→社員への戻しの型を作る→不採用時の連絡の型を作る→記録の表を作り、月に一度、紹介と進みと戻しを見る、の八つの手順**です。代行に出す場合の切り分けは[リファラル採用の設計は代行に出せるか](/media/rpo-task-referral-daikou/)に、広がらない構造は[リファラル採用が広がらないとき](/media/rpo-referral-susumanai/)に書いていますので、ここでは自社で進める手順に絞ります。謝礼の法令上の扱いは専門家にご確認ください。

@@ -9,7 +9,7 @@ tags: ["採用代行", "オンボーディング", "定着", "早期離職", "�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-task-onboarding-hiyou"
-related: ["rpo-task-onboarding-daikou", "rpo-task-onboarding-susumekata", "rpo-task-agent-taiou-hiyou", "rpo-task-ats-unyou-hiyou"]
+related: ["rpo-task-onboarding-daikou", "rpo-task-onboarding-susumekata", "rpo-task-agent-taiou-hiyou", "rpo-task-alumni-hiyou"]
 sources:
   - name: "e-Gov法令検索「労働安全衛生法」（第59条）"
     url: "https://laws.e-gov.go.jp/law/347AC0000000057"

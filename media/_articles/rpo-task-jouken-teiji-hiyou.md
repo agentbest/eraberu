@@ -9,7 +9,7 @@ tags: ["採用代行", "条件提示", "オファー面談", "内定", "費用"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-task-jouken-teiji-hiyou"
-related: ["rpo-task-jouken-teiji-daikou", "rpo-task-jouken-teiji-susumekata", "rpo-task-agent-taiou-hiyou", "rpo-task-ats-unyou-hiyou"]
+related: ["rpo-task-jouken-teiji-daikou", "rpo-task-jouken-teiji-susumekata", "rpo-task-agent-taiou-hiyou", "rpo-task-alumni-hiyou"]
 sources:
   - name: "e-Gov法令検索「労働基準法」（第15条）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000049"

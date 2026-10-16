@@ -9,7 +9,7 @@ tags: ["採用代行", "採用イベント", "ミートアップ", "業務別", 
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-meetup-susumekata"
-related: ["rpo-task-meetup-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-meetup-daikou", "rpo-task-meetup-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 採用イベントを自社で進めようとして、「とにかく人を集めて会社を説明する」から始めると、告知に手間をかけて数十人を集め、事業の説明と募集の案内で一時間を使い、参加者は誰とも話さずに帰り、翌日以降は何も届かず、応募は数えるほどで、「イベントは効かない」という結論になります。採用イベントで最初にやるべきは、集客ではなく、「誰に、何のために、何を持ち帰ってもらうか」を決め、それに合う規模と形式にすることです。目的が決まれば、十人の座談のほうが五十人の説明会より応募につながることが分かります。結論を先に書くと、**進め方は、誰に何のために何を持ち帰ってもらうかを決める→規模と形式と日時を決める→登壇する社員と話す社員と時間を確保する→集客の設計と告知と申込の管理の型を作る→登壇の内容を社員から聞き出して構成する→当日の進行表と役割を作る→翌日までの連絡と次の案内の型を作る→記録の表を作り、イベントごとに反応と応募への影響を見る、の八つの手順**です。代行に出す場合の切り分けは[採用イベント・ミートアップは代行に出せるか](/media/rpo-task-meetup-daikou/)に、人が集まらないときの見直し方は[採用イベントに人が集まらないとき](/media/rpo-meetup-hito-konai/)に書いていますので、ここでは自社で進める手順に絞ります。
