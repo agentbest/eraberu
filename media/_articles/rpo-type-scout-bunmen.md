@@ -9,7 +9,7 @@ tags: ["type", "スカウト文面", "スカウトメール", "運用代行", "�
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-type-scout-bunmen"
-related: ["rpo-type-hiyou", "rpo-type-unyou-daikou", "rpo-doda-x-scout-bunmen", "rpo-ambi-hiyou"]
+related: ["rpo-type-henshinritsu", "rpo-type-hiyou", "rpo-type-shippai", "rpo-type-unyou-daikou"]
 sources:
   - name: "【例文付き！】エンジニアが応募したくなるスカウトの件名や文面＆運用のコツをご紹介！｜type"
     url: "https://topics.type.jp/type-engineer/scoutmail/"

@@ -9,7 +9,7 @@ tags: ["type", "運用代行", "スカウトメール", "採用代行", "中途�
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-type-unyou-daikou"
-related: ["rpo-type-hiyou", "rpo-type-scout-bunmen", "rpo-en-tenshoku-unyou-daikou", "rpo-recruit-direct-scout-unyou-daikou"]
+related: ["rpo-type-henshinritsu", "rpo-type-hiyou", "rpo-type-scout-bunmen", "rpo-type-shippai"]
 sources:
   - name: "【公式】type（タイプ）の求人掲載・掲載料金・エンジニア転職フェアのご案内"
     url: "https://type.jp/keisai/"
