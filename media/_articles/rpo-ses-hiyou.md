@@ -9,7 +9,7 @@ tags: ["採用代行", "SES", "採用単価", "RPO費用", "待機"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-ses-hiyou"
-related: ["rpo-ses-jirei", "rpo-ses-kadai", "rpo-ses-rpo", "rpo-fudosan-hiyou"]
+related: ["rpo-ses-jirei", "rpo-ses-kadai", "rpo-ses-rpo", "rpo-consul-gyokai-hiyou"]
 sources:
   - name: "e-Gov法令検索「労働基準法」（第26条）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000049"

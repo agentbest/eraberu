@@ -9,7 +9,7 @@ tags: ["採用代行", "教育業界", "塾講師採用", "採用単価", "RPO�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-kyoiku-hiyou"
-related: ["rpo-kyoiku-jirei", "rpo-kyoiku-kadai", "rpo-kyoiku-rpo", "rpo-fudosan-hiyou"]
+related: ["rpo-kyoiku-jirei", "rpo-kyoiku-kadai", "rpo-kyoiku-rpo", "rpo-consul-gyokai-hiyou"]
 sources:
   - name: "e-Gov法令検索「教育職員免許法」（第3条）"
     url: "https://laws.e-gov.go.jp/law/324AC0000000147"

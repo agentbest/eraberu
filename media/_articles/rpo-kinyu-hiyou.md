@@ -9,7 +9,7 @@ tags: ["採用代行", "金融業界", "中途採用", "採用単価", "RPO費�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-kinyu-hiyou"
-related: ["rpo-kinyu-jirei", "rpo-kinyu-kadai", "rpo-kinyu-rpo", "rpo-fudosan-hiyou"]
+related: ["rpo-kinyu-jirei", "rpo-kinyu-kadai", "rpo-kinyu-rpo", "rpo-consul-gyokai-hiyou"]
 sources:
   - name: "e-Gov法令検索「金融商品取引法」（第64条）"
     url: "https://laws.e-gov.go.jp/law/323AC0000000025"

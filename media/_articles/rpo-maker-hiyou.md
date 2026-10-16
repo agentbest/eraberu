@@ -9,7 +9,7 @@ tags: ["採用代行", "メーカー", "製造業", "採用単価", "RPO費用"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-maker-hiyou"
-related: ["rpo-maker-jirei", "rpo-maker-kadai", "rpo-maker-rpo", "rpo-fudosan-hiyou"]
+related: ["rpo-maker-jirei", "rpo-maker-kadai", "rpo-maker-rpo", "rpo-consul-gyokai-hiyou"]
 sources:
   - name: "e-Gov法令検索「労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律」（第40条の2）"
     url: "https://laws.e-gov.go.jp/law/360AC0000000088"

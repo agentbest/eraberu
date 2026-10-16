@@ -9,7 +9,7 @@ tags: ["採用代行", "自動車業界", "採用単価", "RPO費用", "期間�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-jidosha-hiyou"
-related: ["rpo-jidosha-jirei", "rpo-jidosha-kadai", "rpo-jidosha-rpo", "rpo-fudosan-hiyou"]
+related: ["rpo-jidosha-jirei", "rpo-jidosha-kadai", "rpo-jidosha-rpo", "rpo-consul-gyokai-hiyou"]
 sources:
   - name: "e-Gov法令検索「労働契約法」（第18条）"
     url: "https://laws.e-gov.go.jp/law/419AC0000000128"

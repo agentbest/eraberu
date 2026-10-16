@@ -9,7 +9,7 @@ tags: ["採用代行", "広告業界", "機能する条件", "クリエイティ
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-kokoku-jirei"
-related: ["rpo-kokoku-kadai", "rpo-kokoku-rpo", "rpo-agri-jirei", "rpo-consul-gyokai-jirei"]
+related: ["rpo-kokoku-kadai", "rpo-kokoku-rpo", "rpo-kokoku-hiyou", "rpo-agri-jirei"]
 ---
 
 広告業界の会社が採用代行を使って「うまくいかなかった」と言うとき、会社の側は「代行が良い人を連れてこない」と言い、代行の側は「応募は増えたのに通らない」と言うことがよくあります。どちらも嘘ではなく、互いに相手が機能していないように見えている状態です。この記事では、よくある状況を組み合わせた架空の代理店を一つ置き、このすれ違いがどこから生まれ、どの順番で解けるのかを見ていきます。結論を先に書くと、**広告の採用代行が機能するかは、ポートフォリオの評価を社内に残したまま、その観点を言葉にして記録できるかで決まります。**代行に出す工程の切り分けは[広告業界の採用代行](/media/rpo-kokoku-rpo/)に、課題の分解は[広告業界の採用課題](/media/rpo-kokoku-kadai/)に書いています。

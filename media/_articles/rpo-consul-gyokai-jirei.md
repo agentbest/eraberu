@@ -9,7 +9,7 @@ tags: ["採用代行", "コンサルティング業界", "機能する条件", "
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-consul-gyokai-jirei"
-related: ["rpo-consul-gyokai-kadai", "rpo-consul-gyokai-rpo", "rpo-agri-jirei", "rpo-energy-jirei"]
+related: ["rpo-consul-gyokai-hiyou", "rpo-consul-gyokai-kadai", "rpo-consul-gyokai-rpo", "rpo-agri-jirei"]
 ---
 
 コンサルティング会社が採用代行を使ったとき、あるファームでは最終までの日数が縮んで事業会社からの通過が増え、別のファームでは「応募は増えたがケースで落ち、パートナーの時間が減っただけ」で終わることがあります。差を作るのは代行の腕より、発注側の条件です。コンサルティング業界では、同業、事業会社、新卒と、経路によって候補者が知っていることも、見るべき観点も違います。この記事では、経路ごとにどこで詰まるかを見たうえで、どの経路にも共通して効くパートナーの枠と記録を整理します。代行に出す工程の切り分けは[コンサルティング業界の採用代行](/media/rpo-consul-gyokai-rpo/)に、課題の分解は[コンサルティング業界の採用課題](/media/rpo-consul-gyokai-kadai/)に書いています。

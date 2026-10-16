@@ -9,7 +9,7 @@ tags: ["採用代行", "介護業界", "採用単価", "RPO費用", "人材サ�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-kaigo-gyokai-hiyou"
-related: ["rpo-kaigo-gyokai-jirei", "rpo-kaigo-gyokai-kadai", "rpo-kaigo-gyokai-rpo", "rpo-fudosan-hiyou"]
+related: ["rpo-kaigo-gyokai-jirei", "rpo-kaigo-gyokai-kadai", "rpo-kaigo-gyokai-rpo", "rpo-consul-gyokai-hiyou"]
 sources:
   - name: "厚生労働省・都道府県労働局「医療・介護・保育分野の人手確保のために有料職業紹介事業者を利用される求人事業主の皆さまへ」"
     url: "https://www.mhlw.go.jp/content/001525303.pdf"

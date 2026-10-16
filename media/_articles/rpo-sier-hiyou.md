@@ -9,7 +9,7 @@ tags: ["採用代行", "SIer", "採用単価", "RPO費用", "協力会社"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-sier-hiyou"
-related: ["rpo-sier-jirei", "rpo-sier-kadai", "rpo-sier-rpo", "rpo-fudosan-hiyou"]
+related: ["rpo-sier-jirei", "rpo-sier-kadai", "rpo-sier-rpo", "rpo-consul-gyokai-hiyou"]
 sources:
   - name: "e-Gov法令検索「職業安定法」（第32条の3・第44条）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000141"

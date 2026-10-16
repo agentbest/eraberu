@@ -9,7 +9,7 @@ tags: ["採用代行", "人材業界", "キャリアアドバイザー採用", "
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-jinzai-hiyou"
-related: ["rpo-jinzai-jirei", "rpo-jinzai-kadai", "rpo-jinzai-rpo", "rpo-fudosan-hiyou"]
+related: ["rpo-jinzai-jirei", "rpo-jinzai-kadai", "rpo-jinzai-rpo", "rpo-consul-gyokai-hiyou"]
 sources:
   - name: "e-Gov法令検索「職業安定法」（第5条の4・第32条の3・第32条の14）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000141"

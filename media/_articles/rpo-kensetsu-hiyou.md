@@ -9,7 +9,7 @@ tags: ["採用代行", "建設業界", "採用単価", "RPO費用", "施工管�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-kensetsu-hiyou"
-related: ["rpo-kensetsu-jirei", "rpo-kensetsu-kadai", "rpo-kensetsu-rpo", "rpo-fudosan-hiyou"]
+related: ["rpo-kensetsu-jirei", "rpo-kensetsu-kadai", "rpo-kensetsu-rpo", "rpo-consul-gyokai-hiyou"]
 sources:
   - name: "e-Gov法令検索「建設業法」（第26条）"
     url: "https://laws.e-gov.go.jp/law/324AC0000000100"
