@@ -9,7 +9,7 @@ tags: ["人事副業", "人材紹介会社", "エージェント対応", "業務
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-agent-control-shigoto"
-related: ["fukugyo-agent-control-fukugyo", "fukugyo-agent-control-hajimekata", "fukugyo-ats-dounyu-shigoto", "fukugyo-casual-mendan-fk-shigoto"]
+related: ["fukugyo-agent-control-fukugyo", "fukugyo-agent-control-hajimekata", "fukugyo-agent-control-tanka", "fukugyo-ats-dounyu-shigoto"]
 ---
 
 人材紹介会社のコントロールを初めて受けるとき、見えにくいのは「推薦が来る前に何を整えるか」と「誰が何を決めるか」です。募集文には「エージェント対応」とだけあり、実際には、取引中の紹介会社の一覧と契約の確認、要件と条件の確認、求人の説明の作り直し、窓口の一本化の連絡、推薦への返事の期限、迷う推薦を決める人、結果の連絡の担当と、やり取りを始める前に決めることが並びます。決めずに始めると、紹介会社の営業の対応に追われ、判断の遅れが自分の評価になります。結論を先に書くと、**1案件は「契約前→第1週→第2週以降→月次→終了と更新」の五つの段階で進み、契約前に範囲・紹介会社の一覧と契約・要件と条件・判断者と期限・名乗り方・候補者の書類の扱い・評価の基準・報告を決め、第1週は推薦を受けずに確認と求人の説明の作り直しと文面と記録の表と窓口の一本化の連絡に使い、第2週から推薦の一次確認と翌日までの返事と日程と結果の連絡と営業の対応と記録と週次の報告を回し、月次で紹介会社ごとの数から取引の見直しの材料を出して求人の説明を更新し、引き継げる形で終えます。**案件の型と求められる経験は[人材紹介会社のコントロールの副業案件](/media/fukugyo-agent-control-fukugyo/)に書いていますので、ここでは「1案件の流れ」に絞ります。

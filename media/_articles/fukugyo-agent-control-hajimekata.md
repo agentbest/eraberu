@@ -9,7 +9,7 @@ tags: ["人事副業", "人材紹介会社", "エージェント対応", "業務
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-agent-control-hajimekata"
-related: ["fukugyo-agent-control-fukugyo", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-hajimekata", "fukugyo-casual-mendan-fk-hajimekata"]
+related: ["fukugyo-agent-control-fukugyo", "fukugyo-agent-control-shigoto", "fukugyo-agent-control-tanka", "fukugyo-ats-dounyu-hajimekata"]
 ---
 
 社内で人材紹介会社の窓口をしてきた。あるいは、人材紹介会社の側で企業の担当をしてきた。どちらの経験も、副業で「紹介会社のコントロール」に使えそうに見えます。ただ、募集を見ると、「エージェント対応」の案件はあるのに、自分の何を見せれば選ばれるのかが分からない。「紹介会社に知り合いが多い」は最初の一回しか効かず、「エージェント対応ができます」は誰でも言えるからです。結論を先に書くと、**最初の1件を取るには、「求人を紹介会社の担当者が一分で話せる形に作り直し、推薦に翌日までに返す型を持ち、紹介会社ごとに数を記録して取引の見直しの材料を出した」と、説明の型と返事の型と記録の三つで見せます。見本は求人の説明の型と返事の文面の型と記録の表で作り、入口は、紹介、副業のプラットフォーム、担当者を選べる窓口への登録、複数の紹介会社と取引していて返事が遅い小さい会社への提案の四つで、最初は「推薦への返事と日程だけ」「求人の説明の作り直しだけ」「記録の表と月次の材料だけ」と小さく受け、受ける前に契約と要件と判断者と書類の扱いと評価の基準を確かめ、最初の1件を「説明の型と記録と材料が残る形」で終えて2件目につなげます。**案件の型と求められる経験は[人材紹介会社のコントロールの副業案件](/media/fukugyo-agent-control-fukugyo/)に、1案件の流れは[人材紹介会社のコントロールの副業の実務](/media/fukugyo-agent-control-shigoto/)に、人材紹介会社の出身者の売り方は[人材紹介の経験を副業で活かす](/media/fukugyo-agent-keiken/)に書いています。ここでは「最初の1件の取り方」に絞ります。

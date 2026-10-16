@@ -9,7 +9,7 @@ tags: ["人事副業", "採用戦略", "壁打ち", "業務別", "最初の1件"
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-saiyo-senryaku-hajimekata"
-related: ["fukugyo-saiyo-senryaku-fukugyo", "fukugyo-saiyo-senryaku-shigoto", "fukugyo-agent-control-hajimekata", "fukugyo-ats-dounyu-hajimekata"]
+related: ["fukugyo-saiyo-senryaku-fukugyo", "fukugyo-saiyo-senryaku-shigoto", "fukugyo-saiyo-senryaku-tanka", "fukugyo-agent-control-hajimekata"]
 ---
 
 社内で採用の計画を作り、経路を決め、予算を配分し、数を見て直してきた。この経験を副業で「採用の相談相手」として使えないか。そう思って募集を見ると、「採用アドバイザー」「採用顧問」の案件はあるのに、自分の何を見せれば選ばれるのかが分からない。「採用の相談に乗れます」「大手の人事でした」では、前の会社の正解を語る人にしか見えないからです。結論を先に書くと、**最初の1件を取るには、「採用の全体を数で見て、ずれている箇所を一つに絞り、選択肢を数と構造で出して会社に決めてもらい、決めたことと数の推移を書面に残した」と、絞る力と選択肢の型と書面の三つで見せます。見本は採用の全体を聞く問いの一覧と選択肢の型と書面の型で作り、入口は、紹介、副業のプラットフォーム、担当者を選べる窓口への登録、業務の代行を終えた依頼側への提案の四つで、最初は「単発の一回」「数を出す表を作る一回」「計画作りの一か月」と小さく受け、受ける前に数を出す人と実行する人と評価の基準を確かめ、最初の1件を「決めたことと数の推移の一覧が残る形」で終えて2件目につなげます。壁打ちは、業務の代行を何件か終えてから始めるのが順です。**案件の型と求められる経験は[採用戦略の壁打ちの副業案件](/media/fukugyo-saiyo-senryaku-fukugyo/)に、1案件の流れは[採用戦略の壁打ちの副業の実務](/media/fukugyo-saiyo-senryaku-shigoto/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは「最初の1件の取り方」に絞ります。

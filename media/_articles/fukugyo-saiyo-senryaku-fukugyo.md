@@ -9,7 +9,7 @@ tags: ["人事副業", "採用戦略", "壁打ち", "業務別", "副業案件"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-saiyo-senryaku-fukugyo"
-related: ["fukugyo-saiyo-senryaku-hajimekata", "fukugyo-saiyo-senryaku-shigoto", "fukugyo-agent-control-fukugyo", "fukugyo-ats-dounyu-fukugyo"]
+related: ["fukugyo-saiyo-senryaku-hajimekata", "fukugyo-saiyo-senryaku-shigoto", "fukugyo-saiyo-senryaku-tanka", "fukugyo-agent-control-fukugyo"]
 ---
 
 採用戦略の壁打ちは、人事の副業案件の中で、稼働時間が短く、単価が高く見え、そして最も「何をしたか」が残りにくい仕事です。経営者が「採用について相談できる人がほしい」と言い、月に数回の打ち合わせで採用の方針を話す。それだけで終わると、三か月後に「何が変わったか」を問われて答えられず、契約が終わります。結論を先に書くと、**採用戦略の壁打ちの副業案件は、「単発の壁打ち」「月次の壁打ち」「計画作りの伴走」「人事の責任者の相談相手」の四つの型に分かれ、求められるのは、採用の全体の構造（経路・要件・選考・条件・定着）を知っていること、問いで相手の考えを整理できること、選択肢を数と構造で出せること、決めたことと理由と見る数を書面に残すことの四つです。進め方は、いまの採用の全体を聞く→ずれている箇所を一つに絞る→選択肢を出す→会社が決める→決めたことと理由と見る数を書面に→次回に数を見る、の順で、決めるのは会社、実行を引き受けない、数字を保証しない、他社の内情を持ち込まない線を先に引いておきます。**経営者直下で働く型は[経営者直下の案件](/media/fukugyo-keieisha-chokka/)に、課題の絞り方は[課題の言語化](/media/fukugyo-kadai-teigi/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは、壁打ちの案件に絞ります。

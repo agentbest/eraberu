@@ -9,7 +9,7 @@ tags: ["人事副業", "書類選考", "スクリーニング", "単価", "副�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-shorui-senkou-fk-tanka"
-related: ["fukugyo-shorui-senkou-fk-fukugyo", "fukugyo-shorui-senkou-fk-hajimekata", "fukugyo-shorui-senkou-fk-shigoto", "fukugyo-casual-mendan-fk-tanka"]
+related: ["fukugyo-shorui-senkou-fk-fukugyo", "fukugyo-shorui-senkou-fk-hajimekata", "fukugyo-shorui-senkou-fk-shigoto", "fukugyo-agent-control-tanka"]
 sources:
   - name: "e-Gov法令検索「職業安定法」（第5条の5・第51条）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000141"

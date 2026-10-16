@@ -9,7 +9,7 @@ tags: ["人事副業", "採用戦略", "壁打ち", "業務別", "案件の流�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-saiyo-senryaku-shigoto"
-related: ["fukugyo-saiyo-senryaku-fukugyo", "fukugyo-saiyo-senryaku-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-shigoto"]
+related: ["fukugyo-saiyo-senryaku-fukugyo", "fukugyo-saiyo-senryaku-hajimekata", "fukugyo-saiyo-senryaku-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 採用戦略の壁打ちを初めて受けるとき、見えにくいのは「打ち合わせの前後に何をするか」です。募集文には「採用アドバイザー」「月に二回の打ち合わせ」とだけあり、実際には、打ち合わせの前に前回の数を読んで選択肢の構造を用意し、打ち合わせの後に決めたことと理由と見る数を書面にして両方に送る。この前後が無い壁打ちは、話して終わり、三か月で「何が変わったか」を問われて終わります。結論を先に書くと、**1案件は「契約前→初回→二回目以降→区切り→終了と更新」の五つの段階で進み、契約前に範囲・回数と時間・相手・数を出す人・実行する人・書面の型・採用以外の相談の扱い・評価を決め、初回は全体を聞いて数の有無を確かめてずれている箇所を一つに絞り、二回目以降は前回の書面と数から始めて選択肢を出し会社が決めて書面にし、三か月ごとの区切りで決めたことと数の推移を並べて続ける形を見直し、引き継げる形で終えます。**案件の型と求められる経験は[採用戦略の壁打ちの副業案件](/media/fukugyo-saiyo-senryaku-fukugyo/)に、初回の打ち合わせの一般的な進め方は[初回打ち合わせの進め方](/media/fukugyo-shodan/)に書いていますので、ここでは「壁打ちの1案件の流れ」に絞ります。

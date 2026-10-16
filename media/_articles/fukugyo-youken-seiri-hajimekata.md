@@ -9,7 +9,7 @@ tags: ["人事副業", "採用要件", "要件定義", "業務別", "最初の1�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-youken-seiri-hajimekata"
-related: ["fukugyo-youken-seiri-fukugyo", "fukugyo-youken-seiri-shigoto", "fukugyo-agent-control-hajimekata", "fukugyo-ats-dounyu-hajimekata"]
+related: ["fukugyo-youken-seiri-fukugyo", "fukugyo-youken-seiri-shigoto", "fukugyo-youken-seiri-tanka", "fukugyo-agent-control-hajimekata"]
 ---
 
 社内で採用要件を作ってきた。経営者と現場の間に立って、必須を削り、面接でずれない要件にしてきた。この経験を副業で使えないか。そう思って募集を見ると、「採用要件の整理」だけの案件はほとんど無く、「ペルソナ設計」「採用の立ち上げ支援」の中に混ざっていて、自分の何を見せれば選ばれるのかが分からない。「ペルソナが作れます」では、綺麗な人物像を書く人にしか見えないからです。結論を先に書くと、**最初の1件を取るには、「経営者と現場に別々に聞いて食い違いを並べ、『最初に困ること』を軸に必須と歓迎を分け、経歴で読める言葉に置き換えて、面接でのずれを減らした」と、聞き分けと切り分けと結果の三つで見せます。見本は食い違いの一覧の型と必須と歓迎の切り分けの例と要件シートの型で作り、入口は、スカウトや原稿の案件の中で提案、紹介、副業のプラットフォーム、担当者を選べる窓口の四つで、最初は「一職種の必須と歓迎の切り分けだけ」「食い違いの整理だけ」「要件シートの型だけ」と小さく受け、受ける前に「なぜ採るか」と決める人と別々の聞き取りの時間を確かめ、最初の1件を「要件シートと決定の書面と結果が残る形」で終えて2件目につなげます。**案件の型と求められる経験は[採用要件の整理の副業案件](/media/fukugyo-youken-seiri-fukugyo/)に、1案件の流れは[採用要件の整理の副業の実務](/media/fukugyo-youken-seiri-shigoto/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは「最初の1件の取り方」に絞ります。

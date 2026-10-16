@@ -9,7 +9,7 @@ tags: ["人事副業", "求人原稿", "ライティング", "単価", "副業"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-kyujin-raiting-tanka"
-related: ["fukugyo-kyujin-raiting-fukugyo", "fukugyo-kyujin-raiting-hajimekata", "fukugyo-kyujin-raiting-shigoto", "fukugyo-casual-mendan-fk-tanka"]
+related: ["fukugyo-kyujin-raiting-fukugyo", "fukugyo-kyujin-raiting-hajimekata", "fukugyo-kyujin-raiting-shigoto", "fukugyo-agent-control-tanka"]
 sources:
   - name: "e-Gov法令検索「職業安定法」（第5条の3・第5条の4）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000141"

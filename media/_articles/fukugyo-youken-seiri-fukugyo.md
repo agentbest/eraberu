@@ -9,7 +9,7 @@ tags: ["人事副業", "採用要件", "要件定義", "業務別", "副業案�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-youken-seiri-fukugyo"
-related: ["fukugyo-youken-seiri-hajimekata", "fukugyo-youken-seiri-shigoto", "fukugyo-agent-control-fukugyo", "fukugyo-ats-dounyu-fukugyo"]
+related: ["fukugyo-youken-seiri-hajimekata", "fukugyo-youken-seiri-shigoto", "fukugyo-youken-seiri-tanka", "fukugyo-agent-control-fukugyo"]
 ---
 
 採用要件の整理は、採用がうまくいっていない会社のほとんどが必要としていて、しかし「頼む仕事」として認識されにくい副業案件です。経営者と現場で欲しい人が食い違っている、「理想の人」から削れず必須が十個ある、社内にその職種を知る人がいない、毎回の採用で要件がずれる。その状態で、スカウトや求人原稿の案件の中に隠れて出てくることが多い。ただ、「理想の人物像を書く仕事」と思って受けると、綺麗な人物像が一枚できて、採用は変わりません。結論を先に書くと、**採用要件の整理の副業案件は、「一職種の整理」「食い違いの整理だけ」「全職種の要件シートの型作り」「見直しの伴走」の四つの型に分かれ、求められるのは、その職種を知っていること、経営者と現場の両方から本音を聞けること、「決めない」ができること、選考の結果から要件を見直した経験の四つです。進め方は、「なぜ採るか」と決める人の確認→別々の聞き取り→食い違いの整理→「最初に困ること」を軸に必須と歓迎を分ける→経歴で読める項目と面接で確かめる項目に切り分ける→要件シートと文面に落とす→選考の結果から見直す、の順で、「最初に困ること」と優先を決めるのは会社、基準にしてはいけない項目と他社の要件の持ち込みと正解を教えることに線を引いておきます。**要件シートの中身は[要件シートの作り方](/media/scout-daikou-youken-sheet/)に、課題の絞り方は[課題の言語化](/media/fukugyo-kadai-teigi/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは、要件の整理の案件に絞ります。

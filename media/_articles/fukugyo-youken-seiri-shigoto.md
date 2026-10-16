@@ -9,7 +9,7 @@ tags: ["人事副業", "採用要件", "要件定義", "業務別", "案件の�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-youken-seiri-shigoto"
-related: ["fukugyo-youken-seiri-fukugyo", "fukugyo-youken-seiri-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-shigoto"]
+related: ["fukugyo-youken-seiri-fukugyo", "fukugyo-youken-seiri-hajimekata", "fukugyo-youken-seiri-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 採用要件の整理を初めて受けるとき、見えにくいのは「聞き取りの前に何を決め、聞いたあとに何を渡すか」です。募集文には「採用要件の整理」「ペルソナの設計」とだけあり、実際には、「なぜ採るか」の確認、決める人の確定、別々の聞き取りの日程、食い違いの一覧、決める場、要件シートと文面への落とし込み、面接官への引き渡し、選考の結果からの見直しと、聞き取りの前後に工程が並びます。順番を知っていれば、契約前に決めておけます。結論を先に書くと、**1案件は「契約前→聞き取り→整理→決める場→落とし込み→見直しと終了」の六つの段階で進み、契約前に範囲と職種の数・「なぜ採るか」の有無・決める人・別々の聞き取りの時間・基準にしてはいけない項目・成果物の形・見直しの有無を決め、聞き取りは経営者と現場といまうまくやっている人に別々に「最初に困ること」を軸に行い、整理で食い違いの一覧と必須と歓迎の案と経歴と面接の切り分けと緩める順を作り、決める場で会社が優先を決めて書面にし、要件シートと文面と面接で確かめる項目に落とし、選考の結果から見直して引き継げる形で終えます。**案件の型と求められる経験は[採用要件の整理の副業案件](/media/fukugyo-youken-seiri-fukugyo/)に書いていますので、ここでは「1案件の流れ」に絞ります。
