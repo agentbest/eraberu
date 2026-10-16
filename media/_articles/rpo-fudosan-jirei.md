@@ -9,7 +9,7 @@ tags: ["採用代行", "不動産業界", "機能する条件", "営業採用", 
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-fudosan-jirei"
-related: ["rpo-fudosan-kadai", "rpo-fudosan-rpo", "rpo-butsuryu-jirei", "rpo-game-jirei"]
+related: ["rpo-fudosan-kadai", "rpo-fudosan-rpo", "rpo-fudosan-hiyou", "rpo-butsuryu-jirei"]
 ---
 
 同じ採用代行を使っても、うまく回る不動産会社と回らない不動産会社があります。差を作るのは代行の腕より、発注側の条件です。不動産業界では代行を入れる理由が「営業が辞めるので、その分を採りたい」であることが少なくなく、その場合は入口の募集から直し始めても、出口で同じように人が抜けていきます。この記事では順番を逆にして、辞めた人の理由から出発し、受け入れ、報酬の形、資格、店舗、経路と入口に向かってたどりながら、どこを直せば代行が機能するかを整理します。工程の切り分けは[不動産業界の採用代行](/media/rpo-fudosan-rpo/)に、課題の分解は[不動産業界の採用課題](/media/rpo-fudosan-kadai/)に、営業職の切り分けは[営業採用を代行に出す判断基準](/media/rpo-sales-rpo/)に書いています。

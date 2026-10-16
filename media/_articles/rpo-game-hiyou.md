@@ -9,7 +9,7 @@ tags: ["採用代行", "ゲーム業界", "採用単価", "RPO費用", "ポー�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-game-hiyou"
-related: ["rpo-game-jirei", "rpo-game-kadai", "rpo-game-rpo", "rpo-handoutai-hiyou"]
+related: ["rpo-game-jirei", "rpo-game-kadai", "rpo-game-rpo", "rpo-fudosan-hiyou"]
 sources:
   - name: "e-Gov法令検索「特定受託事業者に係る取引の適正化等に関する法律」（第3条）"
     url: "https://laws.e-gov.go.jp/law/505AC0000000025"

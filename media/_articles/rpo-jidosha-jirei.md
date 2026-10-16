@@ -9,7 +9,7 @@ tags: ["採用代行", "自動車業界", "機能する条件", "技術職採用
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-jidosha-jirei"
-related: ["rpo-jidosha-kadai", "rpo-jidosha-rpo", "rpo-handoutai-jirei", "rpo-maker-jirei"]
+related: ["rpo-jidosha-kadai", "rpo-jidosha-rpo", "rpo-jidosha-hiyou", "rpo-handoutai-jirei"]
 ---
 
 同じ採用代行を使っても、機能する自動車業界の会社と機能しない会社があります。差を作るのは代行の腕ではなく、技術の領域ごとに採用の進め方を分けているかどうかです。この記事では、よくある状況を組み合わせた架空の部品メーカーを一つ置き、機械・電気・ソフト・現場職を一つの型で回していた状態から、領域ごとに分け直すまでを追います。結論を先に書くと、**自動車で代行が機能しないのは「電気とソフトも機械と同じ型で、全部任せたい」と頼んだときで、機能するのは領域ごとに要件を決める人と速さの基準を決めてから頼んだときです。**工程の切り分けは[自動車業界の採用代行](/media/rpo-jidosha-rpo/)に、課題の分解は[自動車業界の採用課題](/media/rpo-jidosha-kadai/)に、メーカー全般の条件は[メーカー業界で採用代行が機能する条件・機能しない条件](/media/rpo-maker-jirei/)に書いています。

@@ -9,7 +9,7 @@ tags: ["採用代行", "建設業界", "機能する条件", "施工管理採用
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-kensetsu-jirei"
-related: ["rpo-kensetsu-kadai", "rpo-kensetsu-rpo", "rpo-butsuryu-jirei", "rpo-fudosan-jirei"]
+related: ["rpo-kensetsu-kadai", "rpo-kensetsu-rpo", "rpo-kensetsu-hiyou", "rpo-butsuryu-jirei"]
 ---
 
 同じ採用代行を使っても、機能する建設会社と機能しない建設会社があります。差を作るのは代行の腕ではなく、発注の前に会社が答えを持っているかどうかです。この記事では、よくある状況を組み合わせた架空の建設会社の担当者を一人置き、代行に頼む前に答えておく四つの問いを順にたどります。結論を先に書くと、**建設で代行が機能しないのは「資格は後で考える、責任者は面接に出られない、全部任せたい」という会社で、四つの問いに答えを出してから頼んだ会社では機能します。**工程の切り分けは[建設業界の採用代行](/media/rpo-kensetsu-rpo/)に、課題の分解は[建設業界の採用課題](/media/rpo-kensetsu-kadai/)に、メーカー全般の条件は[メーカー業界で採用代行が機能する条件・機能しない条件](/media/rpo-maker-jirei/)に書いています。
