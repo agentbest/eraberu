@@ -9,7 +9,7 @@ tags: ["人事副業", "人材派遣", "コーディネーター", "経歴別", 
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-haken-coordinator-fukugyo"
-related: ["fukugyo-gaikokujin-saiyo-tantou-fukugyo", "fukugyo-kyaria-consultant-fukugyo", "fukugyo-shougaisha-koyou-tantou-fukugyo", "fukugyo-soshiki-kaihatsu-fukugyo"]
+related: ["fukugyo-haken-coordinator-tanka", "fukugyo-gaikokujin-saiyo-tantou-fukugyo", "fukugyo-kyaria-consultant-fukugyo", "fukugyo-shougaisha-koyou-tantou-fukugyo"]
 ---
 
 人材派遣の会社で、コーディネーターとして、企業の要件を聞き、登録している人の中から合う人を選び、就業の後も面談で支えてきた。この経験は、企業の直接採用の副業で売れるのか。派遣と直接採用は違い、派遣の形は副業では扱えない。結論を先に書くと、**人材派遣のコーディネーターの経験は、「要件の聞き取りと、人と仕事の合わせ方と、就業後の面談」で売れます。売れるのは、「依頼側の要件の言語化」「候補者と業務の適性の合わせ方」「入社後の定着の面談」「多数の候補者の同時進行」の四つです。依頼側の多くは、要件を言葉にできず、候補者と業務の相性を見られず、入社後の面談をしていません。コーディネーターは、それを毎日やってきています。派遣の形（自社で雇用して送り出す）は副業では持ち込まず、「要件を聞き、合わせ、定着させる型」を、依頼側の直接採用に転用して売ります。派遣や紹介の形で人を動かすことには許可が関わるため、その線は専門家にご確認ください。**人材紹介の経験の売り方は[人材紹介の経験は評価されるか](/media/fukugyo-agent-keiken/)に、候補者対応の線は[候補者対応で気をつけること](/media/fukugyo-kouhosha-taiou/)に、ヒアリングの項目は[ヒアリングで押さえる項目](/media/fukugyo-hearing/)にまとめています。

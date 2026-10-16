@@ -9,7 +9,7 @@ tags: ["人事副業", "求人広告", "営業", "経歴別", "求人原稿"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-kyujin-koukoku-eigyo-fukugyo"
-related: ["fukugyo-eigyo-kara-fukugyo", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
+related: ["fukugyo-kyujin-koukoku-eigyo-tanka", "fukugyo-eigyo-kara-fukugyo", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo"]
 ---
 
 求人広告の営業として、多くの企業に媒体を提案し、原稿を一緒に作り、掲載後の反応を見てきた。人事の部署にいたわけではないが、求人広告の使い方は誰よりも知っている。この経験は、人事の副業で売れるのか。結論を先に書くと、**求人広告の営業の経験は、「媒体の選び方と原稿の作り方と反応の見方」で売れます。売れるのは、「依頼側に合う媒体の選定」「求人原稿の作成と改善」「掲載後の反応の見方と直し方」「媒体の営業との交渉の代行」の四つです。依頼側の多くは、媒体を選ぶ根拠がなく、原稿を媒体の営業に任せきりで、掲載後の反応を見ずに次の媒体に移っています。媒体を売る側にいた人が、使う側に立つと、この詰まりがそのまま埋まります。「媒体を売っていた」ではなく、「媒体を使う側に立って、選び、書き、直す」と売ります。ただし、媒体の料金と仕様は変わるため、記事では書かず、依頼側と一緒に公式の情報で確認します。**求人原稿のライティングの副業は[求人原稿のライティングの副業案件](/media/fukugyo-kyujin-raiting-fukugyo/)に、原稿の実務は[求人原稿のライティングの副業の実務](/media/fukugyo-kyujin-raiting-shigoto/)に、前の会社との線は[本業と利益相反になる案件](/media/fukugyo-riekisouhan/)にまとめています。

@@ -9,7 +9,7 @@ tags: ["人事副業", "採用代行", "経歴別", "工程", "経験の棚卸�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-rpo-keikensha-fukugyo"
-related: ["fukugyo-chuushoukigyou-shindanshi-fukugyo", "fukugyo-consultant-jinji-fukugyo", "fukugyo-ikuji-fukushoku-fukugyo", "fukugyo-kigyou-keiei-fukugyo"]
+related: ["fukugyo-rpo-keikensha-tanka", "fukugyo-chuushoukigyou-shindanshi-fukugyo", "fukugyo-consultant-jinji-fukugyo", "fukugyo-ikuji-fukushoku-fukugyo"]
 ---
 
 採用代行の会社で、複数の企業の採用を、工程ごとに切り出して回してきた。スカウトの送信、応募者の対応、日程調整、面接の同席、報告。この経験は、副業で最もそのまま使えるはずだが、会社の体制と型と看板が無い状態で、一人でどこまでできるのか。結論を先に書くと、**採用代行の経験は、「工程を切り出して、型で回し、報告する」形で、そのまま副業に売れます。売れるのは、「工程の切り出しと範囲の設計」「型での運用（スカウト、応募者の対応、日程調整、面接の同席）」「複数社の並行の管理」「依頼側への報告と窓口」の五つです。副業の依頼側が求めているのは、まさに採用代行が提供してきた「工程を任せる」形です。ただし、副業は一人で受けるので、会社の体制（複数人、システム、上長の確認）と型と看板が無い前提に組み替えます。「代行会社にいました」ではなく、「この工程を、この型で、一人で回します」と売ります。**スカウト代行の副業の実務は[スカウト代行の副業の実務](/media/fukugyo-scout-daikou-shigoto/)に、面接代行の案件は[面接代行の副業案件](/media/fukugyo-mensetsu-daikou-fukugyo/)に、前の会社との線は[本業と利益相反になる案件](/media/fukugyo-riekisouhan/)にまとめています。
