@@ -9,7 +9,7 @@ tags: ["人事副業", "社会保険労務士", "経歴別", "労務", "経験�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-sharoushi-fukugyo"
-related: ["fukugyo-chuushoukigyou-shindanshi-fukugyo", "fukugyo-consultant-jinji-fukugyo", "fukugyo-ikuji-fukushoku-fukugyo", "fukugyo-kigyou-keiei-fukugyo"]
+related: ["fukugyo-sharoushi-tanka", "fukugyo-chuushoukigyou-shindanshi-fukugyo", "fukugyo-consultant-jinji-fukugyo", "fukugyo-ikuji-fukushoku-fukugyo"]
 ---
 
 社会保険労務士として、労務と手続きと制度を扱ってきた。採用は人事の領域で、自分の仕事は入社の後からだと思っていた。ただ、依頼側の採用が、条件の整合や手続きでつまずく場面を何度も見てきた。この経験は、採用の副業で売れるのか。結論を先に書くと、**社会保険労務士の経験は、採用の副業では、「採用の条件と受け入れを、労務の目で先に整える」工程で売れます。売れるのは、「求人票の条件と社内の制度の整合」「内定から入社までの手続きの設計」「入社後の定着と労務の接続」「採用の判断で労務の懸念を先に示す」の四つです。採用の現場では、求人票の条件が社内の制度と食い違う、内定の後に手続きが滞る、入社後に条件の認識がずれる、という労務の側の詰まりが多く、労務の目で先に整えられる人が求められています。ただし、士業としての業務と、採用の副業は分けて受けます。資格に基づく業務の範囲、独占業務の扱い、名称の使い方は、資格の規範と所属団体と専門家にご確認ください。**法改正の追い方は[法改正の追い方](/media/fukugyo-houkaisei/)に、資格の考え方は[取っておくと役に立つ資格](/media/fukugyo-shikaku-toru/)に、法人や事務所で受ける形は[法人として受ける場合](/media/fukugyo-houjin-keiyaku/)にまとめています。

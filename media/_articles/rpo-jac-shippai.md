@@ -9,7 +9,7 @@ tags: ["JAC Recruitment", "採用代行", "人材紹介", "ハイクラス採用
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-jac-shippai"
-related: ["rpo-jac-erabikata", "rpo-jac-henshinritsu", "rpo-bizreach-henshinritsu", "rpo-bizreach-scout-bunmen"]
+related: ["rpo-jac-scout-bunmen", "rpo-jac-erabikata", "rpo-jac-henshinritsu", "rpo-jac-unyou-daikou"]
 sources:
   - name: "ハイクラス人材の採用は JAC Recruitment（採用担当者様向け）"
     url: "https://www.jac-recruitment.jp/lp/for-employers/"

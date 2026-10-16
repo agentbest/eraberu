@@ -9,7 +9,7 @@ tags: ["人事副業", "労務担当", "単価", "社会保険労務士", "労�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-roumu-tantou-tanka"
-related: ["fukugyo-roumu-tantou-fukugyo", "fukugyo-jinji-kikaku-tanka", "fukugyo-startup-jinji-tanka", "fukugyo-agent-ca-tanka"]
+related: ["fukugyo-roumu-tantou-fukugyo", "fukugyo-jinji-kikaku-tanka", "fukugyo-sharoushi-tanka", "fukugyo-startup-jinji-tanka"]
 sources:
   - name: "e-Gov法令検索「社会保険労務士法」（第2条・第27条）"
     url: "https://laws.e-gov.go.jp/law/343AC1000000089"

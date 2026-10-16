@@ -9,7 +9,7 @@ tags: ["人事副業", "外国人採用", "経歴別", "受け入れ", "定着"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-gaikokujin-saiyo-tantou-fukugyo"
-related: ["fukugyo-shougaisha-koyou-tantou-fukugyo", "fukugyo-soshiki-kaihatsu-fukugyo", "fukugyo-haken-coordinator-fukugyo", "fukugyo-kyaria-consultant-fukugyo"]
+related: ["fukugyo-gaikokujin-saiyo-tantou-tanka", "fukugyo-shougaisha-koyou-tantou-fukugyo", "fukugyo-soshiki-kaihatsu-fukugyo", "fukugyo-haken-coordinator-fukugyo"]
 ---
 
 本業で外国人の採用を担当してきた。募集の経路、面接での伝え方、受け入れの準備、入社後の定着。この経験は、人事の副業で売れるのか。外国人採用は在留の資格や手続きが絡み、副業で扱ってよいのか迷う。結論を先に書くと、**外国人採用の担当の経験は、「初めて外国人を採用する依頼側の、募集から受け入れまでの運用の設計」で売れます。売れるのは、「母集団の経路と文面」「面接と条件の伝え方」「受け入れと定着の仕組み」「手続きの流れの整理」の四つです。人手が足りず外国人の採用を考え始めた依頼側は多く、何から手をつければよいか分からず止まっています。ただし、在留の資格の可否、手続きの判断、法的な要件は、副業の範囲に入れず、専門家と公的な窓口に委ねます。自分が担うのは、運用の設計と型です。**候補者の個人情報の扱いは[個人情報の扱い](/media/fukugyo-kojin-jouhou/)に、障害者雇用の担当の売り方は[障害者雇用の担当が副業でできること](/media/fukugyo-shougaisha-koyou-tantou-fukugyo/)に、法改正の追い方は[法改正の追い方](/media/fukugyo-houkaisei/)にまとめています。

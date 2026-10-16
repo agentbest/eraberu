@@ -9,7 +9,7 @@ tags: ["人事副業", "障害者雇用", "経歴別", "受け入れ", "定着"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-shougaisha-koyou-tantou-fukugyo"
-related: ["fukugyo-gaikokujin-saiyo-tantou-fukugyo", "fukugyo-soshiki-kaihatsu-fukugyo", "fukugyo-haken-coordinator-fukugyo", "fukugyo-kyaria-consultant-fukugyo"]
+related: ["fukugyo-shougaisha-koyou-tantou-tanka", "fukugyo-gaikokujin-saiyo-tantou-fukugyo", "fukugyo-soshiki-kaihatsu-fukugyo", "fukugyo-haken-coordinator-fukugyo"]
 ---
 
 本業で障害者雇用の担当をしてきた。業務の切り出し、受け入れの体制、支援機関との連携、定着の面談。この経験は、人事の副業で売れるのか。障害者雇用は制度が絡み、副業で扱ってよいのか迷う。結論を先に書くと、**障害者雇用の担当の経験は、「これから始める、または詰まっている依頼側の、受け入れの設計と運用」で売れます。売れるのは、「業務の切り出し」「受け入れの体制と面談の設計」「支援機関との連携の型」「定着の仕組み」の四つです。障害者雇用を始めたいが何から手をつければよいか分からない依頼側、始めたが定着しない依頼側は多く、実際に運用してきた人が求められています。ただし、制度の数値や要件、法的な判断は、副業の範囲で扱わず、依頼側が公的な窓口と専門家に確認する形で示します。自分が担うのは、運用の設計と型です。**候補者の個人情報の扱いは[個人情報の扱い](/media/fukugyo-kojin-jouhou/)に、定着の面談は[キャリアコンサルタントが副業でできること](/media/fukugyo-kyaria-consultant-fukugyo/)に、法改正の追い方は[法改正の追い方](/media/fukugyo-houkaisei/)にまとめています。
