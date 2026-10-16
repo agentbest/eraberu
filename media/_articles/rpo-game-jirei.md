@@ -9,7 +9,7 @@ tags: ["採用代行", "ゲーム業界", "機能する条件", "クリエイタ
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-game-jirei"
-related: ["rpo-game-kadai", "rpo-game-rpo", "rpo-butsuryu-jirei", "rpo-fudosan-jirei"]
+related: ["rpo-game-kadai", "rpo-game-rpo", "rpo-game-hiyou", "rpo-butsuryu-jirei"]
 ---
 
 同じ採用代行を使っても、うまく回るゲーム会社と回らない会社があります。差を作るのは代行の腕より、発注側の条件です。ゲーム業界の採用は候補者のポートフォリオを中心に動き、文面で何を書けるか、届いた作品をどこに置き、一次で何を見て、誰が質を判断し、選考のあとにどう扱うかが一続きになっています。この記事では、一つのポートフォリオが届いてから社内の判断に至るまでの流れに沿って、どこで代行が止まるのかを整理します。工程の切り分けは[ゲーム業界の採用代行](/media/rpo-game-rpo/)に、課題の分解は[ゲーム業界の採用課題](/media/rpo-game-kadai/)に、IT・Web業界の条件は[IT・Web業界で採用代行が機能する条件・機能しない条件](/media/rpo-it-jirei/)に書いています。

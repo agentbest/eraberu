@@ -9,7 +9,7 @@ tags: ["採用代行", "半導体業界", "機能する条件", "技術職採用
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-handoutai-jirei"
-related: ["rpo-handoutai-kadai", "rpo-handoutai-rpo", "rpo-jidosha-jirei", "rpo-maker-jirei"]
+related: ["rpo-handoutai-kadai", "rpo-handoutai-rpo", "rpo-handoutai-hiyou", "rpo-jidosha-jirei"]
 ---
 
 同じ採用代行を使っても、機能する半導体の会社と機能しない会社があります。差を作るのは代行の腕ではなく、発注の前に社内で何を用意したかです。この記事では、よくある状況を組み合わせた架空の二つの会社を置き、投資が決まってから募集を始めるまでに、社内で作っておく四枚の書類と契約の分け方を順に見ていきます。結論を先に書くと、**半導体で代行が機能しないのは「投資が決まったので全工程を同時に、全部任せたい」と頼んだときで、機能するのは確定した工程から一つずつ、社内に残すものを残して頼んだときです。**工程の切り分けは[半導体業界の採用代行](/media/rpo-handoutai-rpo/)に、課題の分解は[半導体業界の採用課題](/media/rpo-handoutai-kadai/)に、メーカー全般の条件は[メーカー業界で採用代行が機能する条件・機能しない条件](/media/rpo-maker-jirei/)に書いています。
