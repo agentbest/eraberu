@@ -9,7 +9,7 @@ tags: ["人事副業", "人材紹介", "CA", "経歴別", "候補者対応"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-agent-ca-fukugyo"
-related: ["fukugyo-agent-ra-fukugyo", "fukugyo-kyaria-consultant-fukugyo", "fukugyo-chro-fukugyo", "fukugyo-chusho-jinji-fukugyo"]
+related: ["fukugyo-agent-ca-tanka", "fukugyo-agent-ra-fukugyo", "fukugyo-kyaria-consultant-fukugyo", "fukugyo-agent-ra-tanka"]
 ---
 
 人材紹介の会社で、キャリアアドバイザー（CA）として、候補者側を担当してきた。転職の相談を受け、求人を提案し、面接の対策をし、内定の後の迷いに寄り添い、辞退の本音を聞いてきた。この経験は、企業側の人事の副業で売れるのか。候補者の味方だった自分が、企業側に立てるのか。結論を先に書くと、**CAの経験は、「候補者と向き合い、転職の理由を聞き、企業と合わせ、辞退の本音を知っている」型で売れます。売れるのは、「候補者との面談の設計と実施」「辞退の理由の聞き取り」「候補者の目線での求人票と面接の改善」「内定から入社までの繋ぎ」の四つです。企業側の担当者は、候補者が何で決め、何で離れるかを、候補者の本音として聞く機会が無く、CAはそれを毎日聞いてきています。「候補者の側にいました」ではなく、「候補者が何で決め、何で離れるかを、企業側で使う」と売ります。紹介の形は捨て、候補者の情報は持ち込みません。**人材紹介の経験の評価は[人材紹介の経験は評価されるか](/media/fukugyo-agent-keiken/)に、RAの経験の売り方は[人材紹介のリクルーティングアドバイザーが副業でできること](/media/fukugyo-agent-ra-fukugyo/)に、キャリアコンサルタントの売り方は[キャリアコンサルタントが副業でできること](/media/fukugyo-kyaria-consultant-fukugyo/)にまとめています。

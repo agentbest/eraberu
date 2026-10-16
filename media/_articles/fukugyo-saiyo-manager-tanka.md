@@ -9,7 +9,7 @@ tags: ["人事副業", "採用マネージャー", "単価", "採用計画", "�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-saiyo-manager-tanka"
-related: ["fukugyo-saiyo-manager-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-daikigyo-jinji-tanka", "fukugyo-gaishi-jinji-tanka"]
+related: ["fukugyo-saiyo-manager-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-agent-ca-tanka", "fukugyo-agent-ra-tanka"]
 sources:
   - name: "e-Gov法令検索「特定受託事業者に係る取引の適正化等に関する法律」（第3条・第4条）"
     url: "https://laws.e-gov.go.jp/law/505AC0000000025"

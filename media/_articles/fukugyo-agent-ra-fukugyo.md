@@ -9,7 +9,7 @@ tags: ["人事副業", "人材紹介", "RA", "経歴別", "求人の設計"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-agent-ra-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-chro-fukugyo", "fukugyo-chusho-jinji-fukugyo", "fukugyo-chuushoukigyou-shindanshi-fukugyo"]
+related: ["fukugyo-agent-ra-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ca-tanka", "fukugyo-chro-fukugyo"]
 ---
 
 人材紹介の会社で、リクルーティングアドバイザー（RA）として、企業側を担当してきた。要件を聞き、求人を作り、候補者を推薦し、決まらないときは企業に理由を返す。この経験は、企業側の人事の副業で売れるのか。紹介の立場と、企業の担当者の立場は違う。結論を先に書くと、**RAの経験は、「企業の要件を聞き、求人を作り、決まらない理由を企業側に返す」型で売れます。売れるのは、「要件の言語化と求人の設計」「決まらない理由の切り分け」「面接と条件の設計への助言」「複数の企業を見てきた型」の四つです。RAは、多くの企業の「決まらない理由」を、候補者側の反応を通して見てきていて、企業側の担当者になると、その理由を最初から直せます。ただし、紹介の形は捨て、「企業側の担当者として、決まらない理由を直す」と売ります。紹介の経験で得た候補者と情報は持ち込みません。**人材紹介の経験の評価は[人材紹介の経験は評価されるか](/media/fukugyo-agent-keiken/)に、CAの経験の売り方は[人材紹介のキャリアアドバイザーが副業でできること](/media/fukugyo-agent-ca-fukugyo/)に、ヘッドハンターの売り方は[ヘッドハンターが副業でできること](/media/fukugyo-headhunter-fukugyo/)にまとめています。

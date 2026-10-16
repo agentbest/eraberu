@@ -9,7 +9,7 @@ tags: ["人事副業", "HRBP", "単価", "経営者の相談相手", "ハラス�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-hrbp-tanka"
-related: ["fukugyo-hrbp-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-daikigyo-jinji-tanka", "fukugyo-gaishi-jinji-tanka"]
+related: ["fukugyo-hrbp-fukugyo", "fukugyo-agent-ca-tanka", "fukugyo-agent-ra-tanka", "fukugyo-chro-tanka"]
 sources:
   - name: "e-Gov法令検索「労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律」（第31条）"
     url: "https://laws.e-gov.go.jp/law/341AC0000000132"

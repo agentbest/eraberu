@@ -9,7 +9,7 @@ tags: ["人事副業", "医療", "介護", "単価", "人材サービス総合�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-iryou-jinji-tanka"
-related: ["fukugyo-iryou-jinji-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-daikigyo-jinji-tanka", "fukugyo-gaishi-jinji-tanka"]
+related: ["fukugyo-iryou-jinji-fukugyo", "fukugyo-agent-ca-tanka", "fukugyo-agent-ra-tanka", "fukugyo-chro-tanka"]
 sources:
   - name: "厚生労働省・都道府県労働局「医療・介護・保育分野の人手確保のために有料職業紹介事業者を利用される求人事業主の皆さまへ」"
     url: "https://www.mhlw.go.jp/content/001525303.pdf"

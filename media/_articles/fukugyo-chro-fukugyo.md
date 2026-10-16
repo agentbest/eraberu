@@ -9,7 +9,7 @@ tags: ["人事副業", "CHRO", "人事責任者", "経歴別", "経営と人事"
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-chro-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chusho-jinji-fukugyo", "fukugyo-chuushoukigyou-shindanshi-fukugyo"]
+related: ["fukugyo-chro-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chusho-jinji-fukugyo"]
 ---
 
 人事責任者やCHROとして、経営会議に出て、人員計画を事業計画と合わせ、採用の優先順位を決め、人事の部門を束ねてきた。この経験は、副業で売れるのか。責任者の経験は、手を動かす工程から離れているぶん、何を売ればよいかが分かりにくいと感じる人が多いところです。結論を先に書くと、**CHROの経験は、「経営の議論に人事の言葉で入り、採用を事業計画とつなぎ、決める順番を知っている」型で売れます。売れるのは、「採用計画と事業計画の接続」「採用の優先順位の判断」「経営者の壁打ち」「人事機能の立ち上げの設計」の四つです。人事の責任者がいない会社では、経営者が採用と人事の判断を一人で抱えており、決めるための材料と順番を用意できる人を求めています。「責任者でした」ではなく、「経営者が決めるための材料と順番を用意する」と売ります。**人事マネージャーの経験の売り方は[人事マネージャー経験を活かす](/media/fukugyo-manager/)に、経営者・役員の経験は[経営者・役員が副業でできること](/media/fukugyo-kigyou-keiei-fukugyo/)に、人事コンサルタントの経験は[人事コンサルタントが副業でできること](/media/fukugyo-consultant-jinji-fukugyo/)にまとめています。

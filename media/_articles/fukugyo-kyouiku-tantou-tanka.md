@@ -9,7 +9,7 @@ tags: ["人事副業", "人材開発", "研修", "単価", "源泉徴収"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-kyouiku-tantou-tanka"
-related: ["fukugyo-kyouiku-tantou-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-daikigyo-jinji-tanka", "fukugyo-gaishi-jinji-tanka"]
+related: ["fukugyo-kyouiku-tantou-fukugyo", "fukugyo-agent-ca-tanka", "fukugyo-agent-ra-tanka", "fukugyo-chro-tanka"]
 sources:
   - name: "e-Gov法令検索「所得税法」（第204条）"
     url: "https://laws.e-gov.go.jp/law/340AC0000000033"

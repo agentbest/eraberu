@@ -9,7 +9,7 @@ tags: ["人事副業", "小売", "サービス業", "単価", "店舗採用"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-kouri-jinji-tanka"
-related: ["fukugyo-kouri-jinji-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-daikigyo-jinji-tanka", "fukugyo-gaishi-jinji-tanka"]
+related: ["fukugyo-kouri-jinji-fukugyo", "fukugyo-agent-ca-tanka", "fukugyo-agent-ra-tanka", "fukugyo-chro-tanka"]
 sources:
   - name: "e-Gov法令検索「短時間労働者及び有期雇用労働者の雇用管理の改善等に関する法律」（第6条・第8条）"
     url: "https://laws.e-gov.go.jp/law/405AC0000000076"

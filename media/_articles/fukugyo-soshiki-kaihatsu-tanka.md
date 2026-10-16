@@ -9,7 +9,7 @@ tags: ["人事副業", "組織開発", "単価", "サーベイ", "個人情報"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-soshiki-kaihatsu-tanka"
-related: ["fukugyo-soshiki-kaihatsu-fukugyo", "fukugyo-it-jinji-tanka", "fukugyo-chusho-jinji-tanka", "fukugyo-daikigyo-jinji-tanka"]
+related: ["fukugyo-soshiki-kaihatsu-fukugyo", "fukugyo-it-jinji-tanka", "fukugyo-agent-ca-tanka", "fukugyo-agent-ra-tanka"]
 sources:
   - name: "e-Gov法令検索「個人情報の保護に関する法律」（第17条・第18条・第27条）"
     url: "https://laws.e-gov.go.jp/law/415AC0000000057"

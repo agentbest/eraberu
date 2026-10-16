@@ -9,7 +9,7 @@ tags: ["人事副業", "人事企画", "人事制度", "単価", "社会保険�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-jinji-kikaku-tanka"
-related: ["fukugyo-jinji-kikaku-fukugyo", "fukugyo-roumu-tantou-tanka", "fukugyo-startup-jinji-tanka", "fukugyo-chusho-jinji-tanka"]
+related: ["fukugyo-jinji-kikaku-fukugyo", "fukugyo-roumu-tantou-tanka", "fukugyo-startup-jinji-tanka", "fukugyo-agent-ca-tanka"]
 sources:
   - name: "e-Gov法令検索「短時間労働者及び有期雇用労働者の雇用管理の改善等に関する法律」（第8条）"
     url: "https://laws.e-gov.go.jp/law/405AC0000000076"
