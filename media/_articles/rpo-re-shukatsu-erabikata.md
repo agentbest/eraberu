@@ -9,7 +9,7 @@ tags: ["Re就活", "採用代行", "運用代行", "20代採用", "第二新卒"
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-re-shukatsu-erabikata"
-related: ["rpo-re-shukatsu-shippai", "rpo-re-shukatsu-henshinritsu", "rpo-geekly-erabikata", "rpo-geekly-henshinritsu"]
+related: ["rpo-re-shukatsu-unyou-daikou", "rpo-re-shukatsu-hiyou", "rpo-re-shukatsu-scout-bunmen", "rpo-re-shukatsu-shippai"]
 sources:
   - name: "第二新卒採用ならＲｅ就活｜学情の20代向け求人媒体（採用担当者向け）"
     url: "https://service.gakujo.ne.jp/services/rekatsu/"

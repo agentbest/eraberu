@@ -9,7 +9,7 @@ tags: ["Re就活", "採用代行", "返信率", "20代採用", "スカウト運�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-re-shukatsu-henshinritsu"
-related: ["rpo-re-shukatsu-shippai", "rpo-re-shukatsu-erabikata", "rpo-geekly-henshinritsu", "rpo-levtech-career-henshinritsu"]
+related: ["rpo-re-shukatsu-shippai", "rpo-re-shukatsu-erabikata", "rpo-re-shukatsu-hiyou", "rpo-re-shukatsu-scout-bunmen"]
 sources:
   - name: "第二新卒採用ならＲｅ就活｜学情の20代向け求人媒体（採用担当者向け）"
     url: "https://service.gakujo.ne.jp/services/rekatsu/"
