@@ -9,7 +9,7 @@ tags: ["人事副業", "新卒採用", "採用設計", "業務別", "最初の1�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-shinsotsu-sekkei-hajimekata"
-related: ["fukugyo-shinsotsu-sekkei-fukugyo", "fukugyo-shinsotsu-sekkei-shigoto", "fukugyo-agent-control-hajimekata", "fukugyo-ats-dounyu-hajimekata"]
+related: ["fukugyo-shinsotsu-sekkei-fukugyo", "fukugyo-shinsotsu-sekkei-shigoto", "fukugyo-shinsotsu-sekkei-tanka", "fukugyo-agent-control-hajimekata"]
 ---
 
 社内で新卒採用を回してきた。年間の計画を作り、説明会を開き、選考を回し、内定者を入社まで繋いできた。この経験を副業で使えないか。そう思って募集を見ると、「新卒採用の立ち上げ」「新卒採用の企画運営」の案件はあるのに、自分の何を見せれば選ばれるのかが分からない。「新卒採用の担当をしていました」では何をする人か伝わらず、「学生の気持ちが分かります」では説明会を盛り上げる人にしか見えないからです。結論を先に書くと、**最初の1件を取るには、「入社の日から逆算した年間の計画を作り、内定期間の接点に出る社員の時間を先に押さえ、選考の結果の連絡の期限を決めて複数の候補者を途切れずに動かし、内定から入社までの接点で辞退を減らした」と、年間の計画と運用の型と繋ぎの三つで見せます。見本は年間の計画の型と説明の場の型と選考の運用の記録の表と内定期間の接点の型と役割の線で作り、入口は、中途の代行やオンボーディングの案件の中で提案、紹介、副業のプラットフォーム、担当者を選べる窓口の四つで、最初は「年間の設計だけ」「内定から入社までの繋ぎだけ」「説明の場の設計だけ」と小さく受け、受ける前に「なぜ新卒で」と繁忙期の稼働と公的な指針の確認の担当と学生の情報の扱いを確かめ、最初の1件を「計画の型と運用の型と記録が残り、学生の情報は残らない形」で終えて2件目につなげます。**案件の型と新卒に固有の線は[新卒採用の設計の副業案件](/media/fukugyo-shinsotsu-sekkei-fukugyo/)に、1案件の流れは[新卒採用の設計の副業の実務](/media/fukugyo-shinsotsu-sekkei-shigoto/)に、新卒採用の経験の売り方は[新卒採用担当が副業でできること](/media/fukugyo-shinsotsu-tantou-fukugyo/)に書いています。ここでは「最初の1件の取り方」に絞ります。

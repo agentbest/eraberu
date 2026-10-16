@@ -9,7 +9,7 @@ tags: ["人事副業", "新卒採用", "採用設計", "業務別", "案件の�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-shinsotsu-sekkei-shigoto"
-related: ["fukugyo-shinsotsu-sekkei-fukugyo", "fukugyo-shinsotsu-sekkei-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-shigoto"]
+related: ["fukugyo-shinsotsu-sekkei-fukugyo", "fukugyo-shinsotsu-sekkei-hajimekata", "fukugyo-shinsotsu-sekkei-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 新卒採用の設計を副業で初めて受けるとき、見えにくいのは「一年の中で、いつ何が集中し、自分の稼働がどう動くか」と「内定のあとに何をすれば入社まで繋がるか」です。募集文には「新卒採用の企画運営」とだけあり、実際には、年間の計画、母集団作り、説明の場、選考の運用、内定期間の接点、入社後の接続と、一年にわたって工程が並び、しかも時期で稼働が大きく違います。順番と時期を知っていれば、契約前に決めておけます。結論を先に書くと、**1案件は「契約前→年間の設計→母集団作りと説明の場→選考の運用→内定から入社までの繋ぎ→入社後の接続と振り返り」の六つの段階で進み、契約前に範囲と人数と職種と理由と繁忙期の稼働と社員の時間と費用と連絡の名義と学生の情報の扱いと公的な指針の確認の担当と評価を決め、入社の日から逆算した年間の計画を作って確認が要る点に印を付け、経路ごとの動きと社員が語る説明の場を設計して進行し、段階ごとの型で複数の候補者を同時に動かして辞退の兆しを記録し（合否は会社）、内定期間に月に一度の接点と社員との接点と内定者同士の場と不安を聞く型を回し、入社後の三か月に引き渡して経路と段階と時期ごとの記録から次の年の計画を直します。**案件の型と新卒に固有の線は[新卒採用の設計の副業案件](/media/fukugyo-shinsotsu-sekkei-fukugyo/)に書いていますので、ここでは「1案件の流れ」に絞ります。
