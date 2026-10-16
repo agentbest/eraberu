@@ -9,7 +9,7 @@ tags: ["人事副業", "社内リクルーター", "ダイレクトリクルー�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-shanai-recruiter-tanka"
-related: ["fukugyo-shanai-recruiter-fukugyo", "fukugyo-it-jinji-tanka", "fukugyo-saiyo-tantou-tanka", "fukugyo-agent-ca-tanka"]
+related: ["fukugyo-shanai-recruiter-fukugyo", "fukugyo-eigyo-kara-tanka", "fukugyo-it-jinji-tanka", "fukugyo-saiyo-tantou-tanka"]
 sources:
   - name: "e-Gov法令検索「職業安定法」（第5条の5・第36条）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000141"

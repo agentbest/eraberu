@@ -9,7 +9,7 @@ tags: ["人事副業", "経営者", "役員", "経歴別", "経験の棚卸し"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-kigyou-keiei-fukugyo"
-related: ["fukugyo-chuushoukigyou-shindanshi-fukugyo", "fukugyo-consultant-jinji-fukugyo", "fukugyo-ikuji-fukushoku-fukugyo", "fukugyo-marketer-kara-fukugyo"]
+related: ["fukugyo-kigyou-keiei-tanka", "fukugyo-chuushoukigyou-shindanshi-fukugyo", "fukugyo-consultant-jinji-fukugyo", "fukugyo-ikuji-fukushoku-fukugyo"]
 ---
 
 会社を経営してきた、あるいは役員として事業と組織を見てきた。人事の部署にいたわけではないが、採用の判断を何度も下し、幹部を採り、組織を作ってきた。この経験は、副業で人事として売れるのか。実務の手を動かす副業に、経営の経験は合うのか。結論を先に書くと、**経営者・役員の経験は、「採用を経営の判断として組み立てる」工程で売れます。売れるのは、「採用の優先順位と予算の設計」「依頼側の経営者への助言」「役員や幹部の採用の見極め」「採用の仕組みの設計」の四つです。ただし、「経営の経験を活かして指導します」という売り方は、依頼側の経営者に警戒されます。「依頼側の経営者が判断できる形に整える」と、助言と設計の工程で売ります。判断するのは依頼側の経営者で、自分は判断の材料と仕組みを作る側です。**経営者直下で動く場合の立ち回りは[経営者直下で動くときの立ち回り](/media/fukugyo-keieisha-chokka/)に、本業との線は[本業と利益相反になる案件](/media/fukugyo-riekisouhan/)に、法人で受ける形は[法人として受ける場合](/media/fukugyo-houjin-keiyaku/)にまとめています。

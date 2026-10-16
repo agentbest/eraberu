@@ -9,7 +9,7 @@ tags: ["人事副業", "営業", "転身", "経歴別", "スカウト"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-eigyo-kara-fukugyo"
-related: ["fukugyo-engineer-kara-fukugyo", "fukugyo-kyujin-koukoku-eigyo-fukugyo", "fukugyo-marketer-kara-fukugyo", "fukugyo-shanai-recruiter-fukugyo"]
+related: ["fukugyo-eigyo-kara-tanka", "fukugyo-engineer-kara-fukugyo", "fukugyo-kyujin-koukoku-eigyo-fukugyo", "fukugyo-marketer-kara-fukugyo"]
 ---
 
 営業として働いてきた。初対面の相手に連絡し、関心を聞き出し、断られても関係を続け、紹介をもらう。人事の仕事はしたことがないが、採用の「候補者に連絡して、会って、決めてもらう」という流れは、営業に似ている気がする。副業で人事に転身できるのか、何が売れるのか。結論を先に書くと、**営業の経験は、「候補者との接点を作り、動かす」工程で、そのまま売れます。売れるのは、「スカウト文面と返信後の面談の設計」「辞退の理由の聞き取りと引き止めの設計」「紹介や経路の開拓」の三つです。採用で最も止まりやすいのは、候補者に連絡が届かない、返信が来ない、面談で関心が高まらない、辞退の理由が分からない、という接点の工程で、営業の技能がそのまま効きます。「営業から人事へ」ではなく、「採用の接点の工程を、営業の技能で」と売ります。**人事未経験の売り方は[人事未経験が副業でできること](/media/fukugyo-mikeiken-jinji-fukugyo/)に、未経験の区分は[人事未経験でも受けられる仕事はあるか](/media/fukugyo-mikeiken/)に、ヒアリングの技能は[ヒアリング力の磨き方](/media/fukugyo-hearing-skill/)にまとめています。

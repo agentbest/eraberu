@@ -9,7 +9,7 @@ tags: ["人事副業", "エンジニア", "転身", "経歴別", "エンジニ�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-engineer-kara-fukugyo"
-related: ["fukugyo-eigyo-kara-fukugyo", "fukugyo-it-jinji-fukugyo", "fukugyo-marketer-kara-fukugyo", "fukugyo-agent-ca-fukugyo"]
+related: ["fukugyo-engineer-kara-tanka", "fukugyo-eigyo-kara-fukugyo", "fukugyo-it-jinji-fukugyo", "fukugyo-marketer-kara-fukugyo"]
 ---
 
 エンジニアとして働いてきた。採用に関わったのは、面接官として何度か出た程度。それでも、自社のエンジニア採用がうまくいっていない理由は分かる気がする。求人票が技術者に響いていない、面接で聞くことがずれている。この目線は、副業で売れるのか。結論を先に書くと、**エンジニアの経験は、「エンジニア採用の橋渡し」という形で、そのまま売れます。売れるのは、「求人票とスカウト文面を技術者の目線で直す」「面接官（現場）と人事の間の言葉を訳す」「技術の課題や見極めの設計を手伝う」の三つです。エンジニア採用は、人事が技術を分からず、現場が採用を分からず、その間で止まっている依頼側が多く、両方が分かる人が求められています。「人事に転身します」ではなく、「エンジニア採用の〇〇の工程を、現場の目線で」と売ります。**人事未経験の売り方は[人事未経験が副業でできること](/media/fukugyo-mikeiken-jinji-fukugyo/)に、未経験の区分は[人事未経験でも受けられる仕事はあるか](/media/fukugyo-mikeiken/)に、本業との線は[本業と利益相反になる案件](/media/fukugyo-riekisouhan/)にまとめています。
