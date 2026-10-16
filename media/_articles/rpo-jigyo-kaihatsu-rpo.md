@@ -9,7 +9,7 @@ tags: ["採用代行", "事業開発採用", "任せる範囲", "新規事業", 
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-jigyo-kaihatsu-rpo"
-related: ["rpo-jigyo-kaihatsu-boshuudan", "rpo-jigyo-kaihatsu-youken", "rpo-jigyo-kaihatsu-scout", "rpo-keiei-kikaku-rpo"]
+related: ["rpo-jigyo-kaihatsu-boshuudan", "rpo-jigyo-kaihatsu-youken", "rpo-jigyo-kaihatsu-scout", "rpo-jigyo-kaihatsu-hiyou"]
 ---
 
 事業開発の採用を代行に出すか迷う会社は、「求人票を作って媒体に出す工程はお願いしたいが、まだテーマも決まっていない新規事業の人をどう募集すればよいか分からない」「事業開発と言っても、社内でも何をする役かが定まっていない」で止まります。結論を先に書くと、**求人票の作成・媒体の運用・スカウト・応募者への一次対応・面接の日程の確保・内定後の対応は代行に任せられ、事業開発の中身とテーマの整理・予算と権限と撤退の基準の決定・既存事業との関係の整理・要件の決定・構想と実行の力と経営者との相性の評価・合否の判断は社内に残す**のが線です。ただし、事業開発では「何を作るのか（テーマが決まっているか探索からか）」と「予算と権限と撤退の基準」が決まっていないと、任せる範囲も要件も決まらず、候補者に「形だけの新規事業」と読まれます。これを先に決めることが、代行に出す前の要点です。他の職種と共通する分け方は[人事採用を代行に出す判断基準](/media/rpo-jinji-rpo/)に、同じく経営者との距離が近い経営企画の線は[経営企画採用を代行に出す判断基準](/media/rpo-keiei-kikaku-rpo/)にまとめています。

@@ -9,7 +9,7 @@ tags: ["採用代行", "カスタマーサポート採用", "スカウト文面"
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-cs-support-scout"
-related: ["rpo-cs-support-boshuudan", "rpo-cs-support-rpo", "rpo-cs-support-youken", "rpo-shanai-se-scout"]
+related: ["rpo-cs-support-boshuudan", "rpo-cs-support-rpo", "rpo-cs-support-youken", "rpo-cs-support-hiyou"]
 ---
 
 カスタマーサポートの経験者にスカウトを送っても返信が来ない、という相談で文面を見せてもらうと、多くは「未経験歓迎」「アットホームな職場」「成長できる環境」「お客様の笑顔がやりがい」の四つでできています。経験者は、この四つを見た瞬間に「自分向けではない」「中身を隠している」と読みます。経験者が知りたいのは、電話かメールかチャットか、BtoBかBtoCか、クレームの割合とそのときSVがどう動くか、時間帯とシフトと在宅の可否、そして「いまの職場より何が良くなるか」です。結論を先に書くと、**カスタマーサポートのスカウト文面は、中身を一行目に書き、クレームの扱いとSVの体制を隠さず、時間帯と在宅の条件を具体に書き、いまより良くなる一点を示す**型にすると、返信が変わります。母集団形成の全体は[カスタマーサポートの母集団形成](/media/rpo-cs-support-boshuudan/)に、スカウト文面の基本の構造は[スカウト文面の構造](/media/scout-reibun-kouzou/)に書いていますので、ここではカスタマーサポートに固有の型に絞ります。

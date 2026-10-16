@@ -9,7 +9,7 @@ tags: ["採用代行", "社内SE採用", "スカウト文面", "情報システ�
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-shanai-se-scout"
-related: ["rpo-shanai-se-boshuudan", "rpo-shanai-se-rpo", "rpo-shanai-se-youken", "rpo-cs-support-scout"]
+related: ["rpo-shanai-se-boshuudan", "rpo-shanai-se-rpo", "rpo-shanai-se-youken", "rpo-shanai-se-hiyou"]
 ---
 
 社内SEの経験者にスカウトを送っても返信が来ない、という相談で文面を見せてもらうと、多くは「DX推進を担う」「上流工程に関われる」「裁量が大きい」「幅広く経験できる」「風通しの良い社風」の五つでできています。社内SEの経験者は、この五つを見た瞬間に「実態はヘルプデスクの何でも屋では」「決裁は通らないのでは」と読みます。経験者が知りたいのは、中身の割合、一人目か二人目以降か、自分で決められる範囲と予算、上司は誰でITが分かるか、使っているものとベンダーの数、そして「いまの職場より何が良くなるか」です。結論を先に書くと、**社内SEのスカウト文面は、中身の割合を一行目に書き、一人目かどうかを隠さず、決裁と予算と上司を具体に書き、相手が整えた範囲に触れて「次に整えるもの」を示す**型にすると、返信が変わります。母集団形成の全体は[社内SEの母集団形成](/media/rpo-shanai-se-boshuudan/)に、スカウト文面の基本の構造は[スカウト文面の構造](/media/scout-reibun-kouzou/)に書いていますので、ここでは社内SEに固有の型に絞ります。
