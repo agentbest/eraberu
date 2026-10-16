@@ -9,7 +9,7 @@ tags: ["人事副業", "中小企業", "単価", "案件の探し方", "フリ�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-chusho-jinji-tanka"
-related: ["fukugyo-chusho-jinji-fukugyo", "fukugyo-daikigyo-jinji-tanka", "fukugyo-gaishi-jinji-tanka", "fukugyo-meekaa-jinji-tanka"]
+related: ["fukugyo-chusho-jinji-fukugyo", "fukugyo-daikigyo-jinji-tanka", "fukugyo-gaishi-jinji-tanka", "fukugyo-kensetsu-jinji-tanka"]
 sources:
   - name: "e-Gov法令検索「特定受託事業者に係る取引の適正化等に関する法律」（第3条・第4条）"
     url: "https://laws.e-gov.go.jp/law/505AC0000000025"

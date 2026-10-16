@@ -9,7 +9,7 @@ tags: ["人事副業", "金融", "経歴別", "採用手順", "コンプライ�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-kinyu-jinji-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo", "fukugyo-chusho-jinji-fukugyo"]
+related: ["fukugyo-kinyu-jinji-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
 ---
 
 銀行や証券、保険やカード会社の人事として、新卒の大量の選考を回し、専門性の高い中途を採り、規程と手順と記録の中で人事を動かし、コンプライアンスの線を守ってきた。この経験は、人事の部門が小さい会社が多い副業で売れるのか。金融機関の人事は手順が重く、大きい会社の看板があったから成り立っていたと感じる人が多いところです。結論を先に書くと、**金融機関の人事の経験は、「規程と手順と記録を前提に、大量の新卒と、専門性の高い中途を、抜けなく公平に採ってきた」型で売れます。売れるのは、「手順と記録で回す採用の設計」「新卒の大量選考を回す仕組み」「専門職の中途の要件と評価の型」「コンプライアンスと採用の線の整理」の四つです。人事の部門が小さい会社では、採用の手順がなく、面接の記録が残らず、決めた理由を説明できず、採用に関わる法令や情報の扱いが曖昧なまま動いています。「銀行・保険の人事でした」ではなく、「抜けなく、公平に、説明できる採用の手順を作る」と売ります。**教育機関の人事の経験は[教育機関の人事が副業でできること](/media/fukugyo-kyouiku-jinji-fukugyo/)に、人事企画の経験は[人事企画が副業でできること](/media/fukugyo-jinji-kikaku-fukugyo/)に、新卒採用の経験は[新卒採用担当が副業でできること](/media/fukugyo-shinsotsu-tantou-fukugyo/)にまとめています。なお、法令に関わる個別の判断は、社会保険労務士・弁護士にご確認ください。

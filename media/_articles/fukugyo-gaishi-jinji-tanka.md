@@ -9,7 +9,7 @@ tags: ["人事副業", "外資系", "単価", "職務記述書", "案件の探�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-gaishi-jinji-tanka"
-related: ["fukugyo-gaishi-jinji-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-daikigyo-jinji-tanka", "fukugyo-meekaa-jinji-tanka"]
+related: ["fukugyo-gaishi-jinji-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-daikigyo-jinji-tanka", "fukugyo-kensetsu-jinji-tanka"]
 sources:
   - name: "e-Gov法令検索「法の適用に関する通則法」（第12条）"
     url: "https://laws.e-gov.go.jp/law/418AC0000000078"

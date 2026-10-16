@@ -9,7 +9,7 @@ tags: ["人事副業", "建設業", "経歴別", "現場職採用", "有資格�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-kensetsu-jinji-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo", "fukugyo-chusho-jinji-fukugyo"]
+related: ["fukugyo-kensetsu-jinji-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
 ---
 
 建設会社の人事として、施工管理や技能者や設計といった現場に出る職種を採り、資格と経験年数で人を見て、現場の所長と一緒に面接をし、協力会社との線を引きながら人を確保してきた。この経験は、業界の外を含めた人事の副業で売れるのか。建設業の採用は業界の事情が強く、外では通じないと感じる人が多いところです。結論を先に書くと、**建設業の人事の経験は、「現場に出る職種を、資格と経験年数と現場の相性で見て、協力会社と自社の線を引きながら、採り続けてきた」型で売れます。売れるのは、「現場職の要件を『できる仕事』で書く型」「応募が来にくい職種の母集団の作り方」「現場の所長を採用に巻き込む型」「外注と雇用の線の整理」の四つです。業界の外でも、現場に出る職種（設備、物流、整備、製造、警備）を持つ会社は、応募が来にくく、現場の管理者が面接に慣れておらず、外注と雇用の線が曖昧という同じ構造で困っています。「建設の人事でした」ではなく、「応募が来にくい現場の職種を、現場と一緒に採る形を作る」と売ります。**医療・介護の人事の経験は[医療・介護の人事が副業でできること](/media/fukugyo-iryou-jinji-fukugyo/)に、業界を絞る戦い方は[業界特化という戦い方](/media/fukugyo-gyoukai-tokka/)に、採用担当の経験は[採用担当が副業でできること](/media/fukugyo-saiyo-tantou-fukugyo/)にまとめています。

@@ -9,7 +9,7 @@ tags: ["人事副業", "小売", "サービス業", "経歴別", "多店舗採�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-kouri-jinji-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo", "fukugyo-chusho-jinji-fukugyo"]
+related: ["fukugyo-kouri-jinji-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
 ---
 
 小売や飲食、ホテルやレジャーの人事として、多くの店舗の採用を回し、アルバイト・パートと社員を採り分け、店長に面接を任せ、辞める人が多い中で人数を保ってきた。この経験は、人事の副業で売れるのか。小売・サービスの採用は「数を回す」仕事に見え、一人ひとりを丁寧に採る会社には合わないと感じる人が多いところです。結論を先に書くと、**小売・サービスの人事の経験は、「多くの店舗で、多くの人を、店長と一緒に、短い期間で、採って辞めさせずに回してきた」型で売れます。売れるのは、「多店舗・多人数の採用を回す仕組み」「店長を面接官にする型」「アルバイト・パートと社員の採用の使い分け」「辞める前提の体制づくり」の四つです。業界の外でも、拠点が複数あり、現場の管理者が採用を担い、人の出入りが多い会社（物流の拠点、介護の施設、コールセンター、クリニックの多店舗展開）は、同じ構造で困っています。「店舗の人事でした」ではなく、「多くの人を、現場の管理者と一緒に、止まらずに採る仕組みを作る」と売ります。**医療・介護の人事の経験は[医療・介護の人事が副業でできること](/media/fukugyo-iryou-jinji-fukugyo/)に、建設業の人事の経験は[建設業の人事が副業でできること](/media/fukugyo-kensetsu-jinji-fukugyo/)に、業界を絞る戦い方は[業界特化という戦い方](/media/fukugyo-gyoukai-tokka/)にまとめています。
