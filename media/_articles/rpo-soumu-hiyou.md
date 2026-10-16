@@ -9,7 +9,7 @@ tags: ["採用代行", "総務", "管理部門", "採用単価", "費用"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-soumu-hiyou"
-related: ["rpo-soumu-boshuudan", "rpo-soumu-rpo", "rpo-soumu-scout", "rpo-soumu-youken"]
+related: ["rpo-keiei-kikaku-hiyou", "rpo-soumu-boshuudan", "rpo-soumu-rpo", "rpo-soumu-scout"]
 sources:
   - name: "エラベル 料金（公式）"
     url: "https://eraberusaiyodaiko.com/"

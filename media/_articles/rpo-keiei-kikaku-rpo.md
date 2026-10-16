@@ -9,7 +9,7 @@ tags: ["採用代行", "経営企画採用", "任せる範囲", "経営者", "�
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-keiei-kikaku-rpo"
-related: ["rpo-keiei-kikaku-boshuudan", "rpo-keiei-kikaku-youken", "rpo-keiei-kikaku-scout", "rpo-jigyo-kaihatsu-rpo"]
+related: ["rpo-keiei-kikaku-boshuudan", "rpo-keiei-kikaku-youken", "rpo-keiei-kikaku-scout", "rpo-keiei-kikaku-hiyou"]
 ---
 
 経営企画の採用を代行に出すか迷う会社は、「求人票を作って媒体に出す工程はお願いしたいが、経営の中身を外の人に話せるのか」「そもそも経営企画に何を任せるかが自分でも整理できていない」で止まります。結論を先に書くと、**求人票の作成・媒体の運用・スカウト・応募者への一次対応・面接の日程の確保・内定後の対応は代行に任せられ、経営企画の中身と会社の段階の整理・経営者との関係と委ねる範囲の決定・機微な情報の扱い・要件の決定・判断の質と経営者との相性の評価・合否の判断は社内に残す**のが線です。ただし、経営企画では「何を任せ、経営者がどこまで委ねるか」が決まっていないと、任せる範囲も要件も決まりません。これを先に決めることが、代行に出す前の要点です。他の職種と共通する分け方は[人事採用を代行に出す判断基準](/media/rpo-jinji-rpo/)に、同じく経営者との距離が近い財務の線は[財務採用を代行に出す判断基準](/media/rpo-zaimu-rpo/)にまとめています。
