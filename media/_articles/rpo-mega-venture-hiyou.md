@@ -9,7 +9,7 @@ tags: ["採用代行", "メガベンチャー", "大量採用", "採用費用", 
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-mega-venture-hiyou"
-related: ["rpo-mega-venture-rpo", "rpo-mega-venture-shippai", "rpo-mega-venture-taisei", "rpo-chusho-hiyou"]
+related: ["rpo-mega-venture-rpo", "rpo-mega-venture-shippai", "rpo-mega-venture-taisei", "rpo-daikigyo-hiyou"]
 sources:
   - name: "e-Gov法令検索「個人情報の保護に関する法律」（第23条・第25条）"
     url: "https://laws.e-gov.go.jp/law/415AC0000000057"

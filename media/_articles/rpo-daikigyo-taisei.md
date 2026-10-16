@@ -9,7 +9,7 @@ tags: ["採用代行", "大企業", "採用体制", "フェーズ別", "人事�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-daikigyo-taisei"
-related: ["rpo-daikigyo-rpo", "rpo-daikigyo-shippai", "rpo-chihou-kigyo-taisei", "rpo-chusho-taisei"]
+related: ["rpo-daikigyo-rpo", "rpo-daikigyo-shippai", "rpo-daikigyo-hiyou", "rpo-chihou-kigyo-taisei"]
 ---
 
 大企業が採用代行を使うとき、決めるべきことは「人事チームの誰の仕事を代行に渡すか」ではなく、「人事チームを、代行に指示を出す人から、代行を含めた体制を設計する人に、どう変えるか」です。大企業には人事チームがあり、部門が多く、既存の手順と決裁があります。代行を「人が足りない分の補充」として入れると、人事チームの手足になり、指示待ちで止まります。結論を先に書くと、**人事チームに残す役割は「体制の設計者」「部門ごとの要件と判断の担当」「既存の手順と決裁の管理」の三つで、代行には工程の名前で分けた運用を出します。**人事チームは指示を出す側から、要件と判断と設計を持つ側に回り、代行は指示を待たずに運用を回します。失敗の形は[大企業が採用代行で失敗するパターン](/media/rpo-daikigyo-shippai/)に、大企業に向く代行の条件は[大企業に向く採用代行の条件](/media/rpo-daikigyo-muke/)に、代行の全体像は[採用代行（RPO）とは](/media/rpo-toha/)にまとめています。
