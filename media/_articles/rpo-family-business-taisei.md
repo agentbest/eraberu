@@ -9,7 +9,7 @@ tags: ["採用代行", "同族企業", "オーナー企業", "採用体制", "�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-family-business-taisei"
-related: ["rpo-family-business-rpo", "rpo-family-business-shippai", "rpo-chihou-kigyo-taisei", "rpo-chusho-taisei"]
+related: ["rpo-family-business-rpo", "rpo-family-business-shippai", "rpo-family-business-hiyou", "rpo-chihou-kigyo-taisei"]
 ---
 
 同族・オーナー企業が採用代行を使うとき、決めるべきことは「代行に何を任せるか」ではなく、「社長の判断の速さを活かしながら、社長の一言で覆らない形をどう作るか」です。オーナー企業の強みは、社長が即決できることです。弱みは、社長が即座に決め直せることと、社長の基準が頭の中にしかないことです。結論を先に書くと、**社内に残す役割は「社長」「基準を守る人」「意見を言う人」の三つで、社長は基準を一枚にして最終を決め、基準を守る人は社長の一言と一枚の間に立ち、意見を言う人（家族と古参）は決められた段階で意見を出します。**代行は、一枚の基準をもとに探し、社長の時間に合わせて判断の材料を整えます。失敗の形は[同族・オーナー企業が採用代行で失敗するパターン](/media/rpo-family-business-shippai/)に、経営者への説明は[経営者に採用代行を説明する](/media/rpo-keieisha-setsumei/)に、代行の全体像は[採用代行（RPO）とは](/media/rpo-toha/)にまとめています。

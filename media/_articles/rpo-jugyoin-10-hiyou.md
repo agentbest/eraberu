@@ -9,7 +9,7 @@ tags: ["採用代行", "従業員10名以下", "採用費用", "就業規則", "
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-jugyoin-10-hiyou"
-related: ["rpo-jugyoin-10-rpo", "rpo-jugyoin-10-shippai", "rpo-jugyoin-10-taisei", "rpo-chusho-hiyou"]
+related: ["rpo-jugyoin-10-rpo", "rpo-jugyoin-10-shippai", "rpo-jugyoin-10-taisei", "rpo-gaishi-hiyou"]
 sources:
   - name: "e-Gov法令検索「労働基準法」（第15条・第89条・第90条）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000049"

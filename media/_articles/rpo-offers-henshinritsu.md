@@ -9,7 +9,7 @@ tags: ["Offers", "採用代行", "返信率", "エンジニア採用", "スカ�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-offers-henshinritsu"
-related: ["rpo-offers-erabikata", "rpo-offers-shippai", "rpo-bizreach-henshinritsu", "rpo-careercross-henshinritsu"]
+related: ["rpo-offers-erabikata", "rpo-offers-hiyou", "rpo-offers-scout-bunmen", "rpo-offers-shippai"]
 sources:
   - name: "AI時代のエンジニア・PdM採用ならOffers（法人向け）"
     url: "https://offers.jp/client/lp"

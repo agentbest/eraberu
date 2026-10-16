@@ -9,7 +9,7 @@ tags: ["採用代行", "同族企業", "オーナー企業", "外注の順番", 
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-family-business-rpo"
-related: ["rpo-family-business-shippai", "rpo-family-business-taisei", "rpo-chihou-kigyo-rpo", "rpo-chusho-rpo"]
+related: ["rpo-family-business-shippai", "rpo-family-business-taisei", "rpo-family-business-hiyou", "rpo-chihou-kigyo-rpo"]
 ---
 
 同族・オーナー企業で、社長が採用を全部見ていて手が回らず、代行に頼りたい。ただ、何から出せばよいか。代行の会社は「探すところからお任せください」と言うが、社長は「うちに合う人は自分にしか分からない」と思っている。この記事は、その順番を決めるためのものです。結論を先に書くと、**同族・オーナー企業が最初に出すべきは「社長の基準を聞き取って一枚にする工程」で、次が「一枚の基準で探して絞る工程」、最後が「社長の時間に合わせた判断の材料づくりと内定の後の連絡」です。**順番の理由は、オーナー企業の採用は社長の基準で決まり、その基準が社長の頭の中にしかないからです。基準を一枚にせずに探す工程を出すと、代行は書かれた要件で探し、社長の「なんか違う」が繰り返されます。社内に残す役割は[同族・オーナー企業の採用体制の作り方](/media/rpo-family-business-taisei/)に、失敗の形は[同族・オーナー企業が採用代行で失敗するパターン](/media/rpo-family-business-shippai/)に、経営者への説明は[経営者に採用代行を説明する](/media/rpo-keieisha-setsumei/)にまとめています。

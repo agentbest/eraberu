@@ -9,7 +9,7 @@ tags: ["採用代行", "上場企業", "外注の順番", "フェーズ別", "�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-joujou-rpo"
-related: ["rpo-joujou-shippai", "rpo-joujou-taisei", "rpo-chihou-kigyo-rpo", "rpo-chusho-rpo"]
+related: ["rpo-joujou-shippai", "rpo-joujou-taisei", "rpo-joujou-hiyou", "rpo-chihou-kigyo-rpo"]
 ---
 
 上場企業の人事部で、代行を使いたいが、法務と情報管理の要件があり、何から出せば統制の確認が通りやすいかが分からない。この記事は、その順番を決めるためのものです。結論を先に書くと、**上場企業が最初に出すべきは「統制の線が引きやすく、候補者の情報の扱いが最小で済む工程」で、具体的には面接の日程調整と面接の記録です。次が「事業部ごとの運用（候補者への連絡と進捗の一覧）」、最後が「候補者の情報を広く扱う探す工程（媒体の運用とスカウト）」です。**順番の理由は、上場企業では「候補者の情報をどこまで外部に渡すか」が統制の最大の論点で、扱う情報が少ない工程ほど確認が速く通り、その実績が次の工程の確認を速くするからです。社内に残す役割は[上場企業の採用体制の作り方](/media/rpo-joujou-taisei/)に、失敗の形は[上場企業が採用代行で失敗するパターン](/media/rpo-joujou-shippai/)に、大企業に向く代行の条件は[大企業に向く採用代行の条件](/media/rpo-daikigyo-muke/)にまとめています。

@@ -9,7 +9,7 @@ tags: ["採用代行", "同族企業", "オーナー企業", "失敗パターン
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-family-business-shippai"
-related: ["rpo-family-business-rpo", "rpo-family-business-taisei", "rpo-chihou-kigyo-shippai", "rpo-chusho-shippai"]
+related: ["rpo-family-business-rpo", "rpo-family-business-taisei", "rpo-family-business-hiyou", "rpo-chihou-kigyo-shippai"]
 ---
 
 同族・オーナー企業の採用には、社長の判断が速く、社長の一言で決まり、家族や古参の社員が会社の中で大きな影響を持つ、という条件があります。この条件は、採用を速く進める力にもなり、止める力にもなります。採用代行を使うと、社長と家族と古参の影響が代行との間で形を変えて出て、他の会社では起きない失敗になります。結論を先に書くと、**同族・オーナー企業の失敗は「社長の頭の中にある判断の基準が、代行にも社内にも言葉として渡っていない」ことから起きます。基準が言葉にならないと、代行は探せず、社内は判断できず、家族と古参は口を出し、社長の一言で全部が覆ります。**代行に出す前に、「社長の基準を一枚に書く」ことをしておけば、失敗の大半は避けられます。この記事では、五つのパターンを、症状・原因・先に打つ手の順に整理します。経営者への説明は[経営者に採用代行を説明する](/media/rpo-keieisha-setsumei/)に、経営者に状況が伝わらないときは[経営者に採用の状況が伝わらない](/media/rpo-keieisha-rikai/)に、代行の全体像は[採用代行（RPO）とは](/media/rpo-toha/)にまとめています。

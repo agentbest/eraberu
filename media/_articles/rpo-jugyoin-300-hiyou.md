@@ -9,7 +9,7 @@ tags: ["採用代行", "従業員300名", "採用費用", "中途採用比率", 
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-jugyoin-300-hiyou"
-related: ["rpo-jugyoin-300-rpo", "rpo-jugyoin-300-shippai", "rpo-jugyoin-300-taisei", "rpo-chusho-hiyou"]
+related: ["rpo-jugyoin-300-rpo", "rpo-jugyoin-300-shippai", "rpo-jugyoin-300-taisei", "rpo-joujou-hiyou"]
 sources:
   - name: "e-Gov法令検索「労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律」（第27条の2）"
     url: "https://laws.e-gov.go.jp/law/341AC0000000132"

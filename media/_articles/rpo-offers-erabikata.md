@@ -9,7 +9,7 @@ tags: ["Offers", "採用代行", "運用代行", "エンジニア採用", "RPO"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-offers-erabikata"
-related: ["rpo-offers-shippai", "rpo-offers-henshinritsu", "rpo-ambi-hiyou", "rpo-ambi-unyou-daikou"]
+related: ["rpo-offers-shippai", "rpo-offers-unyou-daikou", "rpo-offers-scout-bunmen", "rpo-offers-henshinritsu"]
 sources:
   - name: "AI時代のエンジニア・PdM採用ならOffers（法人向け）"
     url: "https://offers.jp/client/lp"
