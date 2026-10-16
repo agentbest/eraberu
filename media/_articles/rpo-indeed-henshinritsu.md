@@ -9,7 +9,7 @@ tags: ["Indeed", "採用代行", "応募率", "クリック課金", "自動ア�
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-indeed-henshinritsu"
-related: ["rpo-indeed-erabikata", "rpo-indeed-shippai", "rpo-kyujin-box-henshinritsu", "rpo-kyujin-box-erabikata"]
+related: ["rpo-indeed-scout-bunmen", "rpo-indeed-unyou-daikou", "rpo-indeed-erabikata", "rpo-indeed-hiyou"]
 sources:
   - name: "求人を投稿｜Indeed 求人掲載"
     url: "https://jp.indeed.com/求人広告"
