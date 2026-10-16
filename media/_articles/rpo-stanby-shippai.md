@@ -9,7 +9,7 @@ tags: ["スタンバイ", "失敗", "採用代行", "クリック課金", "運�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-stanby-shippai"
-related: ["rpo-stanby-erabikata", "rpo-stanby-henshinritsu", "rpo-findy-shippai", "rpo-ambi-hiyou"]
+related: ["rpo-stanby-unyou-daikou", "rpo-stanby-erabikata", "rpo-stanby-henshinritsu", "rpo-stanby-hiyou"]
 sources:
   - name: "求人掲載はスタンバイで｜アルバイト・パート・正社員の採用におすすめ"
     url: "https://jinji.stanby.co.jp/"
