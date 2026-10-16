@@ -9,7 +9,7 @@ tags: ["人事副業", "ATS", "採用管理システム", "業務別", "最初�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-ats-dounyu-hajimekata"
-related: ["fukugyo-ats-dounyu-fukugyo", "fukugyo-ats-dounyu-shigoto", "fukugyo-agent-control-hajimekata", "fukugyo-casual-mendan-fk-hajimekata"]
+related: ["fukugyo-ats-dounyu-fukugyo", "fukugyo-ats-dounyu-shigoto", "fukugyo-ats-dounyu-tanka", "fukugyo-agent-control-hajimekata"]
 ---
 
 社内でATS（採用管理システム）を入れた。製品を比べ、設定し、面接官に使ってもらうまでを見てきた。この経験を副業で使えないか。そう思って募集を見ると、「ATS導入支援」「採用DX」の案件はあるのに、自分の何を見せれば選ばれるのかが分からない。「〇〇（製品名）に詳しい」では、その製品の会社にしか通じず、「採用DXができます」は何をする人か伝わらないからです。結論を先に書くと、**最初の1件を取るには、「集めたいものを一つに絞り、表計算の列をATSの項目に対応させて設定し、面接官に一つの画面だけを渡して同席し、表計算を止める日まで見た」と、絞る力と対応表と定着の三つで見せます。見本は比べる観点の表と表計算の列とATSの項目の対応表と三つの画面の手順書と面接官への一枚で作り、入口は、書類選考や日程調整の案件の中で提案、紹介、副業のプラットフォーム、担当者を選べる窓口の四つで、最初は「面接官への展開だけ」「併用の解消だけ」「比べる材料だけ」と小さく受け、受ける前に集めたいものと個人情報の方針と権限の期間と終わりの定義を確かめ、最初の1件を「手順書と一枚と止めた日の記録が残る形」で終えて2件目につなげます。**案件の型と求められる経験は[ATS導入の支援の副業案件](/media/fukugyo-ats-dounyu-fukugyo/)に、1案件の流れは[ATS導入の支援の副業の実務](/media/fukugyo-ats-dounyu-shigoto/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは「最初の1件の取り方」に絞ります。

@@ -9,7 +9,7 @@ tags: ["人事副業", "ATS", "採用管理システム", "業務別", "案件�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-ats-dounyu-shigoto"
-related: ["fukugyo-ats-dounyu-fukugyo", "fukugyo-ats-dounyu-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-casual-mendan-fk-shigoto"]
+related: ["fukugyo-ats-dounyu-fukugyo", "fukugyo-ats-dounyu-hajimekata", "fukugyo-ats-dounyu-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 ATS（採用管理システム）導入の支援を初めて受けるとき、見えにくいのは「設定の前に何を決め、設定の後に何をすれば使われるか」です。募集文には「ATS導入支援」とだけあり、実際には、集めたいものを一つに絞る、比べる材料、個人情報の方針、権限の範囲と期間、設定の承認、移行の時期と並行期間、手順書、面接官への一枚と同席、併用の解消、権限の返却と、設定の前後に工程が並びます。順番を知っていれば、契約前に決めておけます。結論を先に書くと、**1案件は「契約前→第1週→設定と移行→手順書と面接官への展開→最初の一か月の定着→引き継ぎと終了」の六つの段階で進み、契約前に範囲・集めたいもの・製品の決定者と契約・個人情報の方針・権限の範囲と期間・移行の時期・面接官への依頼・終わりの定義を決め、第1週は設定せずに集めたいものを一つに絞って比べる材料と設定の案と移行の計画を作り、承認された設定だけを入れて進行中の候補者を落とさず移し、三つの画面の手順書と面接官への一枚を作って同席し、一か月で併用を解消して書かない面接官に対応し、運用のルールと担当を引き継いで権限を返して終えます。**案件の型と求められる経験は[ATS導入の支援の副業案件](/media/fukugyo-ats-dounyu-fukugyo/)に、ATSの扱い方は[採用管理システムの技能](/media/fukugyo-ats-skill/)に書いていますので、ここでは「1案件の流れ」に絞ります。

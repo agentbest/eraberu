@@ -9,7 +9,7 @@ tags: ["人事副業", "採用広報", "社員インタビュー", "業務別", 
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-saiyo-koho-fk-fukugyo"
-related: ["fukugyo-saiyo-koho-fk-hajimekata", "fukugyo-saiyo-koho-fk-shigoto", "fukugyo-agent-control-fukugyo", "fukugyo-ats-dounyu-fukugyo"]
+related: ["fukugyo-saiyo-koho-fk-hajimekata", "fukugyo-saiyo-koho-fk-shigoto", "fukugyo-saiyo-koho-fk-tanka", "fukugyo-agent-control-fukugyo"]
 ---
 
 採用広報の記事執筆は、「書ける人」が集まりやすい副業案件です。社員インタビュー、社内の取り組みの紹介、経営者の言葉。採用サイトやnote、SNSに出す記事を、外に頼む会社は多い。ただ、「会社の良さを書く仕事」と思って受けると、きれいだが誰の言葉でもない記事ができて、閲覧はあっても応募には効かず、更新も止まります。結論を先に書くと、**採用広報の記事執筆の副業案件は、「社員インタビューの原稿だけ」「企画から取材と原稿化まで」「出し続ける運用と記録」「記事の型作りと引き継ぎ」の四つの型に分かれ、求められるのは、会社の説明ではなく「場面」を聞き出す取材、社員の言葉のまま残せる原稿、出し続ける運用、閲覧と応募への影響の記録の四つです。進め方は、伝えない情報の一覧と承認する人と顔出しの方針を会社に決めてもらう→企画（誰に何の場面を聞くか）→取材→原稿化（社員の言葉のまま）→本人と会社の確認→公開と記録→次の企画、の順で、何を伝え何を伝えないか・公開の承認・顔出しの方針は会社、社員の言葉を作らず、肖像と実名の同意を取り、他社の記事を写さない線を先に引いておきます。**副業で要る文章力は[副業で要る文章力](/media/fukugyo-writing/)に、会社側の考え方は[採用広報の代行](/media/rpo-task-saiyo-koho-daikou/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは、記事執筆の案件に絞ります。

@@ -9,7 +9,7 @@ tags: ["人事副業", "採用広報", "社員インタビュー", "業務別", 
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-saiyo-koho-fk-hajimekata"
-related: ["fukugyo-saiyo-koho-fk-fukugyo", "fukugyo-saiyo-koho-fk-shigoto", "fukugyo-agent-control-hajimekata", "fukugyo-ats-dounyu-hajimekata"]
+related: ["fukugyo-saiyo-koho-fk-fukugyo", "fukugyo-saiyo-koho-fk-shigoto", "fukugyo-saiyo-koho-fk-tanka", "fukugyo-agent-control-hajimekata"]
 ---
 
 社内で採用広報を担当してきた。社員にインタビューし、記事を書き、採用サイトやSNSに出してきた。この経験を副業で使えないか。そう思って募集を見ると、「採用広報ライター」「社員インタビューの執筆」の案件はあるのに、応募者はライターばかりで、自分の何を見せれば選ばれるのかが分からない。「ライティングができます」「インタビュー経験があります」では、他の応募者と区別がつかないからです。結論を先に書くと、**最初の1件を取るには、「候補者が面接で聞くことから企画し、社員から場面を聞き出し、社員の言葉のまま原稿にして、応募時に読まれた記事を記録して次の企画に活かした」と、企画と場面と記録の三つで見せます。見本は企画の型と場面を聞く質問表と原稿の見本で作り、入口は、スカウトや原稿の案件の中で提案、紹介、副業のプラットフォーム、担当者を選べる窓口の四つで、最初は「一本の原稿だけ」「質問表と企画の一覧だけ」「既存記事の記録と見直しだけ」と小さく受け、受ける前に伝えない情報の一覧と承認する人と期限と顔出しの方針を確かめ、最初の1件を「企画の型と質問表と記録が残る形」で終えて2件目につなげます。**案件の型と求められる経験は[採用広報の記事執筆の副業案件](/media/fukugyo-saiyo-koho-fk-fukugyo/)に、1案件の流れは[採用広報の記事執筆の副業の実務](/media/fukugyo-saiyo-koho-fk-shigoto/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは「最初の1件の取り方」に絞ります。

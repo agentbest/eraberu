@@ -9,7 +9,7 @@ tags: ["人事副業", "ジョブディスクリプション", "職務記述書"
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-jd-sakusei-hajimekata"
-related: ["fukugyo-jd-sakusei-fukugyo", "fukugyo-jd-sakusei-shigoto", "fukugyo-agent-control-hajimekata", "fukugyo-ats-dounyu-hajimekata"]
+related: ["fukugyo-jd-sakusei-fukugyo", "fukugyo-jd-sakusei-shigoto", "fukugyo-jd-sakusei-tanka", "fukugyo-agent-control-hajimekata"]
 ---
 
 社内でジョブディスクリプション（職務記述書）を作ってきた。ジョブ型の導入や、評価の見直しの中で、役割を一枚ずつ定義してきた。この経験を副業で使えないか。そう思って募集を見ると、「JD作成」「ジョブ型移行支援」の案件はあるのに、自分の何を見せれば選ばれるのかが分からない。「JDが書けます」では文書を書く人にしか見えず、「ジョブ型に詳しい」は制度の設計まで引き受ける形に引っ張られるからです。結論を先に書くと、**最初の1件を取るには、「責任者と担当者に別々に六項目で聞き、抽象語を行動の言葉に掘り、一枚に収めて、求人票と面接と評価に展開した」と、六項目と一枚と展開の三つで見せます。見本は六項目の問いの一覧と一枚のJDの記入例と展開の例で作り、入口は、要件や原稿や面接の案件の中で提案、紹介、副業のプラットフォーム、担当者を選べる窓口の四つで、最初は「一職種の一枚だけ」「型と一職種の例だけ」「面接の観点への展開だけ」と小さく受け、受ける前に責任者の三十分と承認者と等級と報酬が範囲外であることを確かめ、最初の1件を「一枚と展開の例と更新の決まりが残る形」で終えて2件目につなげます。**案件の型と求められる経験は[ジョブディスクリプションの作成の副業案件](/media/fukugyo-jd-sakusei-fukugyo/)に、1案件の流れは[ジョブディスクリプションの作成の副業の実務](/media/fukugyo-jd-sakusei-shigoto/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは「最初の1件の取り方」に絞ります。

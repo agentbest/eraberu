@@ -9,7 +9,7 @@ tags: ["人事副業", "ジョブディスクリプション", "職務記述書"
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-jd-sakusei-shigoto"
-related: ["fukugyo-jd-sakusei-fukugyo", "fukugyo-jd-sakusei-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-shigoto"]
+related: ["fukugyo-jd-sakusei-fukugyo", "fukugyo-jd-sakusei-hajimekata", "fukugyo-jd-sakusei-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 ジョブディスクリプション（職務記述書）の作成を初めて受けるとき、見えにくいのは「一枚を書く前に誰に何を聞き、書いたあとに何に展開するか」です。募集文には「JD作成」「職務記述書の整備」とだけあり、実際には、責任者と担当者への別々の聞き取り、ずれの整理と責任者の決定、六項目で一枚、両方への確認、共有の場所への配置、求人票と面接と評価への展開、更新の仕組みと、一枚の前後に工程が並びます。順番を知っていれば、契約前に決めておけます。結論を先に書くと、**1案件は「契約前→聞き取り→ずれの整理と決定→一枚に書く→展開→更新の仕組みと終了」の六つの段階で進み、契約前に範囲と職種の数・責任者と担当者の三十分・承認者・一枚の型・展開の範囲・等級と報酬は範囲外であること・置き場所と更新の担当を決め、聞き取りは責任者と担当者に別々に六項目で行って抽象語を一段掘り、ずれを責任者が決め、六項目で一枚に書いて両方に確認して日付を入れ、範囲に応じて求人票と面接と評価に展開し、四つの更新の時期と担当を残して終えます。**案件の型と求められる経験は[ジョブディスクリプションの作成の副業案件](/media/fukugyo-jd-sakusei-fukugyo/)に、最初の一枚の中身は[ジョブディスクリプションが無い会社](/media/rpo-jd-nai/)に書いていますので、ここでは「1案件の流れ」に絞ります。

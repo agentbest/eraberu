@@ -9,7 +9,7 @@ tags: ["人事副業", "採用広報", "社員インタビュー", "業務別", 
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-saiyo-koho-fk-shigoto"
-related: ["fukugyo-saiyo-koho-fk-fukugyo", "fukugyo-saiyo-koho-fk-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-shigoto"]
+related: ["fukugyo-saiyo-koho-fk-fukugyo", "fukugyo-saiyo-koho-fk-hajimekata", "fukugyo-saiyo-koho-fk-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 採用広報の記事執筆を初めて受けるとき、見えにくいのは「取材の前に何を決め、原稿の後に何があるか」です。募集文には「社員インタビューの執筆」「月〇本」とだけあり、実際には、伝えない情報の一覧、承認する人と期限、顔出しと実名の方針、取材の日程の確保、本人と会社の確認の往復、公開の作業、閲覧と応募の記録と、書く前後に工程が並びます。順番を知っていれば、契約前に決めておけます。結論を先に書くと、**1案件は「契約前→第1週→企画から公開まで（一本ごと）→月次→終了と更新」の五つの段階で進み、契約前に範囲と本数・伝えない情報の一覧・承認する人と期限・顔出しと実名の方針・取材に応じる社員と時間・出す場所・記録の有無・直しの回数を決め、第1週は取材せずに一覧と方針の確認と企画の型と質問表と原稿の型と記録の表を整え、一本ごとに企画→取材→原稿化→本人と会社の確認→公開→記録を回し、月次で読まれた場面の型を次の企画に活かして止まっている工程を直し、型と記録を引き継いで終えます。**案件の型と求められる経験は[採用広報の記事執筆の副業案件](/media/fukugyo-saiyo-koho-fk-fukugyo/)に書いていますので、ここでは「1案件の流れ」に絞ります。

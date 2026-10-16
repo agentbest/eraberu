@@ -9,7 +9,7 @@ tags: ["人事副業", "人材紹介", "紹介会社", "単価", "副業"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-agent-control-tanka"
-related: ["fukugyo-agent-control-fukugyo", "fukugyo-agent-control-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-casual-mendan-fk-tanka"]
+related: ["fukugyo-agent-control-fukugyo", "fukugyo-agent-control-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-tanka"]
 sources:
   - name: "e-Gov法令検索「職業安定法」（第4条・第30条）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000141"
