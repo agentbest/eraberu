@@ -9,7 +9,7 @@ tags: ["マイナビ転職", "スカウト文面", "スカウト", "運用代行
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-mynavi-tenshoku-scout-bunmen"
-related: ["rpo-mynavi-tenshoku-unyou-daikou", "rpo-mynavi-tenshoku-hiyou", "rpo-doda-unyou-daikou", "rpo-doda-x-scout-bunmen"]
+related: ["rpo-mynavi-tenshoku-henshinritsu", "rpo-mynavi-tenshoku-shippai", "rpo-mynavi-tenshoku-unyou-daikou", "rpo-mynavi-tenshoku-erabikata"]
 sources:
   - name: "スカウトを受ける｜マイナビ転職"
     url: "https://tenshoku.mynavi.jp/scout/"

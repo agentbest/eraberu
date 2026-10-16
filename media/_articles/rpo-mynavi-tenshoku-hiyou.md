@@ -9,7 +9,7 @@ tags: ["マイナビ転職", "費用", "運用代行", "成果報酬", "採用�
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-mynavi-tenshoku-hiyou"
-related: ["rpo-mynavi-tenshoku-scout-bunmen", "rpo-mynavi-tenshoku-unyou-daikou", "rpo-ambi-hiyou", "rpo-doda-x-hiyou"]
+related: ["rpo-mynavi-tenshoku-erabikata", "rpo-mynavi-tenshoku-henshinritsu", "rpo-mynavi-tenshoku-scout-bunmen", "rpo-mynavi-tenshoku-shippai"]
 sources:
   - name: "【公式】マイナビ転職の掲載料金と特徴｜2026年版最新プランのご案内"
     url: "https://tenshoku.mynavi.jp/publish_inquire/"
