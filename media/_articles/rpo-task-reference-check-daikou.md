@@ -9,7 +9,7 @@ tags: ["採用代行", "リファレンスチェック", "選考設計", "業務
 pubDate: 2026-09-19
 reviewedAt: 2026-09-19
 slug: "rpo-task-reference-check-daikou"
-related: ["rpo-task-reference-check-susumekata", "rpo-task-tekisei-kensa-daikou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
+related: ["rpo-task-reference-check-susumekata", "rpo-task-reference-check-hiyou", "rpo-task-tekisei-kensa-daikou", "rpo-task-agent-taiou-daikou"]
 ---
 
 「リファレンスチェックを入れたいが、前職の上司に連絡するのは人事の手が回らない」という相談は、管理職や専門職の採用で増えています。出せる部分はあります。ただ、リファレンスチェックは候補者の同意を前提に、第三者から候補者の情報を集める工程なので、「誰が何をどこまで聞くか」を会社が決めずに外に出すと、候補者との信頼を損ね、集めた情報の扱いで問題が起きます。手間の話の前に、目的と範囲と扱いを会社が決めることが要ります。結論を先に書くと、**リファレンスチェックは、「確認項目と目的の決定」「実施するかどうかの判断」「結果を採否にどう反映するかの決定」「結果の扱いの決まり」は会社が持ち、「候補者への説明と同意の手続き・推薦者への依頼と日程・質問票に沿った聞き取り・記録の作成・結果の整理」は代行に出せます**。この記事は一般的な整理で、個人情報の取得と第三者からの情報収集に関わる部分は、専門家にご確認ください。専門のサービスを使う場合の仕様は、提供元の公式情報でご確認ください。

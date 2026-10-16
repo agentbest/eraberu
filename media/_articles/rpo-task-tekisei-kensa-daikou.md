@@ -9,7 +9,7 @@ tags: ["採用代行", "適性検査", "選考設計", "業務別", "任せる�
 pubDate: 2026-09-19
 reviewedAt: 2026-09-19
 slug: "rpo-task-tekisei-kensa-daikou"
-related: ["rpo-task-tekisei-kensa-susumekata", "rpo-task-reference-check-daikou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
+related: ["rpo-task-tekisei-kensa-susumekata", "rpo-task-tekisei-kensa-hiyou", "rpo-task-reference-check-daikou", "rpo-task-agent-taiou-daikou"]
 ---
 
 「適性検査の案内と結果の管理を代行に出したい」という相談は、応募が増えて選考の事務が回らなくなった会社から来ます。出せます。ただ、適性検査で会社が困っているのは、案内の手間そのものより、「結果をどう使えばよいか決まっていない」ことのほうが多く、そこは外に出しても解決しません。結果が届いても誰も見ない、面接官が結果を知らずに面接している、結果で落とした人の基準を誰も説明できない、という状態は、運用を外に出しても変わりません。結論を先に書くと、**適性検査の運用は、「検査の選定と導入の判断」「結果を足切りに使うか参考にするかの決定」「基準の決定」「結果の扱いの決まり」「費用の承認」は会社が持ち、「受検案内の送付と期限の管理・未受検者への連絡・結果の取り込みと面接官への共有・面接で確かめる点の整理・結果と選考結果の記録と突き合わせ」は代行に出せます**。この記事では、検査の種類や製品の比較はせず、「運用を代行に出す」観点に絞ります。検査の選び方や仕様は、提供元の公式情報でご確認ください。

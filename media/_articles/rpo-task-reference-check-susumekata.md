@@ -9,7 +9,7 @@ tags: ["採用代行", "リファレンスチェック", "選考設計", "業務
 pubDate: 2026-09-19
 reviewedAt: 2026-09-19
 slug: "rpo-task-reference-check-susumekata"
-related: ["rpo-task-reference-check-daikou", "rpo-task-tekisei-kensa-susumekata", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
+related: ["rpo-task-reference-check-daikou", "rpo-task-reference-check-hiyou", "rpo-task-tekisei-kensa-susumekata", "rpo-task-agent-taiou-susumekata"]
 ---
 
 リファレンスチェックを自社で進めようとして、「内定を出す前に前職の人に聞いてみる」から始めると、候補者の同意が無いまま情報を集めることになり、聞く人によって聞き方が変わり、結果をどう使うかが決まっていないので採否がぶれ、候補者に知られたときに信頼を失います。リファレンスチェックで最初にやるべきは、推薦者を探すことではなく、「何のために、何を、誰に聞き、結果をどう使い、どう扱うか」を会社として決め、候補者に説明できる形にすることです。それができていれば、手続きは型で回り、結果は面接の補足として使えます。結論を先に書くと、**進め方は、目的を一つに決める→誰に・どの段階で実施するかを決める→結果を採否にどう反映するかを決める→結果の扱いの決まりを作る→候補者への説明の文面と同意の手続きを作る→質問票を五つ以内で作る→推薦者への依頼と聞き取りと記録の型を作る→記録の表を作り、月に一度、結果と入社後を突き合わせる、の八つの手順**です。代行に出す場合の切り分けは[リファレンスチェックは代行に出せるか](/media/rpo-task-reference-check-daikou/)に書いていますので、ここでは自社で進める手順に絞ります。この記事は一般的な整理で、個人情報の取得と第三者からの情報収集に関わる部分は専門家にご確認ください。

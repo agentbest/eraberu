@@ -9,7 +9,7 @@ tags: ["採用代行", "適性検査", "選考設計", "業務別", "進め方"]
 pubDate: 2026-09-19
 reviewedAt: 2026-09-19
 slug: "rpo-task-tekisei-kensa-susumekata"
-related: ["rpo-task-tekisei-kensa-daikou", "rpo-task-reference-check-susumekata", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
+related: ["rpo-task-tekisei-kensa-daikou", "rpo-task-tekisei-kensa-hiyou", "rpo-task-reference-check-susumekata", "rpo-task-agent-taiou-susumekata"]
 ---
 
 適性検査を自社で運用しようとして、「検査を選んで、書類通過者に受けてもらう」から始めると、結果が届いても誰も見ず、面接官は結果を知らずに面接し、落とす基準は決まっておらず、検査が選考に効いているかは誰にも分かりません。候補者は受検の手間だけが増え、会社は費用だけが増えます。適性検査で最初にやるべきは、検査を選ぶことではなく、「何のために使うか」を決めることです。目的が決まれば、置く段階と使い方と面接官への渡し方が決まり、結果が面接で使われます。結論を先に書くと、**進め方は、何のために使うかを決める→選考のどの段階に置くかを決める→足切りか参考かと基準を決める→結果の扱いの決まりを作る→受検案内と期限と未受検者への対応の型を作る→面接官への渡し方を決める→記録の表を作る→月に一度、結果と選考結果を突き合わせる、の八つの手順**で、順番を守ると、検査の結果が面接で使われ、効いている項目と効いていない項目が見えるようになります。代行に出す場合の切り分けは[適性検査の運用は代行に出せるか](/media/rpo-task-tekisei-kensa-daikou/)に書いていますので、ここでは自社で進める手順に絞ります。この記事では検査の種類や製品の比較はしません。検査の仕様は提供元の公式情報でご確認ください。
