@@ -9,7 +9,7 @@ tags: ["キャリアクロス", "採用代行", "運用代行", "バイリンガ
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-careercross-shippai"
-related: ["rpo-careercross-erabikata", "rpo-careercross-henshinritsu", "rpo-liiga-erabikata", "rpo-liiga-shippai"]
+related: ["rpo-careercross-erabikata", "rpo-careercross-scout-bunmen", "rpo-careercross-unyou-daikou", "rpo-careercross-henshinritsu"]
 sources:
   - name: "採用ご担当者様へ｜キャリアクロス"
     url: "https://www.careercross.com/company/employer-landing"

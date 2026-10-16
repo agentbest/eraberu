@@ -9,7 +9,7 @@ tags: ["キャリアクロス", "採用代行", "返信率", "バイリンガル
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-careercross-henshinritsu"
-related: ["rpo-careercross-erabikata", "rpo-careercross-shippai", "rpo-re-shukatsu-henshinritsu", "rpo-geekly-henshinritsu"]
+related: ["rpo-careercross-erabikata", "rpo-careercross-hiyou", "rpo-careercross-scout-bunmen", "rpo-careercross-shippai"]
 sources:
   - name: "採用ご担当者様へ｜キャリアクロス"
     url: "https://www.careercross.com/company/employer-landing"
