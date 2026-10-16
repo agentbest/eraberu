@@ -9,7 +9,7 @@ tags: ["人事副業", "よくある失敗", "範囲", "スコープ", "契約"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-shippai-2"
-related: ["fukugyo-shippai-1", "fukugyo-shippai-10", "fukugyo-eigo", "fukugyo-qa-15"]
+related: ["fukugyo-shippai-1", "fukugyo-shippai-10", "fukugyo-shippai-6", "fukugyo-eigo"]
 ---
 
 契約はスカウトの運用だった。数か月経った今、求人票も書き、面接の日程も組み、内定者への連絡もしている。単価は最初のままで、稼働は倍になっている。いつからこうなったのか、思い出せない。結論を先に書くと、**範囲の膨張は、一度の大きな追加ではなく、「ついでに」「今回だけ」「前の人はやっていた」の小さな積み重ねで起きます。一つ一つは断るほどではなく、気づいたときには稼働が枠を超えています。防ぐ線は三本で、「契約の範囲を工程で書く」「契約外の稼働を分けて記録する」「更新の節目で範囲と条件を直す」です。**膨張そのものが悪いのではなく、膨らんだ分が契約と条件に反映されないまま続くことが失敗です。範囲外の依頼への対応は[範囲外の依頼が増えたとき](/media/fukugyo-scope-creep/)に、断り方は[無理なときの伝え方](/media/fukugyo-warukunai-kotowari/)に、抱え込みの構造は[断れずに抱え込む](/media/fukugyo-shippai-10/)にまとめています。

@@ -9,7 +9,7 @@ tags: ["人事副業", "本業", "独立", "キャリア", "働き方"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-honngyou-ni-suru"
-related: ["fukugyo-dokuritsu", "fukugyo-honngyou-eikyou", "fukugyo-honngyou-hanei", "fukugyo-kaigo"]
+related: ["fukugyo-dokuritsu", "fukugyo-tanka-suii", "fukugyo-honngyou-eikyou", "fukugyo-honngyou-hanei"]
 ---
 
 副業のほうが本業より手応えがある。本業は組織の中で動きが遅く、副業は自分の判断で進められる。このまま副業を本業にしてしまいたい。ただ、それが正しい判断なのか、勢いなのかが分からない。結論を先に書くと、**副業を本業にするかどうかは、「副業のほうが楽しいか」ではなく、「本業を辞めたい理由」と「副業を本業にしたい理由」を分けて書き出し、副業を本業にしても消えない理由が残るかで決めます。辞めたい理由（上司が合わない、評価が低い、組織が遅い）で副業を本業にすると、本業にした副業の依頼側で同じことが起き、逃げ場がなくなります。本業にしたい理由（この範囲の仕事を軸にしたい、複数の会社で動く形が合う、判断を自分で持ちたい）が、辞めたい理由を除いても残るなら、本業にする判断の土台があります。理由を分けて書き出す。これが判断の最初の作業です。**独立の目安は[独立を考える目安](/media/fukugyo-dokuritsu/)に、副業をやめる判断は[副業をやめるとき](/media/fukugyo-yameru/)に、次の選択肢は[次の案件につなげる](/media/fukugyo-tsugi-e/)にまとめています。

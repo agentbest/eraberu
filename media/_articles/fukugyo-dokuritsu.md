@@ -9,7 +9,7 @@ tags: ["人事副業", "独立", "フリーランス", "キャリア", "収入"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-dokuritsu"
-related: ["fukugyo-honngyou-ni-suru", "fukugyo-qa-2", "fukugyo-shikaku-toru", "fukugyo-tenshoku-tsunagu"]
+related: ["fukugyo-honngyou-ni-suru", "fukugyo-qa-2", "fukugyo-shikaku-toru", "fukugyo-tanka-suii"]
 ---
 
 副業の案件が増え、収入が本業に近づいてきた。このまま独立できるのではないか。ただ、何を目安に独立を決めればよいのか、副業の延長で独立して大丈夫なのかが分からない。結論を先に書くと、**独立を考える目安は、「収入が本業に並んだか」ではなく、「本業の枠を外しても案件の入口が複数あるか」「範囲や稼働の都合で断っている案件があるか」「最悪の月でも生活が回る蓄えがあるか」の三つです。収入の額は、副業の枠の中で本業の給与と社会保険に守られながら出た数字で、独立後の収入と同じではありません。独立で変わるのは、収入の額ではなく、「途切れたときに支えるものがなくなる」ことです。入口の数と、断っている案件と、蓄えの三つで、途切れたときに回るかを見る。これが独立を考える目安です。**副業を本業にする判断は[副業を本業にする判断](/media/fukugyo-honngyou-ni-suru/)に、次の選択肢は[次の案件につなげる](/media/fukugyo-tsugi-e/)に、年間の収入の見立ては[年間の副業収入の見立て](/media/fukugyo-nenkan-shuunyuu/)にまとめています。
