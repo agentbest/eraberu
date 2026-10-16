@@ -9,7 +9,7 @@ tags: ["Eight Career Design", "採用代行", "運用代行", "潜在層", "リ�
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-eight-career-erabikata"
-related: ["rpo-eight-career-shippai", "rpo-eight-career-henshinritsu", "rpo-ambi-hiyou", "rpo-ambi-unyou-daikou"]
+related: ["rpo-eight-career-shippai", "rpo-eight-career-unyou-daikou", "rpo-eight-career-henshinritsu", "rpo-eight-career-hiyou"]
 sources:
   - name: "よくある質問｜Eight Career Design"
     url: "https://materials.8card.net/eight-career/faq/"

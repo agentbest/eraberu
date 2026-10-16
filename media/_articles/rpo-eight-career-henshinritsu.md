@@ -9,7 +9,7 @@ tags: ["Eight Career Design", "採用代行", "返信率", "潜在層", "スカ�
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-eight-career-henshinritsu"
-related: ["rpo-eight-career-shippai", "rpo-eight-career-erabikata", "rpo-bizreach-henshinritsu", "rpo-careercross-henshinritsu"]
+related: ["rpo-eight-career-shippai", "rpo-eight-career-erabikata", "rpo-eight-career-hiyou", "rpo-eight-career-scout-bunmen"]
 sources:
   - name: "詳しい機能｜Eight Career Design"
     url: "https://materials.8card.net/eight-career/features/"
