@@ -9,7 +9,7 @@ tags: ["人事副業", "社内リクルーター", "経歴別", "スカウト", 
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-shanai-recruiter-fukugyo"
-related: ["fukugyo-eigyo-kara-fukugyo", "fukugyo-headhunter-fukugyo", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo"]
+related: ["fukugyo-shanai-recruiter-tanka", "fukugyo-eigyo-kara-fukugyo", "fukugyo-headhunter-fukugyo", "fukugyo-agent-ca-fukugyo"]
 ---
 
 本業で社内リクルーターとして、自社の候補者を直接探し、スカウトを送り、面談し、現場と一緒に選考を回してきた。この経験は、副業で最もそのまま使えるはずだが、本業と重なる部分が多く、どこまで売ってよいのか、本業との線が気になる。結論を先に書くと、**社内リクルーターの経験は、「自社で候補者を直接探し、口説き、選考を回してきた」型で、そのまま依頼側の直接採用の設計と運用に売れます。売れるのは、「スカウトの運用」「候補者との面談」「現場との連携」「採用管理の仕組みと数字の管理」の四つです。副業の依頼側の多くは、直接採用を始めたいが運用の型が無く、社内で回してきた人が求められています。ただし、本業の候補者、媒体のアカウント、社内の情報は持ち込まず、本業の会社と競合する依頼側は避けます。「社内でやってきたことを、社外で」と工程で売り、線は本業との利益相反で引きます。**スカウト代行の副業の実務は[スカウト代行の副業の実務](/media/fukugyo-scout-daikou-shigoto/)に、本業との線は[本業と利益相反になる案件](/media/fukugyo-riekisouhan/)に、採用管理の仕組みは[ATSを扱えると何が変わるか](/media/fukugyo-ats-skill/)にまとめています。

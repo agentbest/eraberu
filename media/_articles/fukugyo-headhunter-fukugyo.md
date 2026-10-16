@@ -9,7 +9,7 @@ tags: ["人事副業", "ヘッドハンター", "経歴別", "幹部採用", "�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-headhunter-fukugyo"
-related: ["fukugyo-shanai-recruiter-fukugyo", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
+related: ["fukugyo-headhunter-tanka", "fukugyo-shanai-recruiter-fukugyo", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo"]
 ---
 
 ヘッドハンターとして、市場の中から候補者を見つけ、直接声をかけ、口説き、企業に引き合わせてきた。この経験は、企業側の人事の副業で売れるのか。紹介の立場と、企業の担当者の立場は違い、どう売ればよいのか。結論を先に書くと、**ヘッドハンターの経験は、「市場のどこに誰がいるかを知り、直接声をかけ、口説く」型で売れます。売れるのは、「幹部や専門職の直接採用の設計」「候補者の探し方の型」「口説きの面談」「依頼側の魅力の言語化」の四つです。幹部や専門職を直接採りたいが、どこにいるか分からず、声をかけても返信が来ない依頼側は多く、市場の地図と口説きの型を持つ人が求められています。ただし、副業では「紹介」ではなく「依頼側の担当者として動く」形に切り替え、紹介の経験で得た候補者と情報は持ち込みません。紹介の形で報酬を受けることには許可が関わるため、その線は専門家にご確認ください。**人材紹介の経験の評価は[人材紹介の経験は評価されるか](/media/fukugyo-agent-keiken/)に、幹部採用の設計は[経営者・役員が副業でできること](/media/fukugyo-kigyou-keiei-fukugyo/)に、スカウトの運用は[スカウト代行の副業の実務](/media/fukugyo-scout-daikou-shigoto/)にまとめています。

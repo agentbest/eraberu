@@ -9,7 +9,7 @@ tags: ["人事副業", "キャリアアドバイザー", "人材紹介", "単価
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-agent-ca-tanka"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-tanka", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-tanka"]
+related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-tanka", "fukugyo-headhunter-tanka", "fukugyo-agent-ra-fukugyo"]
 sources:
   - name: "e-Gov法令検索「職業安定法」（第4条・第5条の5・第30条）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000141"

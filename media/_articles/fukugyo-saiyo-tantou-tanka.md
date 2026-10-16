@@ -9,7 +9,7 @@ tags: ["人事副業", "採用担当", "単価", "スカウト", "委託募集"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-saiyo-tantou-tanka"
-related: ["fukugyo-saiyo-tantou-fukugyo", "fukugyo-it-jinji-tanka", "fukugyo-rpo-keikensha-tanka", "fukugyo-agent-ca-tanka"]
+related: ["fukugyo-saiyo-tantou-fukugyo", "fukugyo-it-jinji-tanka", "fukugyo-rpo-keikensha-tanka", "fukugyo-shanai-recruiter-tanka"]
 sources:
   - name: "e-Gov法令検索「職業安定法」（第5条の4・第5条の5・第36条）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000141"

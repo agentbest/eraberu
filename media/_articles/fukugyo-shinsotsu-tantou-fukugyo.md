@@ -9,7 +9,7 @@ tags: ["人事副業", "新卒採用", "経歴別", "母集団", "経験の棚�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-shinsotsu-tantou-fukugyo"
-related: ["fukugyo-chuushoukigyou-shindanshi-fukugyo", "fukugyo-consultant-jinji-fukugyo", "fukugyo-ikuji-fukushoku-fukugyo", "fukugyo-kigyou-keiei-fukugyo"]
+related: ["fukugyo-shinsotsu-tantou-tanka", "fukugyo-chuushoukigyou-shindanshi-fukugyo", "fukugyo-consultant-jinji-fukugyo", "fukugyo-ikuji-fukushoku-fukugyo"]
 ---
 
 本業で新卒採用を担当してきた。年間の計画、説明会、選考の設計、内定者の繋ぎ。ただ、副業の案件は中途採用が多く、新卒の経験は使えないのではないかと感じる。新卒採用の経験は、副業でどう売ればよいのか。結論を先に書くと、**新卒採用の経験は、「年間の計画で母集団を作り、複数の候補者を同時に動かし、内定から入社までを繋ぐ」という運用の型で売れます。売れるのは、「初めて新卒を採る依頼側の年間の設計」「説明会と選考の設計」「内定者の繋ぎと辞退の防止」「学生向けの文面と伝え方」の四つです。新卒の経験は新卒にしか使えないと思われがちですが、大量・並行・長期の運用の型は、中途採用の母集団づくりや複数の候補者の同時進行にもそのまま使えます。「新卒しか知らない」ではなく、「大量・並行・長期の運用の型を、中途にも」と売ります。**人事未経験の売り方は[人事未経験が副業でできること](/media/fukugyo-mikeiken-jinji-fukugyo/)に、候補者対応の線は[候補者対応で気をつけること](/media/fukugyo-kouhosha-taiou/)に、複数の候補者の管理は[複数案件のスケジュール管理](/media/fukugyo-fukusuu-kanri/)にまとめています。

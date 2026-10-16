@@ -9,7 +9,7 @@ tags: ["人事副業", "リクルーティングアドバイザー", "人材紹�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-agent-ra-tanka"
-related: ["fukugyo-agent-ra-fukugyo", "fukugyo-agent-ca-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-chro-tanka"]
+related: ["fukugyo-agent-ra-fukugyo", "fukugyo-agent-ca-tanka", "fukugyo-headhunter-tanka", "fukugyo-agent-ca-fukugyo"]
 sources:
   - name: "e-Gov法令検索「職業安定法」（第4条・第30条・第32条の3）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000141"
