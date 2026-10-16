@@ -9,7 +9,7 @@ tags: ["採用代行", "内定者フォロー", "内定辞退", "業務別", "�
 pubDate: 2026-09-19
 reviewedAt: 2026-09-19
 slug: "rpo-task-naitei-follow-daikou"
-related: ["rpo-task-naitei-follow-susumekata", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou", "rpo-task-ats-unyou-daikou"]
+related: ["rpo-task-naitei-follow-susumekata", "rpo-task-naitei-follow-hiyou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
 ---
 
 「内定を出した後の連絡が手薄で、辞退が続くので、内定者フォローを代行に出したい」という相談は、採用の後半に人事の手が回らなくなった会社から来ます。出せる部分はあります。ただ、内定者が入社を決める理由は、連絡の頻度ではなく、「この会社の人と働きたい」と思えるかどうかなので、会社の人が内定者と接する部分を外に出すと、接点は増えても辞退は減りません。外に出せるのは、接点を設計して回す部分です。結論を先に書くと、**内定者フォローは、「条件の提示と交渉」「内定者と直接会って話すこと」「配属や受け入れの決定」「辞退の申し出への対応の判断」は会社が持ち、「内定から入社までの接点の設計・連絡の文面と送付・面談や懇親の日程調整・内定者からの質問の受付と回答の取りまとめ・手続きの案内と進捗管理・辞退の兆しの記録と共有」は代行に出せます**。辞退が続くときの見直し方は[内定辞退が続くときに見直す3点](/media/rpo-jitai-ooi/)に、辞退理由の集め方は[内定辞退の理由を正しく集める方法](/media/rpo-jitai-riyuu/)に書いていますので、ここでは「代行に出す」観点に絞ります。

@@ -9,7 +9,7 @@ tags: ["採用代行", "内定者フォロー", "内定辞退", "業務別", "�
 pubDate: 2026-09-19
 reviewedAt: 2026-09-19
 slug: "rpo-task-naitei-follow-susumekata"
-related: ["rpo-task-naitei-follow-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-naitei-follow-daikou", "rpo-task-naitei-follow-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 内定者フォローを自社で進めようとして、「人事が定期的に連絡する」から始めると、連絡は増えても内定者は会社の人と話す機会が無く、質問への返事は遅れ、辞退の兆しは誰も拾わず、辞退が出てから慌てて上司との面談を入れます。内定者フォローで最初にやるべきは、連絡の頻度を決めることではなく、「内定から入社までに、いつ、会社の誰が、内定者と何を話すか」を設計することです。接点が設計されていれば、人事の連絡はその段取りに変わり、内定者は入社前に一緒に働く人の顔が見えます。結論を先に書くと、**進め方は、内定から入社までの期間を区切って接点を設計する→内定者と話す会社の人と枠を決める→接点ごとに話すことを決める→内定者からの質問を受けて翌日までに返す型を作る→手続きの一覧と期限と進捗の表を作る→辞退の兆しを読む観点と対応を決める→記録の表を作る→月に一度、辞退の時期と兆しと理由を見る、の八つの手順**で、順番を守ると、人事の連絡は減り、会社の人との接点は増え、辞退の前に手が打てます。代行に出す場合の切り分けは[内定者フォローは代行に出せるか](/media/rpo-task-naitei-follow-daikou/)に、辞退が続くときの見直し方は[内定辞退が続くときに見直す3点](/media/rpo-jitai-ooi/)に書いていますので、ここでは自社で進める手順に絞ります。
