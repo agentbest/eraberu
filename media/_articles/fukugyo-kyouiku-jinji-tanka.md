@@ -9,7 +9,7 @@ tags: ["人事副業", "教育機関", "学校法人", "単価", "案件の探�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-kyouiku-jinji-tanka"
-related: ["fukugyo-kyouiku-jinji-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-daikigyo-jinji-tanka", "fukugyo-gaishi-jinji-tanka"]
+related: ["fukugyo-kyouiku-jinji-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-consultant-jinji-tanka", "fukugyo-daikigyo-jinji-tanka"]
 sources:
   - name: "e-Gov法令検索「教育職員免許法」（第3条）"
     url: "https://laws.e-gov.go.jp/law/324AC0000000147"

@@ -9,7 +9,7 @@ tags: ["人事副業", "中小企業診断士", "経歴別", "経営", "経験�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-chuushoukigyou-shindanshi-fukugyo"
-related: ["fukugyo-consultant-jinji-fukugyo", "fukugyo-ikuji-fukushoku-fukugyo", "fukugyo-kigyou-keiei-fukugyo", "fukugyo-marketer-kara-fukugyo"]
+related: ["fukugyo-chuushoukigyou-shindanshi-tanka", "fukugyo-consultant-jinji-fukugyo", "fukugyo-ikuji-fukushoku-fukugyo", "fukugyo-kigyou-keiei-fukugyo"]
 ---
 
 中小企業診断士として、中小企業の経営を見てきた。事業の計画、財務、組織。人事の実務はしたことがないが、中小企業の経営者が「人が採れない」と言う場面に、何度も立ち会ってきた。この経験は、採用の副業で売れるのか。結論を先に書くと、**中小企業診断士の経験は、「採用を事業と経営の数字の中に置いて設計する」工程で売れます。売れるのは、「事業の計画と人員の計画の接続」「採用の投資の判断（費用対効果と優先順位）」「経営者への助言と対話」「補助や支援の制度の情報整理」の四つです。中小企業の採用は、経営者が「人が足りない」と感じてから場当たりに始まることが多く、事業の数字から採用を設計できる人が求められています。ただし、「診断します」という売り方では、採用の副業としては伝わりません。「経営者が採用に投資する判断を、数字で整える」と売ります。**経営者・役員の経験の売り方は[経営者・役員が副業でできること](/media/fukugyo-kigyou-keiei-fukugyo/)に、経営者直下の動き方は[経営者直下で動くときの立ち回り](/media/fukugyo-keieisha-chokka/)に、数字の見せ方は[数字で語る](/media/fukugyo-suuji/)にまとめています。

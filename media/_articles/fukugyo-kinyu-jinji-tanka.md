@@ -9,7 +9,7 @@ tags: ["人事副業", "金融機関", "単価", "案件の探し方", "情報�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-kinyu-jinji-tanka"
-related: ["fukugyo-kinyu-jinji-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-daikigyo-jinji-tanka", "fukugyo-gaishi-jinji-tanka"]
+related: ["fukugyo-kinyu-jinji-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-consultant-jinji-tanka", "fukugyo-daikigyo-jinji-tanka"]
 sources:
   - name: "厚生労働省「副業・兼業の促進に関するガイドライン」（令和4年7月改定）"
     url: "https://www.mhlw.go.jp/content/11200000/000962665.pdf"

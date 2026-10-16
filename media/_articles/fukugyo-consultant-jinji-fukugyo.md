@@ -9,7 +9,7 @@ tags: ["人事副業", "人事コンサルタント", "経歴別", "課題の構
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-consultant-jinji-fukugyo"
-related: ["fukugyo-chuushoukigyou-shindanshi-fukugyo", "fukugyo-ikuji-fukushoku-fukugyo", "fukugyo-kigyou-keiei-fukugyo", "fukugyo-marketer-kara-fukugyo"]
+related: ["fukugyo-consultant-jinji-tanka", "fukugyo-chuushoukigyou-shindanshi-fukugyo", "fukugyo-ikuji-fukushoku-fukugyo", "fukugyo-kigyou-keiei-fukugyo"]
 ---
 
 人事コンサルタントとして、企業の人事の課題を整理し、制度や仕組みを提案してきた。副業でも同じことができると思っていたが、副業の依頼側は規模が小さく、提案書より「手を動かしてほしい」と言われる。コンサルの経験は、副業でどう売ればよいのか。結論を先に書くと、**人事コンサルタントの経験は、「採用の課題を構造化し、打ち手を設計する」工程で売れます。ただし、副業の依頼側が求めるのは提案書ではなく、「手が動くところまで」です。設計と実行を分けて設計だけを売ると、「提案で終わる人」と見られ、続きません。「設計し、最初の一巡を一緒に回す」形で売ります。コンサルの費用と工数の型をそのまま持ち込むと、副業の依頼側とは合わず、設計を小さく、実行を含めて、成果物で受ける形に変えます。**課題の構造化は[課題を構造化する](/media/fukugyo-kouzou-ka/)に、提案の伝え方は[改善提案の伝え方](/media/fukugyo-kaizen-teian/)に、所属先との線は[本業と利益相反になる案件](/media/fukugyo-riekisouhan/)にまとめています。

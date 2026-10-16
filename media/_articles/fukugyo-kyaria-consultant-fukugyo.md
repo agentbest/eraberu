@@ -9,7 +9,7 @@ tags: ["人事副業", "キャリアコンサルタント", "経歴別", "候補
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-kyaria-consultant-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-gaikokujin-saiyo-tantou-fukugyo", "fukugyo-haken-coordinator-fukugyo", "fukugyo-shougaisha-koyou-tantou-fukugyo"]
+related: ["fukugyo-kyaria-consultant-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-gaikokujin-saiyo-tantou-fukugyo", "fukugyo-haken-coordinator-fukugyo"]
 ---
 
 キャリアコンサルタントとして、働く人の相談を受けてきた。転職の相談、職場の悩み、次の一歩の整理。人事の部署にいたわけではないが、候補者がどう考え、何で迷い、何で決めるかは、誰よりも知っている。この経験は、企業側の採用の副業で売れるのか。結論を先に書くと、**キャリアコンサルタントの経験は、「候補者の側から採用を見る」工程で売れます。売れるのは、「候補者との面談の設計と実施」「辞退と早期離職の理由の聞き取り」「入社後の定着の面談」「求人票を候補者の目線で直す」の四つです。依頼側の多くは、候補者が何を考えて応募し、辞退し、辞めるかが見えておらず、候補者の側から見られる人が求められています。ただし、「相談を受けます」という売り方では、依頼側には伝わりません。「依頼側の採用の〇〇の工程を、候補者の目線で」と、企業側の工程で売ります。**人事未経験の売り方は[人事未経験が副業でできること](/media/fukugyo-mikeiken-jinji-fukugyo/)に、候補者対応の線は[候補者対応で気をつけること](/media/fukugyo-kouhosha-taiou/)に、ヒアリングの技法は[ヒアリング力の磨き方](/media/fukugyo-hearing-skill/)にまとめています。

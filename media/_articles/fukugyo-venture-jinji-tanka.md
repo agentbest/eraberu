@@ -9,7 +9,7 @@ tags: ["人事副業", "ベンチャー", "単価", "案件の探し方", "面�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-venture-jinji-tanka"
-related: ["fukugyo-venture-jinji-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-daikigyo-jinji-tanka", "fukugyo-gaishi-jinji-tanka"]
+related: ["fukugyo-venture-jinji-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-consultant-jinji-tanka", "fukugyo-daikigyo-jinji-tanka"]
 sources:
   - name: "厚生労働省「副業・兼業の促進に関するガイドライン」（令和4年7月改定）"
     url: "https://www.mhlw.go.jp/content/11200000/000962665.pdf"

@@ -9,7 +9,7 @@ tags: ["人事副業", "建設業", "施工管理", "単価", "案件の探し�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-kensetsu-jinji-tanka"
-related: ["fukugyo-kensetsu-jinji-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-daikigyo-jinji-tanka", "fukugyo-gaishi-jinji-tanka"]
+related: ["fukugyo-kensetsu-jinji-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-consultant-jinji-tanka", "fukugyo-daikigyo-jinji-tanka"]
 sources:
   - name: "e-Gov法令検索「建設業法」（第26条）"
     url: "https://laws.e-gov.go.jp/law/324AC0000000100"

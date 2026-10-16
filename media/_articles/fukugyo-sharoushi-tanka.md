@@ -9,7 +9,7 @@ tags: ["人事副業", "社会保険労務士", "単価", "登録", "採用支�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-sharoushi-tanka"
-related: ["fukugyo-sharoushi-fukugyo", "fukugyo-jinji-kikaku-tanka", "fukugyo-roumu-tantou-tanka", "fukugyo-startup-jinji-tanka"]
+related: ["fukugyo-sharoushi-fukugyo", "fukugyo-chuushoukigyou-shindanshi-tanka", "fukugyo-jinji-kikaku-tanka", "fukugyo-roumu-tantou-tanka"]
 sources:
   - name: "e-Gov法令検索「社会保険労務士法」（第2条・第14条の2・第27条）"
     url: "https://laws.e-gov.go.jp/law/343AC1000000089"
