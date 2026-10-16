@@ -9,7 +9,7 @@ tags: ["人事副業", "労務", "労務実務", "業務別", "案件の流れ"]
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-roumu-jitsumu-shigoto"
-related: ["fukugyo-roumu-jitsumu-fukugyo", "fukugyo-roumu-jitsumu-hajimekata", "fukugyo-gaikokujin-roumu-shigoto", "fukugyo-shugyo-kisoku-shigoto"]
+related: ["fukugyo-roumu-jitsumu-fukugyo", "fukugyo-roumu-jitsumu-hajimekata", "fukugyo-roumu-jitsumu-tanka", "fukugyo-gaikokujin-roumu-shigoto"]
 ---
 
 労務実務の副業を初めて受けるとき、見えにくいのは「どこまでが自分の範囲で、どこからが担当者と専門家の範囲か」の線と、「社員の個人情報をどう扱うか」です。募集文には「労務のサポート」とだけあり、実際には、手続きの実行、法令の判断、数字の確定、社員への回答、専門家への質問と、線の外の仕事が次々に流れてきます。線を契約前に引いていないと、受けられない範囲に踏み込みます。結論を先に書くと、**1案件は「契約前→第1週→一覧と仕組みの作成→伴走→専門家との窓口の整理→引き継ぎと終了」の六つの段階で進み、契約前に受けられる範囲と受けられない範囲を書面にし会社の担当者と専門家の有無と個人情報を見る範囲と数字を確定しないことと社員の相談の流れと終わりの定義を決め、第1週はいまの流れと抜けと落としかけた期日と専門家との往復の実態を整理し、入社から退職までの一覧と手引きを作って判断が要る点に印を付け期日と抜けの管理の仕組みを作って専門家に確認してもらい、月次で伴走して抜けを検出し判断が要る点を橋渡しして記録を整え、会社が専門家に何を聞き何を渡すかの型を整理し、担当者が回せる状態で引き継いで個人情報を残さずに終えます。**受けられる範囲と案件の型は[労務実務の副業案件](/media/fukugyo-roumu-jitsumu-fukugyo/)に書いていますので、ここでは「1案件の流れ」に絞ります。個別の判断は専門家にご確認ください。

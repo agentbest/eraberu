@@ -9,7 +9,7 @@ tags: ["人事副業", "評価制度", "人事評価", "業務別", "最初の1�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-hyouka-seido-hajimekata"
-related: ["fukugyo-hyouka-seido-fukugyo", "fukugyo-hyouka-seido-shigoto", "fukugyo-jinji-seido-hajimekata", "fukugyo-agent-control-hajimekata"]
+related: ["fukugyo-hyouka-seido-fukugyo", "fukugyo-hyouka-seido-shigoto", "fukugyo-hyouka-seido-tanka", "fukugyo-jinji-seido-hajimekata"]
 ---
 
 社内で評価制度を作ってきた。観点を決め、シートを作り、評価者の目線合わせを回し、面談の型を作り、最初の期の歪みを直してきた。この経験を副業で使えないか。そう思って募集を見ると、「評価制度の設計」「評価者研修」の案件はあるのに、自分の何を見せれば選ばれるのかが分からない。「評価制度に詳しい」「評価シートが作れます」では、一般的なシートを持ち込む人にしか見えないからです。結論を先に書くと、**最初の1件を取るには、「経営者の『高く評価した人とそうでない人の違い』を一段掘って観点にし、三〜五に絞って『〇〇した場面を語れる』の形にし、評価者の目線合わせを回して判定をそろえ、最初の評価の期間で面談の理由が伝わるところまで見た」と、観点の言葉と目線合わせと伴走の三つで見せます。見本は観点を行動の言葉にした対比と架空の例と判定と目線合わせの進行と面談の型と記録の型で作り、入口は、JDや要件や面接の案件の中で提案、紹介、副業のプラットフォーム、担当者を選べる窓口の四つで、最初は「観点の言葉の見直しだけ」「目線合わせの進行だけ」「面談の型と練習だけ」と小さく受け、受ける前に何を評価するかを決める人と処遇との接続の有無と個人の評価に入らないことを確かめ、最初の1件を「観点の言葉と目線合わせの記録と面談の型が残る形」で終えて2件目につなげます。**案件の型と人事制度との違いは[評価制度の設計の副業案件](/media/fukugyo-hyouka-seido-fukugyo/)に、1案件の流れは[評価制度の設計の副業の実務](/media/fukugyo-hyouka-seido-shigoto/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは「最初の1件の取り方」に絞ります。

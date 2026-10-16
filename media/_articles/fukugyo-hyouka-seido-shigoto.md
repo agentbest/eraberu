@@ -9,7 +9,7 @@ tags: ["人事副業", "評価制度", "人事評価", "業務別", "案件の�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-hyouka-seido-shigoto"
-related: ["fukugyo-hyouka-seido-fukugyo", "fukugyo-hyouka-seido-hajimekata", "fukugyo-jinji-seido-shigoto", "fukugyo-agent-control-shigoto"]
+related: ["fukugyo-hyouka-seido-fukugyo", "fukugyo-hyouka-seido-hajimekata", "fukugyo-hyouka-seido-tanka", "fukugyo-jinji-seido-shigoto"]
 ---
 
 評価制度の設計を初めて受けるとき、見えにくいのは「シートを作る前に何を決め、作ったあとに何を回せば納得されるか」です。募集文には「評価制度の設計」とだけあり、実際には、何を評価するかの決定、いまの評価の実態、評価者と社員の声、観点の言葉、運用の設計、処遇との接続の判断、目線合わせ、面談の型、最初の期の伴走と、シートの前後に工程が並びます。順番を知っていれば、契約前に決めておけます。結論を先に書くと、**1案件は「契約前→実態の整理→観点と運用の設計→会社の決定と接続→目線合わせと導入→最初の評価の期間の伴走と見直し」の六つの段階で進み、契約前に範囲と処遇との接続の有無・何を評価するかを決める人・専門家の関与・聞き取り・声の扱い・個人の評価に入らないこと・終わりの定義を決め、いまの評価の決まり方と困りごとを整理し、観点を三〜五に絞って行動の言葉にして運用を設計し、会社が承認して処遇との接続は会社と専門家が決め、評価者の目線合わせと面談の型と社員への説明の支援を行い、最初の評価の期間を伴走して歪みを直す材料を出し、引き継いで終えます。**案件の型と人事制度との違いは[評価制度の設計の副業案件](/media/fukugyo-hyouka-seido-fukugyo/)に、処遇に結びつく設計の重さは[人事制度の設計の副業の実務](/media/fukugyo-jinji-seido-shigoto/)に書いていますので、ここでは「評価制度の1案件の流れ」に絞ります。

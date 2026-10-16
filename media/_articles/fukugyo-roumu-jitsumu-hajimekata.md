@@ -9,7 +9,7 @@ tags: ["人事副業", "労務", "労務実務", "業務別", "最初の1件"]
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-roumu-jitsumu-hajimekata"
-related: ["fukugyo-roumu-jitsumu-fukugyo", "fukugyo-roumu-jitsumu-shigoto", "fukugyo-gaikokujin-roumu-hajimekata", "fukugyo-shugyo-kisoku-hajimekata"]
+related: ["fukugyo-roumu-jitsumu-fukugyo", "fukugyo-roumu-jitsumu-shigoto", "fukugyo-roumu-jitsumu-tanka", "fukugyo-gaikokujin-roumu-hajimekata"]
 ---
 
 社内で労務を担当してきた。入社と退職の手続き、勤怠と給与の締め、社会保険の届出、社員からの相談の窓口。この経験を副業で使えないか。そう思って募集を見ると、「労務のサポート」「労務実務の代行」の案件はあるのに、自分の何を見せれば選ばれるのか、そして何を受けてよいのかが分からない。「労務の手続きができます」と書くと、受けられない範囲の案件が来るからです。結論を先に書くと、**最初の1件を取るには、「労務の手続きができます」ではなく「入社から退職までの流れを一覧と手引きにし、期日と抜けを落とさない仕組みを作り、判断が要る点を見つけて専門家（社会保険労務士など）につなぎ、担当者が一人で回せる状態にした」と、一覧と仕組みと線の三つで見せます。手続きの代行と法令の判断は、資格に関わる決まりがあると一般に整理されており、受けないことを先に自分の言葉で書きます。見本は一覧の型と期日の管理の仕組みと判断が要る点の印の付け方と専門家に聞く質問の型と役割の線で作り、入口は、採用の案件の中で提案、紹介、副業のプラットフォーム、担当者を選べる窓口の四つで、最初は「一覧と手引きだけ」「期日の管理の仕組みだけ」「専門家との窓口の整理だけ」と小さく受け、受ける前に担当者と専門家の有無と受けられない範囲の同意と個人情報の扱いを確かめ、最初の1件を「一覧と仕組みと記録が残り、担当者が回せる形」で終えて2件目につなげます。**受けられる範囲と案件の型は[労務実務の副業案件](/media/fukugyo-roumu-jitsumu-fukugyo/)に、1案件の流れは[労務実務の副業の実務](/media/fukugyo-roumu-jitsumu-shigoto/)に、労務の経験を採用に活かす形は[労務担当が副業でできること](/media/fukugyo-roumu-tantou-fukugyo/)に書いています。ここでは「最初の1件の取り方」に絞ります。個別の判断は専門家にご確認ください。

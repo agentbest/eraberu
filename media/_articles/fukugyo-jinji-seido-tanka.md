@@ -9,7 +9,7 @@ tags: ["人事副業", "人事制度", "評価制度", "単価", "副業"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-jinji-seido-tanka"
-related: ["fukugyo-jinji-seido-fukugyo", "fukugyo-jinji-seido-hajimekata", "fukugyo-jinji-seido-shigoto", "fukugyo-agent-control-tanka"]
+related: ["fukugyo-jinji-seido-fukugyo", "fukugyo-jinji-seido-hajimekata", "fukugyo-jinji-seido-shigoto", "fukugyo-hyouka-seido-tanka"]
 sources:
   - name: "e-Gov法令検索「労働基準法」（第89条・第90条）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000049"
