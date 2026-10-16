@@ -9,7 +9,7 @@ tags: ["人事副業", "人事企画", "経歴別", "採用計画", "数字"]
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-jinji-kikaku-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo", "fukugyo-chusho-jinji-fukugyo"]
+related: ["fukugyo-jinji-kikaku-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
 ---
 
 人事企画として、人員計画を作り、等級や評価や報酬の制度を設計し、人事の数字をまとめて経営に報告し、制度の改定を通してきた。この経験は、人事の副業、とくに採用まわりの副業で売れるのか。人事企画は本社の仕事で、採用の現場からは離れて見え、小さい会社には制度が要らないようにも思えます。結論を先に書くと、**人事企画の経験は、「人事の課題を数字と構造で捉え、制度と計画に落とし、経営に通してきた」型で売れます。売れるのは、「採用の数字の見える化」「採用計画と人員計画の設計」「採用の条件の枠組みづくり」「経営への報告の型」の四つです。人事の部門が小さい会社では、採用の数字が担当者の頭の中にしかなく、何人応募して何人面接して何人決まったかを経営者が知らず、採用の計画が「欠員が出たら募集」で、採用の条件が毎回の交渉で決まり、経営者への報告が「頑張っています」で終わっています。「企画をしていました」ではなく、「採用を、経営が判断できる数字と計画の形にする」と売ります。**人事責任者の経験の売り方は[人事責任者・CHROが副業でできること](/media/fukugyo-chro-fukugyo/)に、労務の経験は[労務担当が副業でできること](/media/fukugyo-roumu-tantou-fukugyo/)に、人事コンサルタントの経験は[人事コンサルタントが副業でできること](/media/fukugyo-consultant-jinji-fukugyo/)にまとめています。

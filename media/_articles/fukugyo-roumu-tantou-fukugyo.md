@@ -9,7 +9,7 @@ tags: ["人事副業", "労務", "経歴別", "入社手続き", "内定後"]
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-roumu-tantou-fukugyo"
-related: ["fukugyo-sharoushi-fukugyo", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
+related: ["fukugyo-roumu-tantou-tanka", "fukugyo-sharoushi-fukugyo", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo"]
 ---
 
 労務の担当として、入社と退職の手続き、勤怠と給与の締め、社会保険の届出、就業規則の運用、社員からの相談の窓口を担ってきた。この経験は、人事の副業、とくに採用まわりの副業で売れるのか。労務は採用と部門が分かれていることが多く、採用の副業と聞くと自分には関係がないと感じる人が多いところです。結論を先に書くと、**労務の経験は、「入社から退職までの手続きと条件を、抜けなく、期日どおりに、書面で回してきた」型で売れます。売れるのは、「内定から入社までの手続きの設計」「採用の条件の整合の確認」「入社後のつまずきの早期の把握」「採用担当者が知らない手続きの線」の四つです。人事の部門が小さい会社では、採用の担当者が内定を出した後、書類の案内が遅れ、条件の説明が口頭で食い違い、入社の初日に準備ができておらず、そこで候補者の信頼が崩れます。「労務をしていました」ではなく、「採用が決まった後に、抜けと遅れで人が離れない形を作る」と売ります。**社会保険労務士の資格を持つ人の売り方は[社会保険労務士が副業でできること](/media/fukugyo-sharoushi-fukugyo/)に、人事企画の経験は[人事企画が副業でできること](/media/fukugyo-jinji-kikaku-fukugyo/)に、人事マネージャーの経験は[人事マネージャー経験を活かす](/media/fukugyo-manager/)にまとめています。なお、労務の手続きと法令に関わる個別の判断は、社会保険労務士・弁護士にご確認ください。

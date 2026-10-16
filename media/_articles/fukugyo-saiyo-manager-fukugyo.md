@@ -9,7 +9,7 @@ tags: ["人事副業", "採用マネージャー", "経歴別", "採用体制", 
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-saiyo-manager-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo", "fukugyo-chusho-jinji-fukugyo"]
+related: ["fukugyo-saiyo-manager-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
 ---
 
 採用のマネージャーとして、複数の募集を同時に回し、採用の担当者を束ね、媒体と外注先を選び、経営に採用の数字を報告してきた。この経験は、副業で売れるのか。マネージャーの経験は「管理」で、副業で頼まれるのは「作業」のように思え、何を売ればよいかで迷う人が多いところです。結論を先に書くと、**採用マネージャーの経験は、「複数の募集を同時に回し、担当者と媒体と外注先を束ね、採用の数字に責任を持ってきた」型で売れます。売れるのは、「採用の体制の設計」「担当者の育成と指示の型」「媒体と外注先の使い分けの判断」「採用の数字の管理」の四つです。人事の部門が小さい会社では、採用の担当者が一人で、誰にも指示されず、誰にも育てられず、媒体と外注先を自分の感覚で選び、数字を誰にも見せていません。「採用の責任者でした」ではなく、「採用が回る体制を作り、担当者が動ける形にする」と売ります。**人事マネージャー全般の経験の売り方は[人事マネージャー経験を活かす](/media/fukugyo-manager/)に、人事責任者の経験は[人事責任者・CHROが副業でできること](/media/fukugyo-chro-fukugyo/)に、採用代行の経験者の売り方は[採用代行の経験者が副業でできること](/media/fukugyo-rpo-keikensha-fukugyo/)にまとめています。
