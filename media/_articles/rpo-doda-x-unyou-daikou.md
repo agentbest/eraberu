@@ -9,7 +9,7 @@ tags: ["doda X", "ハイクラス採用", "運用代行", "スカウト", "採�
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-doda-x-unyou-daikou"
-related: ["rpo-doda-x-hiyou", "rpo-doda-x-scout-bunmen", "rpo-doda-unyou-daikou", "rpo-findy-unyou-daikou"]
+related: ["rpo-doda-x-henshinritsu", "rpo-doda-x-hiyou", "rpo-doda-x-scout-bunmen", "rpo-doda-x-shippai"]
 sources:
   - name: "企業スカウトサービスの仕組み｜doda X"
     url: "https://doda-x.jp/service/directscout/"

@@ -9,7 +9,7 @@ tags: ["doda X", "ハイクラス採用", "費用", "運用代行", "採用代�
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-doda-x-hiyou"
-related: ["rpo-doda-x-scout-bunmen", "rpo-doda-x-unyou-daikou", "rpo-ambi-hiyou", "rpo-findy-hiyou"]
+related: ["rpo-doda-x-scout-bunmen", "rpo-doda-x-shippai", "rpo-doda-x-unyou-daikou", "rpo-doda-x-erabikata"]
 sources:
   - name: "doda ダイレクト｜doda 中途採用をお考えの法人様へ"
     url: "https://www.saiyo-doda.jp/service/recruiters"
