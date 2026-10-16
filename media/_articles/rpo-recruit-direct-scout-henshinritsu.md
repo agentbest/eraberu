@@ -9,7 +9,7 @@ tags: ["リクルートダイレクトスカウト", "採用代行", "返信率"
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-recruit-direct-scout-henshinritsu"
-related: ["rpo-recruit-direct-scout-shippai", "rpo-recruit-direct-scout-erabikata", "rpo-bizreach-henshinritsu", "rpo-careercross-henshinritsu"]
+related: ["rpo-recruit-direct-scout-shippai", "rpo-recruit-direct-scout-erabikata", "rpo-recruit-direct-scout-scout-bunmen", "rpo-recruit-direct-scout-unyou-daikou"]
 sources:
   - name: "中途採用・求人ならリクルートダイレクトスカウト 企業・法人向けサイト"
     url: "https://directscout.recruit.co.jp/biz/"

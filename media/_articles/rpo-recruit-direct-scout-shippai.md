@@ -9,7 +9,7 @@ tags: ["リクルートダイレクトスカウト", "採用代行", "運用代�
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-recruit-direct-scout-shippai"
-related: ["rpo-recruit-direct-scout-erabikata", "rpo-recruit-direct-scout-henshinritsu", "rpo-bizreach-unyou-daikou", "rpo-careercross-unyou-daikou"]
+related: ["rpo-recruit-direct-scout-erabikata", "rpo-recruit-direct-scout-henshinritsu", "rpo-recruit-direct-scout-unyou-daikou", "rpo-recruit-direct-scout-scout-bunmen"]
 sources:
   - name: "中途採用・求人ならリクルートダイレクトスカウト 企業・法人向けサイト"
     url: "https://directscout.recruit.co.jp/biz/"
