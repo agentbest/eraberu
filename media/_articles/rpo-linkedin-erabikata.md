@@ -9,7 +9,7 @@ tags: ["LinkedIn", "採用代行", "運用代行", "InMail", "ダイレクトリ
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-linkedin-erabikata"
-related: ["rpo-linkedin-shippai", "rpo-linkedin-henshinritsu", "rpo-bizreach-unyou-daikou", "rpo-careercross-unyou-daikou"]
+related: ["rpo-linkedin-shippai", "rpo-linkedin-unyou-daikou", "rpo-linkedin-henshinritsu", "rpo-linkedin-hiyou"]
 sources:
   - name: "RecruiterのInMailメッセージに関するよくある質問｜Recruiterヘルプ"
     url: "https://www.linkedin.com/help/recruiter/answer/a417098"

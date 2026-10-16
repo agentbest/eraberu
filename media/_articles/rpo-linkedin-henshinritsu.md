@@ -9,7 +9,7 @@ tags: ["LinkedIn", "採用代行", "返信率", "InMail", "スカウト運用"]
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-linkedin-henshinritsu"
-related: ["rpo-linkedin-shippai", "rpo-linkedin-erabikata", "rpo-bizreach-henshinritsu", "rpo-careercross-henshinritsu"]
+related: ["rpo-linkedin-shippai", "rpo-linkedin-erabikata", "rpo-linkedin-hiyou", "rpo-linkedin-scout-bunmen"]
 sources:
   - name: "RecruiterのInMailメッセージに関するよくある質問｜Recruiterヘルプ"
     url: "https://www.linkedin.com/help/recruiter/answer/a417098"
