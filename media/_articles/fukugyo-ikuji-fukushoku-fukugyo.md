@@ -9,7 +9,7 @@ tags: ["人事副業", "育児", "復職", "経歴別", "経験の棚卸し"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-ikuji-fukushoku-fukugyo"
-related: ["fukugyo-chuushoukigyou-shindanshi-fukugyo", "fukugyo-consultant-jinji-fukugyo", "fukugyo-kigyou-keiei-fukugyo", "fukugyo-marketer-kara-fukugyo"]
+related: ["fukugyo-ikuji-fukushoku-tanka", "fukugyo-chuushoukigyou-shindanshi-fukugyo", "fukugyo-consultant-jinji-fukugyo", "fukugyo-kigyou-keiei-fukugyo"]
 ---
 
 育児で数年、仕事から離れていた。以前は人事の仕事をしていたが、今は本業に戻る前の準備として、あるいは、本業に戻りながら少しずつ、副業で人事の経験を活かしたい。ただ、空白の期間があり、最新の道具も分からず、稼働の枠も小さい。売れるものがあるのか。結論を先に書くと、**育児からの復職で副業を始めるなら、離れていた期間を「空白」として説明するのではなく、「離れる前の人事の経験」と「育児中に身についた段取りと時間の使い方」を、「今の稼働の枠で何ができるか」に組み替えて売ります。依頼側が知りたいのは、空白の理由ではなく、「この範囲を、この稼働で、任せられるか」です。空白の説明より、枠と範囲の明示が先です。**育児との両立の設計は[子育てと両立する](/media/fukugyo-kodomo/)に、時間帯が読めない前提の業務の選び方は[育児・介護と両立できるか](/media/fukugyo-kaigo-ikuji/)に、経験が浅いときの案件は[経験が浅くても受けられる案件](/media/fukugyo-keiken-asai/)にまとめています。

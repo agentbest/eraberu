@@ -9,7 +9,7 @@ tags: ["人事副業", "マーケター", "転身", "経歴別", "経験の棚�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-marketer-kara-fukugyo"
-related: ["fukugyo-chuushoukigyou-shindanshi-fukugyo", "fukugyo-consultant-jinji-fukugyo", "fukugyo-eigyo-kara-fukugyo", "fukugyo-engineer-kara-fukugyo"]
+related: ["fukugyo-marketer-kara-tanka", "fukugyo-chuushoukigyou-shindanshi-fukugyo", "fukugyo-consultant-jinji-fukugyo", "fukugyo-eigyo-kara-fukugyo"]
 ---
 
 マーケティングの仕事をしてきた。広告の文面、数字の分析、顧客の経路の設計。人事の仕事はしたことがないが、採用も「人を集めて、選んで、動いてもらう」という点でマーケに似ている気がする。副業で人事に転身できるのか、何が売れるのか。結論を先に書くと、**マーケターの経験は、「候補者を顧客として見る」形で、そのまま採用に転用できます。売れるのは、「求人票とスカウト文面の改善」「採用の数字の設計と報告」「母集団の経路の設計」の三つです。ただし、「マーケの経験を人事に活かします」と抽象的に売ると、依頼側には伝わりません。「採用の〇〇の工程を、マーケの△△の技能で」と、工程と技能を結びつけて売ります。依頼側が頼むのは、マーケの経験ではなく、採用の工程です。**人事未経験の売り方は[人事未経験が副業でできること](/media/fukugyo-mikeiken-jinji-fukugyo/)に、未経験の区分は[人事未経験でも受けられる仕事はあるか](/media/fukugyo-mikeiken/)に、数字の見せ方は[数字で語る](/media/fukugyo-suuji/)にまとめています。

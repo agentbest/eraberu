@@ -9,7 +9,7 @@ tags: ["人事副業", "未経験", "経歴別", "経験の棚卸し", "案件�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-mikeiken-jinji-fukugyo"
-related: ["fukugyo-chuushoukigyou-shindanshi-fukugyo", "fukugyo-consultant-jinji-fukugyo", "fukugyo-ikuji-fukushoku-fukugyo", "fukugyo-kigyou-keiei-fukugyo"]
+related: ["fukugyo-mikeiken-jinji-tanka", "fukugyo-chuushoukigyou-shindanshi-fukugyo", "fukugyo-consultant-jinji-fukugyo", "fukugyo-ikuji-fukushoku-fukugyo"]
 ---
 
 人事の部署にいたことはない。ただ、営業で人と会い、部門で面接に出て、事務で応募者に連絡し、企画で文章を書いてきた。人事の副業に興味はあるが、「未経験」と名乗った時点で、依頼側に選ばれない気がする。何を、どう売ればよいのか。結論を先に書くと、**人事の肩書きが無くても売れるのは、「採用の工程のどこかに触れた経験」と「人事以外の職種で身についた、採用に転用できる技能」の二つです。面接官として候補者を見た、応募者に連絡した、求人の文章を書いた、といった工程への接点と、営業の文面、企画の資料、事務の段取りといった転用できる技能を棚卸しし、「人事未経験」と名乗るのではなく、「〇〇の工程を、△△の職種の経験で」と範囲を絞って売ります。依頼側が頼むのは肩書きではなく、工程です。**未経験の区分と受けられる業務は[人事未経験でも受けられる仕事はあるか](/media/fukugyo-mikeiken/)に、経験が浅いときの案件は[経験が浅くても受けられる案件](/media/fukugyo-keiken-asai/)に、よくある質問は[未経験でも受けられるか](/media/fukugyo-qa-3/)にまとめています。

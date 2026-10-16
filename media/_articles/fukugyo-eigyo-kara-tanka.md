@@ -9,7 +9,7 @@ tags: ["人事副業", "営業経験", "スカウト", "単価", "キャリア�
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "fukugyo-eigyo-kara-tanka"
-related: ["fukugyo-eigyo-kara-fukugyo", "fukugyo-it-jinji-tanka", "fukugyo-saiyo-tantou-tanka", "fukugyo-shanai-recruiter-tanka"]
+related: ["fukugyo-eigyo-kara-fukugyo", "fukugyo-it-jinji-tanka", "fukugyo-marketer-kara-tanka", "fukugyo-saiyo-tantou-tanka"]
 sources:
   - name: "e-Gov法令検索「職業安定法」（第5条の4・第36条）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000141"
