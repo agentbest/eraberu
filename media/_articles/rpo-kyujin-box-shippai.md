@@ -9,7 +9,7 @@ tags: ["求人ボックス", "採用代行", "運用代行", "クリック課金
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-kyujin-box-shippai"
-related: ["rpo-kyujin-box-erabikata", "rpo-kyujin-box-henshinritsu", "rpo-stanby-unyou-daikou", "rpo-stanby-scout-bunmen"]
+related: ["rpo-kyujin-box-unyou-daikou", "rpo-kyujin-box-erabikata", "rpo-kyujin-box-scout-bunmen", "rpo-kyujin-box-henshinritsu"]
 sources:
   - name: "リスティング広告｜求人ボックス"
     url: "https://xn--pckua2a7gp15o89zb.com/リスティング広告"

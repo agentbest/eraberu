@@ -9,7 +9,7 @@ tags: ["求人ボックス", "採用代行", "応募率", "クリック課金", 
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-kyujin-box-henshinritsu"
-related: ["rpo-kyujin-box-erabikata", "rpo-kyujin-box-shippai", "rpo-rikunabi-next-hiyou", "rpo-stanby-henshinritsu"]
+related: ["rpo-kyujin-box-erabikata", "rpo-kyujin-box-hiyou", "rpo-kyujin-box-scout-bunmen", "rpo-kyujin-box-shippai"]
 sources:
   - name: "リスティング広告｜求人ボックス"
     url: "https://xn--pckua2a7gp15o89zb.com/リスティング広告"
