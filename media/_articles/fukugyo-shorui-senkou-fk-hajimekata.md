@@ -9,7 +9,7 @@ tags: ["人事副業", "書類選考", "選考代行", "業務別", "最初の1�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-shorui-senkou-fk-hajimekata"
-related: ["fukugyo-shorui-senkou-fk-fukugyo", "fukugyo-shorui-senkou-fk-shigoto", "fukugyo-agent-control-hajimekata", "fukugyo-ats-dounyu-hajimekata"]
+related: ["fukugyo-shorui-senkou-fk-fukugyo", "fukugyo-shorui-senkou-fk-shigoto", "fukugyo-shorui-senkou-fk-tanka", "fukugyo-agent-control-hajimekata"]
 ---
 
 社内で書類選考をしてきた。何百通と読み、通した人が面接でどうなったかも見てきた。この経験を副業で使えないか。そう思って募集を見ると、「書類選考のサポート」の案件はあるのに、自分の何を見せれば選ばれるのかが分からない。「書類選考ができます」では、経歴を読んだことのある人事なら誰でも言えるからです。結論を先に書くと、**最初の1件を取るには、「〇〇（職種）の経歴を担った仕事の中身で読めて、迷う人を理由付きで返し、面接でずれた人から基準を直した」と、職種と迷う人の扱いと基準に戻した経験の三つで見せます。入口は、紹介、副業のプラットフォーム、担当者を選べる窓口への登録、応募が溜まっている小さい会社への提案の四つで、最初は「基準の案だけ」「溜まった分の一度きりの仕分け」「迷う人の定義と連絡の文面だけ」と小さく受け、受ける前に応募書類の扱いと契約と迷う人を決める人と基準にしてはいけない項目を確かめ、最初の1件を「基準表と記録が残る形」で終えて2件目につなげます。**案件の型と求められる経験は[書類選考の代行の副業案件](/media/fukugyo-shorui-senkou-fk-fukugyo/)に、1案件の流れは[書類選考の代行の副業の実務](/media/fukugyo-shorui-senkou-fk-shigoto/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは「最初の1件の取り方」に絞ります。

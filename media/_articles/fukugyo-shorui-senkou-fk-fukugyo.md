@@ -9,7 +9,7 @@ tags: ["人事副業", "書類選考", "選考代行", "業務別", "副業案�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-shorui-senkou-fk-fukugyo"
-related: ["fukugyo-shorui-senkou-fk-hajimekata", "fukugyo-shorui-senkou-fk-shigoto", "fukugyo-agent-control-fukugyo", "fukugyo-ats-dounyu-fukugyo"]
+related: ["fukugyo-shorui-senkou-fk-hajimekata", "fukugyo-shorui-senkou-fk-shigoto", "fukugyo-shorui-senkou-fk-tanka", "fukugyo-agent-control-fukugyo"]
 ---
 
 書類選考の代行は、人事の副業案件の中で、応募が多い会社から出やすい仕事です。応募が溜まって連絡が遅れ、見る人によって通す人が違い、通した人が面接でずれる。その状態で外に出されます。ただ、「合否を決める仕事」と思って受けると、責任の置き方を間違えます。合否を決めるのは会社で、外の担当者がやるのは、会社が決めた基準に沿った仕分けと、迷う人の切り出しです。結論を先に書くと、**書類選考の代行の副業案件は、「仕分けだけ」「基準の案から仕分けまで」「受付と連絡を含む一次対応」「基準の型作りと引き継ぎ」の四つの型に分かれ、求められるのは、その職種の経歴を読める力、「迷う」を切り出せる力、翌日までに連絡する型、通過率を見て基準に戻した経験の四つです。進め方は、要件の確認→基準の案と承認→仕分けと迷う人の切り出し→受付と連絡→通過率の記録と週次の報告→基準の見直しの順で、合否の確定は会社、基準にしてはいけない項目の扱いと応募書類の扱いは会社の決まりに沿う線を先に引いておきます。**合否への関わり方の段階は[合否にどこまで関わるか](/media/fukugyo-gouhi/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは、書類選考の案件に絞ります。

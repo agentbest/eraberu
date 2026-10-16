@@ -9,7 +9,7 @@ tags: ["人事副業", "求人原稿", "ライティング", "業務別", "最�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-kyujin-raiting-hajimekata"
-related: ["fukugyo-kyujin-raiting-fukugyo", "fukugyo-kyujin-raiting-shigoto", "fukugyo-agent-control-hajimekata", "fukugyo-ats-dounyu-hajimekata"]
+related: ["fukugyo-kyujin-raiting-fukugyo", "fukugyo-kyujin-raiting-shigoto", "fukugyo-kyujin-raiting-tanka", "fukugyo-agent-control-hajimekata"]
 ---
 
 社内で求人票を書いてきた。応募が少ない職種の原稿を直して、応募が変わったこともある。この経験を副業で使えないか。そう思ってプラットフォームを見ると、「求人票の作成」の募集はあるのに、応募者は文章を書く人ばかりで、自分の何を見せれば選ばれるのかが分からない。「文章が書けます」では、他の応募者と区別がつかないからです。結論を先に書くと、**最初の1件を取るには、「〇〇（職種）の応募者が最初に見る項目を知っていて、材料を聞き取って、反応を見て直した」と、職種と聞き取りと直した経験の三つで見せます。見本は、会社が特定できない形で「直す前と後」を並べて作り、入口は、紹介、副業のプラットフォーム、担当者を選べる窓口への登録、小さい会社の求人票への一点の提案の四つで、最初は「一本の書き直しだけ」「聞き取りの質問表だけ」と小さく受け、受ける前に材料の有無と直しの回数と現場の確認を確かめ、最初の1件を「反応の記録が残る形」で終えて2件目につなげます。**案件の型と求められる経験は[求人原稿のライティングの副業案件](/media/fukugyo-kyujin-raiting-fukugyo/)に、1案件の流れは[求人原稿のライティングの副業の実務](/media/fukugyo-kyujin-raiting-shigoto/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは「最初の1件の取り方」に絞ります。

@@ -9,7 +9,7 @@ tags: ["人事副業", "書類選考", "選考代行", "業務別", "案件の�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-shorui-senkou-fk-shigoto"
-related: ["fukugyo-shorui-senkou-fk-fukugyo", "fukugyo-shorui-senkou-fk-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-shigoto"]
+related: ["fukugyo-shorui-senkou-fk-fukugyo", "fukugyo-shorui-senkou-fk-hajimekata", "fukugyo-shorui-senkou-fk-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 書類選考の代行を初めて受けるとき、見えにくいのは「仕分けの前後に何があるか」です。募集文には「書類選考のサポート」とだけあり、実際には、要件の確認、基準の承認、応募書類の扱いの契約、迷う人の返し方、連絡の文面の承認、週次の報告と、仕分けの前後に工程が付きます。順番を知っていれば、契約前に決めておけます。結論を先に書くと、**1案件は「契約前→第1週→第2週以降→月次→終了と更新」の五つの段階で進み、契約前に範囲・応募数の目安・迷う人を決める人と期限・応募書類の扱いと契約・基準にしてはいけない項目・連絡の名義と文面・報告を決め、第1週は仕分けずに要件の確認と基準の承認と文面の承認と記録の表の準備に使い、第2週から受付と仕分けと切り出しと連絡と週次の報告を回し、月次で通過率と面接でのずれから基準を直し、引き継げる形で終えます。**案件の型と求められる経験は[書類選考の代行の副業案件](/media/fukugyo-shorui-senkou-fk-fukugyo/)に書いていますので、ここでは「1案件の流れ」に絞ります。

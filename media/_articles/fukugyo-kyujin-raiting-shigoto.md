@@ -9,7 +9,7 @@ tags: ["人事副業", "求人原稿", "ライティング", "業務別", "案�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-kyujin-raiting-shigoto"
-related: ["fukugyo-kyujin-raiting-fukugyo", "fukugyo-kyujin-raiting-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-shigoto"]
+related: ["fukugyo-kyujin-raiting-fukugyo", "fukugyo-kyujin-raiting-hajimekata", "fukugyo-kyujin-raiting-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 求人原稿のライティングの副業を初めて受けるとき、見えにくいのは「書く前と書いた後に何があるか」です。募集文には「求人票の作成」とだけあり、実際には、材料の聞き取り、現場の確認、直しの往復、掲載後の反応の共有と、書く時間の前後に工程が付きます。順番を知っていれば、契約前に決めておけます。結論を先に書くと、**1案件は「契約前→聞き取り→材料の整理と構成→初稿と現場の確認→納品と掲載と反応の記録→書き直しと終了」の六つの段階で進み、契約前に範囲・本数・直しの回数・材料の有無・現場の確認・掲載作業の有無・納期を決め、聞き取りで六つの材料を取り、応募者が最初に見る項目の順に構成し、現場が実態との一致を読んでから納品し、掲載後の反応を記録して書き直し、引き継げる形で終えます。**案件の型と求められる経験は[求人原稿のライティングの副業案件](/media/fukugyo-kyujin-raiting-fukugyo/)に書いていますので、ここでは「1案件の流れ」に絞ります。

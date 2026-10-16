@@ -9,7 +9,7 @@ tags: ["人事副業", "スカウト代行", "業務別", "案件の流れ", "�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-scout-daikou-shigoto"
-related: ["fukugyo-scout-daikou-fukugyo", "fukugyo-scout-daikou-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-shigoto"]
+related: ["fukugyo-scout-daikou-fukugyo", "fukugyo-scout-daikou-hajimekata", "fukugyo-scout-daikou-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 スカウト代行の副業を初めて受けるとき、いちばん不安なのは「実際に何が、どの順番で起きるのか」が見えないことです。募集文には「スカウト業務」とだけ書いてあり、契約してから、聞き取りの会議、アカウントの共有、文面の承認、返信の対応、週次の報告と、次々にやることが出てきます。順番を知っていれば、先回りして決めておけます。結論を先に書くと、**1案件は「契約前→第1週→第2週以降→月次→終了と更新」の五つの段階で進み、契約前に範囲・稼働・アカウント・名義・報告の形を決め、第1週は送らずに聞き取りと検索条件と文面の承認に使い、第2週から送信と返信対応と週次の報告を回し、月次で返信が来た人の共通点から条件と文面を直し、終了時に引き継ぎと次の提案をします。**案件の型と求められる経験は[スカウト代行の副業案件](/media/fukugyo-scout-daikou-fukugyo/)に書いていますので、ここでは「1案件の流れ」に絞ります。

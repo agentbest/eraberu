@@ -9,7 +9,7 @@ tags: ["人事副業", "スカウト代行", "業務別", "始め方", "最初�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-scout-daikou-hajimekata"
-related: ["fukugyo-scout-daikou-fukugyo", "fukugyo-scout-daikou-shigoto", "fukugyo-agent-control-hajimekata", "fukugyo-ats-dounyu-hajimekata"]
+related: ["fukugyo-scout-daikou-fukugyo", "fukugyo-scout-daikou-shigoto", "fukugyo-scout-daikou-tanka", "fukugyo-agent-control-hajimekata"]
 ---
 
 社内でスカウトを送ってきた。返信率を見て文面を直したこともある。この経験を副業で使えないか。そう思って副業のプラットフォームを見ると、「スカウト業務」の募集はたくさんあるのに、自分が選ばれる理由が書けない。「スカウトができます」では、他の応募者と区別がつかないからです。結論を先に書くと、**最初の1件を取るには、「〇〇（職種）の候補者に、〇〇（媒体）で、返信率を見ながら送って直した」と、職種と媒体と直した経験の三つで見せます。入口は、元の勤務先や知人の紹介、副業のプラットフォーム、担当者を選べる窓口への登録、小さい会社への直接の提案の四つで、最初は「文面の改善だけ」「検索条件の設計だけ」と小さく受け、受ける前にアカウントと名義と最終決定者を確かめ、最初の1件を「引き継げる形」で終えて2件目につなげます。**案件の型と求められる経験は[スカウト代行の副業案件](/media/fukugyo-scout-daikou-fukugyo/)に、1案件の流れは[スカウト代行の副業の実務](/media/fukugyo-scout-daikou-shigoto/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは「最初の1件の取り方」に絞ります。

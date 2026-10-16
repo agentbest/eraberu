@@ -9,7 +9,7 @@ tags: ["人事副業", "スカウト代行", "業務別", "副業案件", "ダ�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-scout-daikou-fukugyo"
-related: ["fukugyo-scout-daikou-hajimekata", "fukugyo-scout-daikou-shigoto", "fukugyo-agent-control-fukugyo", "fukugyo-ats-dounyu-fukugyo"]
+related: ["fukugyo-scout-daikou-hajimekata", "fukugyo-scout-daikou-shigoto", "fukugyo-scout-daikou-tanka", "fukugyo-agent-control-fukugyo"]
 ---
 
 人事の副業案件の中で、スカウト代行は募集の数が多い部類に入ります。企業がダイレクトリクルーティングの媒体を契約したものの、送る人がいない、送っても返信が来ない、という状態で外に出すからです。ただ、「スカウト文面を書く仕事」と思って受けると、実際の中身とずれます。文面は全体の一部で、要件の聞き取り、検索条件の設計、送信、返信対応、日程調整、報告までが一続きです。結論を先に書くと、**スカウト代行の副業案件は、「文面だけ」「検索と送信」「運用一式」「立ち上げ支援」の四つの型に分かれ、求められるのは、自社でスカウトを回して返信率を見ながら直した経験と、対象の職種の経歴を読める力です。進め方は、聞き取り→検索条件→文面の初稿と承認→送信と返信対応→週次の報告の順で、外部の立場で踏み込まない線（合否・年収・ターゲットと文面の最終決定・名義）を先に決めておきます。**副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に、法令の線は[副業で法令違反をしないために](/media/fukugyo-ihan-shinai/)に書いています。ここでは、スカウト代行の案件に絞ります。

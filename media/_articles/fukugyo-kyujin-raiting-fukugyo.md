@@ -9,7 +9,7 @@ tags: ["人事副業", "求人原稿", "ライティング", "業務別", "副�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-kyujin-raiting-fukugyo"
-related: ["fukugyo-kyujin-raiting-hajimekata", "fukugyo-kyujin-raiting-shigoto", "fukugyo-agent-control-fukugyo", "fukugyo-ats-dounyu-fukugyo"]
+related: ["fukugyo-kyujin-raiting-hajimekata", "fukugyo-kyujin-raiting-shigoto", "fukugyo-kyujin-raiting-tanka", "fukugyo-agent-control-fukugyo"]
 ---
 
 求人原稿のライティングは、人事の副業案件の中で、稼働時間が読みやすく、平日の日中の対応が要らない部類です。その分、「文章が書ける人」が集まりやすく、依頼側から見ると「綺麗だが応募が来ない原稿」を納品されることが多い仕事でもあります。結論を先に書くと、**求人原稿のライティングの副業案件は、「書き直しだけ」「新規の一本」「複数経路の書き分け」「原稿の型作りと引き継ぎ」の四つの型に分かれ、求められるのは、文章のうまさではなく、その職種の応募者が何を見ているかを知っていること、会社から材料を聞き取れること、「良い会社」の言葉を削れること、応募の反応を見て直した経験の四つです。進め方は、聞き取り→材料の整理→構成→初稿と現場の確認→掲載と反応の記録→書き直しの順で、条件の数字と実態との一致は会社が持ち、法令に関わる表記は専門家に確認する線を先に引いておきます。**副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に、副業で要る文章力は[副業で要る文章力](/media/fukugyo-writing/)に書いています。ここでは、求人原稿の案件に絞ります。
