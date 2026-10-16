@@ -9,7 +9,7 @@ tags: ["採用代行", "求人原稿", "求人票", "業務別", "進め方"]
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-task-kyujin-genko-susumekata"
-related: ["rpo-task-kyujin-genko-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-kyujin-genko-daikou", "rpo-task-kyujin-genko-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 求人原稿を自社で書こうとして、媒体の入力画面を開いていきなり書き始めると、「業務内容：営業業務全般」「求める人物像：明るく前向きな方」「当社の魅力：風通しの良い社風、成長できる環境」で埋まります。書いた本人は「悪いことは書いていない」と思いますが、応募者は「日々何をするか」「誰の下で働くか」「条件の数字」「なぜ採るか」を見ていて、それが無い原稿は判断できずに飛ばされます。求人原稿で最初にやるべきは書き始めることではなく、「なぜ採るか」を一文にして、現場に日々の中身を聞くことです。結論を先に書くと、**進め方は、なぜ採るかを一文にする→現場に日々の中身の割合を聞く→条件の数字を揃える→上司の言葉を一つもらう→要件の言葉のまま書く→外す言葉を削る→現場と経営者が実態と照らして読む→反応を見て直す、の八つの手順**で、順番を守ると、原稿が「良い会社」の言葉から「応募者が判断できる材料」に変わります。代行に出す場合の切り分けは[求人原稿の作成は代行に出せるか](/media/rpo-task-kyujin-genko-daikou/)に、何年も更新していない場合は[求人原稿を何年も更新していないとき](/media/rpo-kyujin-genkou-furui/)に書いていますので、ここでは自社で進める手順に絞ります。

@@ -9,7 +9,7 @@ tags: ["採用代行", "求人原稿", "求人票", "業務別", "任せる範�
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-task-kyujin-genko-daikou"
-related: ["rpo-task-kyujin-genko-susumekata", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou", "rpo-task-ats-unyou-daikou"]
+related: ["rpo-task-kyujin-genko-susumekata", "rpo-task-kyujin-genko-hiyou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
 ---
 
 求人原稿の作成は、採用の工程の中で最も代行に出しやすい工程です。書く技術は外の人が持っていて、社内の人が書くより読みやすい原稿ができることが多い。ただ、「書く」だけを外に出すと、綺麗だが実態と違う原稿ができます。「風通しの良い社風」「成長できる環境」「裁量が大きい」と書かれた原稿は、応募者に何も伝えず、面接で「聞いていたのと違う」を生みます。求人原稿で応募者が見ているのは書き方ではなく、「日々何をするか」「誰の下で働くか」「条件の数字」「なぜ採るか」で、これらは社内にしかありません。結論を先に書くと、**求人原稿の作成は、「書く材料を持つこと」と「実態との一致の確認」は会社が持ち、「聞き取り・要件の翻訳・経路ごとの書き分け・外す言葉の削除・反応を見た書き直し」は代行に出せます**。原稿を何年も更新していない場合は[求人原稿を何年も更新していないとき](/media/rpo-kyujin-genkou-furui/)に、応募が来ない原因の分解は[応募が来ないとき](/media/rpo-ouboga-konai/)に書いていますので、ここでは「代行に出す」観点に絞ります。

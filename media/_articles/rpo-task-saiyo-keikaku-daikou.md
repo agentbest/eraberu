@@ -9,7 +9,7 @@ tags: ["採用代行", "採用計画", "要員計画", "業務別", "任せる�
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-task-saiyo-keikaku-daikou"
-related: ["rpo-task-saiyo-keikaku-susumekata", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou", "rpo-task-ats-unyou-daikou"]
+related: ["rpo-task-saiyo-keikaku-susumekata", "rpo-task-saiyo-keikaku-hiyou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
 ---
 
 「採用計画の設計も代行に出せますか」という質問には、採用計画の中身を二つに分けてから答えます。一つは、「何人を、いつまでに、何のために採るか」を決めることで、これは事業計画と要員計画から会社が決めるもので、外の人が代わりに決めることはできません。もう一つは、「その人数を、その時期までに採るには、どの経路で、どのくらいの母集団と工程と期間が要るか」を逆算して表にすることで、これは過去の数字と経路の特性から計算する作業で、外に出せます。多くの会社で採用計画が「今年は十名」という一行で止まっているのは、後者の逆算が無いからで、逆算を外に出すと、前者の「十名」が現実的かどうかも見えてきます。結論を先に書くと、**採用計画の設計は、「何人・いつまでに・何のために」は会社が決め、「経路ごとの逆算・月ごとの工程の配置・必要な母集団の見積もり・進捗の見方の設計・計画の見直し」は代行に出せます**。要員計画と採用計画のつなぎ方は[要員計画と採用計画がつながっていないとき](/media/rpo-jinin-keikaku/)に、年間計画への代行の組み込み方は[年間の採用計画に代行をどう組み込むか](/media/rpo-nenkan-plan/)に書いていますので、ここでは「代行に出す」観点に絞ります。

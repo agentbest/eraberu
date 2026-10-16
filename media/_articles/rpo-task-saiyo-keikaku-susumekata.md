@@ -9,7 +9,7 @@ tags: ["採用代行", "採用計画", "要員計画", "業務別", "進め方"]
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-task-saiyo-keikaku-susumekata"
-related: ["rpo-task-saiyo-keikaku-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-saiyo-keikaku-daikou", "rpo-task-saiyo-keikaku-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 採用計画を自社で作ろうとして、「今年は営業五名、エンジニア三名」の一行を書いて終わると、いつ募集を出し、いつ面接をし、いつまでに内定を出すかが決まらず、気づけば下半期で、年末に「結局三名だった」で終わります。去年もそうで、今年も同じ一行から始めている会社は多い。採用計画で最初にやるべきは「何人」を決めることではなく、「去年の数字を経路ごとに拾う」ことです。去年の数字があれば、「五名」に根拠が付き、月ごとの工程に落とせます。結論を先に書くと、**進め方は、来期に何をするかから要員を出す→退職と異動を引いて採用で埋める数と時期を決める→去年の数字を経路ごとに拾う→入社一名に要る面接・書類・応募の件数を経路ごとに逆算する→月ごとに工程を暦に置く→月末に見る表を作る→ずれたら経路・要件・時期のどれを直すか決める、の七つの手順**で、順番を守ると、計画が「頑張る」から「この経路で何件」に変わります。要員計画とのつなぎ方は[要員計画と採用計画がつながっていないとき](/media/rpo-jinin-keikaku/)に、代行に出す場合の切り分けは[採用計画の設計は代行に出せるか](/media/rpo-task-saiyo-keikaku-daikou/)に書いていますので、ここでは自社で進める手順に絞ります。

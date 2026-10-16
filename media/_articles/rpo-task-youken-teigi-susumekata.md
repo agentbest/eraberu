@@ -9,7 +9,7 @@ tags: ["採用代行", "採用要件", "要件定義", "業務別", "進め方"]
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-task-youken-teigi-susumekata"
-related: ["rpo-task-youken-teigi-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-youken-teigi-daikou", "rpo-task-youken-teigi-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 採用要件を自社で決めようとして、会議で「どんな人が欲しいか」を話し合うと、経営者の「将来の幹部候補」と現場の「明日から手を動かせる人」が並び、人事が両方を足して、「経験五年以上、マネジメント経験、業界知識、リーダーシップ、コミュニケーション能力」という要件ができます。該当する人は市場にほとんどおらず、求人を出しても応募が来ないか、来ても面接で「思っていたのと違う」で終わります。要件の定義で最初にやるべきは「どんな人が欲しいか」を話すことではなく、「この役割で最初に困ることは何か」を一文にすることです。結論を先に書くと、**進め方は、困ることを一文にする→経営者と現場に別々に聞く→食い違いを一枚に並べて優先を決める→無いと回らないものだけ必須にする→経歴で確かめる要件と面接で確かめる要件に分ける→文面に落とす→応募と面接の結果で見直す、の七つの手順**で、順番を守ると、会議の回数が減り、要件が三つ程度に収まります。要件が固まらない構造は[採用要件が固まらないとき](/media/rpo-youken-katame/)に、代行に出す場合の切り分けは[採用要件の定義は代行に出せるか](/media/rpo-task-youken-teigi-daikou/)に書いていますので、ここでは自社で進める手順に絞ります。

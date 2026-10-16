@@ -9,7 +9,7 @@ tags: ["採用代行", "採用要件", "要件定義", "業務別", "任せる�
 pubDate: 2026-09-17
 reviewedAt: 2026-09-17
 slug: "rpo-task-youken-teigi-daikou"
-related: ["rpo-task-youken-teigi-susumekata", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou", "rpo-task-ats-unyou-daikou"]
+related: ["rpo-task-youken-teigi-susumekata", "rpo-task-youken-teigi-hiyou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
 ---
 
 「採用要件の定義も代行に出せますか」という質問に、そのまま「出せます」とも「出せません」とも答えられません。採用要件の定義には、「誰を採るかを決める」ことと、「決めるための材料を集めて、形にする」ことの二つが含まれていて、前者は会社にしかできず、後者は外に出せるからです。多くの会社で要件が固まらないのは、前者を決めるべき人（経営者と現場）が決めていないからではなく、後者の材料が無いまま会議で「理想の人」を語り合っているからで、後者を外に出すと、前者が決まることが多い。結論を先に書くと、**採用要件の定義は、「決める」は会社が持ち、「聞き取る・食い違いを整理する・必須と歓迎に振り分ける案を作る・経歴で確かめる要件と面接で確かめる要件を切り分ける・文面に落とす」は代行に出せます**。要件が固まらない構造は[採用要件が固まらないとき](/media/rpo-youken-katame/)に、高すぎる場合は[採用要件が高すぎるとき](/media/rpo-youken-takasugi/)に書いていますので、ここでは「代行に出す」観点に絞ります。
