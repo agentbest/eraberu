@@ -9,7 +9,7 @@ tags: ["採用代行", "採用KPI", "指標設計", "業務別", "進め方"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-kpi-sekkei-susumekata"
-related: ["rpo-task-kpi-sekkei-daikou", "rpo-task-data-bunseki-susumekata", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
+related: ["rpo-task-kpi-sekkei-daikou", "rpo-task-kpi-sekkei-hiyou", "rpo-task-data-bunseki-susumekata", "rpo-task-agent-taiou-susumekata"]
 ---
 
 採用KPIを自社で設計しようとして、「採用人数を月ごとに割る」から始めると、人数以外に見る数字が無く、未達のときに「頑張ろう」以外の言葉が出ず、他社の例を借りて応募数や面接設定率を置いても自社の詰まりと合わず、年度初めに決めたKPIは半年後には誰も覚えていません。KPIで最初にやるべきは、指標を選ぶことではなく、「いまの数字を並べて、どこで止まっているかを一つ特定する」ことです。詰まりが分かれば、動かす指標は自然に決まり、目標は自社の数字から逆算でき、月に一つ動かす行動につながります。結論を先に書くと、**進め方は、いまの数字を経路ごとに並べる→止まっている段階を一つ特定する→動かせる指標の候補を出して三つに絞る→採用人数から目標を逆算して幅で置く→月次の一枚の型を作る→月に一度の見る場を決める→月に一つ動かして記録する→三か月ごとに三つを見直す、の八つの手順**です。代行に出す場合の切り分けは[採用KPIの設計は代行に出せるか](/media/rpo-task-kpi-sekkei-daikou/)に、何を置くかの考え方は[採用KPIに何を置くべきか](/media/rpo-kpi-erabenai/)に書いていますので、ここでは自社で進める手順に絞ります。

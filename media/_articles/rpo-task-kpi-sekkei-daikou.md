@@ -9,7 +9,7 @@ tags: ["採用代行", "採用KPI", "指標設計", "業務別", "任せる範�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-kpi-sekkei-daikou"
-related: ["rpo-task-kpi-sekkei-susumekata", "rpo-task-data-bunseki-daikou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
+related: ["rpo-task-kpi-sekkei-susumekata", "rpo-task-kpi-sekkei-hiyou", "rpo-task-data-bunseki-daikou", "rpo-task-agent-taiou-daikou"]
 ---
 
 「採用のKPIを設計してほしい」という相談は、「採用人数」以外の指標が無く、月ごとに何が良くて何が悪いのか言えない会社から来ます。設計の作業は出せます。ただ、KPIは「会社が何を動かすと決めたか」の表明であり、代行が決めた指標を会社が追う形では、未達のときに「代行が決めた数字だから」で終わります。もう一つ、代行にKPIを設計させて、その代行の評価にKPIを使う形は、代行が達成しやすい指標を置く構造になります。外に出すのは「決めるための材料」と「回す作業」で、決めるのは会社です。結論を先に書くと、**採用KPIの設計は、「三つの決定」「目標の承認」「行動の決定」「未達時の扱いの決定」「見る場を持つこと」「代行への評価」は会社が持ち、「いまの数字の整理と詰まりの特定・動かせる指標の候補三つの案・採用人数からの目標の逆算・月に一度の一枚と行動の案・三か月ごとの見直しの材料・代行との合意の整理」は代行に出せます**。何を置くかの考え方は[採用KPIに何を置くべきか](/media/rpo-kpi-erabenai/)に、代行との合意の仕方は[KPIの合意のしかた](/media/rpo-kpi-goui/)に書いていますので、ここでは「KPIの設計を工程に分けて出す」観点に絞ります。

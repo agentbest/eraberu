@@ -9,7 +9,7 @@ tags: ["採用代行", "面接官トレーニング", "面接官研修", "業務
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-mensetsukan-kunren-susumekata"
-related: ["rpo-task-mensetsukan-kunren-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-mensetsukan-kunren-daikou", "rpo-task-mensetsukan-kunren-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 面接官トレーニングを自社で進めようとして、「面接のコツをまとめた資料を配って研修する」から始めると、面接官は半日の研修を聞き流し、翌週には自分の聞き方に戻り、記録は「良い印象」のままで、評価のばらつきも、一次で通した人が二次で落ちる率も変わりません。面接官トレーニングで最初にやるべきは、研修の資料を作ることではなく、「何を見る面接官を育てるか」を絞り、面接官に「型に沿う」ことを会社として求め、研修は短くして、同席と振り返りに時間を使うことです。面接官が変わるのは、研修を受けたときではなく、自分の面接を型に照らして振り返ったときです。結論を先に書くと、**進め方は、面接で何を見るかの観点を絞る→面接官を決めて「型に沿う」合意を取る→型（質問・記録・時間配分・聞いてはいけない事項）を一枚にする→研修を三十分で設計して実施する→模擬面接を一回行う→実際の面接に二回同席して直後に振り返る→面接記録を月に一度、面接官と一緒に読む→面接官ごとの通過率と二次での結果を見て型を直す、の八つの手順**です。代行に出す場合の切り分けは[面接官トレーニングは代行に出せるか](/media/rpo-task-mensetsukan-kunren-daikou/)に、ばらつきの直し方は[面接官によって評価がばらつくとき](/media/rpo-mensetsukan-bara/)に書いていますので、ここでは自社で進める手順に絞ります。面接で聞いてはいけない事項は法令に関わるので、専門家にご確認ください。

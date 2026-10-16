@@ -9,7 +9,7 @@ tags: ["採用代行", "採用データ", "採用KPI", "業務別", "進め方"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-data-bunseki-susumekata"
-related: ["rpo-task-data-bunseki-daikou", "rpo-task-kpi-sekkei-susumekata", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
+related: ["rpo-task-data-bunseki-daikou", "rpo-task-data-bunseki-hiyou", "rpo-task-kpi-sekkei-susumekata", "rpo-task-agent-taiou-susumekata"]
 ---
 
 採用データの分析を自社で進めようとして、「まず全部の数字を集めて分析する」から始めると、記録の項目が二十を超えて更新されず、月次の報告は十数ページになって経営者が読まず、半年後に「数字はあるが、結局何を変えればよいか分からない」で終わります。採用データで最初にやるべきは、分析ではなく、「四つの数字を、経路ごとに、日数と一緒に、その日に記録する」ことと、「月に一度、一枚を見て一つ決める場を持つ」ことです。それが半年続いて初めて、分析ができるようになります。結論を先に書くと、**進め方は、数える項目を四つに絞る→記録の表と更新の担当と時刻を決める→辞退理由の分類を決める→月に一度の一枚の型を作る→月に一度の見る場を決める→一つ変えて記録する→三か月で傾向を見る→半年溜まってから分析を足す、の八つの手順**です。代行に出す場合の切り分けは[採用データの分析は代行に出せるか](/media/rpo-task-data-bunseki-daikou/)に、数字が取れていない構造は[採用の数字が取れていないとき](/media/rpo-data-nai/)に書いていますので、ここでは自社で進める手順に絞ります。

@@ -9,7 +9,7 @@ tags: ["採用代行", "面接官トレーニング", "面接官研修", "業務
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-mensetsukan-kunren-daikou"
-related: ["rpo-task-mensetsukan-kunren-susumekata", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou", "rpo-task-ats-unyou-daikou"]
+related: ["rpo-task-mensetsukan-kunren-susumekata", "rpo-task-mensetsukan-kunren-hiyou", "rpo-task-agent-taiou-daikou", "rpo-task-alumni-daikou"]
 ---
 
 「面接官によって評価がばらつくので、面接官トレーニングを代行に出したい」という相談は、面接官が現場の責任者で、面接の型が無く、聞くことも記録も人それぞれになっている会社から来ます。出せます。ただ、面接官トレーニングで面接が変わるのは、研修を受けたときではなく、面接官が自分の面接を型に沿って変え、記録を振り返ったときです。研修を一度やって終わりでは、翌月には元に戻ります。外に出すなら、研修の一回ではなく、「型を作り、研修し、同席し、記録を振り返る」までの流れを出します。結論を先に書くと、**面接官トレーニングは、「面接で何を見るかの決定」「誰を面接官にするかの決定」「面接官への評価」「面接官が自分の面接を変えること」「法令に関わる質問の判断」は会社が持ち、「面接の型（観点・過去の場面を聞く質問・根拠付きの記録）の設計・面接官向けの研修の設計と実施・模擬面接の相手役と同席と助言・面接記録を使った振り返りの材料・面接官ごとの通過率と記録の質のばらつきの記録」は代行に出せます**。ばらつきの直し方は[面接官によって評価がばらつくとき](/media/rpo-mensetsukan-bara/)に、質問の作り方は[面接で何を聞けばよいか分からないとき](/media/rpo-mensetsu-shitsumon/)に書いていますので、ここでは「面接官トレーニングを工程に分けて出す」観点に絞ります。面接で聞いてはいけない事項の扱いは、法令に関わるので専門家にご確認ください。

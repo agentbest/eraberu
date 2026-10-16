@@ -9,7 +9,7 @@ tags: ["採用代行", "採用計画", "人員計画", "費用", "工数"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-task-saiyo-keikaku-hiyou"
-related: ["rpo-task-saiyo-keikaku-daikou", "rpo-task-saiyo-keikaku-susumekata", "rpo-task-agent-taiou-hiyou", "rpo-task-baitai-unyou-hiyou"]
+related: ["rpo-task-saiyo-keikaku-daikou", "rpo-task-saiyo-keikaku-susumekata", "rpo-task-kpi-sekkei-hiyou", "rpo-task-agent-taiou-hiyou"]
 sources:
   - name: "エラベル 料金（公式）"
     url: "https://eraberusaiyodaiko.com/"
