@@ -9,7 +9,7 @@ tags: ["人事副業", "スタートアップ", "経歴別", "最初の人事", 
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-startup-jinji-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo", "fukugyo-chusho-jinji-fukugyo"]
+related: ["fukugyo-startup-jinji-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
 ---
 
 スタートアップの最初の人事として、社員が数人から数十人になる時期に、創業者の隣で、採用も労務も制度も、何もない状態から一人で立ち上げてきた。この経験は、副業で売れるのか。スタートアップの人事の経験は、規模が小さく、何でも屋に見え、創業者の色が強すぎて、他の会社には通じないと感じる人が多いところです。結論を先に書くと、**スタートアップの人事の経験は、「最初の人事として、創業者の隣で、何もない状態から、採用も労務も制度も一人で立ち上げてきた」型で売れます。売れるのは、「最初の人事担当者が最初にやることの順番」「創業者との付き合い方と役割の分け方」「少ない人数で回す採用の最小の形」「人事の機能を一人で持つときの切り分け」の四つです。人事がいない会社は、業種と規模を問わず多く、そこでは経営者が人事の判断を一人で抱え、最初の人事担当者を置くべきか、置くなら何から頼むべきかが分かっていません。「スタートアップの人事でした」ではなく、「人事がいない会社に、最初の人事の型を持ち込む」と売ります。**拡大期の経験は[ベンチャーの人事が副業でできること](/media/fukugyo-venture-jinji-fukugyo/)に、その経験の評価のされ方は[スタートアップ人事の経験は評価されるか](/media/fukugyo-startup-keiken/)に、中小企業の経験は[中小企業の人事が副業でできること](/media/fukugyo-chusho-jinji-fukugyo/)にまとめています。

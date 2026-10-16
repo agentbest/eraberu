@@ -9,7 +9,7 @@ tags: ["人事副業", "中小企業", "経歴別", "兼任", "地域採用"]
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-chusho-jinji-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo", "fukugyo-chuushoukigyou-shindanshi-fukugyo"]
+related: ["fukugyo-chusho-jinji-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
 ---
 
 中小企業の人事として、社長の会社で、人事と総務と労務を一人か二人で兼ね、長く働く社員と地域のつながりの中で、限られた予算で人を採り、辞めないように面倒を見てきた。この経験は、副業で売れるのか。中小企業の人事の経験は、専門性が薄く、自社のやり方に慣れすぎていて、他の会社には通じないと感じる人が多いところです。結論を先に書くと、**中小企業の人事の経験は、「社長の会社で、人事と総務と労務を一人で兼ね、長く働く社員と地域の中で、限られた予算で採ってきた」型で売れます。売れるのは、「予算が少ない会社の採用の回し方」「社長と社員の間に立つ型」「地域と紹介と学校で母集団を作る型」「一人で兼ねる仕事の切り分け」の四つです。人事の副業の依頼側の多くは、同じように予算と人が少ない会社で、そこでは大きい会社の仕組みも、ベンチャーの速さも通じず、「少ない予算と人で、それでも採る」型が求められています。「中小企業の人事でした」ではなく、「予算も人も少ない会社で、それでも採れる形を作る」と売ります。**創業期の経験は[スタートアップの人事が副業でできること](/media/fukugyo-startup-jinji-fukugyo/)に、拡大期の経験は[ベンチャーの人事が副業でできること](/media/fukugyo-venture-jinji-fukugyo/)に、中小企業診断士の資格を持つ人の売り方は[中小企業診断士が副業でできること](/media/fukugyo-chuushoukigyou-shindanshi-fukugyo/)にまとめています。

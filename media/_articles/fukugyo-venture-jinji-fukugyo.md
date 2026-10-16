@@ -9,7 +9,7 @@ tags: ["人事副業", "ベンチャー", "経歴別", "急成長", "増員"]
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-venture-jinji-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo", "fukugyo-chusho-jinji-fukugyo"]
+related: ["fukugyo-venture-jinji-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
 ---
 
 ベンチャー企業の人事として、社員が年に倍になるような時期に、採用の数と質と速さを同時に求められ、採用の仕組みも評価も受け入れも、無い状態から作りながら回してきた。この経験は、副業で売れるのか。ベンチャーの人事の経験は、勢いと熱量で回っていたように見え、落ち着いた会社には通じないと感じる人が多いところです。結論を先に書くと、**ベンチャーの人事の経験は、「組織が急に大きくなる中で、採用の数と質と速さを同時に求められ、仕組みを作りながら回してきた」型で売れます。売れるのは、「急な増員を回す採用の設計」「採用と組織づくりの接続」「資金と事業の段階に合わせた採用の優先順位」「仕組みがない状態から作る型」の四つです。落ち着いた会社でも、新しい事業や拠点で急に人を増やす局面はあり、そこでは既存の人事のやり方が通じず、ベンチャーの人事の型が効きます。「ベンチャーの人事でした」ではなく、「これから人が増える会社で、増える前に仕組みを作る」と売ります。**創業直後の経験は[スタートアップの人事が副業でできること](/media/fukugyo-startup-jinji-fukugyo/)に、その経験の評価のされ方は[スタートアップ人事の経験は評価されるか](/media/fukugyo-startup-keiken/)に、中小企業の経験は[中小企業の人事が副業でできること](/media/fukugyo-chusho-jinji-fukugyo/)にまとめています。
