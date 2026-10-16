@@ -9,7 +9,7 @@ tags: ["Green", "採用代行", "費用", "成功報酬", "ダイレクトリク
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-green-hiyou"
-related: ["rpo-green-scout-bunmen", "rpo-green-unyou-daikou", "rpo-careercross-hiyou", "rpo-geekly-hiyou"]
+related: ["rpo-green-henshinritsu", "rpo-green-scout-bunmen", "rpo-green-shippai", "rpo-green-unyou-daikou"]
 sources:
   - name: "成功報酬費用の料金プラン（2022年11月1日以降の応募者）｜Green ヘルプ"
     url: "https://support.green-japan.com/hc/ja/articles/7499401937177"

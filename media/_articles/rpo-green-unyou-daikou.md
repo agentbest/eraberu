@@ -9,7 +9,7 @@ tags: ["Green", "ダイレクトリクルーティング", "運用代行", "ス�
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-green-unyou-daikou"
-related: ["rpo-green-hiyou", "rpo-green-scout-bunmen", "rpo-bizreach-unyou-daikou", "rpo-careercross-unyou-daikou"]
+related: ["rpo-green-henshinritsu", "rpo-green-shippai", "rpo-green-erabikata", "rpo-green-hiyou"]
 sources:
   - name: "アカウントの管理者・利用者を増やすことは可能ですか？｜Green ヘルプ"
     url: "https://support.green-japan.com/hc/ja/articles/47372591632409"

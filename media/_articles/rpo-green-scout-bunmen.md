@@ -9,7 +9,7 @@ tags: ["Green", "スカウト文面", "ダイレクトリクルーティング",
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-green-scout-bunmen"
-related: ["rpo-green-hiyou", "rpo-green-unyou-daikou", "rpo-lapras-scout-bunmen", "rpo-ambi-henshinritsu"]
+related: ["rpo-green-henshinritsu", "rpo-green-hiyou", "rpo-green-shippai", "rpo-green-unyou-daikou"]
 sources:
   - name: "スカウト文章作成で押さえるポイント｜Green ヘルプ"
     url: "https://support.green-japan.com/hc/ja/articles/900002038543"
