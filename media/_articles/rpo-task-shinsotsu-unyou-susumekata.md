@@ -9,7 +9,7 @@ tags: ["採用代行", "新卒採用", "新卒採用の実務", "業務別", "�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-shinsotsu-unyou-susumekata"
-related: ["rpo-task-shinsotsu-unyou-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-shinsotsu-unyou-daikou", "rpo-task-shinsotsu-unyou-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 新卒採用を自社で進めようとして、「去年と同じ時期に、去年と同じ媒体に出す」から始めると、人数と役割が曖昧なまま説明会を開き、説明は会社案内の読み上げになり、学生への連絡は人事が中途採用と兼ねて遅れ、選考の途中で離脱が出て、内定を出しても内定期間は事務連絡だけで、承諾は半分に届かず、入社した人も「思っていた仕事と違う」で早く辞めます。新卒採用で最初にやるべきは、媒体を選ぶことではなく、「何人をどの役割で採るか」を決め、「時期ごとに誰が何をするか」を一覧にし、「社員が学生と会う時間」を先に確保することです。結論を先に書くと、**進め方は、人数と役割と入社時期を決める→年間の計画と時期ごとのやることを一覧にする→説明会で語る社員と面接官と内定者と会う社員の時間を確保する→学生に伝える会社の話を整理する→経路を決めて申込の管理と連絡の型を作る→説明会と選考の運営の型を作る→内定期間の接点を設計する→記録の表を作り、時期ごとに見る、の八つの手順**です。代行に出す場合の切り分けは[新卒採用の実務は代行に出せるか](/media/rpo-task-shinsotsu-unyou-daikou/)に、定着の設計は[新卒が定着しないとき](/media/rpo-shinsotsu-teichaku/)に書いていますので、ここでは自社で進める手順に絞ります。採用の時期や広報の解禁に関する取り決めは変わるので、その時点の公的な情報でご確認ください。

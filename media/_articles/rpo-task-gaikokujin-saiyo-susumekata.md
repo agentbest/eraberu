@@ -9,7 +9,7 @@ tags: ["採用代行", "外国人採用", "在留資格", "業務別", "進め�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-gaikokujin-saiyo-susumekata"
-related: ["rpo-task-gaikokujin-saiyo-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-gaikokujin-saiyo-daikou", "rpo-task-gaikokujin-saiyo-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 外国人採用を自社で進めようとして、「まず外国人向けの媒体に求人を出す」から始めると、役割が曖昧なまま在留資格の確認ができず、言語の要件が「日本語ができる人」で面接で確かめられず、応募があっても在留資格の手続きの期間を見込んでおらず入社が遅れ、採用しても受け入れの型が無くて本人が生活の手続きで困り、部署は「どう接すればよいか分からない」で距離を置き、半年で辞めます。外国人採用で最初にやるべきは、媒体を探すことではなく、「採る役割を一枚にして専門家に確認してもらう」ことと、「受け入れの型を採用の前に作る」ことです。結論を先に書くと、**進め方は、採る役割を一枚にする→在留資格について相談する専門家を決めて役割を確認してもらう→言語の要件を場面で書く→経路を決めて求人票を作る→面接の観点に言語の水準と就労の意向を足す→受け入れの型に生活の支援と社内の理解を足す→受け入れ部署に事前に説明する→在留資格の期限と受け入れの記録を続ける、の八つの手順**です。代行に出す場合の切り分けは[外国人採用の実務は代行に出せるか](/media/rpo-task-gaikokujin-saiyo-daikou/)に、踏み出せないときの整理は[外国人採用に踏み出せないとき](/media/rpo-gaikokujin/)に書いていますので、ここでは自社で進める手順に絞ります。この記事は一般的な整理で、在留資格・雇用・面接で聞いてはいけない事項など法令に関わる部分は、個別に専門家にご確認ください。

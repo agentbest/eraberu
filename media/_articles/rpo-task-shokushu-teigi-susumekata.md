@@ -9,7 +9,7 @@ tags: ["採用代行", "ジョブディスクリプション", "職務記述書"
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "rpo-task-shokushu-teigi-susumekata"
-related: ["rpo-task-shokushu-teigi-daikou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata", "rpo-task-ats-unyou-susumekata"]
+related: ["rpo-task-shokushu-teigi-daikou", "rpo-task-shokushu-teigi-hiyou", "rpo-task-agent-taiou-susumekata", "rpo-task-alumni-susumekata"]
 ---
 
 ジョブディスクリプションを自社で作ろうとして、「業務の一覧を書き出して文書にする」から始めると、箇条書きが二十行になり、その役割が「何を決めてよいか」「誰と最も話すか」「どこまでやったら渡すか」は書かれず、求人票は箇条書きのまま、面接官は「うちの仕事は違う」と使わず、作った文書は共有の場所で古くなります。ジョブディスクリプションで最初にやるべきは、業務を書き出すことではなく、責任者と現場の担当者に「何を決める役割か」を聞き、ずれを見せ、会社が寄せ方を決めることです。それができれば、一枚は二時間で書け、その日から求人票と面接に使えます。結論を先に書くと、**進め方は、対象の職種と決める人を決める→責任者に六つの問いで三十分聞く→現場の担当者に同じ問いで三十分聞く→ずれを並べて責任者が寄せ方を決める→六項目の一枚に書いて両方に確認する→求人票と面接の観点と評価の到達点に展開する→日付を入れて共有の場所に置く→募集のたびと入社三か月後に更新する、の八つの手順**です。代行に出す場合の切り分けは[ジョブディスクリプション作成は代行に出せるか](/media/rpo-task-shokushu-teigi-daikou/)に、一枚で書き始める考え方は[ジョブディスクリプションがないとき](/media/rpo-jd-nai/)に書いていますので、ここでは自社で進める手順に絞ります。
