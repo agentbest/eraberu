@@ -9,7 +9,7 @@ tags: ["人事副業", "大手企業", "経歴別", "仕組みの翻訳", "採�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-daikigyo-jinji-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo", "fukugyo-chusho-jinji-fukugyo"]
+related: ["fukugyo-daikigyo-jinji-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
 ---
 
 大手企業の人事として、整った仕組みの中で、新卒の大量の採用や、事業部をまたぐ中途の採用を、決められた手順で、多くの関係者と調整しながら回してきた。この経験は、人事の部門が小さい会社が多い副業で売れるのか。大手の人事の経験は、仕組みがあったから回っていたもので、仕組みのない会社では通じないと感じる人が多いところです。結論を先に書くと、**大手企業の人事の経験は、「整った仕組みの中で、大量の採用と複雑な調整を、決められた手順で抜けなく回してきた」型で売れます。売れるのは、「仕組みを小さい会社の規模に翻訳する型」「大量の応募を漏れなく回す設計」「多くの関係者の調整と合意の型」「手順と記録で品質を保つ運用」の四つです。小さい会社には仕組みがなく、そのままでは応募が増えたとき、関係者が増えたとき、判断でもめたときに止まります。大手の仕組みをそのまま持ち込むのではなく、「なぜその仕組みがあるのか」を知っている人が、要る分だけ軽くして持ち込めば、小さい会社でも回ります。「大手の人事でした」ではなく、「整った仕組みの『なぜそうなっているか』を知っていて、小さい会社に要る分だけ持ち込む」と売ります。**中小企業の人事の経験は[中小企業の人事が副業でできること](/media/fukugyo-chusho-jinji-fukugyo/)に、金融機関の人事の経験は[金融機関の人事が副業でできること](/media/fukugyo-kinyu-jinji-fukugyo/)に、人事企画の経験は[人事企画が副業でできること](/media/fukugyo-jinji-kikaku-fukugyo/)にまとめています。

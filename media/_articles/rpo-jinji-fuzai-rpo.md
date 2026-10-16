@@ -9,7 +9,7 @@ tags: ["採用代行", "専任の人事がいない", "外注の順番", "フェ
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-jinji-fuzai-rpo"
-related: ["rpo-jinji-fuzai-shippai", "rpo-jinji-fuzai-taisei", "rpo-chihou-kigyo-rpo", "rpo-chusho-rpo"]
+related: ["rpo-jinji-fuzai-shippai", "rpo-jinji-fuzai-taisei", "rpo-jinji-fuzai-hiyou", "rpo-chihou-kigyo-rpo"]
 ---
 
 専任の人事がいない会社で、経営者か総務の担当者が採用を見ていて、そろそろ代行に頼りたい。ただ、何から頼めばよいか分からない。代行の会社に聞くと「全部お任せください」と言われ、それはそれで不安になる。この記事は、その順番を決めるためのものです。結論を先に書くと、**専任の人事がいない会社が最初に外に出すべきは「候補者への連絡と日程調整」で、次が「候補者を探す工程」、最後が「求人票の原稿と記録の整備」です。**この順番は、社内で最も止まりやすい工程から出す、という考え方で決まります。全部を一度に出すのではなく、一つずつ出して、社内に残す判断の座席を守ります。社内に残す役割の作り方は[専任の人事がいない会社の採用体制の作り方](/media/rpo-jinji-fuzai-taisei/)に、失敗の形は[専任の人事がいない会社が採用代行で失敗するパターン](/media/rpo-jinji-fuzai-shippai/)に、代行の全体像は[採用代行（RPO）とは](/media/rpo-toha/)にまとめています。

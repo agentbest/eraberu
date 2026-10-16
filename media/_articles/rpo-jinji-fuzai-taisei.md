@@ -9,7 +9,7 @@ tags: ["採用代行", "専任の人事がいない", "採用体制", "フェー
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-jinji-fuzai-taisei"
-related: ["rpo-jinji-fuzai-rpo", "rpo-jinji-fuzai-shippai", "rpo-chihou-kigyo-taisei", "rpo-chusho-taisei"]
+related: ["rpo-jinji-fuzai-rpo", "rpo-jinji-fuzai-shippai", "rpo-jinji-fuzai-hiyou", "rpo-chihou-kigyo-taisei"]
 ---
 
 専任の人事がいない会社が採用代行を使うとき、「代行に何を頼むか」より先に決めるべきことがあります。社内に何を残すか、です。専任の人事がいない会社では、採用に関わる人は経営者と、総務や管理部門の担当者と、配属先の責任者で、誰も採用が本業ではありません。結論を先に書くと、**社内に残す役割は「決める人」「窓口」「現場の面接官」の三つで、この三つに人を当ててから代行に出せば、専任の人事がいなくても採用は回ります。**三つとも兼ねてよく、経営者一人でも成り立ちますが、空席のままにはしません。この記事では、三つの役割の中身、誰が担うか、週にどれだけの時間が要るか、代行との線の引き方を、順番に整理します。失敗の形は[専任の人事がいない会社が採用代行で失敗するパターン](/media/rpo-jinji-fuzai-shippai/)に、中小企業に向く代行の条件は[中小企業に向く採用代行の条件](/media/rpo-chusho-muke/)に、代行の全体像は[採用代行（RPO）とは](/media/rpo-toha/)にまとめています。

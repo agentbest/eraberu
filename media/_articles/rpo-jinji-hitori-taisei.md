@@ -9,7 +9,7 @@ tags: ["採用代行", "人事が1人", "採用体制", "フェーズ別", "役�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-jinji-hitori-taisei"
-related: ["rpo-jinji-hitori-rpo", "rpo-jinji-hitori-shippai", "rpo-chihou-kigyo-taisei", "rpo-chusho-taisei"]
+related: ["rpo-jinji-hitori-rpo", "rpo-jinji-hitori-shippai", "rpo-jinji-hitori-hiyou", "rpo-chihou-kigyo-taisei"]
 ---
 
 人事が一人の会社で採用代行を使うとき、決めるべきことは「代行に何を出すか」ではなく、「人事の一週間を、代行を入れた後にどう組み替えるか」です。人事が一人の会社の人事は、手を動かす工程と、考える工程と、社内の調整を、全部一人でやっています。代行を入れて手を動かす工程を出しても、組み替えをしないと、空いた時間が代行の管理で埋まります。結論を先に書くと、**人事に残す役割は「要件を決める」「判断を整理する」「代行を管理する」の三つで、「手を動かす工程」と「現場と代行の間の伝言」は外に出します。**そのうえで、人事が詰まっても採用が止まらないよう、「人事を通さない線」を一つ作ります。失敗の形は[人事が一人の会社が採用代行で失敗するパターン](/media/rpo-jinji-hitori-shippai/)に、専任の人事がいない会社の体制は[専任の人事がいない会社の採用体制の作り方](/media/rpo-jinji-fuzai-taisei/)に、代行の全体像は[採用代行（RPO）とは](/media/rpo-toha/)にまとめています。

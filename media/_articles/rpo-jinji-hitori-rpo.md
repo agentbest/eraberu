@@ -9,7 +9,7 @@ tags: ["採用代行", "人事が1人", "外注の順番", "フェーズ別", "�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-jinji-hitori-rpo"
-related: ["rpo-jinji-hitori-shippai", "rpo-jinji-hitori-taisei", "rpo-chihou-kigyo-rpo", "rpo-chusho-rpo"]
+related: ["rpo-jinji-hitori-shippai", "rpo-jinji-hitori-taisei", "rpo-jinji-hitori-hiyou", "rpo-chihou-kigyo-rpo"]
 ---
 
 人事が一人の会社で、その人事が採用に追われていて、代行を使いたい。ただ、何から出せばよいか、人事本人にも経営者にも決めきれない。代行の会社は「全部出せます」と言うが、人事は「全部は渡したくない」と言う。この記事は、その順番を決めるためのものです。結論を先に書くと、**人事が一人の会社で最初に出すべきは「人事の一週間を最も細切れにしている工程」で、多くの会社では応募者への連絡と日程調整です。次にスカウトの送信、最後に一次面接と記録です。**順番の考え方は、「人事の時間がまとまる工程から出す」で、専任の人事がいない会社の「止まっている工程から出す」とは違います。人事がいるので止まってはいませんが、細切れになって、考える時間が取れていないからです。人事に残す役割は[人事が一人の会社の採用体制の作り方](/media/rpo-jinji-hitori-taisei/)に、失敗の形は[人事が一人の会社が採用代行で失敗するパターン](/media/rpo-jinji-hitori-shippai/)に、専任の人事がいない会社の順番は[専任の人事がいない会社の採用代行](/media/rpo-jinji-fuzai-rpo/)にまとめています。

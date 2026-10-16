@@ -9,7 +9,7 @@ tags: ["採用代行", "人事が1人", "失敗パターン", "フェーズ別",
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-jinji-hitori-shippai"
-related: ["rpo-jinji-hitori-rpo", "rpo-jinji-hitori-taisei", "rpo-chihou-kigyo-shippai", "rpo-chusho-shippai"]
+related: ["rpo-jinji-hitori-rpo", "rpo-jinji-hitori-taisei", "rpo-jinji-hitori-hiyou", "rpo-chihou-kigyo-shippai"]
 ---
 
 人事が一人いる会社は、専任の人事がいない会社より採用代行を使いやすいように見えます。代行と話す人がいて、判断を整理する人がいて、現場との間に立つ人がいるからです。ただ、人事が一人だからこそ起きる失敗があります。結論を先に書くと、**人事が一人の会社の失敗は「人事が一人に集中しすぎる」ことから起きます。代行の管理も、判断の整理も、現場との調整も、全部がその一人を通る形になり、その一人が詰まると全部が止まります。**代行を使う前に、「人事を通さずに動く線」を一つ作っておけば、失敗の大半は避けられます。この記事では、五つのパターンを、症状・原因・先に打つ手の順に整理します。専任の人事がいない会社の失敗は[専任の人事がいない会社が採用代行で失敗するパターン](/media/rpo-jinji-fuzai-shippai/)に、代行の全体像は[採用代行（RPO）とは](/media/rpo-toha/)に、発注前の確認は[採用代行を発注する前のチェックリスト](/media/rpo-check-list/)にまとめています。

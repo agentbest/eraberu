@@ -9,7 +9,7 @@ tags: ["採用代行", "専任の人事がいない", "失敗パターン", "フ
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "rpo-jinji-fuzai-shippai"
-related: ["rpo-jinji-fuzai-rpo", "rpo-jinji-fuzai-taisei", "rpo-chihou-kigyo-shippai", "rpo-chusho-shippai"]
+related: ["rpo-jinji-fuzai-rpo", "rpo-jinji-fuzai-taisei", "rpo-jinji-fuzai-hiyou", "rpo-chihou-kigyo-shippai"]
 ---
 
 専任の人事がいない会社では、経営者か、総務や管理部門の担当者が、本業の合間に採用を見ています。時間がないので採用代行に頼る、という判断そのものは自然です。ただ、専任の人事がいない会社には、いる会社とは違う失敗の形があります。結論を先に書くと、**失敗の多くは「代行が悪い」のではなく、社内に「代行と話す人」と「決める人」がいないまま始めることから起きます。**代行に出す前に、社内に残す役割を一つだけ決めておけば、失敗の大半は避けられます。この記事では、失敗の五つのパターンを、症状・原因・先に打つ手の順に整理します。代行の全体像は[採用代行（RPO）とは](/media/rpo-toha/)に、中小企業に向く代行の条件は[中小企業に向く採用代行の条件](/media/rpo-chusho-muke/)に、発注前の確認は[採用代行を発注する前のチェックリスト](/media/rpo-check-list/)にまとめています。
