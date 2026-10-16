@@ -9,7 +9,7 @@ tags: ["採用代行", "SaaS業界", "機能する条件", "職種別採用", "�
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-saas-jirei"
-related: ["rpo-saas-kadai", "rpo-saas-rpo", "rpo-butsuryu-jirei", "rpo-fudosan-jirei"]
+related: ["rpo-saas-kadai", "rpo-saas-rpo", "rpo-saas-hiyou", "rpo-butsuryu-jirei"]
 ---
 
 SaaSの会社が採用代行を入れてもうまく回らないとき、原因の多くは代行の外にあります。とくに詰まりやすいのが、経営者と職種ごとの責任者の面接の枠です。営業もCSもエンジニアも同時に採りたい会社ほど、代行が作った母集団が枠の前で待たされ、比較の速い候補者から他社に決まっていきます。この記事では、面接の枠という限られた資源から逆算して、何職種をどの順に動かすか、最初の一職種でどんな型を作るかを整理します。工程の切り分けは[SaaS業界の採用代行](/media/rpo-saas-rpo/)に、課題の分解は[SaaS業界の採用課題](/media/rpo-saas-kadai/)に、IT・Web業界の条件は[IT・Web業界で採用代行が機能する条件・機能しない条件](/media/rpo-it-jirei/)に書いています。

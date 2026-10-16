@@ -9,7 +9,7 @@ tags: ["採用代行", "SES業界", "機能する条件", "エンジニア採用
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-ses-jirei"
-related: ["rpo-ses-kadai", "rpo-ses-rpo", "rpo-it-jirei", "rpo-sier-jirei"]
+related: ["rpo-ses-kadai", "rpo-ses-rpo", "rpo-it-jirei", "rpo-ses-hiyou"]
 ---
 
 同じ採用代行を使っても、うまく回るSESの会社と回らない会社があります。差を作るのは代行の腕より、発注側の条件です。SESの採用は「採ったら終わり」ではなく、採った人が最初の案件に出て、案件の合間を越えて残るところまでが一続きになっています。この記事では、一人の採用を「採る数を決める→返信をもらう→入社から最初の案件まで→案件の合間」の順に追い、どこで代行が止まるのかを見ていきます。工程の切り分けは[SES業界の採用代行](/media/rpo-ses-rpo/)に、課題の分解は[SES業界の採用課題](/media/rpo-ses-kadai/)に、SIer業界の条件は[SIer業界で採用代行が機能する条件・機能しない条件](/media/rpo-sier-jirei/)に書いています。

@@ -9,7 +9,7 @@ tags: ["採用代行", "SaaS業界", "工程の切り分け", "職種別採用",
 pubDate: 2026-09-22
 reviewedAt: 2026-09-22
 slug: "rpo-saas-rpo"
-related: ["rpo-saas-jirei", "rpo-saas-kadai", "rpo-agri-rpo", "rpo-butsuryu-rpo"]
+related: ["rpo-saas-jirei", "rpo-saas-kadai", "rpo-saas-hiyou", "rpo-agri-rpo"]
 ---
 
 SaaS業界の会社が採用代行を検討するとき、動機は「事業が伸びていて、営業もCSもエンジニアも同時に足りない」であることが多い。ただ、SaaSの採用は、職種が横に広く、事業の段階で要る人が変わり、候補者がSaaS業界の中で会社を比べている、という三つの難しさがあり、「全部を同時に任せる」形は最も失敗しやすい。結論を先に書くと、**SaaS業界の採用代行は、母集団形成・一次対応・日程調整・記録は外に出せる一方、職種と段階で切った要件の決定・事業の段階に合う人の見極め・条件の判断は社内に残さないと、採れても段階に合いません。**代行に出す前に、三つの難しさを自社の段階で分解し、職種ごとに「任せる・残す」を決めることが、代行が機能する条件です。職種ごとの切り分けは[営業採用を代行に出す判断基準](/media/rpo-sales-rpo/)、[カスタマーサクセス採用を代行に出す判断基準](/media/rpo-customer-success-rpo/)、[インサイドセールス採用を代行に出す判断基準](/media/rpo-inside-sales-rpo/)に、段階の考え方は[急成長フェーズの会社の採用代行](/media/rpo-kyuu-seichou-rpo/)に書いています。ここでは、SaaS業界で共通する切り分けに絞ります。
