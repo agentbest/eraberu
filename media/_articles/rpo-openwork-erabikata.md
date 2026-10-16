@@ -9,7 +9,7 @@ tags: ["OpenWorkリクルーティング", "採用代行", "運用代行", "ク�
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-openwork-erabikata"
-related: ["rpo-openwork-shippai", "rpo-openwork-henshinritsu", "rpo-bizreach-unyou-daikou", "rpo-careercross-unyou-daikou"]
+related: ["rpo-openwork-unyou-daikou", "rpo-openwork-shippai", "rpo-openwork-henshinritsu", "rpo-openwork-scout-bunmen"]
 sources:
   - name: "OpenWorkリクルーティングの料金プラン"
     url: "https://business.openwork.jp/recruiting/pricing"

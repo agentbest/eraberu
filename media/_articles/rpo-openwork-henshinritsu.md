@@ -9,7 +9,7 @@ tags: ["OpenWorkリクルーティング", "採用代行", "返信率", "クチ�
 pubDate: 2026-10-17
 reviewedAt: 2026-10-17
 slug: "rpo-openwork-henshinritsu"
-related: ["rpo-openwork-shippai", "rpo-openwork-erabikata", "rpo-bizreach-henshinritsu", "rpo-careercross-henshinritsu"]
+related: ["rpo-openwork-shippai", "rpo-openwork-erabikata", "rpo-openwork-scout-bunmen", "rpo-openwork-unyou-daikou"]
 sources:
   - name: "OpenWorkリクルーティングの料金プラン"
     url: "https://business.openwork.jp/recruiting/pricing"
