@@ -9,7 +9,7 @@ tags: ["人事副業", "カジュアル面談", "面談代行", "業務別", "�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-casual-mendan-fk-hajimekata"
-related: ["fukugyo-casual-mendan-fk-fukugyo", "fukugyo-casual-mendan-fk-shigoto", "fukugyo-agent-control-hajimekata", "fukugyo-ats-dounyu-hajimekata"]
+related: ["fukugyo-casual-mendan-fk-fukugyo", "fukugyo-casual-mendan-fk-shigoto", "fukugyo-casual-mendan-fk-tanka", "fukugyo-agent-control-hajimekata"]
 ---
 
 社内でカジュアル面談を回してきた。スカウトの返信者を誘い、日程を合わせ、現場の責任者に同席し、翌日に連絡を出して、応募につないできた。この経験を副業で使えないか。そう思って募集を見ると、「候補者対応」「面談の対応」の案件はあるのに、自分の何を見せれば選ばれるのかが分からない。「候補者対応ができます」では、人事なら誰でも言えるからです。結論を先に書くと、**最初の1件を取るには、「選考でない場の流れを設計し、同席して候補者が二度以上触れたことを拾い、翌日までにそれに触れた連絡を出して、応募に進んだ率を上げた」と、設計と記録と連絡の三つで見せます。見本は流れの設計と記録の型と翌日の連絡の型で作り、入口は、紹介、副業のプラットフォーム、担当者を選べる窓口への登録、スカウトの返信を持て余している小さい会社への提案の四つで、最初は「誘いと日程だけ」「同席と記録と翌日の連絡だけ」「設計だけ」と小さく受け、受ける前に面談に出る人と選考にしない決まりと自分の紹介の仕方を確かめ、最初の1件を「設計と記録と率が残る形」で終えて2件目につなげます。**案件の型と求められる経験は[カジュアル面談の代行の副業案件](/media/fukugyo-casual-mendan-fk-fukugyo/)に、1案件の流れは[カジュアル面談の代行の副業の実務](/media/fukugyo-casual-mendan-fk-shigoto/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは「最初の1件の取り方」に絞ります。

@@ -9,7 +9,7 @@ tags: ["人事副業", "カジュアル面談", "面談代行", "業務別", "�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-casual-mendan-fk-fukugyo"
-related: ["fukugyo-casual-mendan-fk-hajimekata", "fukugyo-casual-mendan-fk-shigoto", "fukugyo-agent-control-fukugyo", "fukugyo-ats-dounyu-fukugyo"]
+related: ["fukugyo-casual-mendan-fk-hajimekata", "fukugyo-casual-mendan-fk-shigoto", "fukugyo-casual-mendan-fk-tanka", "fukugyo-agent-control-fukugyo"]
 ---
 
 カジュアル面談の代行は、スカウトを送っている会社から出やすい副業案件です。返信は来るのに面談の設定が遅い、面談のあとの連絡が出ていない、面談に出る人によって内容がばらつく、現場が面談以外の調整で疲れている。その状態で外に出されます。ただ、「会社の代わりに面談に出て語る仕事」と思って受けると、結果が出ません。候補者が聞きたいのは会社の人の言葉で、外の人が語る会社の話は応募につながりにくい。外の担当者がやるのは、面談を「回す」側です。結論を先に書くと、**カジュアル面談の代行の副業案件は、「誘いと日程だけ」「同席と記録と面談後の連絡」「設計と型作り」「面談に出る人の育成」の四つの型に分かれ、求められるのは、選考でない場を設計した経験、同席して候補者の関心を拾える力、翌日までの連絡の型、応募に進んだ率を見て直した経験の四つです。進め方は、面談の目的と出る人の確認→設計（流れ・語ること・聞くこと・選考にしない決まり）→誘いと日程→同席と記録→面談後の連絡→応募に進んだ率の記録と見直しの順で、会社の話は会社の人が語り、面談を選考にせず、選考に進める判断は会社が持つ線を先に引いておきます。**面接代行との違いは[面接代行の副業案件](/media/fukugyo-mensetsu-daikou-fukugyo/)を、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)を参照ください。ここでは、カジュアル面談の案件に絞ります。

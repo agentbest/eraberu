@@ -9,7 +9,7 @@ tags: ["人事副業", "日程調整", "候補者対応", "業務別", "案件�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-nittei-chousei-fk-shigoto"
-related: ["fukugyo-nittei-chousei-fk-fukugyo", "fukugyo-nittei-chousei-fk-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-shigoto"]
+related: ["fukugyo-nittei-chousei-fk-fukugyo", "fukugyo-nittei-chousei-fk-hajimekata", "fukugyo-nittei-chousei-fk-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 日程調整の代行を初めて受けるとき、見えにくいのは「往復の前に何を決めておくか」です。募集文には「面接の日程調整」とだけあり、実際には、面接官の枠、段階ごとの所要時間、候補者の優先順位、名乗り方、カレンダーの権限、変更時の決まり、記録の表と、往復を始める前に決めることが並びます。決めずに始めると、遅い原因が自分の外にあるまま評価されます。結論を先に書くと、**1案件は「契約前→第1週→第2週以降→月次→終了と更新」の五つの段階で進み、契約前に範囲・段階と面接官の数・枠の空け方・カレンダーの権限・名乗り方と文面・情報の扱い・確認する時間帯・変更時の決まり・報告と評価を決め、第1週は往復を始めずに枠を空けてもらい順序と型と文面と記録の表を整え、第2週から候補日の提示と当日返信と確定と共有と前日の連絡と変更の受付と週次の報告を回し、月次で止まった日数を三つに分けて見て枠と順序と文面を直し、引き継げる形で終えます。**案件の型と求められる経験は[日程調整の代行の副業案件](/media/fukugyo-nittei-chousei-fk-fukugyo/)に書いていますので、ここでは「1案件の流れ」に絞ります。

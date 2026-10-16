@@ -9,7 +9,7 @@ tags: ["人事副業", "面接代行", "面接官", "業務別", "案件の流�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-mensetsu-daikou-shigoto"
-related: ["fukugyo-mensetsu-daikou-fukugyo", "fukugyo-mensetsu-daikou-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-shigoto"]
+related: ["fukugyo-mensetsu-daikou-fukugyo", "fukugyo-mensetsu-daikou-hajimekata", "fukugyo-mensetsu-daikou-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 面接代行を初めて受けるとき、見えにくいのは「面接の前後に何があるか」です。募集文には「面接官業務」とだけあり、実際には、要件の確認、質問と評価の型の承認、候補者への名乗り方の決定、記録の置き場、評価の整理の渡し方、面接後の連絡の担当と、面接そのものの前後に工程が付きます。順番を知っていれば、契約前に決めておけます。結論を先に書くと、**1案件は「契約前→第1週→第2週以降→月次→終了と更新」の五つの段階で進み、契約前に範囲・面接の枠と数・候補者への見え方・評価の決定者・記録の置き場・聞いてはいけないこと・報告を決め、第1週は面接に出ずに要件の確認と型の承認と面接官との打ち合わせに使い、第2週から面接の進行と記録と評価の整理と週次の報告を回し、月次で二次以降や入社後のずれから質問と深さを直し、引き継げる形で終えます。**案件の型と求められる経験は[面接代行の副業案件](/media/fukugyo-mensetsu-daikou-fukugyo/)に、事故を避ける線は[面接代行で気をつけること](/media/fukugyo-mensetsu-daikou-chuui/)に書いていますので、ここでは「1案件の流れ」に絞ります。

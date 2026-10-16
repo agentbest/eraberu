@@ -9,7 +9,7 @@ tags: ["人事副業", "カジュアル面談", "面談代行", "業務別", "�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-casual-mendan-fk-shigoto"
-related: ["fukugyo-casual-mendan-fk-fukugyo", "fukugyo-casual-mendan-fk-hajimekata", "fukugyo-agent-control-shigoto", "fukugyo-ats-dounyu-shigoto"]
+related: ["fukugyo-casual-mendan-fk-fukugyo", "fukugyo-casual-mendan-fk-hajimekata", "fukugyo-casual-mendan-fk-tanka", "fukugyo-agent-control-shigoto"]
 ---
 
 カジュアル面談の代行を初めて受けるとき、見えにくいのは「面談の前後に何があるか」です。募集文には「カジュアル面談の対応」とだけあり、実際には、出る人の確定、語ることの骨格、誘いの文面の承認、日程の往復、当日の案内、同席と記録、翌日の連絡、応募に進んだ率の記録と、面談そのものの前後に工程が並びます。順番を知っていれば、契約前に決めておけます。結論を先に書くと、**1案件は「契約前→第1週→第2週以降→月次→終了と更新」の五つの段階で進み、契約前に範囲・面談に出る人・枠・自分の紹介の仕方・選考にしない決まり・連絡の名義と文面・記録の置き場・報告を決め、第1週は誘わずに目的と出る人の確認と設計と文面の承認と出る人との打ち合わせに使い、第2週から誘いと日程と同席と記録と翌日までの連絡と週次の報告を回し、月次で応募に進んだ率を出る人・語ること・連絡ごとに見て直し、引き継げる形で終えます。**案件の型と求められる経験は[カジュアル面談の代行の副業案件](/media/fukugyo-casual-mendan-fk-fukugyo/)に書いていますので、ここでは「1案件の流れ」に絞ります。

@@ -9,7 +9,7 @@ tags: ["人事副業", "面接代行", "面接官", "業務別", "最初の1件"
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-mensetsu-daikou-hajimekata"
-related: ["fukugyo-mensetsu-daikou-fukugyo", "fukugyo-mensetsu-daikou-shigoto", "fukugyo-agent-control-hajimekata", "fukugyo-ats-dounyu-hajimekata"]
+related: ["fukugyo-mensetsu-daikou-fukugyo", "fukugyo-mensetsu-daikou-shigoto", "fukugyo-mensetsu-daikou-tanka", "fukugyo-agent-control-hajimekata"]
 ---
 
 社内で面接官をしてきた。何人も面接し、通した人が入社後にどうなったかも見てきた。この経験を副業で使えないか。そう思って募集を見ると、「面接官業務」の案件はあるのに、自分の何を見せれば選ばれるのかが分からない。「面接官の経験があります」では、管理職なら誰でも言えるからです。結論を先に書くと、**最初の1件を取るには、「〇〇（職種）の経歴を何を・どこまで・一人で、と掘って聞き、事実と所感を分けて記録し、入社後のずれから質問の深さを直した」と、職種と記録の型と型を直した経験の三つで見せます。見本は質問表と記録の型で作り、入口は、紹介、副業のプラットフォーム、担当者を選べる窓口への登録、面接官が足りない小さい会社への提案の四つで、最初は「質問と評価の型作りだけ」「同席と記録だけ」「模擬面接の相手だけ」と小さく受け、受ける前に候補者への見え方と評価の決定者と聞いてはいけないことと記録の置き場を確かめ、最初の1件を「型と記録が残る形」で終えて2件目につなげます。**案件の型と求められる経験は[面接代行の副業案件](/media/fukugyo-mensetsu-daikou-fukugyo/)に、1案件の流れは[面接代行の副業の実務](/media/fukugyo-mensetsu-daikou-shigoto/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは「最初の1件の取り方」に絞ります。

@@ -9,7 +9,7 @@ tags: ["人事副業", "スカウト代行", "単価", "業務委託", "副業"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-scout-daikou-tanka"
-related: ["fukugyo-scout-daikou-fukugyo", "fukugyo-scout-daikou-hajimekata", "fukugyo-scout-daikou-shigoto", "fukugyo-kyujin-raiting-tanka"]
+related: ["fukugyo-scout-daikou-fukugyo", "fukugyo-scout-daikou-hajimekata", "fukugyo-scout-daikou-shigoto", "fukugyo-casual-mendan-fk-tanka"]
 sources:
   - name: "e-Gov法令検索「職業安定法」（第36条）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000141"

@@ -9,7 +9,7 @@ tags: ["人事副業", "面接代行", "面接官", "業務別", "副業案件"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-mensetsu-daikou-fukugyo"
-related: ["fukugyo-mensetsu-daikou-hajimekata", "fukugyo-mensetsu-daikou-shigoto", "fukugyo-agent-control-fukugyo", "fukugyo-ats-dounyu-fukugyo"]
+related: ["fukugyo-mensetsu-daikou-hajimekata", "fukugyo-mensetsu-daikou-shigoto", "fukugyo-mensetsu-daikou-tanka", "fukugyo-agent-control-fukugyo"]
 ---
 
 面接代行は、人事の副業案件の中で、平日の日中に時間を取れる人に向く仕事です。面接官が足りない、面接官によって評価がばらつく、一次面接に現場の時間を割けない。その状態で外に出されます。ただ、「面接官として合否を決める仕事」と思って受けると、責任の置き方を間違えます。評価を決め、合否を出し、条件を提示するのは会社で、外の担当者がやるのは、型の設計と進行と記録と、評価の整理です。結論を先に書くと、**面接代行の副業案件は、「質問と評価の型作りだけ」「一次面接の進行と記録」「面接官の同席と記録」「面接官の育成と引き継ぎ」の四つの型に分かれ、求められるのは、その職種の経歴を掘って聞ける力、型に沿って進める力、事実と所感を分けて書く力、面接後のずれから型を直した経験の四つです。進め方は、要件の確認→質問と評価の型の設計と承認→候補者への見え方と同席の決定→進行と記録→評価の整理を会社に渡す→面接後のずれから型を直す、の順で、評価の決定と合否と条件の提示は会社、聞いてはいけないことと記録の置き場は会社の決まりに沿う線を先に引いておきます。**面接代行で事故を避ける線は[面接代行で気をつけること](/media/fukugyo-mensetsu-daikou-chuui/)に、合否への関わり方は[合否にどこまで関わるか](/media/fukugyo-gouhi/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは、面接代行の案件に絞ります。

@@ -9,7 +9,7 @@ tags: ["人事副業", "日程調整", "候補者対応", "業務別", "最初�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-nittei-chousei-fk-hajimekata"
-related: ["fukugyo-nittei-chousei-fk-fukugyo", "fukugyo-nittei-chousei-fk-shigoto", "fukugyo-agent-control-hajimekata", "fukugyo-ats-dounyu-hajimekata"]
+related: ["fukugyo-nittei-chousei-fk-fukugyo", "fukugyo-nittei-chousei-fk-shigoto", "fukugyo-nittei-chousei-fk-tanka", "fukugyo-agent-control-hajimekata"]
 ---
 
 社内で採用の日程調整を回してきた。面接官が複数いる中で枠を管理し、候補者を待たせず、面接官に漏れなく共有してきた。この経験を副業で使えないか。そう思って募集を見ると、「面接の日程調整」の案件はあるのに、自分の何を見せれば選ばれるのかが分からない。「連絡が丁寧で速い」では、誰でも言えるからです。結論を先に書くと、**最初の1件を取るには、「候補日を先に三つ出して二往復で決める型を持ち、当日返信の時間帯を固定し、返信→提示・提示→確定・確定→面接の三つの日数を記録して、止まっている箇所を会社に返して縮めた」と、型と時間帯と記録の三つで見せます。見本は候補日の型と文面の型と記録の表で作り、入口は、紹介、副業のプラットフォーム、担当者を選べる窓口への登録、面接官が複数いて連絡が遅い小さい会社への提案の四つで、最初は「往復だけ」「前日の連絡と変更の受付だけ」「記録の表と型作りだけ」と小さく受け、受ける前に枠の空け方と名乗り方と情報の扱いと評価の基準を確かめ、最初の1件を「型と記録と日数の推移が残る形」で終えて2件目につなげます。**案件の型と求められる経験は[日程調整の代行の副業案件](/media/fukugyo-nittei-chousei-fk-fukugyo/)に、1案件の流れは[日程調整の代行の副業の実務](/media/fukugyo-nittei-chousei-fk-shigoto/)に、副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に書いています。ここでは「最初の1件の取り方」に絞ります。

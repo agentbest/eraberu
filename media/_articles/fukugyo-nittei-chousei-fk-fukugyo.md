@@ -9,7 +9,7 @@ tags: ["人事副業", "日程調整", "候補者対応", "業務別", "副業�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "fukugyo-nittei-chousei-fk-fukugyo"
-related: ["fukugyo-nittei-chousei-fk-hajimekata", "fukugyo-nittei-chousei-fk-shigoto", "fukugyo-agent-control-fukugyo", "fukugyo-ats-dounyu-fukugyo"]
+related: ["fukugyo-nittei-chousei-fk-hajimekata", "fukugyo-nittei-chousei-fk-shigoto", "fukugyo-nittei-chousei-fk-tanka", "fukugyo-agent-control-fukugyo"]
 ---
 
 日程調整の代行は、人事の副業案件の中で、いちばん「地味」に見える仕事です。だからこそ、外に出されやすく、外に出したあとで差が出ます。候補者への返信が翌日以降になっている、往復が三回を超えている、面接官が複数いて誰の枠か分からない、変更の対応が遅れて候補者が辞退する。その状態で外に出されます。ただ、「メールを往復させる仕事」と思って受けると、遅い原因が自分の外にあるまま評価されます。結論を先に書くと、**日程調整の代行の副業案件は、「往復だけ」「確定から前日の連絡まで」「複数面接官と複数段階の一式」「仕組み作りと引き継ぎ」の四つの型に分かれ、求められるのは、候補日を先に出す型、当日返信の体制、面接官への共有の型、止まった日数を記録して直した経験の四つです。進め方は、面接官の枠を会社に先に空けてもらう→順序と所要時間と文面と名乗り方を決める→候補日を先に出して当日返す→確定と前日の連絡→変更の受付と面接官への共有→止まった日数の記録と週次の報告→枠と順序の見直しの提案の順で、枠を空ける決定と候補者の優先順位は会社、カレンダーの権限の範囲と候補者の情報の扱いと名乗り方は会社の決まりに沿う線を先に引いておきます。**副業全体の始め方は[人事の副業の始め方](/media/fukugyo-hajimekata/)に、連絡の速さの考え方は[連絡の速さ](/media/fukugyo-renraku-sokudo/)に書いています。ここでは、日程調整の案件に絞ります。
