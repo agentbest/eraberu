@@ -9,7 +9,7 @@ tags: ["人事副業", "医療", "介護", "経歴別", "資格職採用"]
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-iryou-jinji-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo", "fukugyo-chusho-jinji-fukugyo"]
+related: ["fukugyo-iryou-jinji-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
 ---
 
 病院やクリニック、介護施設の人事として、看護師や介護職や療法士などの資格職を、常に足りない中で採り続け、紹介会社と付き合い、配置の基準とシフトに合わせて人を入れ、辞める人の穴を埋めてきた。この経験は、業界の外を含めた人事の副業で売れるのか。医療・介護の採用は業界の事情が強く、外では通じないと感じる人が多いところです。結論を先に書くと、**医療・介護の人事の経験は、「資格職を、常に足りない状態で、配置基準とシフトと紹介会社の中で採り続けてきた」型で売れます。売れるのは、「常に募集し続ける体制の設計」「紹介会社と自力の採用の使い分け」「資格と配置の制約の中での要件づくり」「定着のための受け入れの設計」の四つです。業界の外でも、常に人が足りない職種（ドライバー、施工、保育、店舗、コールセンター）を持つ会社は、同じ構造で困っています。「病院・施設の人事でした」ではなく、「足りない職種を、止まらずに採り続ける体制を作る」と売ります。**教育機関の人事の経験は[教育機関の人事が副業でできること](/media/fukugyo-kyouiku-jinji-fukugyo/)に、業界を絞る戦い方は[業界特化という戦い方](/media/fukugyo-gyoukai-tokka/)に、採用担当の経験は[採用担当が副業でできること](/media/fukugyo-saiyo-tantou-fukugyo/)にまとめています。

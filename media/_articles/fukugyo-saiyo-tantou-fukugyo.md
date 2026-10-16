@@ -9,7 +9,7 @@ tags: ["人事副業", "採用担当", "経歴別", "採用実務", "工程"]
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-saiyo-tantou-fukugyo"
-related: ["fukugyo-rpo-keikensha-fukugyo", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
+related: ["fukugyo-saiyo-tantou-tanka", "fukugyo-rpo-keikensha-fukugyo", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo"]
 ---
 
 企業の採用担当として、求人票を書き、媒体に出し、スカウトを送り、応募者に連絡し、日程を組み、面接に同席し、内定を出し、入社の準備をしてきた。この経験は、副業で売れるのか。採用担当の仕事は幅が広く、「何でもやってきた」ことが、かえって何を売ればよいか分からない原因になります。結論を先に書くと、**採用担当の経験は、「募集から入社までの全工程を、自分の手で、同時に、回してきた」型で売れます。売れるのは、「工程ごとの実務そのもの」「工程の間の詰まりを見つける目」「現場と候補者の両方への連絡の型」「一人で回すための段取り」の四つです。人事の部門が小さい会社の副業案件は、その多くが「工程の一部を、すぐに、手を動かして回してほしい」というもので、採用担当の経験はその依頼に最も近いところにあります。「採用をやっていました」ではなく、「工程のどこを頼まれても、翌週から回せる」と売ります。**スカウトを軸にした社内リクルーターの売り方は[社内リクルーターが副業でできること](/media/fukugyo-shanai-recruiter-fukugyo/)に、新卒採用の経験は[新卒採用担当が副業でできること](/media/fukugyo-shinsotsu-tantou-fukugyo/)に、採用マネージャーの経験は[採用マネージャーが副業でできること](/media/fukugyo-saiyo-manager-fukugyo/)にまとめています。

@@ -9,7 +9,7 @@ tags: ["人事副業", "教育機関", "学校法人", "経歴別", "専門職�
 pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "fukugyo-kyouiku-jinji-fukugyo"
-related: ["fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo", "fukugyo-chusho-jinji-fukugyo"]
+related: ["fukugyo-kyouiku-jinji-tanka", "fukugyo-agent-ca-fukugyo", "fukugyo-agent-ra-fukugyo", "fukugyo-chro-fukugyo"]
 ---
 
 学校法人や大学、専門学校の人事として、教員の公募を回し、職員の採用と異動を扱い、規程に沿った手続きと委員会の運営をし、年度の暦に合わせて人事を動かしてきた。この経験は、民間の会社が多い人事の副業で売れるのか。教育機関の人事は、民間とは進め方が違い、そのまま通じないと感じる人が多いところです。結論を先に書くと、**教育機関の人事の経験は、「年度の暦で動き、資格と専門性で人を見て、公募と規程と委員会で決めてきた」型で売れます。売れるのは、「専門職の採用の要件づくり」「年度の計画で募集を回す設計」「規程と書面で公平に選ぶ手順」「教員と職員という二つの人事を扱う目」の四つです。民間の会社でも、資格や専門性で人を見る採用、年度や期の計画で回す採用、手順の公平さが問われる採用はあり、そこで教育機関の型が効きます。「学校の人事でした」ではなく、「専門職を、公平な手順で、年度の暦に合わせて採る」と売ります。**医療・介護の人事の経験は[医療・介護の人事が副業でできること](/media/fukugyo-iryou-jinji-fukugyo/)に、業界を絞る戦い方は[業界特化という戦い方](/media/fukugyo-gyoukai-tokka/)に、人事企画の経験は[人事企画が副業でできること](/media/fukugyo-jinji-kikaku-fukugyo/)にまとめています。

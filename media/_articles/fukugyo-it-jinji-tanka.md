@@ -9,7 +9,7 @@ tags: ["人事副業", "IT企業", "スカウト", "単価", "個人情報"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "fukugyo-it-jinji-tanka"
-related: ["fukugyo-it-jinji-fukugyo", "fukugyo-chusho-jinji-tanka", "fukugyo-daikigyo-jinji-tanka", "fukugyo-eigyo-kara-fukugyo"]
+related: ["fukugyo-it-jinji-fukugyo", "fukugyo-saiyo-tantou-tanka", "fukugyo-chusho-jinji-tanka", "fukugyo-daikigyo-jinji-tanka"]
 sources:
   - name: "e-Gov法令検索「職業安定法」（第5条の5）"
     url: "https://laws.e-gov.go.jp/law/322AC0000000141"
