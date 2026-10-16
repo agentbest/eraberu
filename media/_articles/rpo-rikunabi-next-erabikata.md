@@ -9,7 +9,7 @@ tags: ["リクナビNEXT", "採用代行", "選び方", "見積もり", "Indeed 
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-rikunabi-next-erabikata"
-related: ["rpo-rikunabi-next-henshinritsu", "rpo-rikunabi-next-hiyou", "rpo-rikunabi-next-shippai", "rpo-rikunabi-next-scout-bunmen"]
+related: ["rpo-rikunabi-next-henshinritsu", "rpo-rikunabi-next-hiyou", "rpo-rikunabi-next-shippai", "rpo-rikunabi-next-unyou-daikou"]
 sources:
   - name: "【公式】リクナビNEXTに求人広告の掲載をご検討中の方へ"
     url: "https://next.rikunabi.com/assets/lp/jobpost/index.html"

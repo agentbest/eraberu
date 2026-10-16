@@ -9,7 +9,7 @@ tags: ["エン転職", "返信率", "採用代行", "デイリースカウト", 
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-en-tenshoku-henshinritsu"
-related: ["rpo-en-tenshoku-scout-bunmen", "rpo-en-tenshoku-hiyou", "rpo-en-tenshoku-unyou-daikou", "rpo-ambi-henshinritsu"]
+related: ["rpo-en-tenshoku-scout-bunmen", "rpo-en-tenshoku-erabikata", "rpo-en-tenshoku-hiyou", "rpo-en-tenshoku-shippai"]
 sources:
   - name: "エン転職の「スカウト特典」とは？ 内容やメリット、効果などを解説"
     url: "https://saiyo.employment.en-japan.com/blog/entensyoku-scouting-benefits"

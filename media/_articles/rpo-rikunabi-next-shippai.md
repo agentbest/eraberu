@@ -9,7 +9,7 @@ tags: ["リクナビNEXT", "採用代行", "失敗", "Indeed PLUS", "運用"]
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-rikunabi-next-shippai"
-related: ["rpo-rikunabi-next-erabikata", "rpo-rikunabi-next-henshinritsu", "rpo-rikunabi-next-hiyou", "rpo-rikunabi-next-scout-bunmen"]
+related: ["rpo-rikunabi-next-erabikata", "rpo-rikunabi-next-henshinritsu", "rpo-rikunabi-next-hiyou", "rpo-rikunabi-next-unyou-daikou"]
 sources:
   - name: "【公式】リクナビNEXTに求人広告の掲載をご検討中の方へ"
     url: "https://next.rikunabi.com/assets/lp/jobpost/index.html"

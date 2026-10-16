@@ -9,7 +9,7 @@ tags: ["リクナビNEXT", "返信率", "採用代行", "Indeed PLUS", "アプ�
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-rikunabi-next-henshinritsu"
-related: ["rpo-rikunabi-next-erabikata", "rpo-rikunabi-next-hiyou", "rpo-rikunabi-next-shippai", "rpo-rikunabi-next-scout-bunmen"]
+related: ["rpo-rikunabi-next-erabikata", "rpo-rikunabi-next-hiyou", "rpo-rikunabi-next-shippai", "rpo-rikunabi-next-unyou-daikou"]
 sources:
   - name: "【公式】リクナビNEXTに求人広告の掲載をご検討中の方へ"
     url: "https://next.rikunabi.com/assets/lp/jobpost/index.html"

@@ -9,7 +9,7 @@ tags: ["エン転職", "スカウト文面", "採用代行", "デイリースカ
 pubDate: 2026-10-16
 reviewedAt: 2026-10-16
 slug: "rpo-en-tenshoku-scout-bunmen"
-related: ["rpo-en-tenshoku-henshinritsu", "rpo-en-tenshoku-hiyou", "rpo-en-tenshoku-unyou-daikou", "rpo-ambi-scout-bunmen"]
+related: ["rpo-en-tenshoku-henshinritsu", "rpo-en-tenshoku-erabikata", "rpo-en-tenshoku-hiyou", "rpo-en-tenshoku-shippai"]
 sources:
   - name: "エン転職で中途採用をお考えの企業・法人様へ【公式】"
     url: "https://saiyo.employment.en-japan.com/"
