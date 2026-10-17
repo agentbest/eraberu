@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="/media/assets/media.css">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://eraberusaiyodaiko.com/media/scout-rikunabi-next-unyou-sekkei/"},"url":"https://eraberusaiyodaiko.com/media/scout-rikunabi-next-unyou-sekkei/","headline":"リクナビNEXTのスカウト運用設計｜送信数・時間帯・追客","description":"リクナビNEXTに「スカウト」という名称の機能はありません。条件で配信される「オファー」と、匿名レジュメを見て送る「ダイレクトオファー」の二層構造です。この違いから運用を設計します。","inLanguage":"ja","datePublished":"2026-09-24","dateModified":"2026-09-24","author":{"@type":"Person","name":"松岡 良次","url":"https://www.agent-best.net/profile/"},"publisher":{"@type":"Organization","name":"株式会社エージェントベスト","url":"https://www.agent-best.net/"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://eraberusaiyodaiko.com/media/scout-rikunabi-next-unyou-sekkei/"},"url":"https://eraberusaiyodaiko.com/media/scout-rikunabi-next-unyou-sekkei/","headline":"リクナビNEXTのスカウト運用設計｜送信数・時間帯・追客","description":"リクナビNEXTに「スカウト」という名称の機能はありません。条件で配信される「オファー」と、匿名レジュメを見て送る「ダイレクトオファー」の二層構造です。この違いから運用を設計します。","inLanguage":"ja","datePublished":"2026-09-24","dateModified":"2026-10-17","author":{"@type":"Person","name":"松岡 良次","url":"https://www.agent-best.net/profile/"},"publisher":{"@type":"Organization","name":"株式会社エージェントベスト","url":"https://www.agent-best.net/"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://eraberusaiyodaiko.com/"},{"@type":"ListItem","position":2,"name":"メディア","item":"https://eraberusaiyodaiko.com/media/"},{"@type":"ListItem","position":3,"name":"スカウト代行","item":"https://eraberusaiyodaiko.com/media/scout/"},{"@type":"ListItem","position":4,"name":"中途媒体別","item":"https://eraberusaiyodaiko.com/media/hub/scout-baitai/"},{"@type":"ListItem","position":5,"name":"リクナビNEXTのスカウト運用設計｜送信数・時間帯・追客","item":"https://eraberusaiyodaiko.com/media/scout-rikunabi-next-unyou-sekkei/"}]}</script>
 <!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
@@ -50,12 +50,17 @@
   <h1>リクナビNEXTのスカウト運用設計｜送信数・時間帯・追客</h1>
   <p class="meta">
     <a class="meta__hub" href="/media/hub/scout-baitai/">中途媒体別</a><span class="chip">リクナビNEXT</span>
-    <span class="meta__date">更新日 2026-09-24</span>
+    <span class="meta__date">更新日 2026-10-17</span>
   </p>
-  <nav class="toc" aria-label="目次"><p class="toc__t">目次</p><ol><li><a href="#h1">送り始める前の週に、構造と受け口を決める</a></li><li><a href="#h2">1か月目は二層を並行で動かし、経路別に記録する</a></li><li><a href="#h3">2か月目は、オファーが残る期間と掲載期間をそろえる</a></li><li><a href="#h4">3か月目は、見えている母集団を読み直して配分を決める</a></li><li><a href="#h5">まとめ</a></li><li><a href="#h6">よくある質問</a></li></ol></nav>
+  <nav class="toc" aria-label="目次"><p class="toc__t">目次</p><ol><li><a href="#h1">先に確認：企業側の入口はIndeed PLUS経由に変わっている</a></li><li><a href="#h2">送り始める前の週に、構造と受け口を決める</a></li><li><a href="#h3">1か月目は二層を並行で動かし、経路別に記録する</a></li><li><a href="#h4">2か月目は、オファーが残る期間と掲載期間をそろえる</a></li><li><a href="#h5">3か月目は、見えている母集団を読み直して配分を決める</a></li><li><a href="#h6">まとめ</a></li><li><a href="#h7">よくある質問</a></li></ol></nav>
   <div class="body">
 <p>リクナビNEXTの運用を「スカウトの送信計画」として組むと、途中で噛み合わなくなります。公式のヘルプセンターに「スカウト」という名称の機能は出てこず、代わりに条件で配信される<strong>オファー</strong>と、匿名レジュメを見て送るダイレクトオファーの二つがあるからです。この記事では、導入してから3か月のあいだに何をどの順番で決めるかを、時期ごとに区切って整理します。送信数・時間帯・追客も、それぞれが効いてくる時期に置きました。以下は2026年9月24日時点のヘルプセンターおよび候補者向けサイトの記載に基づく整理です。</p>
-<h2 id="h1">送り始める前の週に、構造と受け口を決める</h2>
+<h2 id="h1">先に確認：企業側の入口はIndeed PLUS経由に変わっている</h2>
+<p>3か月の計画に入る前に、企業側の入口を確かめておきます。この記事の機能の説明は候補者向けのヘルプセンターの記載にもとづいていますが、企業が求人を出す側の仕組みは、2026年10月17日時点の公式の掲載案内で次のように説明されています。</p>
+<div class="tw"><table><thead><tr><th>項目</th><th>公式の掲載案内の記載</th></tr></thead><tbody><tr><td>投稿の窓口</td><td>リクナビNEXTはIndeed PLUSの連携求人サイトで、求人投稿はIndeed PLUS連携ATSから行う。Airワーク 採用管理はその一つ</td></tr><tr><td>掲載先</td><td>Indeedが最も相応しいと判断した連携求人サイトへ自動で掲載され、リクナビNEXTに掲載されるとは限らない</td></tr><tr><td>費用</td><td>クリック課金で、求人がクリックされた分だけ費用がかかる。有料広告掲載は3,000円から使え、予算上限を設定でき、いつでも停止できる</td></tr><tr><td>アプローチ</td><td>求人要件に近い候補者へ自動で求人情報を送る自動アプローチ（オフにできる）と、候補者を検索して1通ずつ送る手動アプローチがある。アプローチ機能導入済みのサービスへ掲載が決まった場合のみ使え、アプローチを通じた求人の閲覧もクリック課金の予算から費消される</td></tr><tr><td>公開</td><td>求人は審査に通過した場合のみ公開される</td></tr></tbody></table></div>
+<p>候補者の画面に届く「オファー」「ダイレクトオファー」と、企業側の自動アプローチ・手動アプローチがどう対応するかは、掲載案内からは読み取れません。また、過去にリクナビNEXTへ掲載したことのある会社は担当の代理店へ問い合わせるよう案内されています。自社がどの入口で、どの機能を使えるのかを、運営か代理店に先に確かめてください。</p>
+<p>運用設計への影響は、「掲載期間」の代わりに「予算」で計画を区切ることです。費用はクリックされた分だけで、いつでも停止できるので、以下で「掲載の開始と終了」と書いているところは、予算を使い始める時期と止める時期に読み替えてください。アプローチを通じた閲覧も予算から費消されるため、送る量を決めるときは予算の残りとあわせて見ます。</p>
+<h2 id="h2">送り始める前の週に、構造と受け口を決める</h2>
 <p>最初の週に送信は始めません。先に確認するのは、この媒体の二つの機能が企業から見てどう違うかです。ヘルプの「リクナビNEXT 機能のご紹介」では、オファーをONにすると「企業が設定した条件等に基づいて」届き、ダイレクトオファーをONにすると「匿名のレジュメが公開され」、求人企業からのオファーを受けられると説明されています。前者は条件で配信されるもの、後者はレジュメを読んで送るものです。</p>
 <p>オファーの性格も、この週に社内でそろえておきます。「オファーが届いたのに選考を受けたら不合格だった」という記事には、オファーは匿名状態のレジュメと企業が設定した条件が合致した場合に届くこと、オファー経由で応募しても最終的な採否は総合的な判断で行われ、「選考の通過をお約束するものではありません」ということが書かれています。ビズリーチのスカウトが「面談もしくは面接確約のメッセージ」と定義されているのとは反対の設計です。<strong>会う約束をしない媒体</strong>だと分かっていれば、面接官の枠から送信数を逆算する組み方は、ここでは主役になりません。</p>
 <p>もう一つ、応募が来たときの受け口を決めます。ヘルプには、応募後の連絡方法は企業によって異なり、リクナビNEXT上のメッセージで連絡するケースが多い一方、応募時に送信された電話番号やメールアドレスに連絡する場合もあると書かれています。企業側の設定によって候補者がサイト上から返信できない場合は、メールから直接返信するよう候補者に案内されています。どちらで受けるかと、誰が何日おきに確認するかを、送り始める前に決めておきます。</p>
@@ -65,21 +70,21 @@
 <p>媒体の仕組みに合わせた3か月の運用計画を、採用の実務を知る担当者と組み立てられます</p>
 <a href="/#consult">無料で相談する</a>
 </aside>
-<h2 id="h2">1か月目は二層を並行で動かし、経路別に記録する</h2>
+<h2 id="h3">1か月目は二層を並行で動かし、経路別に記録する</h2>
 <p>1か月目の作業は、二つの層で中身が違います。条件で配信される層では、企業がどう書くかより条件をどう設定するかが結果を左右します。設定した条件に候補者の登録情報が合致すれば配信されるので、条件が狭ければ届く人数は減ります。レジュメを見て送る層では、検索と個別の文面作成が作業の中心になります。</p>
 <p>配分は職種で分けると扱いやすくなります。定番の職種は条件配信に寄せて、求人内容の整備に時間をかけます。要件が狭く、人を特定したい職種はダイレクトオファーに寄せて、個別の文面を作ります。どちらの層から来た応募かを最初から分けて記録しておかないと、3か月目に配分を見直す材料が残りません。</p>
 <p>ダイレクトオファーを送る順番については、ヘルプに手がかりがあります。「オファーとは」の記事は候補者に向けて、「レジュメの内容や更新日が最新であるほど、企業の目に留まる確率が上がります」と案内しています。企業側から読めば、更新日の新しい候補者から見ていく運用が想定されているということです。送信の時間帯を細かく気にするより、<strong>更新日順に何日おきに回すか</strong>を決めるほうが実務的です。</p>
 <p>見える情報の範囲も、この時期に文面の書き手と共有します。ダイレクトオファーの利用時に公開されるのは「学歴や資格、職歴、都道府県、生年月日から自動算出された年齢等」で、メールアドレス、氏名、生年月日、住所、電話番号、性別などは非公開です。これらは候補者自身が公開設定に変更できない項目とされています。年齢は見えますが、ヘルプにも2007年10月1日施行の雇用対策法で募集・採用における年齢制限が原則禁止となった旨と例外事由が載っているので、年齢で絞る運用にはしないほうが安全です。個別の判断は専門家にご確認ください。</p>
-<h2 id="h3">2か月目は、オファーが残る期間と掲載期間をそろえる</h2>
+<h2 id="h4">2か月目は、オファーが残る期間と掲載期間をそろえる</h2>
 <p>2か月目に効いてくるのが、オファーの保持期間です。「オファーを待つ」の記事には、掲載期間は3ヵ月間で、受信から3ヵ月が経過すると自動で削除されると書かれています。さらに、求人の掲載を終了したオファーはリスト上に表示されなくなるとも記載されています。1か月目に送ったオファーは、自社が掲載を止めた時点で候補者の画面から消えるということです。</p>
-<p>応募の締め切りも同じ構造です。ヘルプには、オファーへの応募期限はないものの、応募が集まり次第求人の掲載は終了すると書かれています。候補者にとっては、期限ではなく掲載の終了が実質的な締め切りになります。そのため2か月目には、掲載の開始と終了の予定と、送信済みのオファーの対応を一覧にしておきます。</p>
-<p>追客は、確約のない媒体なので返信を待つ運用が前提です。送信の上限や料金は候補者向けの公開情報からは読み取れないため、何通まで追加で送れるかは商談で確認する項目になります。そのうえで決めておくことを表にしました。</p>
+<p>応募の締め切りも同じ構造です。ヘルプには、オファーへの応募期限はないものの、応募が集まり次第求人の掲載は終了すると書かれています。候補者にとっては、期限ではなく掲載の終了が実質的な締め切りになります。そのため2か月目には、掲載を止める予定（予算を止める時期）と、送信済みのオファーの対応を一覧にしておきます。</p>
+<p>追客は、確約のない媒体なので返信を待つ運用が前提です。公式の掲載案内では、アプローチを通じた求人の閲覧もクリック課金の予算から費消されるとされているので、追加で送るほど予算を使います。月の予算のうち追客にどれだけ回すかを先に決め、そのうえで決めておくことを表にしました。</p>
 <div class="tw"><table><thead><tr><th>決めること</th><th>決めないと起きること</th></tr></thead><tbody><tr><td>サイト上のメッセージを使うか、メールに寄せるか</td><td>候補者の返信先が分かれ、見落としが出る</td></tr><tr><td>返信を受け取る担当と確認頻度</td><td>手段が二つあると、どちらも見ていない日ができる</td></tr><tr><td>オファー送信から掲載終了までの期間</td><td>候補者が応募しようとしたときに求人が消えている</td></tr><tr><td>送信済みオファーの一覧と掲載状況の突き合わせ</td><td>掲載終了で見えなくなった分を数に入れてしまう</td></tr></tbody></table></div>
 <p>メッセージは、送受信したものが初回受信日から1年間保管されるとヘルプにあります。返信の履歴は残りますが、手段を二つにすると確認の場所も二つになります。<strong>追客の前に受け口を一本にする</strong>ほうが、2か月目の取りこぼしは減ります。</p>
 <h3>エラベルの見解</h3>
 <p>確約のない媒体と確約のある媒体を、同じ運用表で管理しようとすると無理が出ます。ビズリーチのように送信が面談の約束になる媒体では、面接官の枠が上限を決めます。リクナビNEXTのように条件配信が中心の媒体では、求人内容の出来が上限を決めます。複数の媒体を併用している会社ほど、「送信数」という同じ列に両方を並べて比べてしまいがちです。</p>
 <p>担当者を選ぶときも、確約型の媒体の実績しかない人に任せると、送信数を追う癖がそのまま持ち込まれることがあります。面談で聞くべきなのは通数の実績ではなく、「条件配信の媒体で、求人内容を何回直して応募がどう動いたか」を話せるかどうかです。確約側の設計は<a href="/media/scout-bizreach-unyou-sekkei/">ビズリーチのスカウト運用設計</a>にまとめました。</p>
-<h2 id="h4">3か月目は、見えている母集団を読み直して配分を決める</h2>
+<h2 id="h5">3か月目は、見えている母集団を読み直して配分を決める</h2>
 <p>3か月目に入ると、条件に合致する人数の推移が見えてきます。ここで注意したいのは、その人数をそのまま市場の人数と読まないことです。この媒体では、候補者の側に企業からのアプローチを止める手段が複数あります。どの手段がどこまで止めるのかを整理すると、次のようになります。</p>
 <div class="tw"><table><thead><tr><th>候補者側の設定</th><th>企業から見た影響</th></tr></thead><tbody><tr><td>オファーに関する設定のOFF</td><td>レジュメが非公開になり、応募しない限り情報は企業に伝わらない</td></tr><tr><td>企業ブロック設定</td><td>特定の企業からの検索・閲覧・オファー送信が止まる</td></tr><tr><td>届いたオファーの削除・辞退</td><td>一覧から消える。辞退時に特段の対応は求められていない</td></tr></tbody></table></div>
 <p>企業ブロック設定について、ヘルプは現在や過去の勤務先等に対してレジュメを非公開にできる機能だと説明し、必要に応じて関連会社や取引先等も併せて確認するよう候補者に案内しています。同業の大手ほど、その職種の候補者から見えていない可能性があります。なお、転職エージェントからの紹介としてブロックした企業のオファーが届く可能性はあるものの、求人企業にはレジュメや転職状況は公開されないとも補足されています。企業と転職エージェントの双方がオファーを送る媒体だという点も、母集団を読むときの前提です。</p>
@@ -94,18 +99,18 @@
 <h3>エラベルの見解</h3>
 <p>3か月目の振り返りで「母集団が少ない」という結論が出たとき、すぐに条件を広げる前に確認してほしいことがあります。企業から見えているのは、オファーの設定をONにしていて、自社をブロックしていない人だけです。条件をいくら広げても、ブロックされている層には届きません。</p>
 <p>私たちが担当者を紹介するときも、この媒体では「条件を何回変えたか」より「条件を変えても人数が動かなかったときに、何を疑ったか」を聞くようにしています。条件の問題なのか、見えていない層の問題なのかを切り分けられる担当者なら、同業の大手でも打ち手を誤りにくいからです。人数が動かないなら、条件配信の求人内容を厚くして、候補者が自分から見つける経路に比重を移すほうが先です。</p>
-<h2 id="h5">まとめ</h2>
+<h2 id="h6">まとめ</h2>
 <ul><li>リクナビNEXTには「スカウト」という名称の機能はなく、条件で配信されるオファーと、匿名レジュメを見て送るダイレクトオファーの二層で運用を組む</li><li>送り始める前の週に、二層の役割分担と、応募後の連絡手段・確認の担当を決めておく</li><li>1か月目は二層を並行で動かし、経路別に応募を記録する。ダイレクトオファーは更新日の新しい層から回す</li><li>2か月目は、受信から3ヵ月で消えるオファーと、掲載終了で見えなくなるオファーを踏まえて、掲載期間と送信をそろえる</li><li>3か月目は、見えている人数が設定ONかつ非ブロックの人だけだと踏まえて、二層の配分を決め直す</li></ul>
-<h2 id="h6">よくある質問</h2>
+<h2 id="h7">よくある質問</h2>
 <h3>Q. リクナビNEXTのオファーを送れば、面接に来てもらえますか</h3>
 <p>オファーは面接を約束するものではありません。ヘルプには、オファー経由で応募しても採否は総合的な判断で行われ、選考の通過を約束するものではないと明記されています。返信を待つ運用が前提になります。</p>
 <h3>Q. 送信する時間帯は何時がよいですか</h3>
 <p>時間帯ごとの反応を示す数値は、公開情報からは確認できません。ヘルプにはレジュメの更新日が新しいほど企業の目に留まりやすいという案内があるため、時間帯より更新日順に回す頻度を決めるほうが実務的です。</p>
 <h3>Q. 送ったオファーはいつまで候補者に見えていますか</h3>
 <p>「オファーを待つ」への掲載期間は3ヵ月間で、受信から3ヵ月が経過すると自動で削除されると案内されています。また、求人の掲載を終了したオファーはリスト上に表示されなくなります。掲載の終了時期と送信の時期をそろえて計画してください。</p>
-<p>※機能・料金・提供条件は変わります。掲載した内容は2026年9月24日時点のヘルプセンターの記載であり、法人としての利用条件は運営の案内をご確認ください。</p>
+<p>※機能・料金・提供条件は変わります。掲載した内容は2026年9月24日時点のヘルプセンターの記載と、2026年10月17日時点の公式の掲載案内の記載であり、法人としての利用条件は運営の案内をご確認ください。</p>
   </div>
-  <section class="sources"><strong>出典</strong><ul><li><a href="https://help.next.rikunabi.com/s/article/000025513" target="_blank" rel="noopener nofollow">オファーとは｜リクナビNEXT よくあるご質問</a></li><li><a href="https://help.next.rikunabi.com/s/article/000025515" target="_blank" rel="noopener nofollow">リクナビNEXT 機能のご紹介｜よくあるご質問</a></li><li><a href="https://help.next.rikunabi.com/s/article/000025506" target="_blank" rel="noopener nofollow">「オファーを待つ」について｜リクナビNEXT よくあるご質問</a></li><li><a href="https://help.next.rikunabi.com/s/article/000025475" target="_blank" rel="noopener nofollow">企業へはどんなレジュメ情報が公開されている｜リクナビNEXT よくあるご質問</a></li><li><a href="https://help.next.rikunabi.com/s/article/000025477" target="_blank" rel="noopener nofollow">「企業ブロック設定」とは｜リクナビNEXT よくあるご質問</a></li><li><a href="https://help.next.rikunabi.com/s/article/000025443" target="_blank" rel="noopener nofollow">オファーが届いたのに選考を受けたら不合格だった｜リクナビNEXT よくあるご質問</a></li><li><a href="https://help.next.rikunabi.com/s/article/000025519" target="_blank" rel="noopener nofollow">オファーに関する表示について｜リクナビNEXT よくあるご質問</a></li><li><a href="https://help.next.rikunabi.com/s/article/000032386" target="_blank" rel="noopener nofollow">マッチ分析機能とは？｜リクナビNEXT よくあるご質問</a></li><li><a href="https://next.rikunabi.com/" target="_blank" rel="noopener nofollow">リクナビNEXT</a></li></ul><p class="reviewed">本記事は 2026-09-24 時点の公開情報にもとづいて作成しています。</p></section>
+  <section class="sources"><strong>出典</strong><ul><li><a href="https://help.next.rikunabi.com/s/article/000025513" target="_blank" rel="noopener nofollow">オファーとは｜リクナビNEXT よくあるご質問</a></li><li><a href="https://help.next.rikunabi.com/s/article/000025515" target="_blank" rel="noopener nofollow">リクナビNEXT 機能のご紹介｜よくあるご質問</a></li><li><a href="https://help.next.rikunabi.com/s/article/000025506" target="_blank" rel="noopener nofollow">「オファーを待つ」について｜リクナビNEXT よくあるご質問</a></li><li><a href="https://help.next.rikunabi.com/s/article/000025475" target="_blank" rel="noopener nofollow">企業へはどんなレジュメ情報が公開されている｜リクナビNEXT よくあるご質問</a></li><li><a href="https://help.next.rikunabi.com/s/article/000025477" target="_blank" rel="noopener nofollow">「企業ブロック設定」とは｜リクナビNEXT よくあるご質問</a></li><li><a href="https://help.next.rikunabi.com/s/article/000025443" target="_blank" rel="noopener nofollow">オファーが届いたのに選考を受けたら不合格だった｜リクナビNEXT よくあるご質問</a></li><li><a href="https://help.next.rikunabi.com/s/article/000025519" target="_blank" rel="noopener nofollow">オファーに関する表示について｜リクナビNEXT よくあるご質問</a></li><li><a href="https://help.next.rikunabi.com/s/article/000032386" target="_blank" rel="noopener nofollow">マッチ分析機能とは？｜リクナビNEXT よくあるご質問</a></li><li><a href="https://next.rikunabi.com/" target="_blank" rel="noopener nofollow">リクナビNEXT</a></li><li><a href="https://next.rikunabi.com/assets/lp/jobpost/index.html" target="_blank" rel="noopener nofollow">【公式】リクナビNEXTに求人広告の掲載をご検討中の方へ</a></li></ul><p class="reviewed">本記事は 2026-10-17 時点の公開情報にもとづいて作成しています。</p></section>
   <aside class="nextbox"><p class="nextbox__t">スカウト代行の検討を進めている方へ</p>
       <p class="nextbox__l">同じ「スカウト代行」でも、担当者によって進め方も成果も大きく変わります。エラベルでは、担当者の経歴と実績を見てから選べます。</p>
       <ul><li><a href="/#consult">担当者を選べる採用代行に無料で相談する →</a></li>
