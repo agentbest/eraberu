@@ -586,6 +586,12 @@
           </select>
         </div>
         <div class="fld">
+          <label for="f-how">エラベルを知ったきっかけ<span class="opt">任意</span></label>
+          <select id="f-how" name="how">
+            <option value="">選択してください</option><option>検索（Google・Yahoo!など）</option><option>生成AI（ChatGPT・Gemini・Claudeなど）</option><option>記事・コラムを読んで</option><option>SNS（X・note・LinkedInなど）</option><option>ご紹介・口コミ</option><option>採用媒体・パートナー企業から</option><option>以前から知っていた・取引がある</option><option>その他</option>
+          </select>
+        </div>
+        <div class="fld">
           <label for="f-note">ご相談内容<span class="opt">任意</span></label>
           <textarea id="f-note" name="note" placeholder="うまくいっていないこと、これまで試したこと、社内の採用体制などを書いていただけると、当日の話が早くなります。"></textarea>
         </div>
@@ -647,6 +653,12 @@
   var FORM_ACTION = 'https://docs.google.com/forms/d/e/1FAIpQLSd8Zk9Rxsg292K8R_ttnRYa5d4uXMBkSFrnlEVTFts6feRx6g/formResponse';
   var ENTRY = { company:'entry.1620407772', name:'entry.2140471957', email:'entry.417521654', message:'entry.1952858857' };
   var SOURCE = 'エラベル（eraberusaiyodaiko.com）';
+  // 流入元：最初に来たときの参照元（他サイト）か utm_source をタブ単位で覚えて本文に付ける
+  (function(){try{if(sessionStorage.getItem('ab_ref'))return;
+    var q='';try{q=new URLSearchParams(location.search).get('utm_source')||'';}catch(e){}
+    var r=document.referrer,h='';try{h=r?new URL(r).hostname:'';}catch(e){}
+    var v=q?('utm_source='+q+(h&&h!==location.hostname?'（'+h+'）':'')):(h&&h!==location.hostname?h:(r?'':'参照元なし'));
+    if(v)sessionStorage.setItem('ab_ref',v+' → '+location.pathname);}catch(e){}})();
 
   var form   = document.getElementById('consultForm');
   var msg    = document.getElementById('formMsg');
@@ -679,6 +691,8 @@
     if(val('f-now'))   lines.push('いまの採用代行の利用状況：' + val('f-now'));
     if(val('f-note'))  lines.push('ご相談内容：\n' + val('f-note'));
     if(!lines.length)  lines.push('（採用代行の無料相談・詳細の記入なし）');
+    var ref='';try{ref=sessionStorage.getItem('ab_ref')||'';}catch(e){}
+    lines.push('');lines.push('知ったきっかけ：' + (val('f-how')||'未回答'));lines.push('流入元：' + (ref||'不明'));
 
     var data = new FormData();
     data.append(ENTRY.company, company);
