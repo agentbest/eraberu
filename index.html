@@ -638,28 +638,24 @@
     Array.prototype.forEach.call(rv,function(el){ el.classList.add('on'); });
   }
 
-  /* ---- 相談フォーム（Supabase に保存） ----
-     鍵が空のあいだは「準備中」と出ます。設定は MEMBERS_SETUP.md を参照。 */
-  var SUPABASE_URL      = 'https://pxjgtazmqousgtznolxj.supabase.co';
-  var SUPABASE_ANON_KEY = 'sb_publishable_oQ4JQWEjDSAXEvoheMfZkw_O-lHTD6Y';
+  /* ---- 相談フォーム ----
+     2026-11-03 ハチワレさん「エラベルのお問い合わせはコーポレートの企業向けフォームと同じでいい」。
+     コーポレート（www.agent-best.net/contact）・B2B LP 4本と同一の Google フォームへ送る。
+     任意項目（職種・人数・時期・利用状況）はお問い合わせ内容の本文にまとめ、
+     末尾に「お問い合わせ元：エラベル」を付けて出所が分かるようにする（他LPと同じ型）。
+     ※ Supabase の consultations テーブルは使わなくなった（残置）。 */
+  var FORM_ACTION = 'https://docs.google.com/forms/d/e/1FAIpQLSd8Zk9Rxsg292K8R_ttnRYa5d4uXMBkSFrnlEVTFts6feRx6g/formResponse';
+  var ENTRY = { company:'entry.1620407772', name:'entry.2140471957', email:'entry.417521654', message:'entry.1952858857' };
+  var SOURCE = 'エラベル（eraberusaiyodaiko.com）';
 
   var form   = document.getElementById('consultForm');
   var msg    = document.getElementById('formMsg');
   var thanks = document.getElementById('thanks');
-  var sb     = null;
 
   function val(id){ var el = document.getElementById(id); return el ? el.value.trim() : ''; }
   function show(t){ msg.textContent = t; msg.className = 'form-msg err'; }
 
-  function loadScript(src){
-    return new Promise(function(res, rej){
-      var el = document.createElement('script');
-      el.src = src; el.onload = res; el.onerror = rej;
-      document.head.appendChild(el);
-    });
-  }
-
-  form.addEventListener('submit', async function(ev){
+  form.addEventListener('submit', function(ev){
     ev.preventDefault();
     msg.className = 'form-msg';
 
@@ -668,12 +664,7 @@
     var mail    = val('f-mail');
     if(!company){ show('会社名を入力してください'); return; }
     if(!name){ show('お名前を入力してください'); return; }
-    if(!mail || mail.indexOf('@') < 1){ show('メールアドレスを正しく入力してください'); return; }
-
-    if(!SUPABASE_URL || !SUPABASE_ANON_KEY){
-      show('現在、相談フォームは準備中です。お手数ですが、もうしばらくお待ちください。');
-      return;
-    }
+    if(!mail || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(mail)){ show('メールアドレスを正しく入力してください'); return; }
 
     var btn = form.querySelector('button[type=submit]');
     btn.disabled = true; btn.textContent = '送信中…';
@@ -681,31 +672,31 @@
     var roles = [];
     Array.prototype.forEach.call(form.querySelectorAll('input[name="role"]:checked'), function(c){ roles.push(c.value); });
 
-    try{
-      if(!sb){
-        await loadScript('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js');
-        sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
-      }
-      var r = await sb.from('consultations').insert({
-        company:      company,
-        contact_name: name,
-        email:        mail,
-        roles:        roles.join(' / ') || null,
-        headcount:    val('f-count') || null,
-        timing:       val('f-when')  || null,
-        current_use:  val('f-now')   || null,
-        note:         val('f-note')  || null,
-        status:       'new'
+    var lines = [];
+    if(roles.length)   lines.push('採用したい職種：' + roles.join(' / '));
+    if(val('f-count')) lines.push('採用予定人数：' + val('f-count'));
+    if(val('f-when'))  lines.push('採用したい時期：' + val('f-when'));
+    if(val('f-now'))   lines.push('いまの採用代行の利用状況：' + val('f-now'));
+    if(val('f-note'))  lines.push('ご相談内容：\n' + val('f-note'));
+    if(!lines.length)  lines.push('（採用代行の無料相談・詳細の記入なし）');
+
+    var data = new FormData();
+    data.append(ENTRY.company, company);
+    data.append(ENTRY.name, name);
+    data.append(ENTRY.email, mail);
+    data.append(ENTRY.message, lines.join('\n') + '\n\n---\nお問い合わせ元：' + SOURCE);
+
+    fetch(FORM_ACTION, { method:'POST', mode:'no-cors', body:data })
+      .then(function(){
+        form.style.display = 'none';
+        thanks.style.display = 'block';
+        thanks.scrollIntoView({ behavior:'smooth', block:'center' });
+      })
+      .catch(function(){
+        show('送信に失敗しました。時間をおいて、もう一度お試しください。');
+        btn.disabled = false;
+        btn.innerHTML = 'この内容で相談する <span class="arw">&rarr;</span>';
       });
-      if(r.error) throw r.error;
-      form.style.display = 'none';
-      thanks.style.display = 'block';
-    }catch(e){
-      console.warn(e);
-      show('送信に失敗しました。時間をおいて、もう一度お試しください。');
-      btn.disabled = false;
-      btn.innerHTML = 'この内容で相談する <span class="arw">&rarr;</span>';
-    }
   });
 })();
 </script>
