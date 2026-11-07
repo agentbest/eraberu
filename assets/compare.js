@@ -8,6 +8,8 @@
     [...rows, ...services].forEach(el => { el.hidden = value !== 'all' && !el.dataset.tags.split(' ').includes(value); });
     document.getElementById('result-count').textContent = `${rows.filter(el => !el.hidden).length}サービスを表示`;
   }));
+  const initialFilter = new URLSearchParams(window.location.search).get('need');
+  if (initialFilter) buttons.find(b => b.dataset.filter === initialFilter)?.click();
   document.querySelectorAll('[data-service]').forEach(a => a.addEventListener('click', () => {
     if (typeof window.gtag === 'function') window.gtag('event', 'service_outbound', {service: a.dataset.service, link_url: a.href});
   }));
