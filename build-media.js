@@ -106,9 +106,9 @@ const TAG_BY_LABEL = new Map(TAGS.map(t => [t.label, t]));
    ⚠ 記事の読者と違うCTAを出すと問い合わせが噛み合わなくなる。frontmatter の reader で必ず出し分ける。
    ⚠ 企業向けの打合せ予約（Timerex）はフォーム送信後に案内する方針。ここから直リンクしない。 */
 const CTA = {
-  company: { href: '/#consult', label: '無料で相談する',
-             lead: '採用の進め方を、担当者と整理しませんか', sub: '担当者を選べる採用代行「エラベル」。基準を満たした担当者だけをご紹介します。相談は無料、費用は採用が決まったときのみ。',
-             alt: { href: '/#fee', label: '費用を見る' } },
+  company: { href: '/#compare', label: '採用代行を比較する',
+             lead: '自社に合う採用代行を、比較して選ぶ', sub: 'エラベルは採用代行・RPOの比較メディアです。料金と対応業務から各社を比較できます。運営会社のスカウト代行も、自社サービスと明示して紹介しています。',
+             alt: { href: '/#consult', label: '運営会社のスカウト代行を見る' } },
   person:  { href: '/partner.html', label: '担当者として登録する',
              lead: '人事の経験を、副業で活かしませんか', sub: '稼働時間も単価もご自身で決められます。エラベルは企業とあなたをつなぐ窓口です。',
              alt: { href: '/media/fukugyo/', label: '人事副業の記事を読む' } },
@@ -275,7 +275,6 @@ function head(o) {
 <meta property="og:description" content="${escAttr(o.desc)}">
 <meta property="og:url" content="${escAttr(canon)}">
 <meta property="og:locale" content="ja_JP">
-<meta property="og:image" content="${SITE}/assets/ogp.png">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="/media/assets/media.css">
@@ -296,11 +295,11 @@ ${ld.map(x => `<script type="application/ld+json">${JSON.stringify(x)}</script>`
     <nav class="nav-links">
       <a href="/media/">メディア</a>
       ${PILLARS.map(p => `<a href="/media/${p.key}/">${esc(p.name)}</a>`).join('\n      ')}
-      <a href="/partner.html">担当者として登録</a>
+      <a href="/#compare">サービス比較</a>
     </nav>
-    <a class="btn btn-primary cta-mini" href="/#consult">無料で相談する</a>
+    <a class="btn btn-primary cta-mini" href="/#compare">採用代行を比較する</a>
   </div>
-</header>`;
+</header><div class="wrap" style="padding-top:12px;font-size:11px;color:#4C566A">採用代行・RPO比較メディア。運営会社のスカウト代行も紹介しています。<a href="/editorial.html" style="text-decoration:underline">掲載・広告ポリシー</a></div>`;
 }
 
 function foot() {
@@ -309,15 +308,15 @@ function foot() {
     <div class="foot-in">
       <div>
         <div class="foot-brand">エラベル</div>
-        <div style="margin-top:6px">採用代行の担当者を選べる窓口</div>
+        <div style="margin-top:6px">採用代行・RPO比較メディア</div>
       </div>
       <div class="foot-links">
         <a href="/media/">メディア</a>
         ${PILLARS.map(p => `<a href="/media/${p.key}/">${esc(p.name)}</a>`).join('\n        ')}
         <a href="/media/search/">記事を検索</a>
-        <a href="/#fee">費用</a>
-        <a href="/#consult">無料で相談する</a>
-        <a href="/members.html">会員サイト</a>
+        <a href="/#compare">料金比較</a>
+        <a href="/#compare">採用代行を比較する</a>
+        <a href="/editorial.html">掲載・広告ポリシー</a>
         <a href="/partner.html">担当者として登録する</a>
         <a href="/privacy.html">プライバシーポリシー</a>
         <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
@@ -371,7 +370,7 @@ function share(url, title, label) {
 function ctaBlock(reader, h2) {
   const c = CTA[reader] || CTA.company;
   const other = reader === 'person'
-    ? `<p class="cta__other">採用でお困りの企業さまは <a href="/#consult">無料で相談する →</a></p>`
+    ? `<p class="cta__other">採用でお困りの企業さまは <a href="/#compare">採用代行を比較する →</a></p>`
     : `<p class="cta__other">人事の経験を副業で活かしたい方は <a href="/partner.html">担当者として登録 →</a></p>`;
   return `<aside class="cta">
     <h2>${esc(h2 || c.lead)}</h2>
@@ -456,9 +455,9 @@ function articleHtml(a, ctx) {
           <li><a href="${hubUrl}">「${esc(hub.name)}」の記事一覧を見る →</a></li>
           <li><a href="/media/fukugyo/">人事副業の記事をすべて見る →</a></li></ul></aside>`
     : `<aside class="nextbox"><p class="nextbox__t">${esc(p.name)}の検討を進めている方へ</p>
-      <p class="nextbox__l">同じ「${esc(p.name)}」でも、担当者によって進め方も成果も大きく変わります。エラベルでは、担当者の経歴と実績を見てから選べます。</p>
-      <ul><li><a href="/#consult">担当者を選べる採用代行に無料で相談する →</a></li>
-          <li><a href="/#fee">費用を見る →</a></li>
+      <p class="nextbox__l">「${esc(p.name)}」を任せるときは、料金と業務範囲、支援体制をセットで比べましょう。各社の公式情報を整理した比較ページをご用意しています。</p>
+      <ul><li><a href="/#compare">採用代行の料金・業務範囲を比較する →</a></li>
+          <li><a href="/#compare">料金比較を見る →</a></li>
           <li><a href="${hubUrl}">「${esc(hub.name)}」の記事一覧を見る →</a></li></ul></aside>`;
 
   /* この記事のタグ（一覧ページを持っているものだけ） */
@@ -597,7 +596,7 @@ function topHtml(all, ctx) {
   ${artList(latest)}
 
   ${share('/media/', '採用と、採用を支える働き方のメディア｜エラベル', 'このページをシェア')}
-  ${ctaBlock('company', '採用の進め方を、担当者と整理しませんか')}
+  ${ctaBlock('company', '自社に合う採用代行を、比較して選ぶ')}
 </main>`
     + foot();
 }
@@ -1004,7 +1003,7 @@ function main() {
       crumbs: [{ name: 'ホーム', url: '/' }, { name: 'メディア', url: '/media/' }, { name: p.name, url: `/media/${p.key}/` }, { name: h.name }],
       links: h.pillar === 'fukugyo'
         ? `<p class="hub-links"><a href="/partner.html">担当者として登録する →</a><a href="/media/fukugyo/">人事副業の記事をすべて見る →</a></p>`
-        : `<p class="hub-links"><a href="/#consult">担当者を選べる採用代行に相談する →</a><a href="/#fee">費用を見る →</a></p>`,
+        : `<p class="hub-links"><a href="/#compare">採用代行を比較する →</a><a href="/#compare">料金比較を見る →</a></p>`,
       reader: h.pillar === 'fukugyo' ? 'person' : 'company', ctaTitle: h.pillar === 'fukugyo' ? null : `${p.name}の進め方を相談する`,
     }, list);
     urls.push(`/media/hub/${h.slug}/`);
@@ -1028,6 +1027,7 @@ function main() {
   for (let n = 2; n <= Math.ceil(all.length / 24); n++) w(`page-${n}.html`, redirectHtml('/media/'));
 
   /* sitemap（本体3ページ＋メディア。ページ送りの2ページ目以降と検索は入れない） */
+  urls.push('/editorial.html');
   all.forEach(a => urls.push(`/media/${a.slug}/`));
   fs.writeFileSync(path.join(DIR, 'sitemap.xml'),
     `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`
