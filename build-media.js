@@ -684,11 +684,11 @@ function redirectHtml(to) {
 
 /* ---------- CSS ---------- */
 const CSS = `:root{
-  --paper:#F5F6F8;--surface:#FFFFFF;--surface-2:#ECEEF2;
-  --ink:#141A24;--ink-soft:#4C566A;--ink-faint:#858F9E;
-  --line:#E2E6EC;--line-strong:#C9D0DA;
-  --accent:#E4572E;--accent-strong:#C6431D;--accent-ink:#A73716;--accent-tint:#FCE9E1;
-  --navy:#0B1A32;--on-navy:#EAF0F8;--on-navy-soft:#9CB0CB;--on-navy-line:#20324D;
+  --paper:#F8F9F5;--surface:#FFFFFF;--surface-2:#EDF1E7;
+  --ink:#122B2B;--ink-soft:#5C6B69;--ink-faint:#63756C;
+  --line:#DCE3DC;--line-strong:#B8C8BA;
+  --accent:#24584B;--accent-strong:#173F35;--accent-ink:#24584B;--accent-tint:#E9F0DE;
+  --navy:#122B2B;--on-navy:#F6FAF3;--on-navy-soft:#C5D5C7;--on-navy-line:#33534A;
   --sans:"Hiragino Kaku Gothic ProN","Hiragino Sans","Yu Gothic",YuGothic,"Noto Sans JP","Segoe UI",sans-serif;
   --mono:"SFMono-Regular","SF Mono","Cascadia Code",Consolas,"Roboto Mono",monospace;
   --maxw:1060px;--hubw:900px;--readw:760px;--radius:12px;
@@ -706,7 +706,7 @@ a{color:inherit;text-decoration:none}
 .btn-primary{background:var(--accent);color:#fff;box-shadow:0 10px 26px -10px var(--accent)}
 .btn-primary:hover{background:var(--accent-strong);transform:translateY(-1px)}
 
-header.nav{position:sticky;top:0;z-index:50;background:rgba(245,246,248,.9);
+header.nav{position:sticky;top:0;z-index:50;background:rgba(248,249,245,.94);
   backdrop-filter:saturate(180%) blur(12px);border-bottom:1px solid var(--line)}
 .nav-in{display:flex;align-items:center;justify-content:space-between;height:64px;gap:16px}
 .brand{display:flex;align-items:center;gap:11px;font-weight:800}
