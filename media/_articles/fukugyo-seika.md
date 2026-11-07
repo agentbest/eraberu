@@ -45,8 +45,8 @@ related: ["fukugyo-saitei-hoshou", "fukugyo-choka-kadou", "fukugyo-koushin", "fu
 三つが揃っていれば、成果報酬型は、自分の働きに応じた報酬になります。
 
 <aside class="cta-inline">
-  <p>成果の定義と依頼側の体制を、案件を受ける前に確認できる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 受けてはいけない条件
@@ -110,8 +110,8 @@ related: ["fukugyo-saitei-hoshou", "fukugyo-choka-kadou", "fukugyo-koushin", "fu
 契約の個別の条項については、専門家にご確認ください。
 
 <aside class="cta-inline">
-  <p>成果の定義や体制が確認された案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 法令で気をつける点

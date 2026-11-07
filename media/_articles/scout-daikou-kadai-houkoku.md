@@ -41,8 +41,8 @@ related: ["scout-daikou-report", "scout-daikou-kadai-baitai", "scout-daikou-kada
 一なら、求めれば変わります。二なら、担当者の育成か交代です。三なら、発注側の受け止め方を変える必要があります。担当者に「次に変えることを書いてほしい。こちらに原因があるなら、それも率直に書いてほしい」と伝えて、次のレポートがどう変わるかを見れば、三つのどれかが分かります。
 
 <aside class="cta-inline">
-  <p>直近のレポートを持ち込んでいただければ、どの種類の薄さかを一緒に見られます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 求めていないなら、型を渡す
@@ -96,8 +96,8 @@ related: ["scout-daikou-report", "scout-daikou-kadai-baitai", "scout-daikou-kada
 空気は、言葉ではなく行動で変わります。「率直に言ってほしい」と言うだけでは変わりません。率直に言われたときにどう受け止めたかで、次が決まります。
 
 <aside class="cta-inline">
-  <p>担当者が率直に書ける関係の作り方から、相談できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 報告の型を作り直す

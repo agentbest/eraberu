@@ -47,8 +47,8 @@ related: ["rpo-jouhou-teikyou", "rpo-kickoff", "rpo-kigyou-bunka", "rpo-kikan-mi
 **このうち、上の四つは自社側の要因です**。立ち上げが長引く原因の多くは、発注側にあります。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -131,8 +131,8 @@ related: ["rpo-jouhou-teikyou", "rpo-kickoff", "rpo-kigyou-bunka", "rpo-kikan-mi
 **完了の目安を決めておくと、稼働の配分も変えられます**。立ち上げ期は設計に寄り、運用期は処理に寄る。**この移行が起きているかを、稼働報告の内訳で確認できます**。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

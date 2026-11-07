@@ -47,8 +47,8 @@ related: ["scout-hajime-30nichi", "scout-alumni-scout", "scout-baitai-kaiyaku", 
 週次で見る数字を五つに絞るのは、十五分で終わらせるためと、週の数字で判断してはいけないことを判断しないためです。
 
 <aside class="cta-inline">
-  <p>週次で見る五つの数字を、担当者のレポートから一枚の表にする形を一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 振り返りの型：十五分
@@ -109,8 +109,8 @@ related: ["scout-hajime-30nichi", "scout-alumni-scout", "scout-baitai-kaiyaku", 
 数字が動かない週を、「何もしていない」と責めないでください。動かない理由を見て、週次で扱うか月次に回すかを決めるのが、週次の役割です。
 
 <aside class="cta-inline">
-  <p>週次で扱うことと月次に回すことの線引きを、担当者と一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 記録の形

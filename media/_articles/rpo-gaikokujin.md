@@ -45,8 +45,8 @@ related: ["rpo-shougaisha-koyou", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agen
 「全部が分かってから動く」ではなく、「三つを並行して、一つずつ整理する」形にします。
 
 <aside class="cta-inline">
-<p>在留資格・言語・受け入れの三つに分けた整理を、専門家との連携を前提に一緒に進められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 在留資格の考え方と専門家への相談
@@ -113,8 +113,8 @@ related: ["rpo-shougaisha-koyou", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agen
 受け入れる部署への事前の説明が、定着を左右します。説明が無いと、現場は「どう接すればよいか分からない」で距離を置きます。
 
 <aside class="cta-inline">
-<p>外国籍の社員の受け入れの設計を、日本人の受け入れの型に特有の項目を足す形で一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 経路と見極め

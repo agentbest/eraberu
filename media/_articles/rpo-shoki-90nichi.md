@@ -39,8 +39,8 @@ related: ["rpo-ats-taiou", "rpo-baitai-taiou", "rpo-eigyo-to-jitsumu", "rpo-erab
 **正直に「出ません」と言える会社のほうが信頼できます**。仕込みの期間なので、成果の数字は出ないのが自然です。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -114,8 +114,8 @@ related: ["rpo-ats-taiou", "rpo-baitai-taiou", "rpo-eigyo-to-jitsumu", "rpo-erab
 **そして、聞いた計画を書面で残しておいてください**。商談のメモで構いませんが、判断の理由になった内容は契約の別紙に入れてもらう形も検討できます。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

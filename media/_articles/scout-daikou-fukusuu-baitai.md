@@ -55,8 +55,8 @@ related: ["scout-baitai-kumiawase", "scout-daikou-tool-shitei", "scout-baitai-ka
 **自社の採用管理システムに記録を集約してください**。ここが判定の根拠になります。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -141,8 +141,8 @@ related: ["scout-baitai-kumiawase", "scout-daikou-tool-shitei", "scout-baitai-ka
 **そして、契約の更新時期を確認してください**。時期がずれていると、移行に時間がかかります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

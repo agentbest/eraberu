@@ -55,8 +55,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-fr
 **営業時間外の扱いも決めます**。土日祝や夜間に来た応募をどう扱うか。翌営業日の朝に対応する形が一般的ですが、候補者の動きが速い職種では、当日中の自動返信を入れておく設計もあります。自動返信で一次の受付を返し、内容のある返信は翌営業日、という二段構えです。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -96,8 +96,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-fr
 自社側の時間を守るには、担当者が一人で抱えない仕組みが要ります。合否の判断を複数人でできるようにする、面接官の空き枠をあらかじめ確保しておく。運用の設計の話になりますが、ここを整えると採用の速度は大きく変わります。指標として扱う方法は[契約にKPIを入れるべきか](/media/rpo-kpi-keiyaku/)で扱っています。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

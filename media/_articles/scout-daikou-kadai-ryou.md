@@ -39,8 +39,8 @@ related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa", "scout-daiko
 五つのどれかが特定できれば、対処は自然に決まります。特定できないまま「増やしてください」と言っても、担当者は何を変えればよいか分かりません。
 
 <aside class="cta-inline">
-  <p>五つのどこで詰まっているか、担当者と一緒に確認するところから相談できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 発注側に原因があることは多い
@@ -78,8 +78,8 @@ related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa", "scout-daiko
 計画の置き直しは、[半期での見直し](/media/scout-daikou-hanki/)の場で行うのが自然です。月次の定例会で毎月計画を変えると、比較ができなくなります。
 
 <aside class="cta-inline">
-  <p>実績をもとに計画を置き直すところを、担当者と一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 契約との関係

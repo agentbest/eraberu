@@ -57,8 +57,8 @@ related: ["rpo-data-henkan", "rpo-kouhosha-tsuuchi", "rpo-agent-tono-chigai", "r
 **三番目は判断が分かれます**。共有すると仕分けの精度が上がりますが、主観的な表現も含まれます。**評価コメントそのものではなく、要件のどの項目に照らして落としたかを構造化して渡す**形が実務的な落としどころです。権限の設計は[渡すATSの権限範囲](/media/rpo-ats-kengen/)にまとめています。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -102,8 +102,8 @@ related: ["rpo-data-henkan", "rpo-kouhosha-tsuuchi", "rpo-agent-tono-chigai", "r
 **契約終了時の削除**は、これとは別に手順が要ります。扱いは[契約終了時に返してもらうデータ](/media/rpo-data-henkan/)にまとめています。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

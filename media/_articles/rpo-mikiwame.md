@@ -47,8 +47,8 @@ related: ["rpo-kouzou-mensetsu", "rpo-mensetsu-shitsumon", "rpo-agent-ooi", "rpo
 最後の五分の伝え方は、会社の説明ではなく、見極めで分かったことに合わせます。「あなたの〇〇の経験は、この役割で活きます」。候補者は、「自分を見てくれた上で、合うと言われた」と受け取ります。
 
 <aside class="cta-inline">
-<p>一回の面接の時間配分と、段階ごとの比重を、いまの選考に合わせて一緒に設計できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 段階ごとに比重を変える設計
@@ -114,8 +114,8 @@ related: ["rpo-kouzou-mensetsu", "rpo-mensetsu-shitsumon", "rpo-agent-ooi", "rpo
 最終の見極めは、「観点の確認」ではなく、「対話の中で見る」形です。一次と同じ深掘りを最終でやると、候補者は「まだ試されるのか」と感じます。
 
 <aside class="cta-inline">
-<p>最終面接での動機づけの話し方と、対話の中での見極めを、責任者向けに一緒に整理できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 面接官の役割分担

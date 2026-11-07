@@ -33,8 +33,8 @@ related: ["scout-daikou-kadai-bunmen", "scout-chimeido-nai-kaisha", "scout-daiko
 **三つ目は、避けたい表現の一覧です。** 使ってほしくない言葉、言い回し、構成を具体的に挙げます。「急成長中」「裁量が大きい」「〇〇様のご経歴を拝見し」といった定型句の中で、自社が使いたくないものを書き出します。避けたいものは、良い例より伝わりやすいことが多く、担当者からも「これは分かりやすい」と言われる部分です。
 
 <aside class="cta-inline">
-  <p>渡す材料の揃え方から、担当者と一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 初回の案は一緒に直す
@@ -70,8 +70,8 @@ related: ["scout-daikou-kadai-bunmen", "scout-chimeido-nai-kaisha", "scout-daiko
 確認は、送信を止めてまでやる必要はありません。運用を続けながら、月に一度ほど、送った文面を数通まとめて読む機会を持てば十分です。読む場は[定例会](/media/scout-daikou-teirei/)に組み込めます。
 
 <aside class="cta-inline">
-  <p>文面の確認は、担当者の経歴と過去の文面を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 担当者が替わったときに揃えるには

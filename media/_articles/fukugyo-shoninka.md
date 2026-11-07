@@ -1,6 +1,6 @@
 ---
 title: "最初の1件の価格の決め方｜相場ではなく「時間×自分の時給」から根拠を作る"
-description: "人事の副業で最初の案件を受けるとき、価格をどう決めるか。相場を探しても幅が広く、決められません。最初の一件の価格は、作業を工程に分けて時間を見積もり、自分の時給を掛けて根拠を作ります。手順、自分の時給の置き方、月額・時給・成果のどの形で出すか、安すぎる・高すぎるの見分け方、二件目以降にどう活かすかを整理しました。金額の数値は扱いません。"
+description: "人事の副業で最初の案件を受けるとき、価格をどう決めるか。"
 pillar: "fukugyo"
 series: "報酬・契約"
 target: "単価・契約・税務"
@@ -49,8 +49,8 @@ related: ["fukugyo-koushou", "fukugyo-daikigyo-keiken", "fukugyo-honnngyou-hikak
 この手順で出た価格は、「自分の時間に対する対価」として説明できます。相場との比較ではなく、中身の説明です。
 
 <aside class="cta-inline">
-  <p>工程と時間で価格の根拠を作る形を、案件を受ける前に確認できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 自分の時給の置き方
@@ -106,8 +106,8 @@ related: ["fukugyo-koushou", "fukugyo-daikigyo-keiken", "fukugyo-honnngyou-hikak
 最初の一件は、価格の見積もりの精度を上げるための一件でもあります。実際の稼働を記録しておけば、二件目の見積もりは正確になります。
 
 <aside class="cta-inline">
-  <p>実際の稼働と価格を見比べて、次の案件の価格に活かせる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 二件目以降に活かす

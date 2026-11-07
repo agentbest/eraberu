@@ -48,8 +48,8 @@ related: ["scout-tenpure-hiritsu", "scout-abtest", "scout-ai-bunmen", "scout-cas
 目的の要点は、「個別に書く量」ではなく「自分宛てが伝わるか」で測ることです。
 
 <aside class="cta-inline">
-<p>自社のスカウトで「自分宛て」が伝わる部分がどこかを点検し、時間の配分を一緒に決められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 個別にする部分と型にする部分
@@ -114,8 +114,8 @@ related: ["scout-tenpure-hiritsu", "scout-abtest", "scout-ai-bunmen", "scout-cas
 「送信数」ではなく「返信数」で評価すれば、深さを上げて数を減らす判断ができます。
 
 <aside class="cta-inline">
-<p>一日に使える時間から、深さの段階と送る数の配分を一緒に決められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## やりすぎの兆候とやらなさすぎの兆候

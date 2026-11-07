@@ -43,8 +43,8 @@ related: ["rpo-chuuto-kaiyaku", "rpo-hakenmoto-sekinin", "rpo-saitei-keiyaku-kik
 **単価が実態と合わなくなったとき**。依頼する業務が減っているのに単価が据え置かれている、あるいは業務が増えているのに範囲の合意が更新されていない。どちらも、更新のタイミングで見直せるはずのものです。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -94,8 +94,8 @@ related: ["rpo-chuuto-kaiyaku", "rpo-hakenmoto-sekinin", "rpo-saitei-keiyaku-kik
 **部分的な解約**。複数職種や複数業務をまとめて契約している場合、一部だけを止められるか。まとめて更新される契約だと、不要な部分も続きます。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

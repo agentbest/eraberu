@@ -37,8 +37,8 @@ related: ["scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-daikou-fukusuu-
 主媒体の選び方は、担当者に相談してください。この職種で扱った経験のある媒体、母数の見立て、仕様の慣れ。担当者が扱い慣れた媒体を主にするほうが、立ち上げは速くなります。
 
 <aside class="cta-inline">
-  <p>主媒体をどれにするか、担当者の経験と職種の母数から一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 候補者層で分ける
@@ -94,8 +94,8 @@ related: ["scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-daikou-fukusuu-
 担当者が複数いるなら、媒体ごとに担当者を分ける形もあります。ただし、記録と文面のルールは一本にします。担当者が違っても、同じ会社から届く文面のトーンは揃える必要があります。
 
 <aside class="cta-inline">
-  <p>主従の稼働配分を、担当者の稼働時間に合わせて一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 組み合わせを見直す周期

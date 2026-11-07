@@ -48,8 +48,8 @@ related: ["rpo-eigyo-teichaku", "rpo-souki-rishoku", "rpo-daigaku-renkei", "rpo-
 「最近の若者は」ではなく、「自社の新卒は、この時期に、この理由で」と言えるようにします。
 
 <aside class="cta-inline">
-<p>自社の新卒が辞める時期と理由の記録を整理し、直す先を一緒に絞れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 内定から入社までの接点
@@ -114,8 +114,8 @@ related: ["rpo-eigyo-teichaku", "rpo-souki-rishoku", "rpo-daigaku-renkei", "rpo-
 半年から一年の要点は、「役割を広げ、成長を言葉にする」ことです。役割が雑用のまま、成長が言葉にされなければ、「自分は成長していない」と感じて辞めます。
 
 <aside class="cta-inline">
-<p>新卒の一年の役割の段階と、成長を言葉にする振り返りの型を一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 教える人と責任者の接し方

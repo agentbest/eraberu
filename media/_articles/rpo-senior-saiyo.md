@@ -51,8 +51,8 @@ related: ["rpo-intern-sekkei", "rpo-second-shinsotsu", "rpo-youken-katame", "rpo
 役割が見つかれば、「シニアだから採る」ではなく、「この役割に、長い経験を持つ人が要る」になります。
 
 <aside class="cta-inline">
-<p>社内で「長い経験でしか持てないもの」が要る役割を、現場の責任者と一緒に見つけられます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 見極めの観点
@@ -104,8 +104,8 @@ related: ["rpo-intern-sekkei", "rpo-second-shinsotsu", "rpo-youken-katame", "rpo
 雇用の形と給与の制度は、社内の規程と法令に沿い、専門家に確認します。
 
 <aside class="cta-inline">
-<p>シニア人材の雇用の形と給与の基準を、役割と既存社員との整合から一緒に設計できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 社内の受け入れ

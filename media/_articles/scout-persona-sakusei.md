@@ -35,8 +35,8 @@ related: ["scout-daikou-persona", "scout-kanri-shoku", "scout-daikou-junbi", "sc
 担う範囲から逆算すると、ペルソナは自然に「経歴で見分けられる」形になります。
 
 <aside class="cta-inline">
-  <p>担う範囲の四つの軸から、ペルソナを逆算するところを一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 軸二：経歴の手がかり
@@ -98,8 +98,8 @@ related: ["scout-daikou-persona", "scout-kanri-shoku", "scout-daikou-junbi", "sc
 実在する人からの逆算は、「理想」ではなく「実際に合った人」を描くので、市場にいる人のペルソナになります。
 
 <aside class="cta-inline">
-  <p>社内で活躍している人の経歴から、ペルソナを逆算するところを一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 担当者に渡す形

@@ -41,8 +41,8 @@ related: ["scout-daikou-jinin", "scout-daikou-kadai-account", "scout-daikou-kada
 薄れることを前提に、最低限の関与を仕組みにしておくのが対処です。
 
 <aside class="cta-inline">
-  <p>どこで詰まっているか、社内の関与のどれが薄れているか、一緒に確認できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 最低限残す関与の三つ
@@ -90,8 +90,8 @@ related: ["scout-daikou-jinin", "scout-daikou-kadai-account", "scout-daikou-kada
 それでも戻らないなら、いったん運用を縮めるか止める判断です。社内が動かない状態で送り続けると、候補者を待たせ、会社の印象を落とします。関与が戻るまで送信を絞る、という選択肢もあります。
 
 <aside class="cta-inline">
-  <p>社内の関与をどこまで軽くできるか、いまの体制に合わせて一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

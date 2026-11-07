@@ -72,8 +72,8 @@ related: ["scout-daikou-henshin-taiou", "scout-daikou-hinshitsu-kanri", "scout-d
 **この形を取るなら、返信への対応の流れを先に決めてください**。「一次対応は採用担当、必要に応じて本人が返す」といった設計です。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -152,8 +152,8 @@ related: ["scout-daikou-henshin-taiou", "scout-daikou-hinshitsu-kanri", "scout-d
 **そして、候補者から見て不自然でないことが基準です**。名前の設計は、細かい調整の一つですが、体験の質に効きます。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

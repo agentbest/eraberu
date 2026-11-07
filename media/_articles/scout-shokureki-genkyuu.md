@@ -48,8 +48,8 @@ related: ["scout-abtest", "scout-ai-bunmen", "scout-casual-mendan-sasoi", "scout
 三つの要点は、「一点に絞る」ことです。三つの条件を満たす部分が複数あっても、一つを選びます。
 
 <aside class="cta-inline">
-<p>自社の一段落目が経歴のどこに触れているかを点検し、三つの条件で触れる部分を一緒に選べます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 触れてはいけない部分
@@ -117,8 +117,8 @@ related: ["scout-abtest", "scout-ai-bunmen", "scout-casual-mendan-sasoi", "scout
 本人が書いた成果の数字に触れる場合、本人の記述のとおりに。数字を膨らませたり、推測で足したりしません。
 
 <aside class="cta-inline">
-<p>選んだ一点を、役割との対応の一文にする型を、担当者が一緒に整えられます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 経歴の情報が少ない相手

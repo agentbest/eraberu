@@ -39,8 +39,8 @@ related: ["scout-daikou-kadai-spot", "scout-daikou-baitai-hi", "scout-daikou-che
 三つのうち、一つでもあれば短期の依頼は成り立ちます。二つあれば、繁忙期の初月から成果が期待できます。どれも無いなら、繁忙期に入る前に一を確保するのが現実的です。
 
 <aside class="cta-inline">
-  <p>繁忙期の時期と職種を伺えれば、いつから始めれば間に合うかをその場で一緒に見られます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 契約の形
@@ -92,8 +92,8 @@ related: ["scout-daikou-kadai-spot", "scout-daikou-baitai-hi", "scout-daikou-che
 毎年ゼロから立ち上げる費用と、年間で薄く続ける費用を比べれば、後者のほうが安く、成果も安定することが多くあります。
 
 <aside class="cta-inline">
-  <p>毎年の繁忙期に合わせた稼働の形を、年間の予算と一緒に設計できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 短期で頼むときの担当者の見方

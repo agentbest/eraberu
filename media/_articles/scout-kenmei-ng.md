@@ -51,8 +51,8 @@ related: ["scout-kenmei", "scout-abtest", "scout-ai-bunmen", "scout-casual-menda
 直し方の要点は、「外す」ことが多いことです。条件、装飾、急かす言葉、長い説明を外し、「相手の経歴」と「役割」だけを残せば、大半の失敗は直ります。
 
 <aside class="cta-inline">
-<p>自社の件名を九つの型に照らして、どこを外し、何を残すかを一緒に決められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 失敗を見つける点検の手順
@@ -123,8 +123,8 @@ related: ["scout-kenmei", "scout-abtest", "scout-ai-bunmen", "scout-casual-menda
 確認の要点は、「一つ変えて、一〜二週見て、記録する」ことです。[施策の効果を測る仕組みがない](/media/rpo-kouka-sokutei/)と同じです。
 
 <aside class="cta-inline">
-<p>直した件名の開封率と返信率を記録し、型を入れ替える運用を担当者が一緒に回せます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 外注する場合の範囲

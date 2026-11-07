@@ -37,8 +37,8 @@ related: ["scout-daikou-hyouka", "scout-daikou-kadai-account", "scout-daikou-kad
 目的そのものが変わっている場合もあります。事業の状況が変わり、この職種を急ぐ必要が無くなった。この場合は、目的に照らす前に、目的を置き直します。置き直した目的に対して、スカウトが必要かどうかを判断します。
 
 <aside class="cta-inline">
-  <p>目的と段階ごとの数字を並べて、いまどこにいるかを一緒に確認できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 問い二：原因は特定できているか
@@ -86,8 +86,8 @@ related: ["scout-daikou-hyouka", "scout-daikou-kadai-account", "scout-daikou-kad
 条件付きで続ければ、次の判断は簡単になります。条件を満たしたか、満たさなかったか。それだけです。
 
 <aside class="cta-inline">
-  <p>継続の条件を書面にするところを、担当者と一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 止める場合の条件

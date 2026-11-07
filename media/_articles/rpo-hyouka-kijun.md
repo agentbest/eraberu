@@ -49,8 +49,8 @@ related: ["rpo-mensetsukan-bara", "rpo-casual-mendan-kadai", "rpo-kouzou-mensets
 原因が分かれば、「定義する」のではなく「過去の判定から作る」に切り替えられます。
 
 <aside class="cta-inline">
-<p>過去の判定から基準の言葉を作る手順を、面接官と一緒に進められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 過去の判定から言葉を作る手順
@@ -120,8 +120,8 @@ related: ["rpo-mensetsukan-bara", "rpo-casual-mendan-kadai", "rpo-kouzou-mensets
 私的な事情に関する質問は法令上の扱いがあるので、専門家に確認のうえ、「見ない観点」に明記します。
 
 <aside class="cta-inline">
-<p>基準の一枚を、役割の記述と面接の質問と記録の型まで一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 基準を使って直す運用

@@ -47,8 +47,8 @@ related: ["rpo-tesuuryou-takai", "rpo-yosan-nai", "rpo-agent-ooi", "rpo-agent-sh
 分けるには、経路ごとの「応募・面接・内定・入社」の数と、「費用」が要ります。
 
 <aside class="cta-inline">
-<p>「無駄の感覚」を、経路ごとの費用と結果で四つに分ける整理を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 経路ごとの費用と結果の並べ方
@@ -128,8 +128,8 @@ related: ["rpo-tesuuryou-takai", "rpo-yosan-nai", "rpo-agent-ooi", "rpo-agent-sh
 設計の要点は、「小さく試す」「契約を管理する」「月に一度見る」の三つです。三つがあれば、無駄は溜まりにくくなります。
 
 <aside class="cta-inline">
-<p>経路ごとの一枚と契約の一覧を毎月回し、止める・続ける・集中するを判断する運用を担当者が一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 経営者への説明

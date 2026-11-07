@@ -48,8 +48,8 @@ related: ["rpo-doga-katsuyou", "rpo-koho-neta", "rpo-kuchikomi-warui", "rpo-kyuj
 知名度は、これらの材料が無くても応募が来る「代わり」です。材料があれば、知名度は要りません。
 
 <aside class="cta-inline">
-<p>知名度の代わりになる材料の整理と、求人票への落とし込みを一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 求人票で「知らない会社」を乗り越える
@@ -121,8 +121,8 @@ related: ["rpo-doga-katsuyou", "rpo-koho-neta", "rpo-kuchikomi-warui", "rpo-kyuj
 受け皿は、知名度を上げるためではなく、「調べた候補者が離れない」ためのものです。
 
 <aside class="cta-inline">
-<p>候補者が会社を調べたときの受け皿の点検と、足りないものの整理を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 知名度を少しずつ作る

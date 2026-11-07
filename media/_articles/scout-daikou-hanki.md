@@ -31,8 +31,8 @@ related: ["scout-daikou-hyouka", "scout-daikou-kadai-hiyou", "scout-daikou-kadai
 目的が曖昧なまま始めていた場合は、ここで決めます。目的が決まらないと、続けるか変えるかの判断ができません。「何となく続いている」状態は、目的が無いか、目的が忘れられているかのどちらかです。
 
 <aside class="cta-inline">
-  <p>目的の置き直しから、担当者と一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 見る数字と、見ない数字
@@ -84,8 +84,8 @@ related: ["scout-daikou-hyouka", "scout-daikou-kadai-hiyou", "scout-daikou-kadai
 小さい変更で動くなら、大きい変更は要りません。逆に、小さい変更を重ねても動かないなら、大きい変更を先延ばしにしないでください。半期ごとに小さい変更だけを繰り返して、二年経っても同じ状態、という会社があります。
 
 <aside class="cta-inline">
-  <p>担当者だけを替える選択肢も含めて、相談できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 見直しの場の持ち方

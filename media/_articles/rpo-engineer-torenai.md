@@ -50,8 +50,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-c
 社内にエンジニアがいない会社は、「社員の紹介」「コミュニティ」「発信」の経路が弱くなります。その場合、技術に強い紹介会社と、技術者向けのスカウトの比重を上げます。
 
 <aside class="cta-inline">
-<p>自社の技術の環境と体制に合ったエンジニアの経路を、一緒に組み直せます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## エンジニアが読む求人票
@@ -121,8 +121,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-c
 技術の分かる人がいない会社は、「最初の一人」の採用が最も難しく、最も重要です。最初の一人が入れば、経路も見極めも受け入れも変わります。
 
 <aside class="cta-inline">
-<p>社内に技術の分かる人がいない状態での「最初の一人」の採用を、外部の技術の確認を含めて一緒に設計できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 受け入れと定着

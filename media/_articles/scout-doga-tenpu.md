@@ -43,8 +43,8 @@ related: ["scout-daikou-namae", "scout-chimeido-nai-kaisha", "scout-daikou-hensh
 最初の文面は、役割と「なぜあなたに」で完結させます。動画や資料は、関心が確認できてから。
 
 <aside class="cta-inline">
-  <p>返信後のどの段階で何を渡すか、候補者の温度に合わせて担当者と一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 効く動画・資料
@@ -108,8 +108,8 @@ related: ["scout-daikou-namae", "scout-chimeido-nai-kaisha", "scout-daikou-hensh
 作る前に、「候補者のどの質問に答えるものか」を決めます。答える質問が無いなら、作る必要はありません。
 
 <aside class="cta-inline">
-  <p>候補者の質問の記録から、作るべき動画や資料を一緒に絞れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 効果の見方

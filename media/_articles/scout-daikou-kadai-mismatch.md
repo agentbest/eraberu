@@ -39,8 +39,8 @@ related: ["scout-daikou-kadai-shitsu", "scout-daikou-junbi", "scout-daikou-kadai
 **文脈の条件を伝える。** 「整った仕組みの中での経験ではなく、仕組みを作った経験を求めている」のように、環境の条件を伝えます。担当者は、企業規模や組織の段階から、文脈を推測できます。
 
 <aside class="cta-inline">
-  <p>要件を「経歴のどこを見るか」の形に直すところから、担当者と一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 返信のやり取りで確かめる
@@ -84,8 +84,8 @@ related: ["scout-daikou-kadai-shitsu", "scout-daikou-junbi", "scout-daikou-kadai
 ずれを候補者や担当者のせいにしている間は、要件は見直されません。ずれが続くこと自体が、要件の側に問題があるという信号です。
 
 <aside class="cta-inline">
-  <p>要件を「入社後三か月の仕事」から逆算し直すところを、一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 担当者と面談者の間で回す

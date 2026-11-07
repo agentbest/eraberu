@@ -43,8 +43,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-a
 五分で、三つのどれかに絞れます。絞れたら、その原因の打ち手だけを試します。
 
 <aside class="cta-inline">
-  <p>五分の切り分けを、自社の求人を一緒に見ながら行えます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 原因一「見られていない」の打ち手
@@ -118,8 +118,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-a
 一から三は、当日にできて費用がかかりません。四から六は、社内の判断が要ります。七以降は、費用がかかります。上から順に試し、効かなければ次へ。
 
 <aside class="cta-inline">
-  <p>打ち手の順番を、自社の求人の状況に合わせて一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 外注する場合の範囲

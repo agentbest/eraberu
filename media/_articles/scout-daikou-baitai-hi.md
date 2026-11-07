@@ -37,8 +37,8 @@ related: ["scout-daikou-getsugaku", "scout-daikou-seika", "scout-baitai-kaiyaku"
 どの形が良いかは一概に言えませんが、判断の軸は費用の合計ではなく、次の三つです。
 
 <aside class="cta-inline">
-  <p>三つの形のどれが合うか、いまの契約を見ながら整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 判断の軸：記録・関係・切り替えの自由
@@ -84,8 +84,8 @@ related: ["scout-daikou-getsugaku", "scout-daikou-seika", "scout-baitai-kaiyaku"
 最後から二つ目は見落とされがちです。代行会社名義で始めて、半年後に自社運用に切り替えたいとき、媒体の契約を自社名義に移せるかどうか。移せないなら、媒体の契約期間が終わるまで待つか、二重に払うかになります。
 
 <aside class="cta-inline">
-  <p>契約書の確認項目は、担当者と一緒に一つずつ見られます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 媒体費を抑えたいときの考え方

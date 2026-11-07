@@ -54,8 +54,8 @@ related: ["rpo-jibun-goto", "rpo-jidouka", "rpo-jyouchuu", "rpo-kickoff"]
 **この違いを踏まえると、併用の形が見えてきます**。
 
 <aside class="cta-inline">
-  <p>自社の採用のどこを外に出せるか、整理してみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -129,8 +129,8 @@ related: ["rpo-jibun-goto", "rpo-jidouka", "rpo-jyouchuu", "rpo-kickoff"]
 そして、**権限の一覧を作って四半期に一度棚卸しします**。関わる人が増えるほど、この作業の価値が上がります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

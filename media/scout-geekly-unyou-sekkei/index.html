@@ -17,7 +17,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="/media/assets/media.css">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://eraberusaiyodaiko.com/media/scout-geekly-unyou-sekkei/"},"url":"https://eraberusaiyodaiko.com/media/scout-geekly-unyou-sekkei/","headline":"Geeklyのスカウト運用設計｜送信数・時間帯・追客","description":"Geeklyのスカウト運用を組み立てるときの前提を整理しました。Geeklyは人材紹介サービスで、企業向けのスカウト機能は紹介契約に付帯する無料機能として案内されており、一次面接確約が条件とされています。この条件から送信数を面接枠で決める考え方と、追客の設計、確認すべき項目をまとめています。","inLanguage":"ja","datePublished":"2026-09-23","dateModified":"2026-09-23","author":{"@type":"Person","name":"松岡 良次","url":"https://www.agent-best.net/profile/"},"publisher":{"@type":"Organization","name":"株式会社エージェントベスト","url":"https://www.agent-best.net/"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://eraberusaiyodaiko.com/media/scout-geekly-unyou-sekkei/"},"url":"https://eraberusaiyodaiko.com/media/scout-geekly-unyou-sekkei/","headline":"Geeklyのスカウト運用設計｜送信数・時間帯・追客","description":"Geeklyのスカウト運用を組み立てるときの前提を整理しました。Geeklyは人材紹介サービスで、企業向けのスカウト機能は紹介契約に付帯する無料機能として案内されており、一次面接確約が条件とされています。この条件から送信数を面接枠で決める考え方と、追客の設計、確認すべき項目をまとめています。","inLanguage":"ja","datePublished":"2026-09-23","dateModified":"2026-09-23","author":{"@type":"Organization","name":"エラベル編集部","url":"https://eraberusaiyodaiko.com/editorial.html"},"publisher":{"@type":"Organization","name":"株式会社エージェントベスト","url":"https://www.agent-best.net/"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://eraberusaiyodaiko.com/"},{"@type":"ListItem","position":2,"name":"メディア","item":"https://eraberusaiyodaiko.com/media/"},{"@type":"ListItem","position":3,"name":"スカウト代行","item":"https://eraberusaiyodaiko.com/media/scout/"},{"@type":"ListItem","position":4,"name":"中途媒体別","item":"https://eraberusaiyodaiko.com/media/hub/scout-baitai/"},{"@type":"ListItem","position":5,"name":"Geeklyのスカウト運用設計｜送信数・時間帯・追客","item":"https://eraberusaiyodaiko.com/media/scout-geekly-unyou-sekkei/"}]}</script>
 <!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
@@ -47,9 +47,10 @@
 </header><div class="wrap" style="padding-top:12px;font-size:11px;color:#4C566A">採用代行・RPO比較メディア。運営会社のスカウト代行も紹介しています。<a href="/editorial.html" style="text-decoration:underline">掲載・広告ポリシー</a></div><main class="wrap art-page">
   <nav class="crumb" aria-label="パンくず"><a href="/">ホーム</a><i aria-hidden="true">/</i><a href="/media/">メディア</a><i aria-hidden="true">/</i><a href="/media/scout/">スカウト代行</a><i aria-hidden="true">/</i><a href="/media/hub/scout-baitai/">中途媒体別</a></nav>
   <h1>Geeklyのスカウト運用設計｜送信数・時間帯・追客</h1>
+  <p class="article-purpose">採用担当者向け実務ガイド / この記事は判断の考え方を整理するものです。媒体仕様・料金は出典の基準日と最新の公式情報を合わせてご確認ください。</p>
   <p class="meta">
     <a class="meta__hub" href="/media/hub/scout-baitai/">中途媒体別</a><span class="chip">Geekly</span>
-    <span class="meta__date">更新日 2026-09-23</span>
+    <span class="meta__date">情報の基準日 2026-09-23</span>
   </p>
   <nav class="toc" aria-label="目次"><p class="toc__t">目次</p><ol><li><a href="#h1">契約前の二週間で、面接枠と経路の分け方を決める</a></li><li><a href="#h2">一か月目は週に数枠だけ送り、一通にかかる時間を測る</a></li><li><a href="#h3">二か月目に、紹介経由と同じ物差しで並べる</a></li><li><a href="#h4">三か月目に、続けるか直すか止めるかを決める</a></li><li><a href="#h5">まとめ</a></li><li><a href="#h6">よくある質問</a></li></ol></nav>
   <div class="body">
@@ -63,8 +64,8 @@
 <h3>エラベルの見解</h3>
 <p>導入の相談で順番が逆になりやすいのは、送信の体制を先に整え、面接官への説明を後回しにするケースです。この媒体では、スカウト経由の面接は断れません。現場の面接官が「週に何枠、この経路で使う」と合意していないまま送り始めると、返信が来た時点で面接官の予定が埋まっていて、確約した面接を組めなくなります。そうなると、送信を止めるのは人事ではなく現場です。始める前に、面接官に一枠ずつ予定を押さえてもらい、その数を送信の上限として共有してください。担当する側から見ても、枠の数が最初に決まっている案件のほうが、読む時間の配分を組みやすくなります。</p>
 <aside class="cta-inline">
-<p>面接枠から逆算した運用の組み立てを、IT採用の実務を知る担当者とご一緒します</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 <h2 id="h2">一か月目は週に数枠だけ送り、一通にかかる時間を測る</h2>
 <p>一か月目の目的は、成果を出すことより、一通にかかる時間を知ることです。同ページは、登録者の95.9%が即戦力人材であるとしています（即戦力人材とは登録している求職者のうちIT職種経験者を指すとされ、2024年7〜9月の実績と注記されています）。職務経歴が具体的に書かれている相手が中心なので、レジュメを読み、声をかける理由を一行で書くまでに時間がかかります。この時間を測らないまま枠を増やすと、読み込みが浅くなり、面接で噛み合わない候補が増えます。</p>
@@ -78,8 +79,8 @@
 <p>表の下の二行は、人事だけでは判断しにくい数字です。面接で噛み合わない理由が、条件の選び方にあるのか、要件の定義にあるのかは、面接官の所感と合わせないと分かりません。同ページは、面接後に求職者の感想を収集して独自にスコア化し、その結果をもとにアドバイザーが面接を分析してアドバイスするとしています。この仕組みがスカウト経由の面接にも使えるなら、二か月目の振り返りの材料になります。</p>
 <p>条件の直し方は、候補が多すぎるか少なすぎるかで分かれます。多すぎるなら条件を厳しくする前に読む順番を決め、少なすぎるなら隣の職種区分に広げるのが先です。その分岐は<a href="/media/scout-geekly-kensaku-jouken/">Geeklyの検索条件の組み方</a>で、母集団が尽きるまでの順に整理しています。</p>
 <aside class="cta-inline">
-<p>紹介経由とスカウト経由の数字の並べ方から、一緒に整理してみませんか</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 <h2 id="h4">三か月目に、続けるか直すか止めるかを決める</h2>
 <p>三か月たつと、スカウトという経路を続ける意味があったかを判断できる程度の記録がそろいます。判断の基準は、紹介では会えなかった層と面接できたかどうかです。月に平均40名が紹介される仕組みがある以上、スカウトの価値は数ではなく、紹介の推薦に出てこない候補に届いたかで測ることになります。三つの判断と、その後の三か月でやることを表にしました。</p>
@@ -120,7 +121,7 @@
       <span class="art__m"><span class="chip chip--p">スカウト代行</span><span class="chip">Geekly</span></span>
     </a></li><li><a href="/media/scout-geekly-kensaku-jouken/">
       <span class="art__t">Geeklyの検索条件の組み方｜母集団を狭めすぎない設計</span>
-      <span class="art__d">Geeklyで誰にスカウトを送るかを決めるための条件設計を整理しました。企業向けのスカウトは人材紹介契約に付帯する無料機能で、一次面接確約が条件とされています。面接枠が上限になる前提で、母集団を狭めすぎず広げすぎない二段構えの条件の作り方をまとめています。検索項目の詳細は公開されていないので、契約前に運営に確認してください。</span>
+      <span class="art__d">Geeklyで誰にスカウトを送るかを決めるための条件設計を整理しました。</span>
       <span class="art__m"><span class="chip chip--p">スカウト代行</span><span class="chip">Geekly</span></span>
     </a></li><li><a href="/media/scout-geekly-template/">
       <span class="art__t">Geeklyのスカウトテンプレートの作り方</span>
@@ -135,9 +136,9 @@
       <ul class="art art--compact"><li><a href="/media/scout-green-template/"><span class="art__t">Greenのスカウトテンプレートの作り方</span><span class="chip">Green</span></a></li><li><a href="/media/scout-green-unyou-sekkei/"><span class="art__t">Greenのスカウト運用設計｜送信数・時間帯・追客</span><span class="chip">Green</span></a></li><li><a href="/media/scout-green-daikou/"><span class="art__t">Greenのスカウト代行｜任せられる範囲と成果の測り方</span><span class="chip">Green</span></a></li><li><a href="/media/scout-green-kensaku-jouken/"><span class="art__t">Greenの検索条件の組み方｜母集団を狭めすぎない設計</span><span class="chip">Green</span></a></li><li><a href="/media/scout-indeed-template/"><span class="art__t">Indeedのスカウトテンプレートの作り方</span><span class="chip">Indeed</span></a></li><li><a href="/media/scout-indeed-unyou-sekkei/"><span class="art__t">Indeedのスカウト運用設計｜送信数・時間帯・追客</span><span class="chip">Indeed</span></a></li></ul>
       <p class="more"><a href="/media/hub/scout-baitai/">「中途媒体別」の記事一覧を見る →</a></p></section>
   <aside class="author">
-  <p class="author__t">監修</p>
-  <p class="author__n">松岡 良次</p>
-  <p class="author__b">株式会社エージェントベスト代表。大手人材会社およびスタートアップ人材企業にて、IT・スタートアップ・メガベンチャー企業の採用支援に従事。独立後はIT・スタートアップ・コンサル領域に特化し、20〜30代のキャリア支援を行う。（厚生労働大臣許可 13-ユ-316964）</p>
+  <p class="author__t">編集・運営</p>
+  <p class="author__n">エラベル編集部 / 株式会社エージェントベスト</p>
+  <p class="author__b">採用代行・RPOの比較と、採用実務の判断材料を紹介しています。運営会社はスカウト代行も提供しています。<a href="/editorial.html">掲載・広告ポリシー</a></p>
 </aside>
   <aside class="cta">
     <h2>自社に合う採用代行を、比較して選ぶ</h2>
@@ -146,7 +147,7 @@
       <a class="cta__btn" href="/compare/">採用代行を比較する</a>
       <a class="cta__btn cta__btn--sub" href="/#consult">運営会社のスカウト代行を見る</a>
     </div>
-    <p class="cta__other">人事の経験を副業で活かしたい方は <a href="/partner.html">担当者として登録 →</a></p>
+    <p class="cta__other">人事副業の情報をお探しの方は <a href="/media/fukugyo/">実務記事のアーカイブへ →</a></p>
   </aside>
 </main><footer>
   <div class="wrap">
@@ -164,7 +165,7 @@
         <a href="/compare/">料金比較</a>
         <a href="/compare/">採用代行を比較する</a>
         <a href="/editorial.html">掲載・広告ポリシー</a>
-        <a href="/partner.html">担当者として登録する</a>
+        <a href="/media/fukugyo/">人事副業の実務情報</a>
         <a href="/privacy.html">プライバシーポリシー</a>
         <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
       </div>

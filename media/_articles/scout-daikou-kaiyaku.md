@@ -46,8 +46,8 @@ related: ["scout-daikou-uchisei-ikou", "scout-baitai-kaiyaku", "scout-daikou-dat
 上から三つは、次の運用で最も効くものです。送信の記録が無いと、同じ人に重複して送ります。やり取りの履歴が無いと、返信をくれた人に一から接触することになります。進行中の候補者の状況が無いと、面談調整の途中で連絡が途絶えます。
 
 <aside class="cta-inline">
-  <p>持ち帰る一覧の作り方から、次の担当者の選び方まで相談できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 解約の伝え方
@@ -91,8 +91,8 @@ related: ["scout-daikou-uchisei-ikou", "scout-baitai-kaiyaku", "scout-daikou-dat
 どちらの場合も、送信の記録は最初に渡します。重複して送ることを防ぐためです。前の代行が送った人には、期間を空け、一段落目を変えたうえで送るか、送らないかを決めます。
 
 <aside class="cta-inline">
-  <p>次の担当者の経歴を見てから決められます。引き継ぎの整理も一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 終了後にやること

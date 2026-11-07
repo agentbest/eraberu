@@ -62,8 +62,8 @@ related: ["rpo-chusho-muke", "rpo-daikigyo-muke", "rpo-jinji-ikusei", "rpo-jinji
 **記録がない場合は、代行会社や媒体の担当者に聞いてみてください**。複数社の運用を見ているので、傾向の情報を持っていることがあります。**ただし、その情報も自社に当てはまるかは確認が要ります**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -134,8 +134,8 @@ related: ["rpo-chusho-muke", "rpo-daikigyo-muke", "rpo-jinji-ikusei", "rpo-jinji
 **そして、遅れた原因も書いておいてください**。要件が固まらなかった、面接官の日程が取れなかった、判断が滞った。**同じことを繰り返さないための記録です**。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

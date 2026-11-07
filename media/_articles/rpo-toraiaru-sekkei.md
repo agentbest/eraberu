@@ -65,8 +65,8 @@ related: ["rpo-erabikata", "rpo-freelance-vs-kaisha", "rpo-gyoukai-keiken", "rpo
 そして、**候補者への実際の接触を伴わないので、複数社に頼んでも候補者側に影響が出ません**。同じ職種で複数社に送信させると、候補者に重複して届きます。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -142,8 +142,8 @@ related: ["rpo-erabikata", "rpo-freelance-vs-kaisha", "rpo-gyoukai-keiken", "rpo
 **関係を残しておく**。今回合わなくても、状況が変われば頼むことがあります。**採用は波のある業務です**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

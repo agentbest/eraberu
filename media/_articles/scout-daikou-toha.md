@@ -66,8 +66,8 @@ related: ["scout-daikou-hanni", "scout-daikou-hiyou-hikaku", "scout-daikou-seika
 **そして、どの型でも「何を稼働に数えるか」を確認してください**。検索の時間、文面の作成、返信対応。**含まれる範囲で実質の単価が変わります**。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -158,8 +158,8 @@ related: ["scout-daikou-hanni", "scout-daikou-hiyou-hikaku", "scout-daikou-seika
 **この四つを契約の前に決めておくと、運用が始まってからの調整が減ります**。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

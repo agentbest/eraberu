@@ -49,8 +49,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-a
 早い段階で聞くことに抵抗がある会社は、「年収の話を先にすると、お金目当てに見える」と考えています。候補者は、年収を含めて会社を選んでいます。先に話すほうが、誠実です。
 
 <aside class="cta-inline">
-<p>面接の各段階で年収をすり合わせる型を、いまの選考の流れに合わせて一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 提示の額の決め方
@@ -117,8 +117,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-a
 上げられない判断は、経営者の判断です。人事と担当者は、上げずにできることを全部やり、それでも届かなければ、記録を残して次に活かします。
 
 <aside class="cta-inline">
-<p>上げられないときの選択肢と伝え方を、担当者が一緒に組み立てられます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 紹介会社経由の場合の進め方

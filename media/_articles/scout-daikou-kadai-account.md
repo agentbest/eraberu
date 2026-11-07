@@ -43,8 +43,8 @@ related: ["scout-daikou-kadai-data-kesu", "scout-daikou-data", "scout-daikou-kad
 権限を外す前に、[引き継ぎで抜けやすい項目](/media/scout-daikou-kadai-hikitsugi/)で書いた「媒体の設定の一覧と理由」を受け取っておきます。外した後に「あの設定はなぜ」と聞けなくなります。
 
 <aside class="cta-inline">
-  <p>権限の一覧と回収の手順を、契約終了の前に一緒に確認できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 代行会社名義の場合：記録の引き出しと移管
@@ -96,8 +96,8 @@ related: ["scout-daikou-kadai-data-kesu", "scout-daikou-data", "scout-daikou-kad
 **支払いとプランを見直す。** 送信を止める期間があるなら、プランを下げるか、一時停止できるかを媒体に確認します。使わないアカウントに上位プランの費用を払い続けることは避けます。
 
 <aside class="cta-inline">
-  <p>返却後の設定の整え方を、次の運用の形に合わせて一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 次の運用に向けて

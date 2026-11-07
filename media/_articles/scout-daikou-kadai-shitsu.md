@@ -37,8 +37,8 @@ related: ["scout-daikou-kadai-mismatch", "scout-daikou-junbi", "scout-daikou-kad
 対処は、担当者と一緒に、直近で送った候補者の一覧を数件見ることです。要件に照らして「この人は合う」「この人は合わない」を一緒に判定し、判定の理由を言葉にします。その理由が、担当者に渡す判断基準になります。「〇〇の経験が職務経歴に具体的に書かれていること」「〇〇の語句があるだけでは対象にしない」のように、抽出のときに使える形にします。
 
 <aside class="cta-inline">
-  <p>直近の送信一覧を一緒に見て、判断基準を言葉にするところから相談できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 二が多いとき：求人票と文面の役割の記述
@@ -85,8 +85,8 @@ related: ["scout-daikou-kadai-mismatch", "scout-daikou-junbi", "scout-daikou-kad
 基準は、[候補者像の伝え方](/media/scout-daikou-persona/)で作った候補者像と併せて、担当者の手元に置いてもらいます。担当者が替わったときの引き継ぎにもなります。
 
 <aside class="cta-inline">
-  <p>判断基準の書面は、面談の結果を聞きながら一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 見極めの側に原因があるとき

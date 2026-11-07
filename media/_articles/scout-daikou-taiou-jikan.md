@@ -59,8 +59,8 @@ related: ["scout-daikou-henshin-taiou", "scout-daikou-namae", "scout-baitai-kaiy
 **深夜や週末まで対応を求めると、体制の話になります**。**費用も上がります**。求める範囲を絞ってください。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -179,8 +179,8 @@ related: ["scout-daikou-henshin-taiou", "scout-daikou-namae", "scout-baitai-kaiy
 **この形にすると、速さと質の両方を確保できます**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

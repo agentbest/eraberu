@@ -45,8 +45,8 @@ related: ["fukugyo-shokumu-keirekisho", "fukugyo-portfolio", "fukugyo-agent-keik
 「課題」が依頼側の課題と似ていれば、依頼側は「自分の会社でも」と想像できます。「打ち手」が具体的なら、再現できると感じます。「変化」があれば、効果を信じられます。
 
 <aside class="cta-inline">
-  <p>課題・打ち手・変化の形で実績を示せる案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 数字の扱い
@@ -110,8 +110,8 @@ related: ["fukugyo-shokumu-keirekisho", "fukugyo-portfolio", "fukugyo-agent-keik
 実績が少ないことは、隠すより、「これから作る」姿勢と、考えの具体性で補います。
 
 <aside class="cta-inline">
-  <p>最初の案件を、実績を作る案件として小さく受けられる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 実績を溜める運用

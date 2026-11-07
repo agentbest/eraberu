@@ -48,8 +48,8 @@ related: ["rpo-getsugaku-vs-seika", "rpo-kakaku-koushou", "rpo-naitei-jitai-henk
 成果は、**代行が影響を与えられる範囲の一番先**に置くのが噛み合います。スカウト運用なら面談設定まで、選考支援まで含むなら面談実施まで、といった具合です。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -109,8 +109,8 @@ related: ["rpo-getsugaku-vs-seika", "rpo-kakaku-koushou", "rpo-naitei-jitai-henk
 **この程度の分量で、もめる論点はほぼ潰せます**。条項の作り方や表現については、締結前に専門家にご確認ください。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

@@ -1,6 +1,6 @@
 ---
 title: "条件のすり合わせで決めること｜面談の後、契約の前に、八つの項目を一枚で合意する"
-description: "面談で合意の手応えがあっても、条件のすり合わせを飛ばして契約に入ると、範囲・稼働・報酬・期間のどこかでずれます。すり合わせで決める八つ（業務範囲・稼働と時間帯・報酬の形と額・支払い条件・期間と更新・依頼側がやること・記録の帰属・見直しの手続き）、一枚にまとめる型、進め方の順番、決まらない項目の扱い、合意を書面にする方法を整理しました。"
+description: "面談で合意の手応えがあっても、条件のすり合わせを飛ばして契約に入ると、範囲・稼働・報酬・期間のどこかでずれます。"
 pillar: "fukugyo"
 series: "報酬・契約"
 target: "単価・契約・税務"
@@ -47,8 +47,8 @@ related: ["fukugyo-choka-kadou", "fukugyo-honmyo", "fukugyo-keiyaku-kikan", "fuk
 八つを、一枚に。[見積もりの出し方](/media/fukugyo-mitsumori/)の型に、六から八を足した形です。
 
 <aside class="cta-inline">
-  <p>八つの項目が明確な案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 一枚にまとめる型
@@ -113,8 +113,8 @@ related: ["fukugyo-choka-kadou", "fukugyo-honmyo", "fukugyo-keiyaku-kikan", "fuk
 決まらない項目は、受けた後に詰まる場所です。決めてから始めることが、最も安全です。
 
 <aside class="cta-inline">
-  <p>決まらない項目を保留にせず、決めてから始められる案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 合意を書面にする方法

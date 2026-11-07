@@ -57,8 +57,8 @@ related: ["rpo-daikigyo-muke", "rpo-startup-muke", "rpo-uchisei-ikou", "rpo-ai-k
 新卒の時期や、退職が重なる時期に業務が集中します。**波を吸収できるかを確認します**。
 
 <aside class="cta-inline">
-  <p>自社の採用のどこを外に出せるか、整理してみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -113,8 +113,8 @@ related: ["rpo-daikigyo-muke", "rpo-startup-muke", "rpo-uchisei-ikou", "rpo-ai-k
 **報告の粒度**。兼務の担当者が読める形にしてもらいます。**厚い報告より、要点が分かる形のほうが実務に合います**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

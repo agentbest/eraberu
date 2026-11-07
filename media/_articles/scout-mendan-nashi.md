@@ -45,8 +45,8 @@ related: ["scout-ichiji-menjo", "scout-daikou-check", "scout-daikou-kadai-baitai
 五つが揃えば、飛ばします。一つでも欠ければ、面談を組みます。判断は、返信のやり取りを見ている担当者が、最も正確にできます。
 
 <aside class="cta-inline">
-  <p>飛ばしてよい候補者の条件を、自社の求人票に合わせて担当者と一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 飛ばしてはいけない条件
@@ -106,8 +106,8 @@ related: ["scout-ichiji-menjo", "scout-daikou-check", "scout-daikou-kadai-baitai
 **飛ばした候補者の辞退理由を記録する。** 飛ばしたことが原因で辞退が増えていないかを見ます。増えていれば、飛ばす条件を厳しくします。
 
 <aside class="cta-inline">
-  <p>面談を組む流れと飛ばす流れの二本を、いまの選考に合わせて一緒に設計できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 飛ばした結果の見方

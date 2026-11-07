@@ -50,8 +50,8 @@ related: ["rpo-kpi-erabenai", "rpo-funnel", "rpo-kouka-sokutei", "rpo-agent-ooi"
 四つと経路と日数で、「どこで止まっているか」「どの経路が効いているか」「速さは足りているか」が分かります。それ以上の数字は、四つが溜まってからです。
 
 <aside class="cta-inline">
-<p>最初に取る四つの数字と、経路と日数の記録の型を、いまの表に合わせて一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 数字を取る仕組み
@@ -119,8 +119,8 @@ related: ["rpo-kpi-erabenai", "rpo-funnel", "rpo-kouka-sokutei", "rpo-agent-ooi"
 経営者への報告の型は[経営者に採用の状況が伝わらない](/media/rpo-keieisha-rikai/)に書いています。四つの数字が、その報告の土台です。
 
 <aside class="cta-inline">
-<p>四つの数字を経営者向けの一枚にまとめる型を、担当者が一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 数字で判断を変える運用

@@ -42,8 +42,8 @@ related: ["rpo-eigyo-to-jitsumu", "rpo-erabikata", "rpo-freelance-vs-kaisha", "r
 **どちらを取るかは、依頼の性質で決まります**。変更が多い依頼なら柔軟さ、安定して量を回す依頼なら標準化。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -109,8 +109,8 @@ related: ["rpo-eigyo-to-jitsumu", "rpo-erabikata", "rpo-freelance-vs-kaisha", "r
 **規模は目安であって、判断の中心ではありません**。判断軸の全体は[採用代行会社の選び方](/media/rpo-erabikata/)にまとめています。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

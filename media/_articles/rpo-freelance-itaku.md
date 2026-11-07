@@ -44,8 +44,8 @@ related: ["rpo-keiyakusho-check", "rpo-baitai-hi-betsu", "rpo-check-list", "rpo-
 **これらは、契約書の文言だけでなく実際の運用も見られます**。契約書で整理していても、日々のやりとりで細かく指示を出していれば、実態はそちらで判断されます。線引きの考え方は[採用代行が偽装請負になる境界線](/media/rpo-gisou-ukeoi/)にまとめています。**個別の判断は専門家にご確認ください**。
 
 <aside class="cta-inline">
-  <p>自社の採用のどこを外に出せるか、整理してみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -99,8 +99,8 @@ related: ["rpo-keiyakusho-check", "rpo-baitai-hi-betsu", "rpo-check-list", "rpo-
 あわせて、**契約書の形式**も確認します。書面を交わさずに口頭で始めると、範囲も報酬も曖昧なまま進みます。個人が相手でも、書面で範囲と報酬を定めておきます。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

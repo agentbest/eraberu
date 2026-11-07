@@ -43,8 +43,8 @@ related: ["rpo-jitai-ooi", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shouk
 聞く人は、「候補者にとって、言いにくくない相手」です。会社の中で言えば、面接に関わっていない人。会社の外なら、担当者です。
 
 <aside class="cta-inline">
-  <p>辞退理由を担当者が候補者から聞き、社内に戻す形で運用できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 聞き方を変える
@@ -124,8 +124,8 @@ related: ["rpo-jitai-ooi", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shouk
 理由を集めても、社内に戻さなければ、記録が溜まるだけです。戻す経路を、最初に決めます。
 
 <aside class="cta-inline">
-  <p>集めた辞退理由を、傾向と数字で社内に戻す形を、担当者と一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 集められない場合の代わり

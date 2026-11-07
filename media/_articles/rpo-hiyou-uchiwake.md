@@ -39,8 +39,8 @@ related: ["rpo-agent-tono-chigai", "rpo-baitai-hi-betsu", "rpo-consul-tono-chiga
 このうち、金額の差として現れやすいのは担当者の稼働です。**月額を想定稼働時間で割ると、時間あたりの実質単価が出ます**。この数字にすると、体系の違う見積もりも同じ土俵に乗ります。時間単価の見方は[時間単価はいくらが妥当か](/media/rpo-jikan-tanka/)で扱っています。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -95,8 +95,8 @@ related: ["rpo-agent-tono-chigai", "rpo-baitai-hi-betsu", "rpo-consul-tono-chiga
 この表ができると、費用の議論が「月額が高い・安い」から「この工程にこれだけ払う価値があるか」に変わります。**割に合っていない工程が見つかることのほうが多い**というのが、実際にやってみたときの感触です。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

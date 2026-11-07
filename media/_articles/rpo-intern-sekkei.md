@@ -48,8 +48,8 @@ related: ["rpo-daigaku-renkei", "rpo-second-shinsotsu", "rpo-senior-saiyo", "rpo
 目的が「合う学生と出会う」「選考につなげる」の場合、インターンと採用選考の関係には法令上の扱いと公的機関の案内があります。専門家に確認のうえで設計します。
 
 <aside class="cta-inline">
-<p>インターンの目的と、目的に合った期間と形の設計を、法令上の扱いの確認を前提に一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 期間と形の型
@@ -120,8 +120,8 @@ related: ["rpo-daigaku-renkei", "rpo-second-shinsotsu", "rpo-senior-saiyo", "rpo
 受け入れの要点は、「担当と現場と対話の相手を、事前に決めて依頼する」ことです。当日に「誰か対応して」では、学生は放置されます。
 
 <aside class="cta-inline">
-<p>インターンの受け入れの担当・現場の依頼・学生の扱いの整理を、専門家の確認を経て一緒に進められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 選考との関係と法令上の扱い

@@ -58,8 +58,8 @@ related: ["rpo-tool-shitei", "rpo-ats-erabikata", "rpo-fukugyo-jinzai-vs-kaisha"
 **困っていることから逆算してください**。**機能の一覧を比べても、判断はできません**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -145,8 +145,8 @@ related: ["rpo-tool-shitei", "rpo-ats-erabikata", "rpo-fukugyo-jinzai-vs-kaisha"
 **そして、削減される時間と比べてください**。転記の作業、日程調整の往復、集計の手間。**時間を金額に換算すると、判断できます**。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

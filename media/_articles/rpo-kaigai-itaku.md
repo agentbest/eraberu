@@ -59,8 +59,8 @@ related: ["rpo-gouhi-kettei", "rpo-kaisha-nanori", "rpo-mensetsu-hyouka", "rpo-n
 **このうち、求人原稿と条件提示は特に注意が要ります**。募集時の記載について、国ごとに定めが異なります。日本での書き方をそのまま持ち込むと、現地では不適切な記載になる可能性があります。**この判断は現地の専門家に確認する領域です**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -103,8 +103,8 @@ related: ["rpo-gouhi-kettei", "rpo-kaisha-nanori", "rpo-mensetsu-hyouka", "rpo-n
 **四番目と五番目は、事前に整理しておく項目です**。特に、海外の拠点に関わる個人データの取り扱いについては、国内とは別の検討が必要になる場合があります。**進める前に専門家にご確認ください**。取り扱いの一般的な整理は[個人情報保護法と委託先の監督](/media/rpo-kojin-jouhou/)にまとめています。
 
 <aside class="cta-inline">
-  <p>相談だけでも構いません。発注前提ではありません</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

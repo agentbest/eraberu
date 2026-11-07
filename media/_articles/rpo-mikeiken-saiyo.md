@@ -47,8 +47,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-a
 五つのうち、「教える人がいるか」と「期間を決められるか」が無ければ、踏み切るべきではありません。採っても育ちません。
 
 <aside class="cta-inline">
-<p>未経験採用に踏み切る前の五つの確認を、いまの役割と体制に合わせて一緒に整理できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 未経験でも採れる役割と、採れない役割
@@ -116,8 +116,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-a
 型を作ると、「育てる負担」が見えます。見えれば、責任者は負担を認めるか、認めないかを判断できます。見えないまま「育てて」と言われる現場は、拒みます。
 
 <aside class="cta-inline">
-<p>未経験を育てる型（到達点・三か月の予定・教える人）を、現場と一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 経験者採用と並行する設計

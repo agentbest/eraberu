@@ -46,8 +46,8 @@ related: ["scout-daikou-kadai-genba", "scout-daikou-kadai-nittei", "scout-daikou
 理由の記録は、代行の担当者に頼めます。候補者との連絡を担当者が持っているなら、辞退の連絡も担当者に来ます。「差し支えなければ理由を」と聞いてもらい、レポートに入れてもらいます。
 
 <aside class="cta-inline">
-  <p>辞退の時点と理由を分けて見るところから、担当者と一緒に進められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 期待と実態のずれを直す
@@ -91,8 +91,8 @@ related: ["scout-daikou-kadai-genba", "scout-daikou-kadai-nittei", "scout-daikou
 面談は、会社が候補者を見る場であると同時に、候補者が会社を見る場です。取り合いの中では、後者の比重が大きくなります。面談者がその意識を持っていないなら、担当者から「候補者は他社と比べています」と伝えてもらってください。
 
 <aside class="cta-inline">
-  <p>面談者に渡す準備の型を、担当者と一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 内定後の辞退を減らす

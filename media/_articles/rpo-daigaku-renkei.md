@@ -47,8 +47,8 @@ related: ["rpo-intern-sekkei", "rpo-shinsotsu-ka-chuuto", "rpo-shinsotsu-teichak
 最初は、四つのうち、最も作りやすい一つから始めます。社内に卒業生がいれば、四から。事業に関わる研究室があれば、二から。無ければ、一から。
 
 <aside class="cta-inline">
-<p>自社にとって作りやすい接点を四つの中から見つけ、最初の一年の動きを一緒に設計できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 最初の一年でやること
@@ -115,8 +115,8 @@ related: ["rpo-intern-sekkei", "rpo-shinsotsu-ka-chuuto", "rpo-shinsotsu-teichak
 研究室との関係の要点は、「事業と研究の接点」と「学生への価値の提供」です。接点が無い、価値が無い関係は、できません。
 
 <aside class="cta-inline">
-<p>自社の事業に関わる研究室の見つけ方と、教員への最初の接点の作り方を一緒に整理できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 学生との接点

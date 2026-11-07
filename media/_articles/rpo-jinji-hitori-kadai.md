@@ -47,8 +47,8 @@ related: ["rpo-kenmu", "rpo-fukusuu-shokushu", "rpo-gaichu-hanni", "rpo-genba-ky
 棚卸しをすると、「人事にしかできない」仕事は、全体の一部だと分かります。残りは、減らすか、他に回すか、外に出せます。
 
 <aside class="cta-inline">
-<p>一人人事の仕事の棚卸しと、減らす・外に出す設計を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 採用の工程を減らす
@@ -116,8 +116,8 @@ related: ["rpo-kenmu", "rpo-fukusuu-shokushu", "rpo-gaichu-hanni", "rpo-genba-ky
 責任者と現場を巻き込むのは、人事が弱いからではありません。採用は会社の仕事で、人事はその一部を担う人です。
 
 <aside class="cta-inline">
-<p>責任者に見せる棚卸しの資料と、減らす・外に出す提案を一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 人事が一人でも回る形

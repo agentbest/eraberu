@@ -41,8 +41,8 @@ related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-henshin", "scout-daik
 三つのどれかを、担当者に率直に聞いてください。「返信対応が遅れているが、稼働が足りないのか、判断を待っているのか、こちらの承認で止まっているのか」。担当者が答えやすい聞き方です。
 
 <aside class="cta-inline">
-  <p>遅さの場所と原因を、担当者と一緒に切り分けるところから相談できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 発注側が原因であることは多い
@@ -86,8 +86,8 @@ related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-henshin", "scout-daik
 **レポートに対応時間を入れる。** 返信から一次対応までの時間を、レポートの項目に入れます。数字で見えていれば、遅くなったときに気づけます。[レポートに入れてもらう項目](/media/scout-daikou-report/)で挙げた項目の一つです。
 
 <aside class="cta-inline">
-  <p>裁量の書面と面談枠の押さえ方は、いまの体制に合わせて一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 直しても遅いとき

@@ -39,8 +39,8 @@ related: ["rpo-kibo-aisho", "rpo-erabikata", "rpo-freelance-vs-kaisha", "rpo-gyo
 **サービスの名前や説明を見る**。特定の職種や媒体に特化した名称を使っている会社は、そこが得意領域です。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -97,8 +97,8 @@ related: ["rpo-kibo-aisho", "rpo-erabikata", "rpo-freelance-vs-kaisha", "rpo-gyo
 そして、**会社の知見が担当者に共有される仕組みがあるか**も聞いてください。手順書がある、社内で事例を共有している。仕組みがあれば、会社の実績と担当者の経験がつながります。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

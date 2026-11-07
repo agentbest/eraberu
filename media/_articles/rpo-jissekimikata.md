@@ -44,8 +44,8 @@ related: ["rpo-erabikata", "rpo-jirei-mikata", "rpo-shitsumon-list", "rpo-eigyo-
 **四番目が最も重要です**。会社に実績があっても、自社を担当する人がその経験を持っているとは限りません。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -105,8 +105,8 @@ related: ["rpo-erabikata", "rpo-jirei-mikata", "rpo-shitsumon-list", "rpo-eigyo-
 **数字を見たら、必ず前提を聞いてください**。前提が説明できない数字は、判断材料になりません。逆に、前提を丁寧に説明する会社は、社内で実績を管理しています。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

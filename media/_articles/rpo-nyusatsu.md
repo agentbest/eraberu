@@ -51,8 +51,8 @@ related: ["rpo-eigyo-to-jitsumu", "rpo-erabikata", "rpo-hikaku-hyou", "rpo-jirei
 **四番目を依頼文に入れておいてください**。金額と範囲は書面で比べられますが、実際に動く人の情報は聞かないと出てきません。**同じ範囲・同じ金額の提案が並んだとき、判断できる材料はそこしか残りません**。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -123,8 +123,8 @@ related: ["rpo-eigyo-to-jitsumu", "rpo-erabikata", "rpo-hikaku-hyou", "rpo-jirei
 **理由を伝えておくと、次に依頼する機会があるときに話が早く進みます**。相手も、何が合わなかったかを踏まえた提案ができます。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

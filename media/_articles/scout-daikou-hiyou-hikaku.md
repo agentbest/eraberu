@@ -48,8 +48,8 @@ related: ["scout-daikou-mitsumori", "scout-daikou-seika", "scout-daikou-toha", "
 **根拠のある数字を出せる会社と、聞かないと出てこない会社があります**。**この差自体が判断材料です**。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -164,8 +164,8 @@ related: ["scout-daikou-mitsumori", "scout-daikou-seika", "scout-daikou-toha", "
 **すぐ答えられる会社と、持ち帰る会社があります**。**社内で数字を管理しているかどうかが出ます**。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解
@@ -186,9 +186,7 @@ related: ["scout-daikou-mitsumori", "scout-daikou-seika", "scout-daikou-toha", "
 
 **すぐに出せる会社と、契約後に決めますと言う会社があります**。**この差は、月額の数万円の差より結果に効きます**。
 
-エラベルはこの前提を変えるために作った窓口です。担当者の経歴を見てから決められる形にしていて、費用は採用が決まったときの一名十万円のみ。
-
-**ただ、エラベルを使うかどうかに関わらず、この質問は入れる価値があります**。
+担当者の経歴を見てから決められる形にしていて、費用は採用が決まったときの一名十万円のみ。
 
 **料金体系を揃えて比べたあと、最後に見るのは人です**。
 

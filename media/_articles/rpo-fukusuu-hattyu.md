@@ -47,8 +47,8 @@ related: ["rpo-aiaigasa", "rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-k
 工程で分けるなら、**受け渡しの形式と、情報の共有方法を先に決めます**。どのタイミングで、何を、どこに記録して渡すか。ここが決まっていないと、引き継ぎの都度やりとりが発生し、管理の手間が増えます。
 
 <aside class="cta-inline">
-  <p>自社の採用のどこを外に出せるか、整理してみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -90,8 +90,8 @@ related: ["rpo-aiaigasa", "rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-k
 判断の目安として、**社内に管理できる人がいるかどうか**を先に見てください。複数社の運用は、社内に司令塔がいることが前提です。いないなら、一社に集約して範囲を広げるほうが回ります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

@@ -49,8 +49,8 @@ related: ["rpo-fugouhi-renraku", "rpo-oubo-houchi", "rpo-agent-ooi", "rpo-agent-
 候補者は、接点ごとに「この会社は自分をどう扱うか」を判断しています。入社後の扱いを、選考の扱いから推測します。
 
 <aside class="cta-inline">
-<p>応募から内定までの接点を候補者の側から点検し、直す順番を一緒に整理できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 三つの原則
@@ -132,8 +132,8 @@ related: ["rpo-fugouhi-renraku", "rpo-oubo-houchi", "rpo-agent-ooi", "rpo-agent-
 一と二は、今週から直せます。三から五は、文面の型を作れば来週から。六と七は、面接官と社内の合意が要るので、一か月ほど。
 
 <aside class="cta-inline">
-<p>候補者体験の直す順番と、今週から直せる接点の文面の型を一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 外注する場合の範囲

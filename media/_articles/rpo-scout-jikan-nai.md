@@ -51,8 +51,8 @@ related: ["rpo-kenmu", "rpo-scout-henshin-nai", "rpo-agent-ooi", "rpo-agent-shit
 時間を固定すれば、送れる数は少なくても、毎週送れ、返信にも対応できます。「空いた時間で多く送る」より、「固定の時間で少なく送る」ほうが、機能します。
 
 <aside class="cta-inline">
-  <p>社内で固定できる時間と、外に出す工程の線引きを、一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 工程を分けて、外に出せる部分
@@ -118,8 +118,8 @@ related: ["rpo-kenmu", "rpo-scout-henshin-nai", "rpo-agent-ooi", "rpo-agent-shit
 合計で、最初の月に数時間、その後は週に一時間程度（面談を除く）です。この時間も確保できないなら、スカウトそのものが、いまの社内の体制では難しい状態です。
 
 <aside class="cta-inline">
-  <p>社内に残る最低限の時間を、いまの体制で確保できるか一緒に確認できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 外注する場合の範囲

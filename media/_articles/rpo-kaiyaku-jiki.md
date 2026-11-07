@@ -35,8 +35,8 @@ related: ["rpo-chuuto-kaiyaku", "rpo-data-henkan", "rpo-hanki-minaoshi", "rpo-hi
 **選考中の候補者を理由に延ばし続ける**。進行中の候補者がいると切りにくいのですが、採用は続くので「候補者がいない時期」はなかなか来ません。区切りを決めて判断します。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -100,8 +100,8 @@ related: ["rpo-chuuto-kaiyaku", "rpo-data-henkan", "rpo-hanki-minaoshi", "rpo-hi
 **これらを並べて、逆算した日に申し入れます**。急いで申し入れると、引き継ぎに手が入りません。
 
 <aside class="cta-inline">
-  <p>相談だけでも構いません。発注前提ではありません</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

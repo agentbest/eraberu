@@ -49,8 +49,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-c
 理由を聞くと、「制度」に関する理由は少なく、「頼み方」「戻し方」「気まずさ」「手間」に関する理由が多いです。
 
 <aside class="cta-inline">
-<p>社員が紹介しない理由を聞き取り、頼み方・戻し方・負担・不採用時の扱いを一緒に設計できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 頼み方の型
@@ -123,8 +123,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-c
 負担の要点は、「社員は名前と連絡先を渡すだけ、あとは会社が動く」ことです。社員に手間と責任を負わせる形は、広がりません。
 
 <aside class="cta-inline">
-<p>社員の紹介の手間を「名前と連絡先だけ」にする運用と、社員が渡せる材料を一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 不採用時の扱い

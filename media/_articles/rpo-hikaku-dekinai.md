@@ -51,8 +51,8 @@ related: ["rpo-kyougou-bunseki", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent
 候補者ごとに重さが違うので、面接で「何を重く見て会社を選んでいますか」と聞きます。
 
 <aside class="cta-inline">
-<p>候補者が比べる項目で、自社を事実で並べる作業を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 事実で並べる方法
@@ -120,8 +120,8 @@ related: ["rpo-kyougou-bunseki", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent
 言葉にする要点は、「事実の言葉」と「合う人・合わない人」です。抽象語と、全員向けの良さは、比べる材料になりません。
 
 <aside class="cta-inline">
-<p>他社から入社した人と辞退しなかった人の言葉から、自社の「良さ」を事実で言葉にする一枚を一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 求人票と面接への反映

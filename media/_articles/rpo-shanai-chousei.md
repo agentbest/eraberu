@@ -42,8 +42,8 @@ related: ["rpo-genba-setsumei", "rpo-keieisha-setsumei", "rpo-kpi-goui", "rpo-ai
 **この四つで、経営の判断材料は揃います**。資料の作り方は[稟議を通すための資料の作り方](/media/rpo-ringi/)にまとめています。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -121,8 +121,8 @@ related: ["rpo-genba-setsumei", "rpo-keieisha-setsumei", "rpo-kpi-goui", "rpo-ai
 **三番目を早めにやってください**。制約が後から出ると、選定をやり直すことになります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

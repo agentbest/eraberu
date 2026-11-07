@@ -45,8 +45,8 @@ related: ["scout-fukusuu-meigi", "scout-chimeido-nai-kaisha", "scout-daikou-bait
 効かない相手に送るなら、担当者の名義か、一緒に働く現場の人の名義のほうが、自然で、信頼されます。
 
 <aside class="cta-inline">
-  <p>経営者名義で送る対象を、役割と候補者の層で絞るところを一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 名義だけ借りる形で起きること
@@ -108,8 +108,8 @@ related: ["scout-fukusuu-meigi", "scout-chimeido-nai-kaisha", "scout-daikou-bait
 担当者が下書きを作り、経営者が読んで、自分の言葉に直す。直す過程で、経営者の言葉になります。
 
 <aside class="cta-inline">
-  <p>経営者名義の文面の下書きを、経営者の考えを聞き取ったうえで担当者と一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 返信と面談での一貫性

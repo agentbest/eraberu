@@ -49,8 +49,8 @@ related: ["scout-tenkin-ari", "scout-josei-scout", "scout-kyuuyo-makeru", "scout
 これらを、文面の役割の記述の後に、簡潔に書きます。書けば、実態と合わない候補者は返信の前に見送り、合う候補者は安心して返信します。
 
 <aside class="cta-inline">
-  <p>働き方の実態を文面に書ける形に整理するところを、担当者と一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 対象の広がりと絞り方
@@ -108,8 +108,8 @@ related: ["scout-tenkin-ari", "scout-josei-scout", "scout-kyuuyo-makeru", "scout
 ずれを防ぐ伝え方は、候補者を減らすように見えますが、減るのは入社後に離れる候補者です。
 
 <aside class="cta-inline">
-  <p>入社後のずれを防ぐ伝え方を、選考の各段階に組み込む形で一緒に設計できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## フルリモートだからこそ書ける訴求

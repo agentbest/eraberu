@@ -50,8 +50,8 @@ related: ["rpo-daigaku-renkei", "rpo-intern-sekkei", "rpo-shinsotsu-teichaku", "
 違いの要点は、「時間」と「育てる体制」と「費用の形」です。この三つで、どちらが合うかが役割ごとに変わります。
 
 <aside class="cta-inline">
-<p>新卒と中途の違いを自社の記録で確かめ、配分を決める材料を一緒に整理できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 配分を決める四つの軸
@@ -124,8 +124,8 @@ related: ["rpo-daigaku-renkei", "rpo-intern-sekkei", "rpo-shinsotsu-teichaku", "
 始める判断の要点は、「育てる体制と役割が先」です。体制と役割が無い新卒は、費用と時間の無駄になります。
 
 <aside class="cta-inline">
-<p>新卒を始める前の育てる体制と役割の準備を、一緒に整えられます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 中途に寄せる判断

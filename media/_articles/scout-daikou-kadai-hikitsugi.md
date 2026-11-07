@@ -41,8 +41,8 @@ related: ["scout-daikou-kadai-tantou", "scout-daikou-checklist", "scout-daikou-k
 渡し方は、合った人・合わなかった人の例です。個人が特定できない形で、「この書き方の経歴は合った」「この書き方は合わなかった」を数件。[面談してみると要件と違う](/media/scout-daikou-kadai-mismatch/)で書いた、面談後の一行の積み重ねがそのまま使えます。
 
 <aside class="cta-inline">
-  <p>抜けやすい七項目を、いまの運用に合わせた引き継ぎの一覧にするところから一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 三.進行中の候補者の「文脈」
@@ -96,8 +96,8 @@ related: ["scout-daikou-kadai-tantou", "scout-daikou-checklist", "scout-daikou-k
 渡し方は、口頭の約束を書き出すことです。引き継ぎのときに、発注側と前の担当者が「決めていたことは何か」を一緒に洗い出します。書き出したものは、次の契約や覚書に入れます。
 
 <aside class="cta-inline">
-  <p>口頭の約束の洗い出しを、前の担当者がいるうちに一緒に進められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 受け取る側の確認方法

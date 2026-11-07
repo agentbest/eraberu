@@ -50,8 +50,8 @@ related: ["scout-abtest", "scout-ai-bunmen", "scout-casual-mendan-sasoi", "scout
 「自社の魅力」を探す会議は、抽象語で終わります。「この候補者（具体的な一人）が、この役割で何を得るか」を考える作業は、事実で書けます。
 
 <aside class="cta-inline">
-<p>「自社の魅力」を「この候補者が得るもの」に置き換え、事実の場面で書く作業を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 候補者が得るものの六つの型
@@ -119,8 +119,8 @@ related: ["scout-abtest", "scout-ai-bunmen", "scout-casual-mendan-sasoi", "scout
 変える部分の要点は、「経歴から困りごとを読み、六つから選び、一段落目の対応に入れる」ことです。全文を変えるのではなく、選ぶ型と、その場面だけを変えます。
 
 <aside class="cta-inline">
-<p>候補者の経歴から得るものの型を選び、一段落目の対応に入れる書き方を、担当者が一緒に整えられます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 魅力を探す聞き取り

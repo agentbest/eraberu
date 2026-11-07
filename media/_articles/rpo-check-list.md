@@ -43,8 +43,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-chuuto-kaiyaku", "rpo-freelance-itaku", "r
 **四番目の聞き方が効きます**。含まれるものを並べてもらうより、含まれないものを聞くほうが漏れが出ません。読み方は[見積もりの読み方](/media/rpo-mitsumori-mikata/)、差の分解は[同じ条件で見積もりに差が出る理由](/media/rpo-mitsumori-sa/)にまとめています。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -107,8 +107,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-chuuto-kaiyaku", "rpo-freelance-itaku", "r
 **三番目と八番目は、後回しにされがちですが効果が大きい項目です**。文面の型があると質が安定し、所要日数を伝えると候補者に見通しを案内できます。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

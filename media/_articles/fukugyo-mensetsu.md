@@ -1,6 +1,6 @@
 ---
 title: "副業案件の面談で聞かれること｜「できますか」より「どう進めますか」に答える準備をする"
-description: "人事の副業の案件で、依頼側との面談では何を聞かれるか。転職の面接と違い、依頼側は「この人に、この課題を、この稼働で任せられるか」を確かめます。よく聞かれる六つ（課題への見立て・進め方・実績・稼働と時間帯・報酬・本業との関係）、それぞれへの答え方、聞かれて困る質問への対応、面談の場で見られていること、面談後の動きを整理しました。"
+description: "人事の副業の案件で、依頼側との面談では何を聞かれるか。"
 pillar: "fukugyo"
 series: "報酬・契約"
 target: "単価・契約・税務"
@@ -47,8 +47,8 @@ related: ["fukugyo-mensetsu-shitsumon", "fukugyo-jisseki-shimeshikata", "fukugyo
 六つに、事前に答えを用意しておきます。特に一と二は、依頼側の課題を聞いてからでないと答えられないので、聞く時間を面談の前半に取ります。
 
 <aside class="cta-inline">
-  <p>面談で「どう進めますか」に答えられる形で、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## それぞれへの答え方
@@ -114,8 +114,8 @@ related: ["fukugyo-mensetsu-shitsumon", "fukugyo-jisseki-shimeshikata", "fukugyo
 面談は、質問に答える場であると同時に、仕事の仕方を見せる場です。
 
 <aside class="cta-inline">
-  <p>面談の前後の対応も含めて、仕事の質で選ばれる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 面談後の動き

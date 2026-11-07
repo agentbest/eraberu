@@ -51,8 +51,8 @@ related: ["scout-golden-week", "scout-kessan-ki", "scout-baitai-kaiyaku", "scout
 合計が、送信の開始から入社までの期間です。入社日から引けば、開始日が出ます。
 
 <aside class="cta-inline">
-  <p>七段階の日数を自社の実績で置くところを、担当者と一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 立ち上げの期間を足す
@@ -96,8 +96,8 @@ related: ["scout-golden-week", "scout-kessan-ki", "scout-baitai-kaiyaku", "scout
 四つのどれを取るかは、期限の重さと、社内で動かせるものの範囲で決めます。担当者と社内で、選択肢を並べてから決めてください。
 
 <aside class="cta-inline">
-  <p>期限に間に合わないと分かったときの四つの選択肢を、一緒に並べて検討できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 運用中に計画を直す

@@ -42,8 +42,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-fr
 **選考時の情報提供の範囲を広げる**。候補者に渡す情報を増やし、入社後のずれを減らす。職務内容の詳細、想定される難しさ、評価の考え方。これらを求人原稿や面談の案内に含める作業を、代行の範囲に入れます。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -83,8 +83,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-fr
 条項の作り方や表現については、契約書全体との整合も含めて専門家にご確認ください。契約書の確認項目は[業務委託契約書で確認する10項目](/media/rpo-keiyakusho-check/)にまとめています。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

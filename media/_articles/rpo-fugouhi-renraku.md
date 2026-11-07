@@ -52,8 +52,8 @@ related: ["rpo-oubo-houchi", "rpo-taiken-warui", "rpo-agent-ooi", "rpo-agent-shi
 損失は、見えにくいです。「出さなくても、何も起きていない」ように見えます。ただ、応募が減り、口コミが悪くなり、紹介会社が離れる形で、見えないところで起きています。
 
 <aside class="cta-inline">
-<p>不合格連絡の期限・文面・理由の型を、いまの選考の流れに合わせて一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 期限の決め方
@@ -133,8 +133,8 @@ related: ["rpo-oubo-houchi", "rpo-taiken-warui", "rpo-agent-ooi", "rpo-agent-shi
 紹介会社への不合格の連絡が遅い会社は、紹介会社の中で「対応の悪い会社」になり、推薦が減ります。紹介会社との関係は[紹介会社から候補者が来ない](/media/rpo-agent-shoukai-konai/)に書いています。
 
 <aside class="cta-inline">
-<p>紹介会社への不合格の伝え方と理由の書き方を、記録の型と合わせて一緒に整えられます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 運用の型

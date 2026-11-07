@@ -49,8 +49,8 @@ related: ["rpo-doga-katsuyou", "rpo-chimeido-nai", "rpo-koho-neta", "rpo-kuchiko
 見たい素材が決まれば、「何を撮るか」が決まります。「とりあえず撮ろう」では、使える素材は集まりません。
 
 <aside class="cta-inline">
-<p>候補者が見たい素材の整理と、撮るものの一覧を一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 社内で撮れるものと撮り方
@@ -120,8 +120,8 @@ related: ["rpo-doga-katsuyou", "rpo-chimeido-nai", "rpo-koho-neta", "rpo-kuchiko
 写真が無いから採用ページが作れない、は成り立ちません。文章と図と数字で、初版は作れます。写真は、揃ったら足します。
 
 <aside class="cta-inline">
-<p>写真が無くても作れる採用ページと求人票の初版を、担当者が一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## プロに頼む範囲と頼み方

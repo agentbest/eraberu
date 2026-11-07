@@ -48,8 +48,8 @@ related: ["rpo-fukusuu-shokushu", "rpo-gaichu-hanni", "rpo-hikitsugi-nai", "rpo-
 負担を減らしても、まだ負担はあります。次に、見返りを戻します。
 
 <aside class="cta-inline">
-<p>現場の負担を減らす採用の設計を、いまの体制に合わせて一緒に組めます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 現場に見返りを戻す
@@ -109,8 +109,8 @@ related: ["rpo-fukusuu-shokushu", "rpo-gaichu-hanni", "rpo-hikitsugi-nai", "rpo-
 最初の一歩が回れば、二人目、三人目は頼みやすくなります。一斉に頼んで一斉に断られるより、一人ずつです。
 
 <aside class="cta-inline">
-<p>現場を巻き込む最初の一歩から、担当者が一緒に動けます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## それでも動かないときの判断

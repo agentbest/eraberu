@@ -45,8 +45,8 @@ related: ["scout-fukugyo-jinzai", "scout-alumni-scout", "scout-daikou-baitai-hi"
 これらが決まっていないと、文面が書けず、返信が来ても条件の話ができません。
 
 <aside class="cta-inline">
-  <p>委託する範囲と期間と成果物を定義するところから、一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 文面と対応の違い
@@ -104,8 +104,8 @@ related: ["scout-fukugyo-jinzai", "scout-alumni-scout", "scout-daikou-baitai-hi"
 **費用の形。** 業務委託の人材探しは、正社員の採用と成果の定義が違います。「契約締結」を成果とするなら、その定義を明確にします。
 
 <aside class="cta-inline">
-  <p>業務委託の候補者が登録している媒体と、文面の変え方を、担当者と一緒に確認できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 業務委託から正社員への転換を考えるなら

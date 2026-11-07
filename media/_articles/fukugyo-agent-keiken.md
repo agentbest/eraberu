@@ -51,8 +51,8 @@ related: ["fukugyo-startup-keiken", "fukugyo-daikigyo-keiken", "fukugyo-jisseki-
 これらは、「採用の入口から内定まで」の工程で、企業の人事が最も苦手とする部分です。人材紹介の経験は、そこで最も売れます。
 
 <aside class="cta-inline">
-  <p>候補者を動かした経験が活きる、スカウト運用や面接設計の案件を選べる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 評価されにくい場面
@@ -114,8 +114,8 @@ related: ["fukugyo-startup-keiken", "fukugyo-daikigyo-keiken", "fukugyo-jisseki-
 切り替えができれば、人材紹介の経験は、企業側の課題を最も深く理解した経験になります。切り替えができないと、「紹介会社の人がやっている」と見られます。
 
 <aside class="cta-inline">
-  <p>企業側の視点で採用を支援する案件を、経験に合わせて選べる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 法令で気をつける点

@@ -1,6 +1,6 @@
 ---
 title: "値上げを申し出るタイミング｜「実績が出たとき」ではなく「契約の節目」に、根拠とともに"
-description: "人事の副業で、報酬を上げたいが、いつ、どう切り出せばよいか分からない。値上げは、感情や実績の自慢ではなく、契約の節目に根拠とともに申し出るものです。値上げを考える四つのサイン、申し出るタイミング（契約更新・範囲の変更・成果の確定後・立ち上げの終了）、根拠の作り方、伝え方、断られたときの対応、値上げを避けるべき場合を整理しました。金額の数値は扱いません。"
+description: "人事の副業で、報酬を上げたいが、いつ、どう切り出せばよいか分からない。"
 pillar: "fukugyo"
 series: "報酬・契約"
 target: "単価・契約・税務"
@@ -47,8 +47,8 @@ related: ["fukugyo-tanka-agekata", "fukugyo-daikigyo-keiken", "fukugyo-honnngyou
 節目を待つ間に、根拠を整えます。節目が来たときに、根拠とともに申し出ます。
 
 <aside class="cta-inline">
-  <p>契約の節目で報酬を見直せる形の案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 根拠の作り方
@@ -112,8 +112,8 @@ related: ["fukugyo-tanka-agekata", "fukugyo-daikigyo-keiken", "fukugyo-honnngyou
 断られたからといって、いまの条件で黙って続けることは、避けます。範囲を戻すか、時期をずらすか、やめるか。何かを決めます。
 
 <aside class="cta-inline">
-  <p>報酬と範囲が合わなくなったとき、別の案件に移れる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 値上げを避けるべき場合

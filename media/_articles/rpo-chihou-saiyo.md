@@ -49,8 +49,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-c
 市場を見ると、「本社と同じやり方では届かない」理由が具体的になります。理由が分かれば、経路と要件と条件を直せます。
 
 <aside class="cta-inline">
-<p>拠点の市場の見方と、本社の型からの組み直しを一緒に設計できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 地方で効く経路
@@ -115,8 +115,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-c
 体制の要点は、「拠点の候補者が、本社の候補者と同じ速さと丁寧さで選考を受けられる」ことです。
 
 <aside class="cta-inline">
-<p>拠点の面接と選考の体制を、本社と拠点の役割に合わせて一緒に組めます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 地元に根ざす採用の作り方

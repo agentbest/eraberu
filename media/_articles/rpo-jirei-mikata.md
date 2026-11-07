@@ -45,8 +45,8 @@ related: ["rpo-erabikata", "rpo-jissekimikata", "rpo-shitsumon-list", "rpo-eigyo
 **書かれていない項目は、聞けば答えてもらえることが多い**。企業名を伏せた形でも、この五つは共有できます。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -115,8 +115,8 @@ related: ["rpo-erabikata", "rpo-jissekimikata", "rpo-shitsumon-list", "rpo-eigyo
 **数字を見たら前提を聞く**。これは実績の見方と同じです。扱いは[採用代行の「実績」の見方](/media/rpo-jissekimikata/)にまとめています。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

@@ -30,8 +30,8 @@ related: ["fukugyo-saiyo-senryaku-fukugyo", "fukugyo-saiyo-senryaku-hajimekata",
 打ち合わせの時間だけを単価の根拠にすると、準備とまとめ、合間の相談の時間がただ働きになります。とくに合間の相談は、気軽に頼まれやすく、積み重なると大きな時間になります。どこまでを単価に含めるかを、最初に依頼先と決めてください。
 
 <aside class="cta-inline">
-  <p>採用の責任者としての経験が活かせる案件を、見てみませんか</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 時間単価・月額の顧問・テーマごとの成果物
@@ -61,8 +61,8 @@ related: ["fukugyo-saiyo-senryaku-fukugyo", "fukugyo-saiyo-senryaku-hajimekata",
 壁打ちの仕事の中身は[採用戦略の壁打ちの副業の仕事](/media/fukugyo-saiyo-senryaku-shigoto/)で書いています。
 
 <aside class="cta-inline">
-  <p>週に数時間から受けられる案件もあります</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 気をつけたいこと

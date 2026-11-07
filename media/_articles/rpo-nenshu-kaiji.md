@@ -39,8 +39,8 @@ related: ["rpo-gouhi-kettei", "rpo-mensetsu-hyouka", "rpo-kaigai-itaku", "rpo-ka
 **この作業は、代行に任せられます**。ただし、**伝えてよい範囲を先に決めておく**必要があります。決めていないと、代行側は何も言えないか、言い過ぎるかのどちらかになります。
 
 <aside class="cta-inline">
-  <p>自社の採用のどこを外に出せるか、整理してみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -101,8 +101,8 @@ related: ["rpo-gouhi-kettei", "rpo-mensetsu-hyouka", "rpo-kaigai-itaku", "rpo-ka
 **このうち一番目は価値があります**。候補者が代行の担当者に伝えた情報が、条件を決める判断材料になります。ただし、**その情報が自社に届く仕組み**が要ります。届かなければ意味がありません。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

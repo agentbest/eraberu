@@ -62,8 +62,8 @@ related: ["rpo-jinji-ikusei", "rpo-chusho-muke", "rpo-daikigyo-muke", "rpo-nenka
 **この四つを最初にやってください**。ここが分からないまま運用を始めると、都度確認することになります。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -156,8 +156,8 @@ related: ["rpo-jinji-ikusei", "rpo-chusho-muke", "rpo-daikigyo-muke", "rpo-nenka
 **この五つは、日常の業務の中でできます**。特別な時間を取らなくても、意識するだけで学びになります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

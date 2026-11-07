@@ -47,8 +47,8 @@ related: ["scout-nagasa", "scout-abtest", "scout-ai-bunmen", "scout-casual-menda
 四段は、それぞれ短く。全部で、スマートフォンで一〜二画面に収まる長さが目安です。
 
 <aside class="cta-inline">
-<p>自社のスカウト本文を四段の構成に組み直す作業を、役割の記述から一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 一段落目の書き方
@@ -116,8 +116,8 @@ related: ["scout-nagasa", "scout-abtest", "scout-ai-bunmen", "scout-casual-menda
 三段落目の要点は、「会社の紹介ではなく、この役割をこの会社で担う理由」です。会社の全部を説明する場所ではありません。
 
 <aside class="cta-inline">
-<p>三段落目の「この役割をこの会社で担う理由」を、会社の段階と人と実態から一緒に書けます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 四段落目の次の一歩

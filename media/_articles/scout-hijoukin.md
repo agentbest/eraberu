@@ -41,8 +41,8 @@ related: ["scout-alumni-scout", "scout-direct-recruiting", "scout-fukugyo-jinzai
 この四つが揃えば、非正規でも、正社員の経験者採用と同じ運用でスカウトが効きます。
 
 <aside class="cta-inline">
-  <p>その職種でスカウトが効くかどうか、母数と経歴の読み取りやすさから一緒に見られます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 非正規でスカウトが効かない条件
@@ -100,8 +100,8 @@ related: ["scout-alumni-scout", "scout-direct-recruiting", "scout-fukugyo-jinzai
 代行に頼むなら、スカウトではなく、これらの手法の運用（求人媒体の原稿作成と運用、応募対応、面談設定）を頼む形になります。代行会社によって、対応できる範囲が違うので、確認します。
 
 <aside class="cta-inline">
-  <p>スカウトが効かない職種で、代行に頼める範囲を一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 代行に頼むときの確認点

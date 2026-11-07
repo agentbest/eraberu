@@ -47,8 +47,8 @@ related: ["scout-josei-scout", "scout-mikeiken-boshuu", "scout-remote-kyuujin", 
 これらの候補者は、年収の幅が希望を少し下回っていても、役割と働き方が合えば返信します。給与で負ける会社の対象は、この人たちです。
 
 <aside class="cta-inline">
-  <p>条件以外で決める候補者の見つけ方を、経歴の読み方から担当者と一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 訴求の五つの軸
@@ -108,8 +108,8 @@ related: ["scout-josei-scout", "scout-mikeiken-boshuu", "scout-remote-kyuujin", 
 面談での向き合い方は、面談者への準備で決まります。文面で書いた五つの軸と、給与の幅と根拠を、面談者に渡しておきます。
 
 <aside class="cta-inline">
-  <p>面談者が給与の話に向き合うための準備を、担当者と一緒に整えられます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 給与以外の条件を設計する

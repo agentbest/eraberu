@@ -45,8 +45,8 @@ related: ["scout-gyoumu-itaku-boshuu", "scout-alumni-scout", "scout-daikou-jikan
 **本業との関係で配慮すること。** 候補者の本業と自社が競合しないか、本業の会社の副業規定に触れないか。候補者本人に確認してもらう事項ですが、こちらから聞く姿勢を持ちます。
 
 <aside class="cta-inline">
-  <p>頼む内容と稼働の期待値を、社内が対応できる形で一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 文面で示す稼働と期待値
@@ -106,8 +106,8 @@ related: ["scout-gyoumu-itaku-boshuu", "scout-alumni-scout", "scout-daikou-jikan
 副業人材は、社内が受け入れの形を整えれば、少ない稼働で高い専門性を提供してくれます。整えなければ、稼働の少なさが「使いにくさ」になります。
 
 <aside class="cta-inline">
-  <p>副業人材の受け入れの形を、社内の窓口の設計から一緒に整えられます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 副業人材から正社員への転換

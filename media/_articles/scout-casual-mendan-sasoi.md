@@ -47,8 +47,8 @@ related: ["scout-cta", "scout-abtest", "scout-ai-bunmen", "scout-kaisha-shoukai"
 四つに加えて、「準備は要りません」「履歴書は不要です」を添えると、さらに軽くなります。
 
 <aside class="cta-inline">
-<p>自社のスカウトの面談への誘いを、四つの要素で点検し、軽く見える形に一緒に直せます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 誘い方の型
@@ -129,8 +129,8 @@ related: ["scout-cta", "scout-abtest", "scout-ai-bunmen", "scout-kaisha-shoukai"
 使わない言葉の要点は、「面接を連想させる言葉」と「軽さを言葉で言う言葉」の両方を避けることです。軽さは、言葉で言うのではなく、四つの要素で示します。
 
 <aside class="cta-inline">
-<p>誘いの文面から面接を連想させる言葉を外し、四つの要素に置き換える作業を、担当者が一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 外注する場合の範囲

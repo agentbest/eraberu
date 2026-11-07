@@ -79,8 +79,8 @@ related: ["scout-daikou-kadai-data-kesu", "scout-daikou-kadai-account", "scout-d
 **媒体ごとに仕様が違うため、書き出せる範囲は確認が要ります**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -178,8 +178,8 @@ related: ["scout-daikou-kadai-data-kesu", "scout-daikou-kadai-account", "scout-d
 **三番目を「都度」にする形も検討してください**。月次の報告に含めてもらえば、契約終了時の作業が減ります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

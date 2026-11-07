@@ -48,8 +48,8 @@ related: ["rpo-chimeido-nai", "rpo-doga-katsuyou", "rpo-koho-neta", "rpo-kuchiko
 導線は、費用がかかりません。リンクを入れるだけです。ここを直さずに「サイトの中身を良くしよう」と考える会社が多いです。
 
 <aside class="cta-inline">
-<p>採用サイトへの導線の点検と、各経路からのリンクの設計を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 見られても応募に進まない場合の直し方
@@ -115,8 +115,8 @@ related: ["rpo-chimeido-nai", "rpo-doga-katsuyou", "rpo-koho-neta", "rpo-kuchiko
 更新の手間を減らすには、制作会社に頼まなくても人事が更新できる仕組みにしておきます。制作の段階で、更新の方法を確認します。
 
 <aside class="cta-inline">
-<p>採用サイトの更新の体制と、人事が自分で更新できる形の整理を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 作り直すかどうかの判断

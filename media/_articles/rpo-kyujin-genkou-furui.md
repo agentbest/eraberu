@@ -49,8 +49,8 @@ related: ["rpo-chimeido-nai", "rpo-doga-katsuyou", "rpo-koho-neta", "rpo-kuchiko
 優先順位を付ければ、「全部直さないと」の重さが消え、一本ずつ進められます。
 
 <aside class="cta-inline">
-<p>いまの求人原稿の棚卸しと、直す優先順位の整理を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 原稿を直す手順
@@ -122,8 +122,8 @@ related: ["rpo-chimeido-nai", "rpo-doga-katsuyou", "rpo-koho-neta", "rpo-kuchiko
 体制は、担当と頻度と連絡の形の三つで足ります。難しい仕組みは要りません。
 
 <aside class="cta-inline">
-<p>求人原稿の更新の型と体制を、いまの媒体に合わせて一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 媒体ごとの反映

@@ -40,8 +40,8 @@ related: ["rpo-pdm-boshuudan", "rpo-pdm-hiyou", "rpo-pdm-rpo", "rpo-pdm-youken"]
 絞ると送信数は減ります。それでよいと考えてください。この職種は、数を送って返信率で勝負する型が合いません。対象を絞り、一通ごとに範囲を書くほうが、面談に進む数は増えます。
 
 <aside class="cta-inline">
-  <p>対象の絞り方と文面の型を、自社の求人票に合わせて一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 文面の型：一行目に「何を決める役割か」
@@ -110,8 +110,8 @@ related: ["rpo-pdm-boshuudan", "rpo-pdm-hiyou", "rpo-pdm-rpo", "rpo-pdm-youken"]
 送信数、返信数、面談に進んだ数を記録しておくと、どこで落ちているかが見えます。返信は来るのに面談に進まないなら、文面と求人の内容がずれています。返信が来ないなら、対象か一段落目の問題です。
 
 <aside class="cta-inline">
-  <p>スカウトの選定・送信・返信対応を、どこまで外に出せるか整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 代行に出せる範囲

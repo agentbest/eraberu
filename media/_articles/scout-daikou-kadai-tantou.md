@@ -43,8 +43,8 @@ related: ["scout-daikou-kadai-hikitsugi", "scout-daikou-baitai-hi", "scout-daiko
 新しい担当者の条件が前任より下がっている（稼働が減る、掛け持ちが増える、この職種の経験が無い）なら、その時点で受け入れを保留し、代行会社と話します。同じ料金で条件が下がるのは、契約の前提が変わることです。
 
 <aside class="cta-inline">
-  <p>新しい担当者の経歴を見てから、受け入れるかどうかを一緒に判断できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 引き継ぎで渡す一式
@@ -98,8 +98,8 @@ related: ["scout-daikou-kadai-hikitsugi", "scout-daikou-baitai-hi", "scout-daiko
 一か月で前任の水準に戻らないなら、代行会社に伝えます。改善が見られなければ、再度の交代か、契約の見直しです。
 
 <aside class="cta-inline">
-  <p>新しい担当者との最初の一か月をどう見るか、一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 交代を理由に契約を見直す

@@ -50,8 +50,8 @@ related: ["rpo-hyouka-kijun", "rpo-kouzou-mensetsu", "rpo-mensetsu-shitsumon", "
 「面談で明らかに合わないと分かった人を、選考で落とすのは時間の無駄では」という声があります。ただ、面談で「落とす」判断をすれば、それは選考です。無駄に見えても、線を守ります。守れないなら、面談をやめて、最初から選考にします。
 
 <aside class="cta-inline">
-<p>面談と選考の線引きを、目的・担当・記録・その後の四つで一緒に決められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 面談の目的と進め方の型
@@ -123,8 +123,8 @@ related: ["rpo-hyouka-kijun", "rpo-kouzou-mensetsu", "rpo-mensetsu-shitsumon", "
 面談後の扱いで、線を守れるかどうかが決まります。「面談で合わないと分かった人を、選考に進めるのは無駄」という考えを、社内で捨てます。
 
 <aside class="cta-inline">
-<p>面談後の扱いと記録の型を、選考と分けた形で一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 候補者への伝え方

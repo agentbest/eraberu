@@ -46,8 +46,8 @@ related: ["fukugyo-choka-kadou", "fukugyo-honmyo", "fukugyo-jouken-suriawase", "
 期間は、業務が「いつ始まり、いつ区切りが来るか」から決めます。区切りの無い業務は、三か月ごとの更新にします。
 
 <aside class="cta-inline">
-  <p>三か月から始めて更新で延ばせる形の案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 最初の契約は三か月で始める理由
@@ -111,8 +111,8 @@ related: ["fukugyo-choka-kadou", "fukugyo-honmyo", "fukugyo-jouken-suriawase", "
 契約の個別の条項については、専門家にご確認ください。
 
 <aside class="cta-inline">
-  <p>途中解約の条件が明確な案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 期間を延ばす・縮めるタイミング

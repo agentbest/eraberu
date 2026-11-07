@@ -43,8 +43,8 @@ related: ["scout-daikou-nagare", "scout-daikou-sokudo", "scout-hajime-30nichi", 
 これらは、人数や職種が確定していなくてもできます。確定したら、確定した内容を当てはめるだけです。
 
 <aside class="cta-inline">
-  <p>前年度の終わりに整えておくものを、前年度の運用の記録から一緒に洗い出せます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 新年度の最初の一か月
@@ -92,8 +92,8 @@ related: ["scout-daikou-nagare", "scout-daikou-sokudo", "scout-hajime-30nichi", 
 計画の変更は、担当者に速やかに伝えます。人数が減ったのに、担当者が前の計画で送り続ければ、稼働と枠が無駄になります。増えたのに伝わっていなければ、間に合いません。
 
 <aside class="cta-inline">
-  <p>年度途中の計画変更に合わせて、送信計画を置き直すところを一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 前年度の運用から引き継ぐもの

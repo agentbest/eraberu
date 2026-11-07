@@ -31,8 +31,8 @@ related: ["scout-henshin-nashi-genin", "scout-shihyou", "scout-abtest", "scout-a
 この表の一行目と二行目は、特に見落としやすい点です。「返信率が高い」と言われる数字が、前向きでない返信も含み、開封数を分母にしていれば、送信数を分母にして前向きな返信だけを数えた自社の数字と比べても、差が出るのは当然です。媒体の担当者や代行会社から数字を示されたら、まず**何を何で割った数字なのか**を聞いてください。
 
 <aside class="cta-inline">
-  <p>自社の返信率が何を数えた数字か、整理してみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 自社の基準を作る手順
@@ -68,8 +68,8 @@ related: ["scout-henshin-nashi-genin", "scout-shihyou", "scout-abtest", "scout-a
 この並びで、どこで人が大きく減っているかを見ると、返信率を上げるべきなのか、返信の後の動きを直すべきなのかが分かります。返信が来ない原因の切り分け方は[スカウトの返信がない原因](/media/scout-henshin-nashi-genin/)、代行会社から返信率の報告を受けたときの確かめ方は[返信率が上がらないと言われたとき](/media/scout-daikou-kadai-henshin/)で書いています。
 
 <aside class="cta-inline">
-  <p>返信の後のどこで人が減っているか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 比べるときにそろえる条件

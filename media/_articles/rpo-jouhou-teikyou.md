@@ -65,8 +65,8 @@ related: ["rpo-kigyou-bunka", "rpo-tachiage-kikan", "rpo-kickoff", "rpo-shoki-90
 **このうち、六番目と七番目は見落とされやすい**。既存のものを渡せば、ゼロから作る必要がなくなります。**改稿のほうが、新規作成より速く済みます**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -126,8 +126,8 @@ related: ["rpo-kigyou-bunka", "rpo-tachiage-kikan", "rpo-kickoff", "rpo-shoki-90
 **渡した記録を残す**。何を、いつ、誰に渡したか。**契約終了時の回収でも使います**。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

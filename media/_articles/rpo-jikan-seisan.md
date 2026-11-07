@@ -53,8 +53,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-fr
 繰越を認めない契約なら、**使い切る運用**を意識します。月末に時間が余りそうなら、普段できていない改善作業を依頼する。求人原稿の見直し、検索条件の整理、レポートの様式改善。**使わなかった時間は消えるので、価値のある使い道を用意しておきます**。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -96,8 +96,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-fr
 **会計上の計上時期については、経理部門や税理士にご確認ください**。経費の扱いの一般的な整理は[採用代行費用は経費でどう処理するか](/media/rpo-hiyou-taikou/)にまとめています。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

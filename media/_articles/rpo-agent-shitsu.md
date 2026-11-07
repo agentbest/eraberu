@@ -46,8 +46,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shoukai-konai", "rpo-chihou-saiyo", "rpo-e
 記録があれば、紹介会社に「先月の推薦十件のうち、七件が〇〇の経験の不足でした」と具体的に伝えられます。「質が低い」より、紹介会社は動きやすくなります。
 
 <aside class="cta-inline">
-<p>推薦の質を測る記録の型と、紹介会社ごとの集計を一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 要件のずれを直す
@@ -111,8 +111,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shoukai-konai", "rpo-chihou-saiyo", "rpo-e
 優先順位は、自社の対応で決まります。費用をかけずに、翌日から変えられる項目です。
 
 <aside class="cta-inline">
-<p>紹介会社の中での自社の優先順位を上げる対応の型を、担当者が一緒に整えられます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 質が上がらない紹介会社の扱い

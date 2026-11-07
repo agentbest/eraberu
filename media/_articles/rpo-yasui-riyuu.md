@@ -44,8 +44,8 @@ related: ["rpo-takai-riyuu", "rpo-getsugaku-vs-seika", "rpo-hiyou-shitsumon", "r
 確認の質問は「同時に何社を担当されますか」「その方はどんな職種の採用を担当してきましたか」です。**即答できるかどうかが、社内で稼働を管理できている証拠になります**。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -102,8 +102,8 @@ related: ["rpo-takai-riyuu", "rpo-getsugaku-vs-seika", "rpo-hiyou-shitsumon", "r
 **自動更新の条件**も確認します。「同一条件で更新」と書かれていれば据え置きですが、「協議のうえ改定」なら更新時に上がる余地があります。更新の扱いは[自動更新条項で気をつけること](/media/rpo-jidou-koushin/)にまとめています。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

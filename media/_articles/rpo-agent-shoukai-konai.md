@@ -47,8 +47,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-chihou-saiyo", "rpo-engineer
 聞いた答えを、記録します。紹介会社の側から見た自社の求人が、直す材料になります。
 
 <aside class="cta-inline">
-<p>紹介会社から見た自社の求人の聞き取りと、直す材料の整理を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 推薦されやすい求人に直す
@@ -115,8 +115,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-chihou-saiyo", "rpo-engineer
 関係は、自社が「対応が良く、決まりやすく、感謝を伝える会社」であることで作られます。担当者は、そういう会社に良い候補者を送ります。
 
 <aside class="cta-inline">
-<p>紹介会社との関係の作り方と、対応の型を担当者が一緒に整えられます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 紹介会社を見直す判断

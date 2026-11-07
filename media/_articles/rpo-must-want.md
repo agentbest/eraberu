@@ -49,8 +49,8 @@ related: ["rpo-youken-katame", "rpo-youken-takasugi", "rpo-agent-ooi", "rpo-agen
 一つの問いで、必須は三〜四に、歓迎は二〜三に収まることが多いです。それ以上になるなら、「三か月で実際にやること」が多すぎるか、役割が二人分です。
 
 <aside class="cta-inline">
-<p>「無いと三か月で詰まるか」の問いで、現場と一緒に線を引く場を持てます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 必須にしてはいけないもの
@@ -115,8 +115,8 @@ related: ["rpo-youken-katame", "rpo-youken-takasugi", "rpo-agent-ooi", "rpo-agen
 抽象語が残っていないか、最後に確認します。「力」「性」で終わる言葉は、大半が抽象語です。
 
 <aside class="cta-inline">
-<p>線を引いた要件を、応募が来て絞れる求人票の書き方に一緒に落とせます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 面接での確かめ方と直し方

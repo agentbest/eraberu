@@ -43,8 +43,8 @@ related: ["scout-alumni-scout", "scout-baitai-kaiyaku", "scout-baitai-kirikae", 
 三つの層は、経歴の読み方も、文面の一段落目も、訴求も違います。同じ文面では、どの層にも届きません。
 
 <aside class="cta-inline">
-  <p>三つの層のどこに、どれだけ母数がありそうか、担当者と一緒に見立てられます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 層ごとの文面と訴求
@@ -96,8 +96,8 @@ related: ["scout-alumni-scout", "scout-baitai-kaiyaku", "scout-baitai-kirikae", 
 これらは、都市部の会社には書きにくい訴求です。地方であることを隠すのではなく、地方だからこそ書けることを書きます。ただし、地域の魅力を書くときは、事実に基づき、誇張しません。移住した後に「聞いていた話と違う」は、地方企業では特に重い辞退の理由になります。
 
 <aside class="cta-inline">
-  <p>地方であることを訴求に変える書き方を、自社の役割と地域の実態から一緒に組めます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 代行に頼むときの確認点

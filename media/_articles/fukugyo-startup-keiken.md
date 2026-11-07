@@ -51,8 +51,8 @@ related: ["fukugyo-agent-keiken", "fukugyo-daikigyo-keiken", "fukugyo-jisseki-sh
 これらの依頼側は、「整った仕組みの運用」より「無いところに作る」を求めています。スタートアップ人事の経験は、そこで最も売れます。
 
 <aside class="cta-inline">
-  <p>「仕組みを作った」経験が活きる段階の依頼側を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 評価されにくい依頼側
@@ -112,8 +112,8 @@ related: ["fukugyo-agent-keiken", "fukugyo-daikigyo-keiken", "fukugyo-jisseki-sh
 案件を探すときは、「人事の副業」全般ではなく、「仕組みを作る人事の副業」に絞ると、評価される依頼側に届きます。
 
 <aside class="cta-inline">
-  <p>スタートアップや急成長企業の案件を、経験の種類に合わせて選べる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 弱点の補い方

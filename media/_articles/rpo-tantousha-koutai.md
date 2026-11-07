@@ -41,8 +41,8 @@ related: ["rpo-chuuto-kaiyaku", "rpo-kpi-keiyaku", "rpo-report-koumoku", "rpo-tr
 **契約に事前通知の条項を置く**。交代する場合は事前に知らせる、という一文を入れておきます。氏名の指名が難しくても、この条項なら置けることが多いところです。指名の交渉については[担当者を指名できるか](/media/rpo-tantousha-shimei/)で扱っています。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -99,8 +99,8 @@ related: ["rpo-chuuto-kaiyaku", "rpo-kpi-keiyaku", "rpo-report-koumoku", "rpo-tr
 **成果物を回収する**。交代の前に、求人原稿や検索条件を編集できる形式で受け取っておきます。交代のたびに回収しておけば、いざというときに自社に残ります。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

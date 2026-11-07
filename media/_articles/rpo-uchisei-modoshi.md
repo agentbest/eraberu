@@ -54,8 +54,8 @@ related: ["rpo-data-henkan", "rpo-fukugyo-jinzai-itaku", "rpo-haken-tono-chigai"
 移すたびに、代行の稼働量を下げます。月額型なら範囲を絞り、時間単価型なら上限時間を下げる。**契約に稼働量を調整できる条項があるかを、移行の前に確認しておきます**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -106,8 +106,8 @@ related: ["rpo-data-henkan", "rpo-fukugyo-jinzai-itaku", "rpo-haken-tono-chigai"
 **このうち、進行中の候補者の対応がいちばん急ぎます**。選考の途中で連絡が途切れると、辞退につながります。移行の時期は、選考の進捗を見て決めます。契約終了の手順は[途中解約したいときの進め方](/media/rpo-chuuto-kaiyaku/)で扱っています。
 
 <aside class="cta-inline">
-  <p>相談だけでも構いません。発注前提ではありません</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

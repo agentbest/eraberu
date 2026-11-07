@@ -46,8 +46,8 @@ related: ["rpo-chimeido-nai", "rpo-doga-katsuyou", "rpo-koho-neta", "rpo-kuchiko
 対象が絞られていれば、告知の言葉も、集め方も、内容も、対象に合わせられます。「求職者全般」では、何も合わせられません。
 
 <aside class="cta-inline">
-<p>イベントの「誰に・何のために・何を持ち帰ってもらうか」を、一緒に決められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 集め方の設計
@@ -119,8 +119,8 @@ related: ["rpo-chimeido-nai", "rpo-doga-katsuyou", "rpo-koho-neta", "rpo-kuchiko
 イベント後の要点は、「翌日に連絡し、面談を案内し、関係を続ける」ことです。当日の後に何も無いイベントは、参加者の記憶から消えます。
 
 <aside class="cta-inline">
-<p>イベント後の接点（翌日の連絡・面談の案内・関係の継続）の運用を、担当者が一緒に回せます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 小さく続ける運用

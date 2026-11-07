@@ -39,8 +39,8 @@ related: ["rpo-jibun-goto", "rpo-kaizen-cycle", "rpo-kpi-goui", "rpo-report-hind
 **三番目が重要です**。多くの場合、うまくいっていない原因は個人の能力ではなく設計にあります。**基準が渡されていない、情報が薄い、判断が返ってこない**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -120,8 +120,8 @@ related: ["rpo-jibun-goto", "rpo-kaizen-cycle", "rpo-kpi-goui", "rpo-report-hind
 **契約更新の判断に使う**。指摘に対して変わったかどうかは、継続の判断材料です。判断の基準は[継続・停止をどう判断するか](/media/rpo-shoushi-hantei/)にまとめています。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

@@ -41,8 +41,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-fr
 だから、立ち上げ期には**まとまった時間を確保しておく**ほうが総量としては短く済みます。何回かに分けて話す形でも構いません。この投資は、初期費用として代行会社に払うか、自社の時間として払うかのどちらかになります。初期費用の考え方は[初期費用・オンボーディング費用は必要か](/media/rpo-shokika-hiyou/)で扱っています。
 
 <aside class="cta-inline">
-  <p>自社の採用のどこを外に出せるか、整理してみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -95,8 +95,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-fr
 **四番目が抜けている契約が多くあります**。書いていないと、交代のたびに立ち上げの時間が発注側の稼働から出ていきます。一文を入れるだけで扱いが変わります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

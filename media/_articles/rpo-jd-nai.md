@@ -48,8 +48,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-a
 六項目は、そのまま採用に使えます。一〜三は求人票の役割の記述に、四と五は要件に、六は面接の観点と入社後の評価に。
 
 <aside class="cta-inline">
-<p>最初の一枚の六項目を、現場の責任者との聞き取りで一緒に埋められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 書く手順
@@ -112,8 +112,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-a
 一枚が、採用の入口から入社後まで、同じ役割を語ります。「聞いていた話と違う」が起きにくくなります。
 
 <aside class="cta-inline">
-<p>一枚から求人票・面接の観点・評価の基準を一緒に展開できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 更新の運用

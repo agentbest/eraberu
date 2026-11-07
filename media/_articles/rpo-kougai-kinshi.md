@@ -35,8 +35,8 @@ related: ["rpo-jouhou-rouei", "rpo-agent-tono-chigai", "rpo-aiaigasa", "rpo-ats-
 **実務的には、競業そのものを禁じるより、情報の取り扱いを厳しくするほうが目的に合います**。自社の要件、給与テーブル、組織の課題が他社に流れないこと。これは秘密保持の取り決めで対応できます。範囲の決め方は[候補者情報とNDAの範囲](/media/rpo-nda/)にまとめています。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -86,8 +86,8 @@ related: ["rpo-jouhou-rouei", "rpo-agent-tono-chigai", "rpo-aiaigasa", "rpo-ats-
 **及ばない書き方だと、実効性が薄くなります**。実際に自社の情報に触れているのはパートナーだからです。再委託先にも同等の義務を課す条項があるか、そして再委託先の行為について代行会社が責任を負う建て付けかを見ます。再委託の扱いは[再委託はどこまで許容するか](/media/rpo-hakenmoto-sekinin/)で扱っています。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

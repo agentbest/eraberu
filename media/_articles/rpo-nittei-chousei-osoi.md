@@ -45,8 +45,8 @@ related: ["rpo-mensetsu-kettai", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent
 枠が先に空いていれば、担当者は候補日を「その場で」出せます。社内で止まる日数が、ゼロになります。
 
 <aside class="cta-inline">
-  <p>面接者の枠を先に空ける設計を、面接の見込み数から一緒に組めます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 候補日の出し方
@@ -110,8 +110,8 @@ related: ["rpo-mensetsu-kettai", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent
 複数の面接者がいても、段階ごとに一人の枠で決めれば、日程調整は複雑になりません。
 
 <aside class="cta-inline">
-  <p>複数の面接者の枠を、段階ごとに分けて設計するところを一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 日程調整の速さを保つ運用

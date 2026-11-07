@@ -41,8 +41,8 @@ related: ["rpo-ai-scout", "rpo-ats-taiou", "rpo-baitai-taiou", "rpo-shitauke-kou
 **これは代行会社の問題ではなく、指標の設計の問題です**。件数を約束させれば、件数を満たす動きになります。指標の置き方は[契約にKPIを入れるべきか](/media/rpo-kpi-keiyaku/)にまとめています。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -127,8 +127,8 @@ related: ["rpo-ai-scout", "rpo-ats-taiou", "rpo-baitai-taiou", "rpo-shitauke-kou
 **そして、枠が費用に直結する媒体では、上限の設定が予算の管理になります**。扱いは[媒体費と代行費を分けて見るべき理由](/media/rpo-baitai-hi-betsu/)にまとめています。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

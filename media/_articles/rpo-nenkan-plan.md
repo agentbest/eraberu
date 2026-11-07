@@ -61,8 +61,8 @@ related: ["rpo-ai-katsuyou", "rpo-ai-scout", "rpo-ats-erabikata", "rpo-ats-taiou
 **決めていないと、稼働が余ったまま費用が出ます**。繰越が認められない契約なら、使い切る運用を意識してください。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -134,8 +134,8 @@ related: ["rpo-ai-katsuyou", "rpo-ai-scout", "rpo-ats-erabikata", "rpo-ats-taiou
 **この四つを年間の予定に入れておいてください**。入れておかないと、更新の時期に慌てて判断することになります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

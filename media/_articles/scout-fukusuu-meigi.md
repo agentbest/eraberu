@@ -46,8 +46,8 @@ related: ["scout-daikou-hinshitsu-kanri", "scout-daikou-kakunin-flow", "scout-da
 送り分けは、名義の数だけ設計が要ります。最初は二つ（採用担当と現場の責任者など）から始め、回ることを確かめてから増やします。
 
 <aside class="cta-inline">
-  <p>候補者の層と名義の対応を、自社の役割と関われる人から一緒に設計できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 名義の人が関わる最低限の範囲
@@ -105,8 +105,8 @@ related: ["scout-daikou-hinshitsu-kanri", "scout-daikou-kakunin-flow", "scout-da
 記録が一本になっていれば、名義が複数でも、候補者から見た会社は一つです。
 
 <aside class="cta-inline">
-  <p>複数名義の送信記録を一本にする台帳の形を、担当者と一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 名義を増やしすぎたときの問題

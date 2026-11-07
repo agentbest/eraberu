@@ -58,8 +58,8 @@ related: ["rpo-gaichu-hanni", "rpo-genba-kyouryoku", "rpo-hikitsugi-nai", "rpo-j
 分ける要点は、「中身は職種ごと、型と窓口は共通」です。中身まで共通にすると職種に合わず、型まで職種ごとにすると手間が四倍になります。
 
 <aside class="cta-inline">
-<p>職種ごとに分ける工程と共通にまとめる工程の整理を、いまの求人に合わせて一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 同時に回す設計
@@ -126,8 +126,8 @@ related: ["rpo-gaichu-hanni", "rpo-genba-kyouryoku", "rpo-hikitsugi-nai", "rpo-j
 面接官の枠は、職種ごとに先に押さえます。「候補者が来たら調整」では、四職種分の調整が同時に発生し、回りません。
 
 <aside class="cta-inline">
-<p>職種ごとの担当・面接官の枠・経路・観点の表を、現場の責任者と一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 月次で見る一枚

@@ -46,8 +46,8 @@ related: ["scout-kenmei-ng", "scout-abtest", "scout-ai-bunmen", "scout-casual-me
 三つを全部、件名に入れられないこともあります（文字数の制約）。その場合、「一、自分宛てだと分かる」を優先し、「三、誰からか」は送り主の欄で見せます。
 
 <aside class="cta-inline">
-<p>自社のスカウトの件名を、三つの条件で点検し、開かれる形に直す作業を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 件名の型
@@ -113,8 +113,8 @@ related: ["scout-kenmei-ng", "scout-abtest", "scout-ai-bunmen", "scout-casual-me
 送り主の要点は、「人の名前と肩書」です。組織名の送り主は、開かれにくいです。
 
 <aside class="cta-inline">
-<p>送り主の名義と、返信が来たときの引き継ぎの設計を、媒体の仕様に合わせて一緒に決められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 媒体の表示の仕組みに合わせる

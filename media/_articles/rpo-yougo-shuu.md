@@ -41,8 +41,8 @@ related: ["rpo-eigyo-to-jitsumu", "rpo-erabikata", "rpo-jirei-mikata", "rpo-jiss
 **オンボーディング**。入社した人が組織になじみ、成果を出せるようになるまでの支援。**採用代行の文脈では、契約直後の立ち上げ作業を指す場合もあります**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -116,8 +116,8 @@ related: ["rpo-eigyo-to-jitsumu", "rpo-erabikata", "rpo-jirei-mikata", "rpo-jiss
 **この七つは、商談で確認する価値があります**。**特に最後の二つは、会社によって使い方がかなり違います**。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

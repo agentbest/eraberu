@@ -75,8 +75,8 @@ related: ["rpo-hikitsugi", "rpo-candidate-data", "rpo-chuuto-kaiyaku", "rpo-kaiy
 **個人データの返還や削除の扱いは、契約の定めに沿って処理します**。定めがない場合は、この機会に取り決めます。監督の考え方は[個人情報保護法と委託先の監督](/media/rpo-kojin-jouhou/)にまとめています。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -134,8 +134,8 @@ related: ["rpo-hikitsugi", "rpo-candidate-data", "rpo-chuuto-kaiyaku", "rpo-kaiy
 **次の契約で入れる**。今回困った点を記録し、次の契約書に引き渡しの条項を入れます。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

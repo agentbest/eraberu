@@ -45,8 +45,8 @@ related: ["rpo-mensetsu-shitsumon", "rpo-casual-mendan-kadai", "rpo-hyouka-kijun
 尺度（五段階の点数など）、質問の順番の厳密な統一、面接官の認定制度、といった要素は、最小の形には含めません。後で足せます。
 
 <aside class="cta-inline">
-<p>最小の構造化面接の一枚（質問・基準・記録）を、いまの役割に合わせて一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 一枚の作り方
@@ -116,8 +116,8 @@ related: ["rpo-mensetsu-shitsumon", "rpo-casual-mendan-kadai", "rpo-hyouka-kijun
 最初の一回で完璧を求めません。「使ってみて直す」を三回繰り返せば、一枚は定着します。
 
 <aside class="cta-inline">
-<p>最初の数回の面接に担当者が同席し、一枚を使いながら直す形で一緒に回せます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 少しずつ広げる順番

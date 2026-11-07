@@ -61,8 +61,8 @@ related: ["rpo-ai-katsuyou", "rpo-ai-scout", "rpo-ats-erabikata", "rpo-ats-taiou
 **定例会で定期的に聞いてみてください**。「最近、この職種の市場はどうですか」。**担当者が現役で運用していれば、情報は新しい**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -140,8 +140,8 @@ related: ["rpo-ai-katsuyou", "rpo-ai-scout", "rpo-ats-erabikata", "rpo-ats-taiou
 **毎週見る必要はありません**。件数が少ないうちの変動は、偶然の影響が大きい。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

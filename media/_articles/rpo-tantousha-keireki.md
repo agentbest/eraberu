@@ -59,8 +59,8 @@ related: ["rpo-tantousha-mikiwame", "rpo-eigyo-to-jitsumu", "rpo-erabikata", "rp
 **職種の経験を確認する質問**は、「その職種で、書類選考のときに何を見ていましたか」。**具体的な観点が出るなら、実際に候補者を見ています**。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -123,8 +123,8 @@ related: ["rpo-tantousha-mikiwame", "rpo-eigyo-to-jitsumu", "rpo-erabikata", "rp
 そして、**確認した内容は記録に残してください**。判断の理由になった条件は、契約の別紙に入れてもらいます。稼働時間、同時担当社数、交代時の通知。扱いは[担当者を指名できるか](/media/rpo-tantousha-shimei/)にまとめています。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

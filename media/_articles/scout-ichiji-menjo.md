@@ -49,8 +49,8 @@ related: ["scout-mendan-nashi", "scout-daikou-kadai-kyougou", "scout-daikou-kada
 これらの候補者に免除を提示すれば、返信率と選考への進み方が上がることがあります。
 
 <aside class="cta-inline">
-  <p>一次面接で何を確認しているかを言葉にし、免除できる相手の条件を一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 免除の設計：何を免除し、何を残すか
@@ -108,8 +108,8 @@ related: ["scout-mendan-nashi", "scout-daikou-kadai-kyougou", "scout-daikou-kada
 **免除した候補者の結果を、社内に共有する。** 免除した候補者が二次でどうだったか、内定に至ったか。結果が見えれば、社内の納得が続きます。
 
 <aside class="cta-inline">
-  <p>免除の条件を書面にし、社内の合意を取るところまで一緒に進められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 免除した候補者の結果の見方

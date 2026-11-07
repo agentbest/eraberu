@@ -48,8 +48,8 @@ related: ["rpo-fukusuu-shokushu", "rpo-genba-kyouryoku", "rpo-hikitsugi-nai", "r
 「面接」は、日程調整（作業）、観点と質問の案（材料）、判定（判断）に分かれます。「面接を任せるか」ではなく、「面接の中の、どれを任せるか」です。
 
 <aside class="cta-inline">
-<p>採用の工程を判断・作業・材料の三つに分け、線を引く作業を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 工程ごとの線の引き方
@@ -117,8 +117,8 @@ related: ["rpo-fukusuu-shokushu", "rpo-genba-kyouryoku", "rpo-hikitsugi-nai", "r
 任せすぎの兆候が出たら、判断を社内に戻します。任せなさすぎの兆候が出たら、作業を担当者に出します。
 
 <aside class="cta-inline">
-<p>いまの外注の線が合っているかを、任せすぎと任せなさすぎの兆候から一緒に点検できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 線を見直す運用

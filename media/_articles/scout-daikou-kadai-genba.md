@@ -45,8 +45,8 @@ related: ["scout-daikou-kadai-jitai", "scout-daikou-kadai-nittei", "scout-daikou
 四つを全部やると、面談一回あたりの負担は、三十分の面談と一分の評価だけになります。ここまで減らして、それでも出ないなら、理由は負担ではありません。
 
 <aside class="cta-inline">
-  <p>面談者向けの一枚と、三十分で確かめる質問を、担当者と一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 面談の意味を見せる
@@ -88,8 +88,8 @@ related: ["scout-daikou-kadai-jitai", "scout-daikou-kadai-nittei", "scout-daikou
 どちらが合うかは、責任者の予定の状況と、面談で確かめたいことの重さで決めます。責任者が本当に時間を取れないなら、絞る。責任者以外にも見極められる人がいるなら、分散する。
 
 <aside class="cta-inline">
-  <p>面談者を分散するか絞るか、いまの体制に合わせて一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## それでも出ないとき

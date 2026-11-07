@@ -78,8 +78,8 @@ related: ["rpo-erabikata", "rpo-freelance-vs-kaisha", "rpo-gyoukai-keiken", "rpo
 **この四つを計算すると、金額の議論ができる状態になります**。計算しないまま並べても、どちらが割高かは分かりません。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -137,8 +137,8 @@ related: ["rpo-erabikata", "rpo-freelance-vs-kaisha", "rpo-gyoukai-keiken", "rpo
 **次回の比較に使う**。契約更新や依頼先の切り替えのときに、同じ表を使えます。項目を変えなければ、経年の比較にもなります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

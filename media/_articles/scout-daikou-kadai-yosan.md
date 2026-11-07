@@ -52,8 +52,8 @@ related: ["scout-baitai-kaiyaku", "scout-daikou-baitai-hi", "scout-daikou-getsug
 もう一つ、媒体ごと・職種ごとに分けます。複数の媒体や職種を運用しているなら、面談に至っている媒体・職種と、至っていないものがあるはずです。効いていないものを削り、効いているものに集中すれば、予算は縮まり、結果は保てます。
 
 <aside class="cta-inline">
-  <p>半年分の数字を並べて、効いている部分を一緒に見分けられます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 縮めて続ける四つの形
@@ -105,8 +105,8 @@ related: ["scout-baitai-kaiyaku", "scout-daikou-baitai-hi", "scout-daikou-getsug
 数字で説明できれば、予算は「効果が分からないから削る」ではなく、「この単価なら続ける・この単価なら縮める」という判断になります。
 
 <aside class="cta-inline">
-  <p>経営に見せる数字の形を、担当者のレポートから一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 再開しやすい止め方

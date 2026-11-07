@@ -45,8 +45,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-fr
 **成果報酬型は、成果の成立時点と請求のタイミングを分けて決めます**。成果が発生するたびに請求するのか、月末にまとめるのか。取り消しが出た場合の処理も決めておきます。定義の作り方は[成果の定義でもめない書き方](/media/rpo-seikahoushuu-teigi/)で扱っています。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -96,8 +96,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-fr
 **これらの判断は、契約の内容と会計方針によって変わります**。年度末に契約する予定があるなら、締結前に経理部門へ相談しておくと、後の処理が単純になります。**具体的な処理は税理士にご確認ください**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

@@ -49,8 +49,8 @@ related: ["scout-persona-sakusei", "scout-daikou-junbi", "scout-daikou-kadai-mis
 この定義が、対象の選定、文面の一段落目、面談の質問の全部の土台になります。
 
 <aside class="cta-inline">
-  <p>自社の管理職の役割を四つの軸で定義するところを、一緒に働く側の人と一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 経歴から中身を読む
@@ -112,8 +112,8 @@ related: ["scout-persona-sakusei", "scout-daikou-junbi", "scout-daikou-kadai-mis
 面談者には、四つの軸と、それぞれの確認の質問を、事前に渡します。
 
 <aside class="cta-inline">
-  <p>四つの軸を場面で確かめる面談の質問を、面談者向けに一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 既存の組織との関係の設計

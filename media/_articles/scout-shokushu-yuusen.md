@@ -41,8 +41,8 @@ related: ["scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-baitai-kumiawas
 四つを、職種ごとに並べます。緊急度が高く、母数があり、スカウトに向き、体制が整っている職種が、最初です。
 
 <aside class="cta-inline">
-  <p>四つの基準で職種を並べるところを、担当者の母数の見立てと一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 並べ方の実際
@@ -97,8 +97,8 @@ related: ["scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-baitai-kumiawas
 準備が整った職種は、動かす番が来たときの立ち上げが速くなります。順番待ちの期間を、準備の期間にします。
 
 <aside class="cta-inline">
-  <p>後ろの職種の準備を、前の職種を動かしながら並行で進める形を一緒に組めます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 順位を見直す周期

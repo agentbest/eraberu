@@ -47,8 +47,8 @@ related: ["scout-direct-recruiting", "scout-alumni-scout", "scout-daikou-hiyou-h
 スカウトは、「探す」より「選んで声をかける」手法です。探す先が媒体に限られる分、運用の設計で成果が決まります。
 
 <aside class="cta-inline">
-  <p>採りたい職種がスカウトに向くかどうか、母数と経歴の読みやすさから一緒に見立てられます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## ヘッドハンティングが向く採用
@@ -108,8 +108,8 @@ related: ["scout-direct-recruiting", "scout-alumni-scout", "scout-daikou-hiyou-h
 並行は、役割で分けて、対象の一覧を共有すれば、機能します。
 
 <aside class="cta-inline">
-  <p>役割ごとにスカウトとヘッドハンティングを分ける設計を、一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 代行に頼むときに確認すること

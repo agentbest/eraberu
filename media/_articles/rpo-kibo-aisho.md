@@ -53,8 +53,8 @@ related: ["rpo-tokui-ryouiki", "rpo-erabikata", "rpo-freelance-vs-kaisha", "rpo-
 **この四つのうち、注意が要るのは三番目です**。規模の差が大きいと、優先順位の問題が出やすくなります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -110,8 +110,8 @@ related: ["rpo-tokui-ryouiki", "rpo-erabikata", "rpo-freelance-vs-kaisha", "rpo-
 **自社がどれに当てはまるかで、規模の選び方も変わります**。組織の中での調整が多いなら大きい会社、速さを求めるなら小規模な会社が噛み合いやすくなります。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

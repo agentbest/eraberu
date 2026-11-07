@@ -49,8 +49,8 @@ related: ["fukugyo-mitsumori", "fukugyo-scope-creep", "fukugyo-yasuuke", "fukugy
 六つが揃えば、範囲は「一行」から「一枚」になり、議論の基準ができます。
 
 <aside class="cta-inline">
-  <p>業務範囲の書面の型を持って、範囲が明確な案件だけを受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 書面の型
@@ -116,8 +116,8 @@ related: ["fukugyo-mitsumori", "fukugyo-scope-creep", "fukugyo-yasuuke", "fukugy
 書面は、作った時点では「念のため」に見えますが、上の場面が来たときに、唯一の根拠になります。
 
 <aside class="cta-inline">
-  <p>業務範囲の書面が根拠として使える形の案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 書面を運用の中で育てる

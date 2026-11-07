@@ -36,8 +36,8 @@ sources:
 時間単価の考え方は[本業年収と副業単価の関係](/media/fukugyo-honnngyou-hikaku/)で書いています。
 
 <aside class="cta-inline">
-  <p>採用の経験を活かせるライティングの案件を、見てみませんか</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 1本の単価に何を含めるか
@@ -64,8 +64,8 @@ sources:
 原稿を書く側として、条件の部分は依頼先から渡された情報をそのまま正確に載せ、魅力を伝えるつもりで条件を誇張しないよう気をつけてください。条件の内容は、公開前に依頼先に確認してもらう流れを決めておくと安心です。求人原稿のライティングの仕事の中身は[求人原稿のライティングの副業の仕事](/media/fukugyo-kyujin-raiting-shigoto/)で書いています。
 
 <aside class="cta-inline">
-  <p>週5時間から受けられる案件もあります</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 単価を上げていくには

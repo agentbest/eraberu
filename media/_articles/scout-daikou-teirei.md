@@ -37,8 +37,8 @@ related: ["scout-daikou-check", "scout-daikou-kadai-baitai", "scout-daikou-kadai
 時間は三十分を上限にします。報告をレポートで済ませていれば、決めることに三十分あれば足ります。一時間を確保すると、時間を埋めるために報告が長くなります。短く設定し、足りなければ延ばすほうが、時間の使い方が引き締まります。
 
 <aside class="cta-inline">
-  <p>頻度と議題の型は、担当者と最初の週に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 出る人
@@ -86,8 +86,8 @@ related: ["scout-daikou-check", "scout-daikou-kadai-baitai", "scout-daikou-kadai
 決めたことは、その場で記録します。「何を」「いつから」「誰が」「次回どう判断するか」。四つが書いてあれば十分です。記録は発注側が持ち、次回の冒頭で読み上げます。代行側の議事録に頼ると、契約が終わったときに手元に残りません。
 
 <aside class="cta-inline">
-  <p>決める人が社内にいない状態からでも、体制の作り方から相談できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 形骸化したときの立て直し

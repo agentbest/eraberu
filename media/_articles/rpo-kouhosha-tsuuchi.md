@@ -37,8 +37,8 @@ related: ["rpo-kaisha-nanori", "rpo-buranding", "rpo-candidate-data", "rpo-data-
 **ただし、これは「隠す」ということではありません**。聞かれたら答える、必要な場面では伝える。この姿勢が前提になります。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -98,8 +98,8 @@ related: ["rpo-kaisha-nanori", "rpo-buranding", "rpo-candidate-data", "rpo-data-
 取り扱いの整理は[個人情報保護法と委託先の監督](/media/rpo-kojin-jouhou/)にまとめています。**個別の判断は専門家にご確認ください**。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

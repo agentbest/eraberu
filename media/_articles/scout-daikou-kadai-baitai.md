@@ -35,8 +35,8 @@ related: ["scout-daikou-kadai-hayasa", "scout-daikou-kadai-henshin", "scout-daik
 三つのうち、一と二を直しても動かず、三で母数が足りないと確認できたとき、初めて媒体を疑います。
 
 <aside class="cta-inline">
-  <p>三つの確認を、担当者と一緒に一つずつ進めるところから相談できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 媒体の問題だと言える条件
@@ -84,8 +84,8 @@ related: ["scout-daikou-kadai-hayasa", "scout-daikou-kadai-henshin", "scout-daik
 営業の「この職種に強い」は、根拠を聞きます。数字で答えられないなら、試用で確かめます。
 
 <aside class="cta-inline">
-  <p>新しい媒体の候補を、担当者の経験と自社の条件に照らして一緒に絞れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 切り替えの手順

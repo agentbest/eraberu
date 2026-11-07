@@ -47,8 +47,8 @@ related: ["scout-josei-scout", "scout-kyuuyo-makeru", "scout-remote-kyuujin", "s
 隣の経験が定義できれば、担当者は経歴で対象を選べ、一段落目に「なぜあなたに」を書けます。定義できなければ、スカウトは向きません。
 
 <aside class="cta-inline">
-  <p>その職種で活きる「隣の経験」を、社内で活躍している人の経歴から一緒に定義できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 文面の型
@@ -108,8 +108,8 @@ related: ["scout-josei-scout", "scout-kyuuyo-makeru", "scout-remote-kyuujin", "s
 「未経験歓迎だからスカウト」ではなく、「隣の経験が定義できるからスカウト」です。定義できないなら、求人媒体です。
 
 <aside class="cta-inline">
-  <p>スカウトと求人媒体のどちらが合うか、隣の経験の定義のしやすさから一緒に判断できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 経験者も対象にする場合

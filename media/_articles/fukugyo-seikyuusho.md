@@ -56,8 +56,8 @@ related: ["fukugyo-shiharai-site", "fukugyo-20man", "fukugyo-agent-keiken", "fuk
 税務上の記載事項（登録番号、税率ごとの区分など）は、制度と、自分が登録しているかどうかで変わります。この記事では扱わず、税理士などの専門家にご確認ください。
 
 <aside class="cta-inline">
-  <p>請求の実務が整った案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 業務の内容と根拠の書き方
@@ -121,8 +121,8 @@ related: ["fukugyo-shiharai-site", "fukugyo-20man", "fukugyo-agent-keiken", "fuk
 指定の様式に従うことは、依頼側の経理の負担を減らし、支払いを速くします。自分の様式にこだわらない。
 
 <aside class="cta-inline">
-  <p>依頼側の経理の要件に合わせた請求ができる形で、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 税務上の記載事項について

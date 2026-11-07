@@ -38,8 +38,8 @@ related: ["scout-baitai-kirikae", "scout-daikou-kadai-account", "scout-daikou-ka
 どちらも、担当者の側に問題があるわけではありません。社内が判断を持ち続ける仕組みが無かったことが原因です。
 
 <aside class="cta-inline">
-  <p>いまの状態が丸投げになっているか、六つの問いで一緒に確認できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 戻すべき判断の三つ
@@ -92,8 +92,8 @@ related: ["scout-baitai-kirikae", "scout-daikou-kadai-account", "scout-daikou-ka
 線引きは、書面にして担当者と共有します。「何を決めるのはどちらか」が明確なら、担当者は判断を戻すべきときに戻し、任された作業は自分で進めます。
 
 <aside class="cta-inline">
-  <p>任せる範囲と残す判断の線引きを、書面にするところまで一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 戻した後に保つ仕組み

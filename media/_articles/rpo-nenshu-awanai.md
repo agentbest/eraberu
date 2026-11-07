@@ -48,8 +48,8 @@ related: ["rpo-kyugyo-jouken", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-s
 調べた水準は、一枚にまとめて、経営者への判断の材料にします。
 
 <aside class="cta-inline">
-<p>市場の水準の調べ方と、自社の提示との比較の一枚を一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 年収を上げる以外の打ち手
@@ -110,8 +110,8 @@ related: ["rpo-kyugyo-jouken", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-s
 既存社員との整合は、経営者の判断です。人事と担当者は、判断の材料（市場の水準、既存社員との差、離職の危険、役割の分け方）を出します。
 
 <aside class="cta-inline">
-<p>既存社員との整合を含めた年収の判断の材料を、担当者が一緒に整えられます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 経営者に判断してもらう伝え方

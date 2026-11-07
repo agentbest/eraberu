@@ -39,8 +39,8 @@ related: ["scout-daikou-hiyou-hikaku", "scout-daikou-baitai-hi", "scout-daikou-c
 「誰が・週何時間・何社掛け持ちで」の三つを書面で出せない提案は、契約後に担当が替わっても説明できません。担当者の名前と経歴を、契約前に見せてもらってください。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます。見積もりの読み方だけの相談でも構いません</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 二.業務範囲
@@ -111,8 +111,8 @@ related: ["scout-daikou-hiyou-hikaku", "scout-daikou-baitai-hi", "scout-daikou-c
 ここが曖昧なまま契約すると、代行会社を替えるときに、ゼロから始めることになります。文面と記録は自社の資産だと考えて、帰属を書面にしてもらってください。
 
 <aside class="cta-inline">
-  <p>提案書を数社分お持ちいただければ、同じ項目で並べ直すところから一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 六.提案書に書かれていないことの聞き方

@@ -43,8 +43,8 @@ related: ["rpo-media-oosugi", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-sh
 この三つが決まれば、「有名だから」「勧められたから」で選ぶことは無くなります。
 
 <aside class="cta-inline">
-<p>届けたい相手と止まっている段階の整理から、媒体の候補の絞り込みを一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 媒体の種類と向き不向き
@@ -109,8 +109,8 @@ related: ["rpo-media-oosugi", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-sh
 小さく試す形は、媒体の担当者に「最短の期間で、一求人で試したい」と伝えれば、応じる媒体は多いです。応じない媒体は、候補から外します。
 
 <aside class="cta-inline">
-<p>小さく試す設計と、記録の型を一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 媒体の担当者との付き合い方

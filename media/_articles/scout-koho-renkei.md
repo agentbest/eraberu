@@ -43,8 +43,8 @@ related: ["scout-kuchikomi-taisaku", "scout-saiyo-site-doushen", "scout-chimeido
 この分担で、広報は「誰に読まれるか分からない発信」から「スカウトの候補者が検索した先で読む内容」になり、スカウトは「文面だけで伝える」から「広報の内容を土台にして伝える」になります。
 
 <aside class="cta-inline">
-  <p>広報とスカウトの役割分担を、いまの体制に合わせて一緒に設計できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 広報がスカウトに効く形
@@ -106,8 +106,8 @@ related: ["scout-kuchikomi-taisaku", "scout-saiyo-site-doushen", "scout-chimeido
 広報担当がいない小さな会社では、採用担当が広報の役割を兼ねます。その場合も、担当者との共有の型は同じです。
 
 <aside class="cta-inline">
-  <p>担当者と広報担当の連携の型を、月に一度の共有から一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 効果の見方

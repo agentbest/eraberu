@@ -49,8 +49,8 @@ related: ["rpo-fukusuu-shokushu", "rpo-gaichu-hanni", "rpo-genba-kyouryoku", "rp
 三日で、急ぎの体制ができます。三日を「まず媒体に出す」で使うと、体制が無いまま応募が来て、対応できません。
 
 <aside class="cta-inline">
-<p>急な増員の最初の三日の動き（急ぎの中身・実現性・役割と要件・経路・選考の型）を一緒に進められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 省いてよい工程と省いてはいけない工程
@@ -125,8 +125,8 @@ related: ["rpo-fukusuu-shokushu", "rpo-gaichu-hanni", "rpo-genba-kyouryoku", "rp
 見極めと動機づけを一回で兼ねる注意は、[見極めと動機づけを1回の面接でやろうとして失敗する](/media/rpo-mikiwame/)に書いています。急ぎでは、時間で分けます（前半は見極め、後半は動機づけと接点）。
 
 <aside class="cta-inline">
-<p>急ぎの選考の型（一回の面接・観点三つ・当日の判定）を、面接官向けの一枚にして一緒に渡せます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 急ぎに備える普段の準備

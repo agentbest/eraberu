@@ -70,8 +70,8 @@ related: ["scout-daikou-sokudo", "scout-daikou-junbi", "scout-hajime-30nichi", "
 **この四つは、契約が決まったら速やかに進めてください**。ここで止まると、他の工程も止まります。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -174,8 +174,8 @@ related: ["scout-daikou-sokudo", "scout-daikou-junbi", "scout-hajime-30nichi", "
 **代行側の作業は、自社の準備が終わってから始まる部分が多い**。準備を早めることが、稼働を早めます。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

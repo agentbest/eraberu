@@ -37,8 +37,8 @@ related: ["scout-golden-week", "scout-nenmatsu", "scout-tenshoku-ki", "scout-bai
 この時期の数字は、返信率ではなく、「支給後に連絡してよいと言ってくれた候補者の数」で見ます。返信率が低くても、この数が積み上がっていれば、支給後に効きます。
 
 <aside class="cta-inline">
-  <p>支給前の関係づくりの文面を、担当者と一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 支給直後：面談の集中の時期
@@ -88,8 +88,8 @@ related: ["scout-golden-week", "scout-nenmatsu", "scout-tenshoku-ki", "scout-bai
 これらは、条件の話なので、社内で確認したうえで、事実として伝えます。曖昧に伝えると、後でずれます。
 
 <aside class="cta-inline">
-  <p>入社時期と賞与制度の伝え方を、社内の条件に合わせて一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 自社の数字で確かめる

@@ -49,8 +49,8 @@ related: ["rpo-tachiage-kikan", "rpo-ai-katsuyou", "rpo-ai-scout", "rpo-ats-erab
 **だから、期間の見立てをするときは自社側の日数も置いてください**。置かないと、代行側の速さだけで見積もることになり、実際とずれます。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -128,8 +128,8 @@ related: ["rpo-tachiage-kikan", "rpo-ai-katsuyou", "rpo-ai-scout", "rpo-ats-erab
 **そのかわり、途中の工程の数字は見てください**。量が出ていない、返信が来ない、書類が通らない。**工程ごとに見れば、一巡前でも手は打てます**。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

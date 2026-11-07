@@ -41,8 +41,8 @@ related: ["rpo-getsugaku-vs-seika", "rpo-hiyou-shitsumon", "rpo-saitei-keiyaku-k
 **事例としての掲載は、慎重に判断してください**。採用の状況を外部に出すことになるので、社内の合意が要ります。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -94,8 +94,8 @@ related: ["rpo-getsugaku-vs-seika", "rpo-hiyou-shitsumon", "rpo-saitei-keiyaku-k
 **いずれの場合も、外した工程を誰が持つかを決めてから減らします**。決めずに減らすと、その工程が空白になります。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

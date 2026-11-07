@@ -53,8 +53,8 @@ related: ["rpo-agent-tono-chigai", "rpo-hiyou-uchiwake", "rpo-kpi-keiyaku", "rpo
 **継続的に見るなら、方法を決めて変えないこと**が大事です。途中で変えると、推移が追えなくなります。費用の三つの層の整理は[採用代行の費用の内訳](/media/rpo-hiyou-uchiwake/)にまとめています。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -94,8 +94,8 @@ related: ["rpo-agent-tono-chigai", "rpo-hiyou-uchiwake", "rpo-kpi-keiyaku", "rpo
 **前期との比較を残す**。数字そのものより、動いた方向と、その月に何をしたかの記録が判断材料になります。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

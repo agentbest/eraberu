@@ -28,8 +28,8 @@ related: ["rpo-daigaku-renkei", "rpo-intern-sekkei", "rpo-kokoku-hi-muda", "rpo-
 この四つは、原因も打ち手も違います。ブースに人が来ないのは出展先の選び方やブースの作り方の問題ですが、内定を承諾されないのは選考の進め方や条件の問題です。合同説明会そのものをやめるかどうかを決める前に、どの段階で人が減っているのかを確かめる必要があります。
 
 <aside class="cta-inline">
-  <p>説明会の後のどこで人が減っているか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 原因の切り分け：段階ごとの数字を取る
@@ -68,8 +68,8 @@ related: ["rpo-daigaku-renkei", "rpo-intern-sekkei", "rpo-kokoku-hi-muda", "rpo-
 新卒採用の合同説明会は、年間のスケジュールの中でいつ出展するかによっても集まる層が変わります。スケジュールの組み方は[新卒採用の年間スケジュール](/media/rpo-shinsotsu-schedule/)で書いています。
 
 <aside class="cta-inline">
-  <p>説明会の後の連絡を、誰がどの速さで回すか決めませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 外注する場合の範囲

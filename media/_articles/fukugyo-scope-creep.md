@@ -47,8 +47,8 @@ related: ["fukugyo-mitsumori", "fukugyo-scope", "fukugyo-yasuuke", "fukugyo-chok
 サインが出たら、月の整理を待たずに、「範囲を確認させてください」と一度言います。早いほど、戻しやすい。
 
 <aside class="cta-inline">
-  <p>範囲外の依頼が増えにくい、範囲が書面で固まった案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## その場の返し方
@@ -108,8 +108,8 @@ related: ["fukugyo-mitsumori", "fukugyo-scope", "fukugyo-yasuuke", "fukugyo-chok
 **「判断の押し付け」の型は、戻す一択。** 対象の条件、通す基準、条件の幅。これは足せません。「案は出しますが、決めるのは御社です」と、戻します。
 
 <aside class="cta-inline">
-  <p>範囲外の作業を「戻す・足す」で整理できる依頼側の案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 関係を保ちながら止める

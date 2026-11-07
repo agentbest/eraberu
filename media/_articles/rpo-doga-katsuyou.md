@@ -48,8 +48,8 @@ related: ["rpo-shashin-nai", "rpo-chimeido-nai", "rpo-koho-neta", "rpo-kuchikomi
 伝わっていないものが無ければ、動画は要りません。あれば、それだけを動画にします。
 
 <aside class="cta-inline">
-<p>自社の採用で「文章と写真で伝わっていないもの」があるかを、候補者の質問と辞退の理由から一緒に確認できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 使う判断と使わない判断
@@ -119,8 +119,8 @@ related: ["rpo-shashin-nai", "rpo-chimeido-nai", "rpo-koho-neta", "rpo-kuchikomi
 プロに頼む要点は、「社内で撮れないものだけ」と「演出しないと伝える」ことです。
 
 <aside class="cta-inline">
-<p>社内で撮るものとプロに頼むものの分け方と、プロへの依頼の一覧を一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 置き場と使い方

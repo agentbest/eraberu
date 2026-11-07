@@ -53,8 +53,8 @@ related: ["rpo-fukugyo-jinzai-itaku", "rpo-aiaigasa", "rpo-chuuto-kaiyaku", "rpo
 書類の一次仕分けも難易度が高い。**日本の職務経歴書は、書き方が定型化していない**ため、読み取りには慣れが要ります。同じ経験でも表現の仕方が人によって違い、そこを補って読む必要があります。
 
 <aside class="cta-inline">
-  <p>自社の採用のどこを外に出せるか、整理してみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -107,8 +107,8 @@ related: ["rpo-fukugyo-jinzai-itaku", "rpo-aiaigasa", "rpo-chuuto-kaiyaku", "rpo
 **成果物の基準を数字で持つ**。処理件数、誤りの件数、所要時間。感覚ではなく数字で管理すると、変化に気づけます。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

@@ -43,8 +43,8 @@ related: ["scout-daikou-data", "scout-daikou-kadai-account", "scout-daikou-kadai
 こうした条項の書き方や効力については、弁護士などの専門家にご確認ください。この記事は、確認する項目の整理であって、法的な助言ではありません。
 
 <aside class="cta-inline">
-  <p>削除の取り決めを覚書にする際の項目を、一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 終了時に削除を求める範囲
@@ -96,8 +96,8 @@ related: ["scout-daikou-data", "scout-daikou-kadai-account", "scout-daikou-kadai
 自社の個人情報の扱いの方針と照らして決めることになるので、社内の担当部門や専門家に確認してください。
 
 <aside class="cta-inline">
-  <p>受け取った候補者情報の保管の考え方を、次の運用の形に合わせて一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 削除の取り決めが無いまま終了するとき

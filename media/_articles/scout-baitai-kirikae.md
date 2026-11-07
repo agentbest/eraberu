@@ -37,8 +37,8 @@ related: ["scout-baitai-kaiyaku", "scout-baitai-kumiawase", "scout-daikou-kengen
 三か月の間、前の媒体を完全に止めない理由は、比較の基準を残すためです。前の媒体で返信対応中の候補者もいるので、その対応も続けます。
 
 <aside class="cta-inline">
-  <p>足して比べる三か月の設計を、担当者の稼働配分と一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 比べる数字
@@ -92,8 +92,8 @@ related: ["scout-baitai-kaiyaku", "scout-baitai-kumiawase", "scout-daikou-kengen
 新しい媒体の契約が残っていれば、従媒体として薄く続けるか、解約するかを決めます。[使わない媒体を解約する基準](/media/scout-baitai-kaiyaku/)で書いた判断です。
 
 <aside class="cta-inline">
-  <p>比べた結果が同じだったときの、次の切り分けを一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 切り替えの判断を記録する

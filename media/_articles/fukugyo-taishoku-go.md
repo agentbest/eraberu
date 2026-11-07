@@ -1,6 +1,6 @@
 ---
 title: "退職後に副業から始める｜「次が決まる前の期間」を、経験を切り売りせずに使う"
-description: "会社を辞めて、次が決まっていない。その期間に、人事の経験で副業を始めたい。収入の穴埋めとして始めると、安い案件を数で受けて消耗します。退職後に副業から始めるときの位置づけ、時間があるからこそ起きる失敗、最初の案件の選び方、次の本業との関係（就職活動・独立の判断）、収入の見立て、制度に関わる注意を整理しました。制度は専門家に確認する前提です。"
+description: "会社を辞めて、次が決まっていない。"
 pillar: "fukugyo"
 series: "報酬・契約"
 target: "単価・契約・税務"
@@ -45,8 +45,8 @@ related: ["fukugyo-fukugyo-kinshi", "fukugyo-fukusuu-anken", "fukugyo-ikkyuu", "
 これらは、「時間があるから」で起きます。時間があっても、本業がある人と同じ基準（固定できる時間、時給の下限、案件の選び方）を持ちます。
 
 <aside class="cta-inline">
-  <p>退職後の期間に、実績を作れる案件を絞って受けられる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 最初の案件の選び方
@@ -108,8 +108,8 @@ related: ["fukugyo-fukugyo-kinshi", "fukugyo-fukusuu-anken", "fukugyo-ikkyuu", "
 収入の見立ては、「副業で生活する」前提で置かないことが、退職後の期間を健全に保ちます。
 
 <aside class="cta-inline">
-  <p>退職後の期間に、次の判断材料になる案件を選べる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 制度に関わる注意

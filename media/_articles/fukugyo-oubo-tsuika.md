@@ -41,8 +41,8 @@ related: ["fukugyo-mitsumori", "fukugyo-choka-kadou", "fukugyo-koushin", "fukugy
 線は、自分の稼働と時給で決めます。稼働に余裕があれば線を広く、無ければ狭く。
 
 <aside class="cta-inline">
-  <p>無償の線を契約時に共有できる案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 単発と継続を分ける
@@ -120,8 +120,8 @@ related: ["fukugyo-mitsumori", "fukugyo-choka-kadou", "fukugyo-koushin", "fukugy
 提示の要は、「追加は、範囲と報酬を合わせる話であって、断りではない」と伝えることです。
 
 <aside class="cta-inline">
-  <p>追加の業務を工程と時間で見積もれる形の案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 追加が繰り返されるときの契約への反映

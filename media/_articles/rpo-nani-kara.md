@@ -48,8 +48,8 @@ related: ["rpo-kouka-sokutei", "rpo-toriaezu-boshu", "rpo-yosan-nai", "rpo-yuuse
 数える数字が無い場合、一日目は「今日から記録を始める」にします。過去の数字が無くても、止まっている段階は、応募の対応の実感（返信が遅れている、面接が組めない、辞退が多い）から仮に特定して、動きます。[採用の数字が取れていない](/media/rpo-data-nai/)。
 
 <aside class="cta-inline">
-<p>最初の一週間（数える・特定する・三つ挙げる・合意する・始める）を、担当者が一緒に進められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 止まっている段階の特定
@@ -117,8 +117,8 @@ related: ["rpo-kouka-sokutei", "rpo-toriaezu-boshu", "rpo-yosan-nai", "rpo-yuuse
 順番の要点は、「一つの段階が動いたら、次の段階へ」です。上流から下流へ、順に。
 
 <aside class="cta-inline">
-<p>翌月の数字を見て、次の段階と次の三つを決める運用を、担当者と一緒に回せます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 一か月・三か月・半年の見取り図

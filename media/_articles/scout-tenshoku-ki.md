@@ -43,8 +43,8 @@ related: ["scout-natsu-fuyu", "scout-shinnendo", "scout-baitai-kaiyaku", "scout-
 一般論を「仮説」として置き、自社の数字で検証する、という順番にします。
 
 <aside class="cta-inline">
-  <p>自社の職種と層で、一般論の季節性がどこまで当てはまるか、担当者の経験から一緒に見立てられます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 自社の山と谷を見つける
@@ -102,8 +102,8 @@ related: ["scout-natsu-fuyu", "scout-shinnendo", "scout-baitai-kaiyaku", "scout-
 谷の時期に送信を止める必要はありませんが、成果を求める時期ではありません。次の山のための時期です。
 
 <aside class="cta-inline">
-  <p>谷の時期にやる準備の一覧を、いまの運用に合わせて一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 季節性を年間計画に織り込む

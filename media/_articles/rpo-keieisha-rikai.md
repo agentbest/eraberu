@@ -48,8 +48,8 @@ related: ["rpo-fukusuu-shokushu", "rpo-gaichu-hanni", "rpo-genba-kyouryoku", "rp
 この六つに答える形で報告を組み立てれば、経営者は判断できます。「頑張っています」は、六つのどれにも答えていません。
 
 <aside class="cta-inline">
-<p>経営者向けの採用の報告の型を、いまの状況に合わせて一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 月次の報告の型
@@ -112,8 +112,8 @@ related: ["rpo-fukusuu-shokushu", "rpo-gaichu-hanni", "rpo-genba-kyouryoku", "rp
 判断を引き出すのは、人事の技術です。経営者が決められないのは、決められる形で聞かれていないことが多いです。
 
 <aside class="cta-inline">
-<p>経営者の判断を引き出す報告と聞き方を、担当者が一緒に組み立てられます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 経営者に動いてもらう場面

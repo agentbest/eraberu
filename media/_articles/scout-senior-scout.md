@@ -49,8 +49,8 @@ related: ["scout-josei-scout", "scout-gaikokujin-scout", "scout-kanri-shoku", "s
 **年齢に触れない。** 「シニアの方に」「ベテランの方に」といった年齢を示唆する表現は、文面に入れません。経験の中身だけに触れます。
 
 <aside class="cta-inline">
-  <p>経験の中身で対象を選ぶ基準を、法令に沿った形で担当者と一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 役割と待遇の設計
@@ -112,8 +112,8 @@ related: ["scout-josei-scout", "scout-gaikokujin-scout", "scout-kanri-shoku", "s
 受け入れの設計が無いと、経験豊富な人ほど、早く離れます。
 
 <aside class="cta-inline">
-  <p>経験豊富な人の受け入れの設計を、役割と若い責任者との関係から一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 法令で確認すべき点

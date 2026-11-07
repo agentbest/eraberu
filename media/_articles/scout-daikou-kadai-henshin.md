@@ -45,8 +45,8 @@ related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa", "scout-daiko
 順番に見ていけば、たいてい一か二で原因が見つかります。三以降は、一と二を整えても動かないときに疑います。
 
 <aside class="cta-inline">
-  <p>担当者の説明を一緒に聞いて、五つのどれかを特定するところから相談できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 担当者の説明の聞き方
@@ -92,8 +92,8 @@ related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa", "scout-daiko
 最後に、担当者を替える判断です。対象と文面の見直しを何度提案しても具体的な案が出ない、根拠のある説明ができない、発注側の領域の問題に触れない、という場合は、担当者の問題である可能性があります。会社を替える前に、担当者だけを替える選択肢があります。
 
 <aside class="cta-inline">
-  <p>担当者だけを替える選択肢も含めて、いまの状況を整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

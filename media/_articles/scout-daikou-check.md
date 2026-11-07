@@ -37,8 +37,8 @@ related: ["scout-daikou-hinshitsu-kanri", "scout-daikou-kadai-baitai", "scout-da
 直しが出なくなったら、全通の確認をやめて、抽出した一部を見る形に切り替えます。週に数通を無作為に選び、三つの観点で見ます。全通を見続けると、発注側が詰まり、送信が止まります。送信の速さは品質の一部です。止めてまで見るのは、最初だけにします。
 
 <aside class="cta-inline">
-  <p>最初の二週間の見方と、その後の抜き取りの頻度を一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 送った後に見る線：数字と中身の両方
@@ -92,8 +92,8 @@ related: ["scout-daikou-hinshitsu-kanri", "scout-daikou-kadai-baitai", "scout-da
 誤りが届いたことを責めると、次から報告が上がらなくなります。報告が上がる状態を保つことのほうが、品質には効きます。
 
 <aside class="cta-inline">
-  <p>担当者の自己チェックの手順は、選ぶ前に聞けます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

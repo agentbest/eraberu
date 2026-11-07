@@ -39,8 +39,8 @@ related: ["scout-daikou-nagare", "scout-daikou-sokudo", "scout-hajime-30nichi", 
 最初の二週間の全通確認は、不安を消すための期間であると同時に、担当者に自社の言葉を教える期間です。この二週間に時間を使えば、その後の全部が楽になります。
 
 <aside class="cta-inline">
-  <p>最初の二週間の見方と、その後の抜き取りへの切り替えを、担当者と一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 「何を任せてよいか」への対処：判断は社内、作業は代行
@@ -86,8 +86,8 @@ related: ["scout-daikou-nagare", "scout-daikou-sokudo", "scout-hajime-30nichi", 
 これで、三か月後に「やめる」と決めても、資産は手元に残り、別の代行や自社運用に渡せます。[代行なしで回らなくなる](/media/scout-daikou-kadai-izon/)で書いた考え方です。はじめての契約でこれを入れておけば、「切れなくなる」不安は最初から無くなります。
 
 <aside class="cta-inline">
-  <p>資産の帰属を契約に入れる項目を、はじめての契約に合わせて一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 「社内に説明できない」への対処：三つの言葉で説明する

@@ -39,8 +39,8 @@ related: ["scout-waku-amaru", "scout-baitai-kaiyaku", "scout-waku-tarinai", "sco
 仮置きの数字は、運用が始まって実績が出たら置き換えます。最初のプランは仮で、三か月後に見直す前提で選びます。
 
 <aside class="cta-inline">
-  <p>採用人数と時期から必要な送信数を逆算するところを、担当者と一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 枠と稼働の関係
@@ -100,8 +100,8 @@ related: ["scout-waku-amaru", "scout-baitai-kaiyaku", "scout-waku-tarinai", "sco
 使っていない枠に払い続けるより、下げて、その費用を担当者の稼働か別の手法に回すほうが、成果につながります。
 
 <aside class="cta-inline">
-  <p>いまのプランの枠の使用率を見て、上げる・下げる・維持のどれかを一緒に判断できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 契約時に確認すること

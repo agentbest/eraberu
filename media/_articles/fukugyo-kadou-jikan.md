@@ -47,8 +47,8 @@ related: ["fukugyo-kaigo-ikuji", "fukugyo-fukugyo-kinshi", "fukugyo-fukusuu-anke
 固定できる時間が週に数時間でも、それが守られていれば、依頼側は業務を任せられます。週に十数時間を約束して、忙しい週にゼロになるほうが、依頼側にとって困ります。
 
 <aside class="cta-inline">
-  <p>週に数時間の固定できる時間で受けられる案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 業務の種類ごとに要る最低限の時間
@@ -112,8 +112,8 @@ related: ["fukugyo-kaigo-ikuji", "fukugyo-fukugyo-kinshi", "fukugyo-fukusuu-anke
 両立は、稼働の設計で決まります。固定できる時間を守り、それ以上を約束しなければ、両立は続きます。
 
 <aside class="cta-inline">
-  <p>本業の繁忙期に稼働を減らせる形の案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 稼働を増やす・減らすタイミング

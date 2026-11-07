@@ -43,8 +43,8 @@ related: ["rpo-eigyo-teichaku", "rpo-shinsotsu-teichaku", "rpo-agent-ooi", "rpo-
 「入社後の問題」に見える離職も、理由を聞けば、要件・募集・選考のどこかで生まれた期待のずれであることが多い。
 
 <aside class="cta-inline">
-  <p>直近の早期離職を、五つの段階に当てはめるところを一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 「聞いていた話と違う」を生む構造
@@ -110,8 +110,8 @@ related: ["rpo-eigyo-teichaku", "rpo-shinsotsu-teichaku", "rpo-agent-ooi", "rpo-
 一から五は、採用の段階で、費用がかからず、次の採用から変えられます。六は受け入れの段階。七は、要件の根本の見直しで、時間がかかります。
 
 <aside class="cta-inline">
-  <p>募集と面接で実態を伝える形を、原稿と面接の観点から一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 外注する場合の範囲

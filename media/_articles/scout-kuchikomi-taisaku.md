@@ -49,8 +49,8 @@ related: ["scout-koho-renkei", "scout-saiyo-site-doushen", "scout-chimeido-nai-k
 この整理をしておけば、文面と面談で口コミに向き合えます。整理が無いと、候補者に聞かれて答えられません。
 
 <aside class="cta-inline">
-  <p>自社の口コミを事実と照らして整理するところを、一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 文面で先に触れる
@@ -108,8 +108,8 @@ related: ["scout-koho-renkei", "scout-saiyo-site-doushen", "scout-chimeido-nai-k
 口コミへの対処は、採用担当だけの仕事ではなく、社内の課題への対処です。
 
 <aside class="cta-inline">
-  <p>口コミから見える社内の課題を、採用の観点で整理して経営に伝える形を一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 担当者に共有しておくこと

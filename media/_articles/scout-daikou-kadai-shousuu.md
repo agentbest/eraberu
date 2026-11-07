@@ -39,8 +39,8 @@ related: ["scout-daikou-baitai-hi", "scout-daikou-checklist", "scout-daikou-gets
 どの形が合うかは、急ぎ具合と、予算の上限と、母数で決まります。担当者に「一名採用で、この職種なら、どの形が合うか」を相談してください。
 
 <aside class="cta-inline">
-  <p>一名採用に合う契約の形を、急ぎ具合と予算から一緒に選べます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 一名だからこそ効く運用
@@ -92,8 +92,8 @@ related: ["scout-daikou-baitai-hi", "scout-daikou-checklist", "scout-daikou-gets
 **決まったら終わる潔さ。** 一名が決まったら、契約は終わります。「せっかくなので次の職種も」と続けさせようとする担当者より、「決まりましたね、では終了です」と言える担当者のほうが、次に頼めます。
 
 <aside class="cta-inline">
-  <p>一名採用に向く担当者を、過去の文面と返信対応の体制から一緒に選べます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 決まった後

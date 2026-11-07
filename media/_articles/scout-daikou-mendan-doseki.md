@@ -53,8 +53,8 @@ related: ["scout-daikou-nittei", "scout-daikou-slack", "scout-baitai-kaiyaku", "
 **そして、同席の目的を明確にしてください**。何を得るために同席するのか。**目的がないと、時間だけが消費されます**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -147,8 +147,8 @@ related: ["scout-daikou-nittei", "scout-daikou-slack", "scout-baitai-kaiyaku", "
 **この四つを回すと、同席が改善に繋がります**。**同席して終わりだと、時間を使っただけになります**。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

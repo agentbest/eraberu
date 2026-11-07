@@ -43,8 +43,8 @@ related: ["rpo-kouhosha-tsuuchi", "rpo-mail-account", "rpo-aiaigasa", "rpo-buran
 **この五つのうち、一番目と三番目が特に効きます**。文面の型があると質が安定し、署名の設計があると体験の違和感が減ります。
 
 <aside class="cta-inline">
-  <p>自社の採用のどこを外に出せるか、整理してみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -100,8 +100,8 @@ related: ["rpo-kouhosha-tsuuchi", "rpo-mail-account", "rpo-aiaigasa", "rpo-buran
 **型から外れた対応が必要な場面の扱いも決めておきます**。個別の事情がある候補者への返信は、自社が確認してから送る形にする、といった線引きです。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

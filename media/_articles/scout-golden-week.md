@@ -39,8 +39,8 @@ related: ["scout-kikan-sekkei", "scout-natsu-fuyu", "scout-nenmatsu", "scout-bai
 送信は、連休前の一週間は通常どおり行います。ただし、文面の一段落目に「連休明けにお話しできれば」という趣旨を入れると、候補者は連休中に考える時間を持てます。「今すぐ」の圧は、連休前には合いません。
 
 <aside class="cta-inline">
-  <p>連休前に押さえる日程と面談枠の確保を、担当者と一緒に計画できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 連休中：送信を絞り、返信対応を保つ
@@ -96,8 +96,8 @@ related: ["scout-kikan-sekkei", "scout-natsu-fuyu", "scout-nenmatsu", "scout-bai
 連休の時期は、担当者と社内で共有します。担当者は、連休の二週間前から動きを変えます。社内は、連休明けの面談枠を先に確保します。両方が連休を前提に動けば、連休は「空白」ではなく「区切り」になります。
 
 <aside class="cta-inline">
-  <p>年間の連休を織り込んだ送信計画を、一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 連休前後の文面

@@ -48,8 +48,8 @@ related: ["rpo-shinsotsu-teichaku", "rpo-souki-rishoku", "rpo-agent-ooi", "rpo-a
 見えれば、直す先は一つか二つに絞れます。「全部」を直す必要はありません。
 
 <aside class="cta-inline">
-<p>自社の営業が辞める時期と理由の記録を整理し、直す先を一緒に絞れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 求人票と選考で直すこと
@@ -120,8 +120,8 @@ related: ["rpo-shinsotsu-teichaku", "rpo-souki-rishoku", "rpo-agent-ooi", "rpo-a
 評価と目標の要点は、「段階と途中の評価」です。最初から既存と同じ目標で、数字だけで評価する形が、営業を辞めさせます。
 
 <aside class="cta-inline">
-<p>営業の目標の段階と途中の評価の設計を、自社の記録を元に一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 辞めない営業の見極め

@@ -41,8 +41,8 @@ related: ["scout-baitai-kirikae", "scout-daikou-fukusuu-baitai", "scout-daikou-k
 前回の経験を使わずに、営業の提案書だけで選ぶと、前回と同じ基準で選ぶことになり、同じ結果になります。
 
 <aside class="cta-inline">
-  <p>前回の経験を質問に変えて、次の担当者を選ぶところから一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 会社ではなく担当者を選ぶ
@@ -90,8 +90,8 @@ related: ["scout-baitai-kirikae", "scout-daikou-fukusuu-baitai", "scout-daikou-k
 一か月で前回と同じ詰まりが見えたら、その時点で担当者と話します。三か月待つ必要はありません。
 
 <aside class="cta-inline">
-  <p>切り替え直後の一か月で何を見るか、前回の経験に合わせて一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 切り替えても変わらないとき

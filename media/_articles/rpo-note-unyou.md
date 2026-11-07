@@ -52,8 +52,8 @@ related: ["rpo-chimeido-nai", "rpo-doga-katsuyou", "rpo-koho-neta", "rpo-kuchiko
 型は、八つあれば十分です。八つを順に回せば、二か月で一巡し、三か月目からは同じ型で違う内容になります。
 
 <aside class="cta-inline">
-<p>自社の役割と実態に合った記事の型を、八つほど一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 頻度と長さの決め方
@@ -120,8 +120,8 @@ related: ["rpo-chimeido-nai", "rpo-doga-katsuyou", "rpo-koho-neta", "rpo-kuchiko
 素材の要点は、「書く前に集まっている」ことです。「書くために素材を探す」形は、書く前に止まります。
 
 <aside class="cta-inline">
-<p>月に一度の聞き取りと質問の記録で素材が集まる仕組みを、担当者が一緒に回せます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 記事の置き場と導線

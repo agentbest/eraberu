@@ -53,8 +53,8 @@ related: ["rpo-haken-tono-chigai", "rpo-offshore", "rpo-aiaigasa", "rpo-chuuto-k
 **組み合わせる形が現実的です**。即時性の要る業務は社内か専業の担い手が持ち、時間を選ばない業務を副業人材に任せる。この分け方なら、双方の強みが活きます。
 
 <aside class="cta-inline">
-  <p>自社の採用のどこを外に出せるか、整理してみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -106,8 +106,8 @@ related: ["rpo-haken-tono-chigai", "rpo-offshore", "rpo-aiaigasa", "rpo-chuuto-k
 **いずれの場合も、情報の置き場所を一本化します**。自社の採用管理システムに集約し、それぞれにアクセス権を渡す。各自の手元に情報が溜まる形だと、全体像が見えなくなります。権限の設計は[渡すATSの権限範囲](/media/rpo-ats-kengen/)にまとめています。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

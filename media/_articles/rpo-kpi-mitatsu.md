@@ -48,8 +48,8 @@ related: ["rpo-kpi-keiyaku", "rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuut
 **四番目が抜けると、原因が代行側に見え続けます**。自社の判断が遅れていた期間があれば、そこが原因かもしれません。指標の置き方は[契約にKPIを入れるべきか](/media/rpo-kpi-keiyaku/)にまとめています。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -107,8 +107,8 @@ related: ["rpo-kpi-keiyaku", "rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuut
 **それでも変わらないなら切り替えを検討する**。判断のタイミングは[やめる判断のタイミング](/media/rpo-kaiyaku-jiki/)、進め方は[途中解約したいときの進め方](/media/rpo-chuuto-kaiyaku/)にまとめています。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

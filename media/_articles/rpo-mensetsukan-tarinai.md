@@ -49,8 +49,8 @@ related: ["rpo-mensetsukan-bara", "rpo-casual-mendan-kadai", "rpo-hyouka-kijun",
 段階を分けたら、各段階で「何を確認するか」を分けます。一次で経歴の深さ、二次で組織との相性、最終で通す判断。同じことを三回聞く面接は、候補者にも面接官にも無駄です。
 
 <aside class="cta-inline">
-  <p>段階ごとに面接官を分ける設計を、いまの組織に合わせて一緒に組めます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 観点を絞って、面接官を増やす
@@ -116,8 +116,8 @@ related: ["rpo-mensetsukan-bara", "rpo-casual-mendan-kadai", "rpo-hyouka-kijun",
 回数と時間を減らせば、同じ面接官の数で、面接の件数は倍になります。
 
 <aside class="cta-inline">
-  <p>面接の回数と時間を減らす設計を、観点の絞り込みから一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 外部の面接官を使う場合

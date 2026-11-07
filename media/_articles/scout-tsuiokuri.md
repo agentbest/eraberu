@@ -67,8 +67,8 @@ related: ["scout-blacklist", "scout-crm", "scout-jisha-shain", "scout-jyufuku-bo
 型の要点は、「段階ごとに、回数は一〜二回、間隔は数日から一週間、送る人は段階に合った人」です。全段階を人事が追う形は、「事務的」に見えます。面談の後は面談の担当者から、内定の後は責任者から。
 
 <aside class="cta-inline">
-<p>止まった段階ごとに、いつ・誰が・何を送るかの型を、自社の面談の担当者と責任者に合わせて一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 追客の文面
@@ -117,8 +117,8 @@ related: ["scout-blacklist", "scout-crm", "scout-jisha-shain", "scout-jyufuku-bo
 やめた候補者は、消えるのではなく、「三か月後に新しい理由があれば再送の対象」に戻ります。追客をやめることと、関係を切ることは、別です。
 
 <aside class="cta-inline">
-<p>段階ごとの追客の回数と、やめる判断の基準を、自社の運用の決まりとして一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 追客の記録と運用

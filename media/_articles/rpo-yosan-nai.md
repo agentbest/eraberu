@@ -46,8 +46,8 @@ related: ["rpo-kokoku-hi-muda", "rpo-nani-kara", "rpo-tesuuryou-takai", "rpo-tor
 この五つを直すだけで、同じ無料の経路から来る応募の数と質が変わります。予算が付いてから直すのではなく、予算が付く前に直しておくと、予算が付いたときの効きも変わります。
 
 <aside class="cta-inline">
-<p>費用のかからない工程の直し方を、いまの求人に合わせて一緒に整理できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 無料の経路の使い方
@@ -109,8 +109,8 @@ related: ["rpo-kokoku-hi-muda", "rpo-nani-kara", "rpo-tesuuryou-takai", "rpo-tor
 予算は、「採用に必要だから」では出ません。「事業のために、この期間、この額、この基準で」と、判断できる形で出します。経営者への伝え方は[経営者に採用の状況が伝わらない](/media/rpo-keieisha-rikai/)にも書いています。
 
 <aside class="cta-inline">
-<p>予算を経営者に出してもらう伝え方と、予算の集中先を一緒に組み立てられます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 予算が無いときに外注できること

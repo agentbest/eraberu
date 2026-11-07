@@ -39,8 +39,8 @@ related: ["rpo-kyujin-genkou-furui", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-a
 見分けの要は、「要件どおりの人が来て合わないのか、要件どおりでない人が来ているのか」です。前者は要件、後者は原稿です。
 
 <aside class="cta-inline">
-  <p>直近の応募を三つに分けて、要件と原稿のどちらが原因かを一緒に見分けられます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 要件を直す
@@ -116,8 +116,8 @@ related: ["rpo-kyujin-genkou-furui", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-a
 面接側の原因は、要件や原稿を直しても解決しません。面接の観点と質問を、面接者の間で揃えます。[面談してみると要件と違う](/media/scout-daikou-kadai-mismatch/)は依頼側向けの記事ですが、面接の側の整え方は共通です。
 
 <aside class="cta-inline">
-  <p>要件・原稿・面接のどこに原因があるか、直近の応募と面接の記録から一緒に見分けられます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 外注する場合の範囲

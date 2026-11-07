@@ -43,8 +43,8 @@ related: ["rpo-kpi-keiyaku", "rpo-report-koumoku", "rpo-tantousha-koutai", "rpo-
 **予防**：成果の定義に、成立の時点・確認方法・取り消し条件・重複・上限を書く。書き方は[成果の定義でもめない書き方](/media/rpo-seikahoushuu-teigi/)にまとめています。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -114,8 +114,8 @@ related: ["rpo-kpi-keiyaku", "rpo-report-koumoku", "rpo-tantousha-koutai", "rpo-
 **予防**：一次連絡までの時間を決め、**守れているかを月に一度確認する**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

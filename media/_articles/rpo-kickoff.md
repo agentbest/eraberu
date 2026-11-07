@@ -47,8 +47,8 @@ related: ["rpo-fukugyo-jinzai-vs-kaisha", "rpo-jibun-goto", "rpo-jidouka", "rpo-
 **そして、定例会の頻度と議題を決めます**。立ち上げ期は頻度を上げ、運用が安定したら下げる。**議題に「今月うまくいっていないこと」を固定で入れておくと、問題が溜まりません**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -138,8 +138,8 @@ related: ["rpo-fukugyo-jinzai-vs-kaisha", "rpo-jibun-goto", "rpo-jidouka", "rpo-
 **この五つで、キックオフは判断の場になります**。説明を聞く場で終わらせないでください。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

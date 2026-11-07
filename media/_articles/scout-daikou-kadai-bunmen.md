@@ -35,8 +35,8 @@ related: ["scout-daikou-tone", "scout-chimeido-nai-kaisha", "scout-daikou-hinshi
 材料を渡したら、直近の文面を一通、一緒に直します。「ここは会社名で」「この文末は言い切りに」と、直す理由を言葉にします。直した結果を箇条書きにして、担当者の手元に「この会社の文面のルール」として置いてもらいます。
 
 <aside class="cta-inline">
-  <p>既存の文書から「使う言葉・使わない言葉」を一緒に抜き出せます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 二が多いとき：構造を指定する
@@ -80,8 +80,8 @@ related: ["scout-daikou-tone", "scout-chimeido-nai-kaisha", "scout-daikou-hinshi
 **担当者が型から離れられない。** 会社ごとの調整をせず、自社の標準の型で書く担当者もいます。材料を渡しても変わらないなら、担当者の交代を検討する段階です。会社を替える前に、担当者だけを替える選択肢があります。
 
 <aside class="cta-inline">
-  <p>担当者の過去の文面を見てから決められます。相性の確認から相談できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 「らしさ」を保ち続けるために

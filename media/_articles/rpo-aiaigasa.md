@@ -51,8 +51,8 @@ related: ["rpo-fukugyo-jinzai-itaku", "rpo-fukusuu-hattyu", "rpo-kaisha-nanori",
 **社内に管理できる人がいる**。複数の窓口を捌ける人がいるなら、分散の利点を取りにいけます。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -104,8 +104,8 @@ related: ["rpo-fukugyo-jinzai-itaku", "rpo-fukusuu-hattyu", "rpo-kaisha-nanori",
 移行の時期は、契約の更新に合わせると手続きが一度で済みます。更新の予告期限については[自動更新条項で気をつけること](/media/rpo-jidou-koushin/)にまとめています。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

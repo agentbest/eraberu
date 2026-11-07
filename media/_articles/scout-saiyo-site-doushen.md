@@ -53,8 +53,8 @@ related: ["scout-koho-renkei", "scout-kuchikomi-taisaku", "scout-chimeido-nai-ka
 揃っているかを確認するのは、担当者が文面を書く前に、採用サイトを読むところからです。
 
 <aside class="cta-inline">
-  <p>文面と採用サイトの食い違いを、担当者と一緒に洗い出せます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## リンクを貼るかどうか
@@ -110,8 +110,8 @@ related: ["scout-koho-renkei", "scout-kuchikomi-taisaku", "scout-chimeido-nai-ka
 これらがあれば、文面は短く済み、候補者は検索した先で「文面の続き」を読めます。無ければ、文面で補うか、採用サイトに足すかを、担当者と決めます。
 
 <aside class="cta-inline">
-  <p>採用サイトに何を足せば文面が効くか、担当者の視点で一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 採用サイトの更新を運用に組み込む

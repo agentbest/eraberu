@@ -47,8 +47,8 @@ related: ["scout-daikou-baitai-hi", "scout-daikou-getsugaku", "scout-daikou-hiyo
 **だから、成果の場所は「どう動いてほしいか」から決めてください**。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -160,8 +160,8 @@ related: ["scout-daikou-baitai-hi", "scout-daikou-getsugaku", "scout-daikou-hiyo
 **四番目が、スカウト特有の判断です**。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

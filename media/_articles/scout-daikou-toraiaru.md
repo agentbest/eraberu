@@ -75,8 +75,8 @@ related: ["scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-baitai-kumiawas
 **この三つのうち、「理由を説明できるか」が最も判断材料になります**。条件を組むこと自体は誰でもできますが、**なぜその条件かを説明できるなら、要件を理解しています**。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -166,8 +166,8 @@ related: ["scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-baitai-kumiawas
 **三番目が実務では重要です**。記録がないと、次の会社が同じ候補者に送ることになります。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

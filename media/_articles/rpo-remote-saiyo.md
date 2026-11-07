@@ -49,8 +49,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-a
 実態を正確に書くと、応募は減ることがあります。減った分は、「フルリモートだから」で応募していた層です。
 
 <aside class="cta-inline">
-<p>フルリモートの実態を正確に書いた求人票と、絞る文の設計を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## リモートで働ける人の見極めの観点
@@ -119,8 +119,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-a
 受け入れは、採用の一部です。受け入れが無い採用は、見極めが正しくても定着しません。
 
 <aside class="cta-inline">
-<p>リモートの受け入れの型と、最初の一か月の設計を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## フルリモートをやめる判断

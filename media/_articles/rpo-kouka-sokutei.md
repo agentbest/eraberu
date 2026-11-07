@@ -46,8 +46,8 @@ related: ["rpo-data-nai", "rpo-funnel", "rpo-kpi-erabenai", "rpo-nani-kara"]
 「全部を測る仕組み」は要りません。三つを決めて、一枚に記録するだけです。
 
 <aside class="cta-inline">
-<p>「一つ変えて一つ見る」の型と、施策と数字の対応を一緒に決められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 「一つ変えて一つ見る」の型
@@ -136,8 +136,8 @@ related: ["rpo-data-nai", "rpo-funnel", "rpo-kpi-erabenai", "rpo-nani-kara"]
 測れない施策の要点は、「兆候で見る」ことと「年単位で見る」ことです。短期の数字で判断すると、効いているのに止めます。
 
 <aside class="cta-inline">
-<p>短期で測れる施策と年単位で見る施策を分け、それぞれの見方を一緒に決められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 測る運用

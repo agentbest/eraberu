@@ -59,8 +59,8 @@ related: ["scout-daikou-nagare", "scout-daikou-persona", "scout-daikou-sokudo", 
 **この順番で渡すと、代行側の理解が積み上がります**。**大量の資料を一度に渡すと、読み込むだけで時間がかかります**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -147,8 +147,8 @@ related: ["scout-daikou-nagare", "scout-daikou-persona", "scout-daikou-sokudo", 
 **そして、一度渡して終わりにしないでください**。情報は運用の中で増えていきます。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

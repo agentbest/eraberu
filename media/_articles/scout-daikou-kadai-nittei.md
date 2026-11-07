@@ -39,8 +39,8 @@ related: ["scout-daikou-kadai-genba", "scout-daikou-kadai-jitai", "scout-daikou-
 枠が使われない週は、面談者はその時間を本業に戻せます。「空けたのに使われなかった」損失は、実質的にはありません。逆に、「空けていなくて日程が取れなかった」損失は、候補者一人分の採用機会です。
 
 <aside class="cta-inline">
-  <p>面談枠の数と時間帯を、月の面談見込みから一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 候補日の出し方
@@ -86,8 +86,8 @@ related: ["scout-daikou-kadai-genba", "scout-daikou-kadai-jitai", "scout-daikou-
 面談者ごとに枠を空け、担当者がそれぞれの枠から候補日を出す形にすれば、複数の面談者がいても日程は組めます。
 
 <aside class="cta-inline">
-  <p>段階ごとの面談者の分け方と枠の設計を、一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## それでも押さえられないとき

@@ -41,8 +41,8 @@ related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa", "scout-daiko
 分け方の目安は、「返事が要るか」です。返事が要るなら流す、要らないなら置く。担当者にこの基準を伝えれば、担当者側で分けてくれます。
 
 <aside class="cta-inline">
-  <p>流す情報と置く情報の分け方を、いまの運用に合わせて一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 窓口を一人にする
@@ -86,8 +86,8 @@ related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa", "scout-daiko
 型は、担当者と一緒に決めます。担当者側で使いやすい型でないと、続きません。決めたら、置く情報の場所に「共有の型」として置いておきます。担当者が替わっても、同じ型で続けられます。
 
 <aside class="cta-inline">
-  <p>共有の型は、担当者の運用に合わせて一緒に作れます。ひな型もあります</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 追いつかなくなったときの立て直し

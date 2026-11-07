@@ -57,8 +57,8 @@ related: ["scout-daikou-kakunin-flow", "scout-daikou-hinshitsu-kanri", "scout-ba
 **切り替え方は段階的に**。全件から半分、数件へ。**一気にゼロにはしません**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -138,8 +138,8 @@ related: ["scout-daikou-kakunin-flow", "scout-daikou-hinshitsu-kanri", "scout-ba
 **この判断を、一律の運用にしないでください**。場面によって変えるほうが、全体では効率的です。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

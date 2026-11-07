@@ -47,8 +47,8 @@ related: ["fukugyo-keihi", "fukugyo-20man", "fukugyo-aoiro", "fukugyo-genzei"]
 記録は、一つの場所に、依頼側ごと・月ごとに整理します。年末に集めるのではなく、月末に整理する習慣にします。
 
 <aside class="cta-inline">
-  <p>年間を通じた記録の型を持って、条件が合う案件を受けられる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 収入と経費を整理する
@@ -108,8 +108,8 @@ related: ["fukugyo-keihi", "fukugyo-20man", "fukugyo-aoiro", "fukugyo-genzei"]
 相談先は、税理士、自治体や業界団体の相談窓口、公的な機関の相談会などがあります。副業や個人事業に詳しい相談先を選びます。
 
 <aside class="cta-inline">
-  <p>専門家への相談を早めにできる形で、条件が合う案件を受けられる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 申告後に残すもの

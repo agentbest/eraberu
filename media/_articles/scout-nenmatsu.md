@@ -39,8 +39,8 @@ related: ["scout-golden-week", "scout-natsu-fuyu", "scout-baitai-kaiyaku", "scou
 年内の数字は、返信率ではなく、「年明けの面談を仮に押さえた候補者の数」で見ます。この数が、年明けの立ち上がりを決めます。
 
 <aside class="cta-inline">
-  <p>年内の関係づくりの文面と、年明けの日程の押さえ方を、担当者と一緒に整えられます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 休暇中：送信を絞り、返信対応を保つ
@@ -90,8 +90,8 @@ related: ["scout-golden-week", "scout-natsu-fuyu", "scout-baitai-kaiyaku", "scou
 進行中の候補者は、年末年始で最も失いやすい人たちです。年内の連絡と、年明けの最初の営業日の連絡で、関係を保ちます。
 
 <aside class="cta-inline">
-  <p>進行中の候補者の年末年始の連絡計画を、一人ずつ一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 休暇前に社内で決めておくこと

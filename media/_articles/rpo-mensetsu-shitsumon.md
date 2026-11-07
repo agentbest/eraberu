@@ -47,8 +47,8 @@ related: ["rpo-kouzou-mensetsu", "rpo-casual-mendan-kadai", "rpo-hyouka-kijun", 
 観点が決まれば、「この観点を確認するには、何を聞けばよいか」と考えられます。観点が無いまま「良い質問」を探しても、見つかりません。
 
 <aside class="cta-inline">
-<p>役割から観点を絞り、観点ごとの質問を一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 過去の場面を聞く型
@@ -137,8 +137,8 @@ related: ["rpo-kouzou-mensetsu", "rpo-casual-mendan-kadai", "rpo-hyouka-kijun", 
 深掘りは、面接官の力です。一枚で質問の入口を揃え、深掘りは面接官に任せます。
 
 <aside class="cta-inline">
-<p>質問の入口と深掘りの型を、面接官向けの一枚にして一緒に渡せます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 質問を直す運用

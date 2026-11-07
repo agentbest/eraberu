@@ -33,8 +33,8 @@ related: ["scout-fukugyo-jinzai", "scout-gyoumu-itaku-boshuu", "scout-alumni-sco
 **範囲を変えるとき**の手続き。広げる・縮めるときに、誰が申し出て、費用がどう動くか。運用の途中で範囲は変わるものなので、変え方を最初に決めておきます。
 
 <aside class="cta-inline">
-  <p>契約書のひな型を持ち込んでいただければ、四つの領域で一緒に読めます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 二.担当者の指定と交代
@@ -88,8 +88,8 @@ related: ["scout-fukugyo-jinzai", "scout-gyoumu-itaku-boshuu", "scout-alumni-sco
 **終了後の義務。** 秘密保持の期間、候補者情報の削除、媒体アカウントの権限の回収。代行会社側の義務と、発注側の義務の両方を書きます。
 
 <aside class="cta-inline">
-  <p>出口の条件は、契約前に決めておくのが最も確実です。相談だけでも構いません</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 書かれていないときの足し方

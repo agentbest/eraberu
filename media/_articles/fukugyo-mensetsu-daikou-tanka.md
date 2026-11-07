@@ -33,8 +33,8 @@ sources:
 面接の時間だけを単価の根拠にすると、準備と記録・報告の時間がただ働きになります。1回の面接について、準備から報告までの時間を実際に測り、自分の時間単価を掛けて単価の根拠にしてください。時間単価の考え方は[本業年収と副業単価の関係](/media/fukugyo-honnngyou-hikaku/)、単価の組み立て方の全体は[人事の副業単価の相場](/media/fukugyo-tanka-souba/)で書いています。
 
 <aside class="cta-inline">
-  <p>面接の経験が活かせる案件を、見てみませんか</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 平日の日中の対応と単価
@@ -61,8 +61,8 @@ sources:
 最初の打ち合わせとすり合わせには時間がかかるため、初月の単価に反映するか、時間で見積もるのがおすすめです。面接代行の仕事の中身は[面接代行の副業の仕事](/media/fukugyo-mensetsu-daikou-shigoto/)で書いています。
 
 <aside class="cta-inline">
-  <p>本業と両立できる時間帯の案件から受けられます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 面接で守るべきこと

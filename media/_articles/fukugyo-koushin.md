@@ -45,8 +45,8 @@ related: ["fukugyo-choka-kadou", "fukugyo-mibarai", "fukugyo-mitsumori", "fukugy
 一か月前に動けば、依頼側は社内で検討する時間を持て、受ける側は条件を置き直す時間を持てます。直前では、どちらも無理です。
 
 <aside class="cta-inline">
-  <p>更新の節目で条件を見直せる形の案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 更新時に見直す四つ
@@ -106,8 +106,8 @@ related: ["fukugyo-choka-kadou", "fukugyo-mibarai", "fukugyo-mitsumori", "fukugy
 更新されないことは、失敗ではありません。依頼側の事情で決まることも多い。丁寧に終えて、次に向かいます。
 
 <aside class="cta-inline">
-  <p>一つの案件が終わっても次の案件に移れる形で、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 更新を機に、自分から終える判断

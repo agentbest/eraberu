@@ -41,8 +41,8 @@ related: ["rpo-genba-setsumei", "rpo-shanai-chousei", "rpo-ai-katsuyou", "rpo-ai
 **五番目まで言ってください**。判断の時期と基準を示すと、引き返せる提案になります。**承認のハードルが下がります**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -117,8 +117,8 @@ related: ["rpo-genba-setsumei", "rpo-shanai-chousei", "rpo-ai-katsuyou", "rpo-ai
 **そして、うまくいっていない場合も報告してください**。順調な報告だけを続けると、問題が表面化したときに信頼を失います。**早めに共有するほうが、対処の選択肢が残ります**。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

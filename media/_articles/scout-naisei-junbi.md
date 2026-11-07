@@ -47,8 +47,8 @@ related: ["scout-daikou-nagare", "scout-daikou-sokudo", "scout-daikou-checklist"
 一か月で、「送れる数」「返信率の目安」「返信対応が回るか」が見えます。ここで回っていなければ、二か月目に入る前に、稼働と体制を見直します。
 
 <aside class="cta-inline">
-  <p>内製の立ち上げの一か月を、六つの準備の確認から一緒に設計できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 内製で詰まりやすい点
@@ -110,8 +110,8 @@ related: ["scout-daikou-nagare", "scout-daikou-sokudo", "scout-daikou-checklist"
 内製と代行は、どちらかを選ぶものではなく、状況で行き来するものです。内製で始めたことは、代行に出すときにも、戻すときにも、資産になります。
 
 <aside class="cta-inline">
-  <p>内製で詰まった工程だけを代行に出す形を、いまの運用に合わせて一緒に設計できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 内製で残すもの

@@ -56,8 +56,8 @@ related: ["rpo-eigyo-to-jitsumu", "rpo-feedback", "rpo-kaizen-cycle", "rpo-kpi-g
 **三番目と四番目が特に重要です**。候補者と接する人が誰かを把握しておくと、文面の質を確認する対象も決まります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -117,8 +117,8 @@ related: ["rpo-eigyo-to-jitsumu", "rpo-feedback", "rpo-kaizen-cycle", "rpo-kpi-g
 **四番目が実務では効きます**。禁止するより、把握できる形にするほうが、体制の柔軟性と管理の両立ができます。扱いは[再委託はどこまで許容するか](/media/rpo-hakenmoto-sekinin/)にまとめています。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

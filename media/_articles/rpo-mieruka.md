@@ -64,8 +64,8 @@ related: ["rpo-hanki-hyouka", "rpo-feedback", "rpo-kaizen-cycle", "rpo-kikan-mik
 **そして、件数と時間の両方を見てください**。件数が出ていても、時間がかかっていれば候補者は他社に流れます。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -139,8 +139,8 @@ related: ["rpo-hanki-hyouka", "rpo-feedback", "rpo-kaizen-cycle", "rpo-kikan-mik
 **四番目が重要です**。代行の数字だけを見ていると、詰まりの原因が代行側にあるように見え続けます。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

@@ -51,8 +51,8 @@ related: ["scout-baitai-kaiyaku", "scout-daikou-baitai-hi", "scout-daikou-getsug
 つまり、一通あたりの単価が下がることと、面談が増えることは、多くの場合、逆方向です。単価を下げる運用は、面談を減らす運用と重なります。
 
 <aside class="cta-inline">
-  <p>一通あたりではなく、面談一件あたりで見る形に、レポートの項目を一緒に組み替えられます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 単価で比べると起きる誤り
@@ -106,8 +106,8 @@ related: ["scout-baitai-kaiyaku", "scout-daikou-baitai-hi", "scout-daikou-getsug
 単価は、運用を見る計器の一つで、目標ではありません。
 
 <aside class="cta-inline">
-  <p>一通あたりと面談一件あたりを並べて運用を見る形を、担当者と一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 契約で単価をどう扱うか

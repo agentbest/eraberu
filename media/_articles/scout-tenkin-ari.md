@@ -49,8 +49,8 @@ related: ["scout-remote-kyuujin", "scout-josei-scout", "scout-kyuuyo-makeru", "s
 これらを、文面の役割の記述の後に、簡潔に書きます。書けば、候補者は自分の事情と照らして判断できます。
 
 <aside class="cta-inline">
-  <p>転勤の中身を文面に書ける形に整理するところを、担当者と一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 転勤を受け入れる候補者の層
@@ -114,8 +114,8 @@ related: ["scout-remote-kyuujin", "scout-josei-scout", "scout-kyuuyo-makeru", "s
 転勤に関する制度や法令の扱い（配置転換の範囲、本人の同意など）は、専門家にご確認ください。
 
 <aside class="cta-inline">
-  <p>面談で転勤に向き合う準備を、面談者向けの一枚として一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 制度の設計で対象を広げる

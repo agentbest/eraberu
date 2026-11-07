@@ -43,8 +43,8 @@ related: ["rpo-jitai-riyuu", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-sho
 速さは、費用のかからない打ち手で、最も効きます。[対応の速さが結果を決める](/media/scout-daikou-sokudo/)は依頼側向けの記事ですが、内定の速さでも同じです。
 
 <aside class="cta-inline">
-  <p>最終面接から内定までの日数を、承認の流れから短くする設計を一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 見直す二点目：条件の出し方
@@ -108,8 +108,8 @@ related: ["rpo-jitai-riyuu", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-sho
 集めた理由は、三点への当てはめに使います。
 
 <aside class="cta-inline">
-  <p>辞退理由を記録して三点に当てはめる形を、担当者と一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 面接の段階に原因がある場合

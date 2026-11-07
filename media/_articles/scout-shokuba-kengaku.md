@@ -41,8 +41,8 @@ related: ["scout-daikou-henshin-taiou", "scout-daikou-kadai-hayasa", "scout-daik
 **効きにくい場面。** 見せて魅力になるものが無い、社内が見学を受け入れる体制に無い、候補者が遠方で来られない。この場合は、動画や資料で代替するか、オンラインの見学（画面越しに職場を案内する）を検討します。
 
 <aside class="cta-inline">
-  <p>自社の職種と職場で、見学が効くかどうかを一緒に見立てられます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 提案するタイミング
@@ -100,8 +100,8 @@ related: ["scout-daikou-henshin-taiou", "scout-daikou-kadai-hayasa", "scout-daik
 **見学の結果を記録する。** 見学した候補者のうち、何人が選考に進み、何人が見送ったか。見送った理由。見学の効果を、数字で見ます。
 
 <aside class="cta-inline">
-  <p>見学後の連絡の型と、面談者への共有の形を一緒に整えられます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 逆効果になる場合

@@ -43,8 +43,8 @@ related: ["rpo-agent-tono-chigai", "rpo-consul-tono-chigai", "rpo-getsugaku-vs-s
 突き合わせの結果、枠に収まらないなら、採用人数を減らすか、時期をずらすか、経路の配分を変えるかの判断になります。**予算を削るのではなく、計画のどれかを動かす**という整理にすると、議論が具体的になります。
 
 <aside class="cta-inline">
-  <p>自社の採用のどこを外に出せるか、整理してみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -101,8 +101,8 @@ related: ["rpo-agent-tono-chigai", "rpo-consul-tono-chigai", "rpo-getsugaku-vs-s
 **このうち、経路ごとの支出と採用人数の対応が、次の配分を決める材料になります**。効いている経路に寄せ、効いていない経路を止める。この判断を期中にできるかどうかで、通期の効率が変わります。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

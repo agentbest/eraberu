@@ -65,8 +65,8 @@ related: ["rpo-tool-hikaku", "rpo-ats-erabikata", "rpo-fukugyo-jinzai-vs-kaisha"
 **だから、代行会社のツールを使う場合でも、自社がアクセスできるかを確認してください**。閲覧だけでも、見えるかどうかで運用が変わります。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -130,8 +130,8 @@ related: ["rpo-tool-hikaku", "rpo-ats-erabikata", "rpo-fukugyo-jinzai-vs-kaisha"
 **四番目は、ツールを変えるタイミングで発生します**。契約と同時にツールも変える場合、移行の工数を見込んでおいてください。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

@@ -61,8 +61,8 @@ related: ["rpo-kpi-keiyaku", "rpo-tantousha-koutai", "rpo-teirei", "rpo-trouble-
 **時間と量が並ぶと、時間あたりの処理量が出ます**。これが月ごとに追えると、担当者が交代したときにも変化が見えます。数字が動いたときに理由を聞ける状態になります。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -110,8 +110,8 @@ related: ["rpo-kpi-keiyaku", "rpo-tantousha-koutai", "rpo-teirei", "rpo-trouble-
 **二種類を作らせると稼働が増えます**。実務用の詳しいレポートを一つ作ってもらい、経営向けの要約は自社側で作る形が現実的です。要約に必要な項目（採用人数の進捗、費用の累計、残りの期間の見込み）が入っているかだけ確認します。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

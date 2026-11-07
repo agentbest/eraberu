@@ -49,8 +49,8 @@ related: ["fukugyo-koushin", "fukugyo-mibarai", "fukugyo-mitsumori", "fukugyo-ou
 契約の個別の条項については、専門家にご確認ください。
 
 <aside class="cta-inline">
-  <p>稼働の上限と超過の扱いが決まっている案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 超過しそうなときの動き
@@ -114,8 +114,8 @@ related: ["fukugyo-koushin", "fukugyo-mibarai", "fukugyo-mitsumori", "fukugyo-ou
 超過を減らす運用は、自分の稼働の管理であると同時に、依頼側の体制の改善でもあります。
 
 <aside class="cta-inline">
-  <p>依頼側の体制が整っていて超過が起きにくい案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 上限が無い契約を提案されたら

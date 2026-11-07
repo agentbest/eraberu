@@ -46,8 +46,8 @@ related: ["rpo-ats-tsukaikonasenai", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-a
 「一つの表」は、スプレッドシートで作れます。費用はかかりません。今日、作れます。
 
 <aside class="cta-inline">
-<p>一つの表の列と更新の担当を、いまの選考の流れに合わせて一緒に決められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 一つの表の列の型
@@ -123,8 +123,8 @@ related: ["rpo-ats-tsukaikonasenai", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-a
 ATSは、費用と、導入の手間と、使い方を覚える時間がかかります。「一つの表と列と更新の担当」が回っている状態で移れば、ATSは表の代わりとして機能します。回っていない状態で移れば、使われないATSになります。選び方は[ATSの選び方](/media/rpo-ats-erabikata/)に書いています。
 
 <aside class="cta-inline">
-<p>ATSに移るかどうかの判断と、移る場合の準備を、いまの表の運用を元に一緒に整理できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 移るときの手順

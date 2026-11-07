@@ -45,8 +45,8 @@ related: ["scout-daikou-nagare", "scout-daikou-sokudo", "scout-hajime-30nichi", 
 これらは、通常なら整えてから始めるものですが、急ぎでは「走りながら整える」に切り替えます。
 
 <aside class="cta-inline">
-  <p>急ぎの立ち上げで省くものと残すものを、いまの状況に合わせて一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 省くと失敗する工程
@@ -104,8 +104,8 @@ related: ["scout-daikou-nagare", "scout-daikou-sokudo", "scout-hajime-30nichi", 
 並行すると、「どこかで決まればよい」形になり、スカウトへの過度な圧が減ります。圧が減ると、対象を絞って合う人を探す運用ができます。
 
 <aside class="cta-inline">
-  <p>スカウトと並行する手法を、急ぎの状況に合わせて一緒に組めます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 急ぎの運用で起きやすい失敗

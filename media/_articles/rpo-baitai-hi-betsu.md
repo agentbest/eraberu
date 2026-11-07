@@ -44,8 +44,8 @@ related: ["rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-freelance-itaku", "rpo-fu
 短期のスポット依頼や、初めて使う媒体を試す場合は、立て替えてもらうほうが手続きが少なく済みます。**期間と、データを自社に残したいかどうかで決まる**という整理です。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -88,8 +88,8 @@ related: ["rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-freelance-itaku", "rpo-fu
 切り替えのタイミングは、代行の契約更新に合わせると手続きが一度で済みます。期の途中で切り替えると、媒体の契約期間との整合を取る作業が発生します。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

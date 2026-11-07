@@ -43,8 +43,8 @@ related: ["scout-chimeido-nai-kaisha", "scout-daikou-henshin-taiou", "scout-daik
 額は、候補者の経験を見て決めるものです。文面で先に固定すると、その後の調整ができません。
 
 <aside class="cta-inline">
-  <p>文面に何を出し、何を面談まで残すか、自社の給与制度に合わせて一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 幅を出す：文面での書き方
@@ -102,8 +102,8 @@ related: ["scout-chimeido-nai-kaisha", "scout-daikou-henshin-taiou", "scout-daik
 額の決め方は、自社の給与制度に沿います。制度の設計や、法令との関係については、専門家にご確認ください。
 
 <aside class="cta-inline">
-  <p>幅の中で額を決める手順と、社内の承認の速め方を、一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 条件で候補者が離れるパターン

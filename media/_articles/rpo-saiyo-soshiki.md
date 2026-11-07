@@ -73,8 +73,8 @@ related: ["rpo-chusho-muke", "rpo-daikigyo-muke", "rpo-eigyo-to-jitsumu", "rpo-j
 **この配分を文書にしてください**。誰が何を決めるかが曖昧だと、判断が止まります。工程の切り分けは[採用代行とは](/media/rpo-toha/)にまとめています。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -167,8 +167,8 @@ related: ["rpo-chusho-muke", "rpo-daikigyo-muke", "rpo-eigyo-to-jitsumu", "rpo-j
 **この四つは、体制の規模に関わらず効きます**。特に、専任が一人しかいない規模では重要です。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

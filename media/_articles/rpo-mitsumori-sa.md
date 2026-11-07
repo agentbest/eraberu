@@ -62,8 +62,8 @@ related: ["rpo-mitsumori-mikata", "rpo-agent-tono-chigai", "rpo-hiyou-shitsumon"
 そして、**月額を想定稼働時間で割って実質の時間単価を出します**。ここまでやると、体系の違う見積もりも同じ土俵に乗ります。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -106,8 +106,8 @@ related: ["rpo-mitsumori-mikata", "rpo-agent-tono-chigai", "rpo-hiyou-shitsumon"
 社内に採用の設計ができる人がいるなら、安い体制でも回ります。いないなら、経験のある担当者に払うほうが結果的に安く付くことがあります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

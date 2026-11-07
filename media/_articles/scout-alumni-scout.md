@@ -41,8 +41,8 @@ related: ["scout-direct-recruiting", "scout-fukugyo-jinzai", "scout-gyoumu-itaku
 三つの軸で「送ってよい」と判断できた人だけに、声をかけます。判断できない人には、まず関係の確認から入ります。
 
 <aside class="cta-inline">
-  <p>退職者の一覧を三つの軸で整理するところを、社内の記憶を集めながら一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 送り方の順序
@@ -98,8 +98,8 @@ related: ["scout-direct-recruiting", "scout-fukugyo-jinzai", "scout-gyoumu-itaku
 **退職の理由が再現していないかを、本人に聞く。** 三か月後、半年後に、「当時の理由は、いまどうか」を率直に聞きます。再現しているなら、早めに手を打ちます。
 
 <aside class="cta-inline">
-  <p>戻る人の役割と待遇の整合を、社内の他の人との関係を見ながら一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 退職者との関係を保つ仕組み

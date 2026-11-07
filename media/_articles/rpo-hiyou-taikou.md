@@ -35,8 +35,8 @@ related: ["rpo-yosan-sakutei", "rpo-agent-tono-chigai", "rpo-aiaigasa", "rpo-ats
 対処は二つあります。請求書で内訳を分けてもらうか、媒体を自社契約にして支払いを分けるか。継続的に採用するなら、後者のほうが管理は単純になります。費用の三つの層については[採用代行の費用の内訳](/media/rpo-hiyou-uchiwake/)にまとめています。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -87,8 +87,8 @@ related: ["rpo-yosan-sakutei", "rpo-agent-tono-chigai", "rpo-aiaigasa", "rpo-ats
 **予実の差の記録**。予算と実績がずれた月に、何があったかを書き残します。職種が増えた、稼働を止めた、追加費用が発生した。記録があると、翌年の予算精度が上がります。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

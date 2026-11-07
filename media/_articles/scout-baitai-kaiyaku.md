@@ -41,8 +41,8 @@ related: ["scout-baitai-kirikae", "scout-baitai-kumiawase", "scout-daikou-hanbun
 一と五は、迷わず解約です。二から四は、改善できるかを一度確認してから判断します。
 
 <aside class="cta-inline">
-  <p>契約中の媒体を五つの状態で棚卸しするところを、一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 残す価値がある場合
@@ -94,8 +94,8 @@ related: ["scout-baitai-kirikae", "scout-baitai-kumiawase", "scout-daikou-hanbun
 解約の通知期限を過ぎていた、という失敗は多くあります。一覧に通知期限を入れ、期限の一か月前に見る予定を入れておきます。
 
 <aside class="cta-inline">
-  <p>契約中の媒体の更新日と通知期限を一覧にするところから、一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 解約後に再契約する場合

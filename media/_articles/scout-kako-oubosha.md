@@ -45,8 +45,8 @@ related: ["scout-alumni-scout", "scout-direct-recruiting", "scout-fukugyo-jinzai
 これらの人は、「前回の経緯を踏まえた一段落目」で、通常のスカウトより高い確率で返信が来ます。
 
 <aside class="cta-inline">
-  <p>過去の応募者の一覧を、前回の経緯で分類するところから一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 送ってはいけない相手
@@ -104,8 +104,8 @@ related: ["scout-alumni-scout", "scout-direct-recruiting", "scout-fukugyo-jinzai
 期間は目安で、前回の経緯によって変わります。「募集が埋まった」なら短く、「経験が足りなかった」なら長く。
 
 <aside class="cta-inline">
-  <p>前回の経緯ごとに、いつ再アプローチするかの目安を一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 担当者に渡す記録

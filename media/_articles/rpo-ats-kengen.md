@@ -43,8 +43,8 @@ related: ["rpo-jouhou-rouei", "rpo-mail-account", "rpo-media-account", "rpo-tale
 代行側でメンバーが増えるときは、自社に依頼して追加してもらう形にします。手間は増えますが、把握できる状態が保てます。**再委託でパートナーが入る場合も、この手順を通せば把握できます**。再委託の考え方は[再委託はどこまで許容するか](/media/rpo-hakenmoto-sekinin/)にまとめています。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -99,8 +99,8 @@ related: ["rpo-jouhou-rouei", "rpo-mail-account", "rpo-media-account", "rpo-tale
 **判断は、採用の継続性で決まります**。単発なら借りる形で足り、継続するなら自社で持つほうが積み上がります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

@@ -41,8 +41,8 @@ related: ["scout-plan-erabi", "scout-waku-tarinai", "scout-daikou-kadai-baitai",
 三つとも、「余っているから送る」ではなく、「送る目的がある」ものです。目的が無いなら、送りません。
 
 <aside class="cta-inline">
-  <p>余った枠をどの層に使うか、担当者の稼働と一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 使ってはいけない使い方
@@ -90,8 +90,8 @@ related: ["scout-plan-erabi", "scout-waku-tarinai", "scout-daikou-kadai-baitai",
 担当者に、「枠を下げて、その分を稼働に回したら、面談はどう変わるか」を聞いてください。見立てが出れば、判断できます。
 
 <aside class="cta-inline">
-  <p>枠と稼働の配分を、いまの費用の中で組み替える形を一緒に検討できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 余りを記録に残す

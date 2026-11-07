@@ -44,8 +44,8 @@ related: ["rpo-hakenmoto-sekinin", "rpo-jidou-koushin", "rpo-saitei-keiyaku-kika
 **指標と報告の形を変える**。何が起きているか見えないことが不満の正体である場合、稼働報告の粒度を上げるだけで解消することがあります。工程ごとの内訳と、成果物の量を並記してもらう形にします。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -98,8 +98,8 @@ related: ["rpo-hakenmoto-sekinin", "rpo-jidou-koushin", "rpo-saitei-keiyaku-kika
 **媒体の契約が代行会社名義**。名義が代行側だと、解約と同時にデータへアクセスできなくなることがあります。名義の切り替えか、データの書き出しを先に行います。
 
 <aside class="cta-inline">
-  <p>相談だけでも構いません。発注前提ではありません</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

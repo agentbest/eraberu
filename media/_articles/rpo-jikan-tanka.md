@@ -40,8 +40,8 @@ related: ["rpo-hiyou-souba", "rpo-saitei-keiyaku-kikan", "rpo-agent-tono-chigai"
 **定型作業と運用判断を同じ単価で買うと、どちらかが割に合いません**。定型作業に高い単価を払うことになるか、運用判断に安い単価を当てて経験の浅い担当が付くか、そのどちらかです。見積もりを取るときは、業務を三つに分けて、どこにどの単価が当たるのかを聞いてみてください。分けて答えられる会社は、社内の体制も分かれています。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -91,8 +91,8 @@ related: ["rpo-hiyou-souba", "rpo-saitei-keiyaku-kikan", "rpo-agent-tono-chigai"
 **担当者交代時の学習時間**。交代した担当が状況を把握するための時間を、どちらが持つのか。引き継ぎは代行側の稼働に含める、と書いておくのが一般的な整理です。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

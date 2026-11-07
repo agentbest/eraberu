@@ -41,8 +41,8 @@ related: ["rpo-kpi-keiyaku", "rpo-saiyo-tanka", "rpo-teirei", "rpo-agent-tono-ch
 差し引きで社内の時間が減っていて、その金額が代行費用を下回るなら、時間の観点では効果が出ています。上回るなら、範囲か稼働量の見直しを検討します。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -90,8 +90,8 @@ related: ["rpo-kpi-keiyaku", "rpo-saiyo-tanka", "rpo-teirei", "rpo-agent-tono-ch
 **契約更新の手前に測る**。更新の判断に使うなら、予告期限より前に測っておきます。測ってから交渉する時間が要ります。自動更新の予告期限については[自動更新条項で気をつけること](/media/rpo-jidou-koushin/)にまとめています。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

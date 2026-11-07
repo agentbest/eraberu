@@ -56,8 +56,8 @@ related: ["rpo-agent-tono-chigai", "rpo-consul-tono-chigai", "rpo-getsugaku-vs-s
 **これらは、一巡してからの改善に価値があるものです**。単発で切り出すと、最初の一回だけで終わってしまい、効果が出る前に契約が終わります。
 
 <aside class="cta-inline">
-  <p>自社の採用のどこを外に出せるか、整理してみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -103,8 +103,8 @@ related: ["rpo-agent-tono-chigai", "rpo-consul-tono-chigai", "rpo-getsugaku-vs-s
 **逆に、これらに当てはまらないなら、スポットのままで構いません**。頻度が低く、範囲も固定されているなら、継続にする理由はありません。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

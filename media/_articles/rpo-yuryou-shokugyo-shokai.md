@@ -40,8 +40,8 @@ related: ["rpo-agent-tono-chigai", "rpo-consul-tono-chigai", "rpo-getsugaku-vs-s
 この違いは、**採用の難易度が上がるほど大きくなります**。母集団が薄い職種では、候補者に自社をどう説明するかが結果を分けます。そこを自社の管理下に置けるのが代行の利点です。
 
 <aside class="cta-inline">
-  <p>自社の採用のどこを外に出せるか、整理してみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -77,8 +77,8 @@ related: ["rpo-agent-tono-chigai", "rpo-consul-tono-chigai", "rpo-getsugaku-vs-s
 **候補者の帰属**。代行として運用した媒体から応募してきた候補者と、紹介として推薦された候補者を分けて管理できる状態にしておきます。ここが曖昧だと、後から手数料の議論になります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

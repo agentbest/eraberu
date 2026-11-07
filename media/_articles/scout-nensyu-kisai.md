@@ -48,8 +48,8 @@ related: ["scout-abtest", "scout-ai-bunmen", "scout-casual-mendan-sasoi", "scout
 軸の要点は、「全役割で同じ方針にしない」ことです。役割と相手で、答えが変わります。
 
 <aside class="cta-inline">
-<p>自社の役割ごとに、五つの軸で年収を書くかどうかを一緒に判断できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 書く場合の書き方と位置
@@ -116,8 +116,8 @@ related: ["scout-abtest", "scout-ai-bunmen", "scout-casual-mendan-sasoi", "scout
 幅の要点は、「制度の幅の中で、決め方を添えて、四段落目に」です。幅の設計そのものは、[スカウト段階で条件を出すか](/media/scout-kyuuyo-teiji/)に書いています。
 
 <aside class="cta-inline">
-<p>役割ごとの幅の形と、四段落目での書き方を、社内の制度に沿って一緒に整えられます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 相手の層と段階で変える

@@ -41,8 +41,8 @@ related: ["scout-daikou-jyoushitsu", "scout-baitai-kaiyaku", "scout-baitai-kirik
 逆算の数字は仮置きで構いません。運用が始まって数字が出たら、置き換えていきます。大事なのは、「上限まで送る」を目標にしないことです。
 
 <aside class="cta-inline">
-  <p>必要数の逆算は、採用人数と時期を伺えばその場で一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 見積もりで聞くこと：数ではなく根拠
@@ -88,8 +88,8 @@ related: ["scout-daikou-jyoushitsu", "scout-baitai-kaiyaku", "scout-baitai-kirik
 調整は[定例会](/media/scout-daikou-teirei/)で決めます。一度に数と文面と対象を全部変えると、どれが効いたか分からなくなるので、一つずつ変えます。数の調整は、対象と文面を整えた後に回すのが順番です。
 
 <aside class="cta-inline">
-  <p>担当者の稼働時間と掛け持ちの数は、選ぶ前に見られます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 契約に書いておくこと

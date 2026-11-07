@@ -50,8 +50,8 @@ related: ["rpo-data-nai", "rpo-kouka-sokutei", "rpo-kpi-erabenai", "rpo-agent-oo
 面談（カジュアル面談）がある場合は、「面談→応募」を最初に足します。
 
 <aside class="cta-inline">
-<p>自社の選考の流れに合わせたファネルの段階と、数える項目を一緒に決められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 段階ごとに数と日数を並べる型
@@ -116,8 +116,8 @@ related: ["rpo-data-nai", "rpo-kouka-sokutei", "rpo-kpi-erabenai", "rpo-agent-oo
 複数の求人を見る要点は、「まとめない」ことです。まとめると、平均されて詰まりが見えなくなります。
 
 <aside class="cta-inline">
-<p>複数の求人の段階ごとの一枚と、共通の詰まりと求人ごとの詰まりの整理を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 詰まりを直した後の確認

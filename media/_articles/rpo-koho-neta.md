@@ -48,8 +48,8 @@ related: ["rpo-sns-nani", "rpo-chimeido-nai", "rpo-doga-katsuyou", "rpo-kuchikom
 源を変える要点は、「担当者が考える」から「社員と候補者から拾う」に変えることです。
 
 <aside class="cta-inline">
-<p>ネタの源を「企画」から「実態」に変える設計と、拾う仕組みを一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 五つの問い
@@ -115,8 +115,8 @@ related: ["rpo-sns-nani", "rpo-chimeido-nai", "rpo-doga-katsuyou", "rpo-kuchikom
 候補者の質問の要点は、「候補者が知りたいことは、候補者が教えてくれる」ことです。担当者が想像するより、確かです。
 
 <aside class="cta-inline">
-<p>面接と面談で聞かれた質問を記録し、そこからネタを拾う仕組みを一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 一つの素材を複数に展開する

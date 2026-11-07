@@ -49,8 +49,8 @@ related: ["rpo-hikaku-dekinai", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-
 「全部を知る」は、目的ではありません。
 
 <aside class="cta-inline">
-<p>競合を調べる目的を絞り、自社が変える項目に関わる情報だけを集める設計を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 四つの情報源
@@ -120,8 +120,8 @@ related: ["rpo-hikaku-dekinai", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-
 使い方の要点は、「競合を真似る」ではなく、「競合と同じに見えないようにする」ことです。同じ条件、同じ訴求、同じ経路で並べば、知名度の大きい競合が勝ちます。
 
 <aside class="cta-inline">
-<p>集めた競合の情報を、条件・求人票・経路・速さ・訴求の判断に落とす作業を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## やってはいけないこと

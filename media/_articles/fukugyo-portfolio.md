@@ -47,8 +47,8 @@ related: ["fukugyo-jisseki-shimeshikata", "fukugyo-jissekikoukai", "fukugyo-keik
 五つのうち、一と二が核です。三から五は、依頼側との面談で話すことの先出しで、あれば面談が速く進みます。
 
 <aside class="cta-inline">
-  <p>ポートフォリオの型を持って、質で選ばれる案件を受けられる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 守秘を守った見せ方
@@ -114,8 +114,8 @@ related: ["fukugyo-jisseki-shimeshikata", "fukugyo-jissekikoukai", "fukugyo-keik
 更新の手間は、案件ごとに一枚を足すだけです。溜まった一枚が、次の案件の材料になります。
 
 <aside class="cta-inline">
-  <p>案件が終わるたびに実績の一枚を足していける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## ポートフォリオが無くても始められる形

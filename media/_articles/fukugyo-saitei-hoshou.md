@@ -45,8 +45,8 @@ related: ["fukugyo-seika", "fukugyo-choka-kadou", "fukugyo-koushin", "fukugyo-mi
 交換の形なら、依頼側は「保証を付ける理由」を社内で説明できます。何も約束せずに「保証してほしい」では、説明できません。
 
 <aside class="cta-inline">
-  <p>稼働の下限と報酬の下限を交換する形の案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 依頼側が応じにくい形
@@ -110,8 +110,8 @@ related: ["fukugyo-seika", "fukugyo-choka-kadou", "fukugyo-koushin", "fukugyo-mi
 切り出し方は、「保証してほしい」ではなく「この形で契約したい」です。契約の設計の提案として出します。
 
 <aside class="cta-inline">
-  <p>契約の時点で報酬の下限を設計できる案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 最低保証が無い場合の代わりの守り方

@@ -65,8 +65,8 @@ related: ["rpo-ats-taiou", "rpo-tool-hikaku", "rpo-tool-shitei", "rpo-ai-katsuyo
 **そして、既定のフローをそのまま使わないでください**。自社の運用に合わせて設定します。運用が決まっていないなら、**先に決めてからツールを選びます**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -140,8 +140,8 @@ related: ["rpo-ats-taiou", "rpo-tool-hikaku", "rpo-tool-shitei", "rpo-ai-katsuyo
 **そして、ユーザーの追加と削除の権限は自社が持ってください**。渡すと、誰がアクセスできる状態にあるかを把握できなくなります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

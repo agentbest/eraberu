@@ -51,8 +51,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-a
 「なぜ外から採るのか」も、決めておきます。候補者は「内部に人がいないのはなぜか」を聞き、既存の社員は「なぜ自分ではないのか」を思います。両方に答えられる理由が要ります。
 
 <aside class="cta-inline">
-<p>幹部・管理職の役割（任せること・決めさせること・決めさせないこと）を、経営者と一緒に一枚にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 経営者が担う工程
@@ -138,8 +138,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-a
 関係の要点は、「先に説明し、間に経営者が立つ」ことです。説明が無く、経営者が間に立たなければ、外から来た幹部は孤立します。
 
 <aside class="cta-inline">
-<p>既存の社員への説明と、入社前後の関係の設計を、経営者と一緒に組めます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 受け入れと最初の半年

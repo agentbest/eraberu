@@ -43,8 +43,8 @@ related: ["scout-daikou-jinin", "scout-daikou-shinsotsu-chuuto", "scout-daikou-s
 この四つは、拠点に任せず、会社側で一人が持ちます。人事の本部か、採用を統括する立場の人です。
 
 <aside class="cta-inline">
-  <p>共通にするものの線引きから、一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 拠点ごとに分けるもの
@@ -94,8 +94,8 @@ related: ["scout-daikou-jinin", "scout-daikou-shinsotsu-chuuto", "scout-daikou-s
 重なりが多い職種なら、その職種だけは本部が一括で送り、返信があった段階で拠点に振り分ける形にします。拠点が競い合って同じ人を取り合う状態は、会社にとって何も生みません。
 
 <aside class="cta-inline">
-  <p>すでに拠点ごとに始めてしまった場合の、記録の一本化から相談できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 数字の比べ方と、良い運用の横展開

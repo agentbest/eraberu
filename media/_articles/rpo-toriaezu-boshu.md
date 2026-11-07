@@ -51,8 +51,8 @@ related: ["rpo-fukusuu-shokushu", "rpo-gaichu-hanni", "rpo-genba-kyouryoku", "rp
 見分けると、「出している求人が十本、動いているのは二本」のような状態が見えます。見えれば、判断できます。
 
 <aside class="cta-inline">
-<p>出している求人の棚卸しと、止まっている求人の見分けを一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 止めるか動かすかの判断
@@ -114,8 +114,8 @@ related: ["rpo-fukusuu-shokushu", "rpo-gaichu-hanni", "rpo-genba-kyouryoku", "rp
 責任者に持っていく材料は、「出している求人の一覧」「止まっている兆候」「止める候補と動かす候補」「動かすのに要る担当と費用」の四つです。
 
 <aside class="cta-inline">
-<p>責任者に判断してもらうための求人の一覧と、止める・動かすの候補を一緒に整理できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 募集の棚卸しの型

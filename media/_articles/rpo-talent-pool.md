@@ -43,8 +43,8 @@ related: ["rpo-ats-kengen", "rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto
 **この設計にしておくと、契約が終わっても権限の削除だけで済みます**。返還や削除の作業も発生しません。設計の考え方は[情報漏えいを防ぐ設計](/media/rpo-jouhou-rouei/)にまとめています。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -107,8 +107,8 @@ related: ["rpo-ats-kengen", "rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto
 回収の手順は[契約終了時に返してもらうデータ](/media/rpo-data-henkan/)、切り替え全体は[切り替えるときの引き継ぎ項目](/media/rpo-hikitsugi/)にまとめています。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

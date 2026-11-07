@@ -49,8 +49,8 @@ related: ["rpo-youken-takasugi", "rpo-intern-sekkei", "rpo-must-want", "rpo-seco
 切り分けると、「固まらない」の中身が一つか二つに絞れます。絞れれば、対処できます。
 
 <aside class="cta-inline">
-<p>要件が固まらない原因の切り分けと、役割からの逆算を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 役割から逆算する手順
@@ -116,8 +116,8 @@ related: ["rpo-youken-takasugi", "rpo-intern-sekkei", "rpo-must-want", "rpo-seco
 仮で出して直す運用は、「固まらないから出せない」を「出しながら固める」に変えます。
 
 <aside class="cta-inline">
-<p>仮の要件で出して、応募と面接で直す運用を、担当者が一緒に回せます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 要件が変わったときの扱い

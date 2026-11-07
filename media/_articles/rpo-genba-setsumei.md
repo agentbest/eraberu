@@ -47,8 +47,8 @@ related: ["rpo-keieisha-setsumei", "rpo-shanai-chousei", "rpo-ai-katsuyou", "rpo
 **候補者からの声を拾う仕組みを作る**。面接で候補者の様子を聞き、対応に問題がないかを確認します。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -108,8 +108,8 @@ related: ["rpo-keieisha-setsumei", "rpo-shanai-chousei", "rpo-ai-katsuyou", "rpo
 **四番目は、現場にも利点があることを添えて伝えてください**。判断が速いと候補者の辞退が減り、良い人を採れる確率が上がります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

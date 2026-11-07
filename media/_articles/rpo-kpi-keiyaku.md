@@ -57,8 +57,8 @@ related: ["rpo-kpi-mitatsu", "rpo-report-koumoku", "rpo-tantousha-koutai", "rpo-
 **部分的に制御できる指標をどう扱うかが、設計の勘所です**。返信率は文面と候補者選定で変わるので代行の腕が出ますが、自社の知名度や条件も効きます。ここを報酬に連動させるなら、影響する要素を切り分ける会話が要ります。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -102,8 +102,8 @@ related: ["rpo-kpi-mitatsu", "rpo-report-koumoku", "rpo-tantousha-koutai", "rpo-
 条項の書き方については、契約全体との整合も含めて専門家にご確認ください。契約書の確認項目は[業務委託契約書で確認する10項目](/media/rpo-keiyakusho-check/)にまとめています。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

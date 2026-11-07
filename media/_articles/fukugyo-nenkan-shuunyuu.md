@@ -53,8 +53,8 @@ related: ["fukugyo-20man", "fukugyo-aoiro", "fukugyo-genzei", "fukugyo-invoice"]
 七で出た手取りの見立てが、年間の副業収入の「使える額」です。報酬の合計ではありません。
 
 <aside class="cta-inline">
-  <p>年間の稼働の波に合わせて、案件を増減できる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 見立てを外す要因
@@ -108,8 +108,8 @@ related: ["fukugyo-20man", "fukugyo-aoiro", "fukugyo-genzei", "fukugyo-invoice"]
 見立ては、計画のためであって、目標のためではありません。目標は、月の目安で持ち、年間は計画に使います。
 
 <aside class="cta-inline">
-  <p>年間の計画に合わせて、稼働を厚くする時期と薄くする時期を選べる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 税務と社会保険で気をつけること

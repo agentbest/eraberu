@@ -43,8 +43,8 @@ related: ["rpo-jouhou-teikyou", "rpo-kickoff", "rpo-shoki-90nichi", "rpo-tachiag
 **個人が特定できる形は避けてください**。傾向として伝えれば足ります。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -120,8 +120,8 @@ related: ["rpo-jouhou-teikyou", "rpo-kickoff", "rpo-shoki-90nichi", "rpo-tachiag
 **四番目のために、社内の資料を渡してください**。全社の発表や社内報に、自社の言葉があります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

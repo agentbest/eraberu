@@ -62,8 +62,8 @@ related: ["rpo-mieruka", "rpo-feedback", "rpo-kaizen-cycle", "rpo-kikan-mikomi"]
 **この指標が動いていないなら、外注の目的が達成されていません**。範囲か進め方の見直しが要ります。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -139,8 +139,8 @@ related: ["rpo-mieruka", "rpo-feedback", "rpo-kaizen-cycle", "rpo-kikan-mikomi"]
 **次の半期の会まで、決めたことを追う**。次回は、前回決めたことの確認から始めます。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

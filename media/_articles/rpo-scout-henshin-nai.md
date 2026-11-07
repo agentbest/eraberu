@@ -43,8 +43,8 @@ related: ["rpo-scout-jikan-nai", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent
 一時間で、三つのどれかに絞れます。絞れたら、その原因の打ち手だけを試します。
 
 <aside class="cta-inline">
-  <p>一時間の切り分けを、自社の文面と送信の記録を見ながら一緒に行えます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 原因一「読まれていない」の打ち手
@@ -127,8 +127,8 @@ related: ["rpo-scout-jikan-nai", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent
 一度に複数を変えると、どれが効いたか分かりません。一つずつ。
 
 <aside class="cta-inline">
-  <p>直す順番を、自社のスカウトの状況に合わせて一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 返信率以外で見る数字

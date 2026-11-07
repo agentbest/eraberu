@@ -41,8 +41,8 @@ related: ["scout-daikou-kadai-nittei", "scout-daikou-kadai-account", "scout-daik
 代行に出している部分（返信対応、日程調整）は、担当者の裁量と稼働で速くできます。社内の部分（面談枠、段階数、面談後の連絡）は、発注側が動かないと速くなりません。速さは、代行と社内の両方で作るものです。
 
 <aside class="cta-inline">
-  <p>返信から内定までの日数を、いまの体制でどこまで縮められるか一緒に見られます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 役割の具体性で勝つ
@@ -86,8 +86,8 @@ related: ["scout-daikou-kadai-nittei", "scout-daikou-kadai-account", "scout-daik
 対象の選び方は、担当者の領域です。「取り合いの少ない層を含められないか」と相談すれば、担当者は対象の条件を調整できます。
 
 <aside class="cta-inline">
-  <p>取り合いの少ない層を対象に含める設計を、担当者と一緒に組めます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 負けたときに残すもの

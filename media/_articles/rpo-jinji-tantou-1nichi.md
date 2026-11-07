@@ -50,8 +50,8 @@ related: ["rpo-fukusuu-shokushu", "rpo-gaichu-hanni", "rpo-genba-kyouryoku", "rp
 分解の要点は、「一週間、三十分単位で記録する」ことです。記憶で振り返ると、大きな仕事（面接）が過大に、細切れの仕事（返信、問い合わせ）が過小に見えます。記録すれば、細切れの合計が大きいことが見えます。
 
 <aside class="cta-inline">
-<p>採用担当の一週間の記録の型と、工程ごとの分解を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 工程ごとの時間の目安
@@ -126,8 +126,8 @@ related: ["rpo-fukusuu-shokushu", "rpo-gaichu-hanni", "rpo-genba-kyouryoku", "rp
 減らす工程の要点は、「型と窓口と枠」です。一件ずつ考える、複数の場所を回る、往復する、を無くせば、作業の時間は半分以下になることがあります。
 
 <aside class="cta-inline">
-<p>分解した結果から、費用ゼロで今週減らせる工程を一緒に決められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 出す工程と残す工程

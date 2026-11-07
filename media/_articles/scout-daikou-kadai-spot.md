@@ -39,8 +39,8 @@ related: ["scout-daikou-kadai-hanki", "scout-baitai-kaiyaku", "scout-baitai-kiri
 向かない職種を一職種で頼むと、成果が出ずに「代行が悪い」となります。頼む前に、担当者に「この職種はスカウトに向いているか」を率直に聞いてください。「向かない」と言える担当者は、信頼できます。
 
 <aside class="cta-inline">
-  <p>その職種がスカウトに向くかどうか、母数と経歴の読み取りやすさから一緒に見られます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 契約の形
@@ -94,8 +94,8 @@ related: ["scout-daikou-kadai-hanki", "scout-baitai-kaiyaku", "scout-baitai-kiri
 一つずつ足していくほうが、最初から複数を頼むより、全体の成果は安定します。
 
 <aside class="cta-inline">
-  <p>職種を足すときの稼働と担当者の設計を、一職種目の結果をもとに一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 一職種の運用で見る数字

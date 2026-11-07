@@ -51,8 +51,8 @@ related: ["rpo-youken-katame", "rpo-intern-sekkei", "rpo-must-want", "rpo-second
 原因が分かれば、「下げる」以外の対処が見えます。
 
 <aside class="cta-inline">
-<p>要件が高すぎる原因の切り分けと、下げずに通る人を作る設計を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 下げずに通る人を作る三つの方法
@@ -111,8 +111,8 @@ related: ["rpo-youken-katame", "rpo-intern-sekkei", "rpo-must-want", "rpo-second
 合意の要点は、「現場が悪い」にしないことです。要件が高いのは、現場の不安と、書き方の問題です。不安に対処し、書き方を変えれば、現場は応じます。
 
 <aside class="cta-inline">
-<p>現場との合意の場を、記録と「下げない言い方」で担当者が一緒に進められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 要件を直した後の確認

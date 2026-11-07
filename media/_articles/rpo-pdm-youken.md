@@ -44,8 +44,8 @@ related: ["rpo-pdm-boshuudan", "rpo-pdm-hiyou", "rpo-pdm-rpo", "rpo-pdm-scout"]
 同じ職種名でも、範囲が違えば必須と歓迎が入れ替わります。他社の要件を参考にできないのはこのためです。
 
 <aside class="cta-inline">
-  <p>要件の削り方を、自社の範囲に合わせて一緒に整理します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 必須に残す数
@@ -94,8 +94,8 @@ related: ["rpo-pdm-boshuudan", "rpo-pdm-hiyou", "rpo-pdm-rpo", "rpo-pdm-scout"]
 **他社の求人票を基準にしている**。他社の範囲に合わせた要件が混ざっています。他社の求人票は参考にせず、自社の範囲から作り直します。
 
 <aside class="cta-inline">
-  <p>範囲が決まっていない段階からでも、相談は受けられます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 代行に出せる工程

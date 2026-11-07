@@ -48,8 +48,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-k
 四つを並べると、「紹介の手数料は高いが、社内の時間と期間を含めれば、媒体で三か月かけて採れないより安い」という判断になることがあります。逆に、「応募が来る職種なら、媒体のほうが全体で安い」という判断にもなります。
 
 <aside class="cta-inline">
-<p>経路ごとの全体の費用を、自社の記録から並べる表を一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 紹介以外の経路と比べる
@@ -112,8 +112,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-k
 経営者が「高い」と言うのは、比べる相手が無いからです。比べる相手を出せば、判断が変わることがあります。変わらない場合は、経営者の判断として、紹介を使わずに採る設計に移ります。
 
 <aside class="cta-inline">
-<p>経営者に承認してもらうための比較の資料を、担当者が一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 紹介を使わずに採る設計

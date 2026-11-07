@@ -46,8 +46,8 @@ related: ["fukugyo-jisseki-shimeshikata", "fukugyo-agent-keiken", "fukugyo-daiki
 一と二で一次判断、三で質の判断、四で経験の確認、五で実務の確認。この順なら、依頼側は上から読んで、途中で止まっても判断できます。
 
 <aside class="cta-inline">
-  <p>副業用の職務経歴書の型を持って、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 書き方の要点
@@ -111,8 +111,8 @@ related: ["fukugyo-jisseki-shimeshikata", "fukugyo-agent-keiken", "fukugyo-daiki
 依頼側の課題を聞いてから調整すれば、「この人はうちの課題を分かっている」と伝わります。聞く前に送るなら、汎用版で。
 
 <aside class="cta-inline">
-  <p>依頼側の課題に合わせて経歴の順番を調整できる案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 更新の周期

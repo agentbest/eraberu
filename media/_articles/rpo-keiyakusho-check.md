@@ -51,8 +51,8 @@ related: ["rpo-freelance-itaku", "rpo-baitai-hi-betsu", "rpo-check-list", "rpo-c
 このほか、損害賠償の上限、反社会的勢力の排除、準拠法と管轄も一般的な条項として入ります。**内容に不明な点があるときは、締結前に弁護士など専門家にご確認ください**。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -86,8 +86,8 @@ related: ["rpo-freelance-itaku", "rpo-baitai-hi-betsu", "rpo-check-list", "rpo-c
 **この五つがあると、契約書の読み方が変わります**。何を守りたいかが決まっていない状態で条項を読むと、一般的なチェックリストをなぞるだけで終わります。自社の事情に照らして読むと、足すべき条項が見えます。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

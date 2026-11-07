@@ -17,7 +17,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="/media/assets/media.css">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://eraberusaiyodaiko.com/media/scout-lapras-unyou-sekkei/"},"url":"https://eraberusaiyodaiko.com/media/scout-lapras-unyou-sekkei/","headline":"LAPRASのスカウト運用設計｜送信数・時間帯・追客","description":"LAPRASの運用を、媒体が課している四つの制約から逆算して組み立てました。送れるのは登録ユーザーだけ、通報2件で調査が入る、0時から6時は予約できない、1回目の再送は翌週月曜に自動。それぞれが運用のどこを決めるかを整理しています。","inLanguage":"ja","datePublished":"2026-09-24","dateModified":"2026-09-24","author":{"@type":"Person","name":"松岡 良次","url":"https://www.agent-best.net/profile/"},"publisher":{"@type":"Organization","name":"株式会社エージェントベスト","url":"https://www.agent-best.net/"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://eraberusaiyodaiko.com/media/scout-lapras-unyou-sekkei/"},"url":"https://eraberusaiyodaiko.com/media/scout-lapras-unyou-sekkei/","headline":"LAPRASのスカウト運用設計｜送信数・時間帯・追客","description":"LAPRASの運用を、媒体が課している四つの制約から逆算して組み立てました。送れるのは登録ユーザーだけ、通報2件で調査が入る、0時から6時は予約できない、1回目の再送は翌週月曜に自動。それぞれが運用のどこを決めるかを整理しています。","inLanguage":"ja","datePublished":"2026-09-24","dateModified":"2026-09-24","author":{"@type":"Organization","name":"エラベル編集部","url":"https://eraberusaiyodaiko.com/editorial.html"},"publisher":{"@type":"Organization","name":"株式会社エージェントベスト","url":"https://www.agent-best.net/"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://eraberusaiyodaiko.com/"},{"@type":"ListItem","position":2,"name":"メディア","item":"https://eraberusaiyodaiko.com/media/"},{"@type":"ListItem","position":3,"name":"スカウト代行","item":"https://eraberusaiyodaiko.com/media/scout/"},{"@type":"ListItem","position":4,"name":"中途媒体別","item":"https://eraberusaiyodaiko.com/media/hub/scout-baitai/"},{"@type":"ListItem","position":5,"name":"LAPRASのスカウト運用設計｜送信数・時間帯・追客","item":"https://eraberusaiyodaiko.com/media/scout-lapras-unyou-sekkei/"}]}</script>
 <!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
@@ -47,9 +47,10 @@
 </header><div class="wrap" style="padding-top:12px;font-size:11px;color:#4C566A">採用代行・RPO比較メディア。運営会社のスカウト代行も紹介しています。<a href="/editorial.html" style="text-decoration:underline">掲載・広告ポリシー</a></div><main class="wrap art-page">
   <nav class="crumb" aria-label="パンくず"><a href="/">ホーム</a><i aria-hidden="true">/</i><a href="/media/">メディア</a><i aria-hidden="true">/</i><a href="/media/scout/">スカウト代行</a><i aria-hidden="true">/</i><a href="/media/hub/scout-baitai/">中途媒体別</a></nav>
   <h1>LAPRASのスカウト運用設計｜送信数・時間帯・追客</h1>
+  <p class="article-purpose">採用担当者向け実務ガイド / この記事は判断の考え方を整理するものです。媒体仕様・料金は出典の基準日と最新の公式情報を合わせてご確認ください。</p>
   <p class="meta">
     <a class="meta__hub" href="/media/hub/scout-baitai/">中途媒体別</a><span class="chip">LAPRAS</span>
-    <span class="meta__date">更新日 2026-09-24</span>
+    <span class="meta__date">情報の基準日 2026-09-24</span>
   </p>
   <nav class="toc" aria-label="目次"><p class="toc__t">目次</p><ol><li><a href="#h1">導入前の1週間：送れる相手を数え、確認者を決める</a></li><li><a href="#h2">1か月目：初回の曜日と自動再送をセットで組む</a></li><li><a href="#h3">2か月目：通報を出さない仕組みを週次に入れる</a></li><li><a href="#h4">3か月目：2回目の再送に向けて材料を用意する</a></li><li><a href="#h5">3か月の終わりに見直す数字</a></li><li><a href="#h6">まとめ</a></li><li><a href="#h7">よくある質問</a></li></ol></nav>
   <div class="body">
@@ -60,8 +61,8 @@
 <p>同じ週に、送信前の確認者を一人決めておきます。理由は2か月目の章で詳しく書きますが、この媒体では通数の上限を品質が決めるからです。確認者は、名前・転職意欲・希望職種の三点を送信前に照合する役目を持ちます。担当者が一人しかいない会社でも、週に一度まとめて見直す時間を別に取っておくと、後で効いてきます。</p>
 <p>レコメンド検索には挙動の癖もあります。検索を実行した直後は表示される候補者が極端に少なくなるため、「5分から10分ほどおいた上で、ブラウザをリロードをしてください」と案内されています。表示人数は「数十〜200人程度に絞って検索してみましょう」という目安も示されています。導入前の週に一度この手順で引いてみて、送信可能な人がどれだけ残るかを見ておくと、1か月目の本数が現実的になります。</p>
 <aside class="cta-inline">
-<p>送信可能な母集団の数え方から月次計画まで、実務の側からご一緒します</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 <h2 id="h2">1か月目：初回の曜日と自動再送をセットで組む</h2>
 <p>1か月目に決めるのは、送る曜日と時間帯です。LAPRASでは、追客の最初の一回をシステムが担います。ヘルプセンターの再送ガイドラインによると、1回目の再送は「スカウトメッセージを初めて送信された翌週月曜日に、システムにより自動でリマインド再送される仕様」で、候補者から返信がなかった場合のみ行われます。2回目以降は手動で、「期間は3ヶ月～半年ほど空けていただく事をおすすめします」とされています。</p>
@@ -82,8 +83,8 @@
 <p>この材料づくりは、採用担当だけでは進みません。テックブログの記事も、ピッチ資料も、開発チームの手を借りることになります。1か月目の送信日から3か月後を再送の予定日として一覧にし、その日までに出せる発信を開発チームと決めておくと、再送が「前回の繰り返し」で終わりません。送信の記録と広報の予定を同じ表で管理するのが、この媒体で追客を続けるいちばん簡単な方法です。</p>
 <p>再送の文面には、もう一つ仕様上の注意があります。再送では「前回のメッセージを引用して送付することができかねます」とされているため、前回の件名や送った時期を文面の中に自分で書き入れます。前回の内容を覚えていない相手に、何の話の続きかを伝えるためです。文面の作り方は<a href="/media/scout-lapras-template/">LAPRASのスカウトテンプレートの作り方</a>にまとめています。</p>
 <aside class="cta-inline">
-<p>再送の間隔と広報の予定を合わせる設計から、採用の実務を知る担当者が入ります</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 <h2 id="h5">3か月の終わりに見直す数字</h2>
 <p>3か月が終わったら、数字を並べて次の四半期の設計に戻します。見る数字は多くありませんが、どこに戻るかを決めておかないと、数字を眺めて終わります。次の表は、この媒体の仕様に沿って、見る数字と悪かったときの戻り先を並べたものです。</p>
@@ -141,9 +142,9 @@
       <ul class="art art--compact"><li><a href="/media/scout-liiga-template/"><span class="art__t">Liigaのスカウトテンプレートの作り方</span><span class="chip">Liiga</span></a></li><li><a href="/media/scout-liiga-unyou-sekkei/"><span class="art__t">Liigaのスカウト運用設計｜送信数・時間帯・追客</span><span class="chip">Liiga</span></a></li><li><a href="/media/scout-liiga-daikou/"><span class="art__t">Liigaのスカウト代行｜任せられる範囲と成果の測り方</span><span class="chip">Liiga</span></a></li><li><a href="/media/scout-liiga-kensaku-jouken/"><span class="art__t">Liigaの検索条件の組み方｜母集団を狭めすぎない設計</span><span class="chip">Liiga</span></a></li><li><a href="/media/scout-linkedin-template/"><span class="art__t">LinkedInのスカウトテンプレートの作り方</span><span class="chip">LinkedIn</span></a></li><li><a href="/media/scout-linkedin-unyou-sekkei/"><span class="art__t">LinkedInのスカウト運用設計｜送信数・時間帯・追客</span><span class="chip">LinkedIn</span></a></li></ul>
       <p class="more"><a href="/media/hub/scout-baitai/">「中途媒体別」の記事一覧を見る →</a></p></section>
   <aside class="author">
-  <p class="author__t">監修</p>
-  <p class="author__n">松岡 良次</p>
-  <p class="author__b">株式会社エージェントベスト代表。大手人材会社およびスタートアップ人材企業にて、IT・スタートアップ・メガベンチャー企業の採用支援に従事。独立後はIT・スタートアップ・コンサル領域に特化し、20〜30代のキャリア支援を行う。（厚生労働大臣許可 13-ユ-316964）</p>
+  <p class="author__t">編集・運営</p>
+  <p class="author__n">エラベル編集部 / 株式会社エージェントベスト</p>
+  <p class="author__b">採用代行・RPOの比較と、採用実務の判断材料を紹介しています。運営会社はスカウト代行も提供しています。<a href="/editorial.html">掲載・広告ポリシー</a></p>
 </aside>
   <aside class="cta">
     <h2>自社に合う採用代行を、比較して選ぶ</h2>
@@ -152,7 +153,7 @@
       <a class="cta__btn" href="/compare/">採用代行を比較する</a>
       <a class="cta__btn cta__btn--sub" href="/#consult">運営会社のスカウト代行を見る</a>
     </div>
-    <p class="cta__other">人事の経験を副業で活かしたい方は <a href="/partner.html">担当者として登録 →</a></p>
+    <p class="cta__other">人事副業の情報をお探しの方は <a href="/media/fukugyo/">実務記事のアーカイブへ →</a></p>
   </aside>
 </main><footer>
   <div class="wrap">
@@ -170,7 +171,7 @@
         <a href="/compare/">料金比較</a>
         <a href="/compare/">採用代行を比較する</a>
         <a href="/editorial.html">掲載・広告ポリシー</a>
-        <a href="/partner.html">担当者として登録する</a>
+        <a href="/media/fukugyo/">人事副業の実務情報</a>
         <a href="/privacy.html">プライバシーポリシー</a>
         <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
       </div>

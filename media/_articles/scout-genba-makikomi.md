@@ -45,8 +45,8 @@ related: ["scout-chimeido-nai-kaisha", "scout-daikou-hinshitsu-kanri", "scout-da
 この範囲なら、現場の負担は、候補者一人あたり数分です。
 
 <aside class="cta-inline">
-  <p>現場に頼む範囲を、一段落目の材料だけに絞る形で、担当者と一緒に設計できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 頼み方と負担の設計
@@ -115,8 +115,8 @@ related: ["scout-chimeido-nai-kaisha", "scout-daikou-hinshitsu-kanri", "scout-da
 仕組みにすれば、現場の関与は「善意」ではなく「予定」になります。忙しくても、予定は残ります。
 
 <aside class="cta-inline">
-  <p>週に一度の「一文の時間」と、結果を戻す形を、担当者と一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 現場の文面で気をつけること

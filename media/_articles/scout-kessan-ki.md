@@ -39,8 +39,8 @@ related: ["scout-kikan-sekkei", "scout-baitai-kaiyaku", "scout-baitai-kirikae", 
 どちらに置くかは、「期末に入社していなければならない理由」があるかで決めます。理由が無いなら、承諾に置きます。
 
 <aside class="cta-inline">
-  <p>期末の目標を入社に置くか承諾に置くか、逆算の結果を見ながら一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 期末に向けた三段階の動き方
@@ -88,8 +88,8 @@ related: ["scout-kikan-sekkei", "scout-baitai-kaiyaku", "scout-baitai-kirikae", 
 期末に間に合わなかった原因も、記録します。送信の開始が遅かったのか、面談枠が取れなかったのか、条件提示が遅かったのか。次の期末に向けた計画の起点になります。
 
 <aside class="cta-inline">
-  <p>期末を越えた候補者の翌期への持ち越し方を、一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 期末採用を毎年繰り返すなら

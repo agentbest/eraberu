@@ -83,8 +83,8 @@ related: ["scout-baitai-kaiyaku", "scout-daikou-hanbun-uchisei", "scout-daikou-t
 **この三つのどれに近いかを、先に決めてください**。見積もりの前提が定まります。
 
 <aside class="cta-inline">
-  <p>自社の採用のどこを外に出せるか、整理してみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -172,8 +172,8 @@ related: ["scout-baitai-kaiyaku", "scout-daikou-hanbun-uchisei", "scout-daikou-t
 **三番目に注意してください**。送信だけを任せていて返信率が低い場合、**条件や文面に手を入れられないと改善できません**。範囲を広げるか、自社が直すかの判断が要ります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

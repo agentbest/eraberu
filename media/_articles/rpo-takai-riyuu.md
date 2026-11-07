@@ -45,8 +45,8 @@ related: ["rpo-yasui-riyuu", "rpo-hiyou-shitsumon", "rpo-hiyou-souba", "rpo-mits
 そして、**月額を想定稼働時間で割って実質の時間単価を出します**。ここで安い提案より下回ることは珍しくありません。差の分解の手順は[同じ条件で見積もりに差が出る理由](/media/rpo-mitsumori-sa/)にまとめています。
 
 <aside class="cta-inline">
-  <p>見積もりの読み方だけでも聞いてみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -104,8 +104,8 @@ related: ["rpo-yasui-riyuu", "rpo-hiyou-shitsumon", "rpo-hiyou-souba", "rpo-mits
 そして、**外した工程を自社が持てるかを確認してから交渉してください**。持てないまま外すと、その工程が誰も担当しない状態になります。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

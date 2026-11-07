@@ -47,8 +47,8 @@ related: ["scout-chimeido-nai-kaisha", "scout-daikou-hinshitsu-kanri", "scout-da
 日本語の文面のルール（使わない言葉、段落の構成、トーン）も、英語に置き換えて持ちます。日本語で「急成長」「裁量が大きい」を避けるなら、英語でも同じ意味の表現を避けます。
 
 <aside class="cta-inline">
-  <p>日本語の文面の型と文面のルールを、英語に置き換える形で担当者と一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 英語で書くときに変わる点
@@ -118,8 +118,8 @@ related: ["scout-chimeido-nai-kaisha", "scout-daikou-hinshitsu-kanri", "scout-da
 英語での運用ができない担当者に英語の文面を頼むと、翻訳ツールの文面になります。担当者を選ぶか、英語で書ける人との連携を用意します。
 
 <aside class="cta-inline">
-  <p>英語の文面と返信対応ができる担当者を、過去の文面を見て選べます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 返信への対応

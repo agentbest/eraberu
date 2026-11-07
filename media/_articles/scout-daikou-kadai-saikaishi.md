@@ -41,8 +41,8 @@ related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa", "scout-daiko
 **担当者との関係を残す。** 止める理由を率直に伝え、再開の可能性があることを伝えます。担当者の連絡先を残します。良い担当者なら、再開時に同じ人に頼めることが、立ち上げの速さになります。
 
 <aside class="cta-inline">
-  <p>再開を前提にした止め方を、担当者と一緒に整えられます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 止めている間にできること
@@ -94,8 +94,8 @@ related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa", "scout-daiko
 **一か月で前回の水準と比べる。** 段階ごとの数字を、前回の最後の月と比べます。戻っていれば、立ち上げは終わりです。戻っていなければ、資産が活かされていないか、変更点が伝わっていないかを確認します。
 
 <aside class="cta-inline">
-  <p>再開直後の一か月で何を見るか、前回の記録をもとに一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 同じ担当者に戻すかの判断

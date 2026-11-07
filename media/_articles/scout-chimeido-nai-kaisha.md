@@ -43,8 +43,8 @@ related: ["scout-daikou-hinshitsu-kanri", "scout-daikou-kadai-bunmen", "scout-da
 知名度のある会社なら、四段落目を早めに出せます。無い会社は、役割で引きつけてから会社を語ります。
 
 <aside class="cta-inline">
-  <p>知名度の無さを前提にした一段落目の型を、自社の役割に合わせて担当者と一緒に作れます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 「知らない会社」の信頼を作る材料
@@ -106,8 +106,8 @@ related: ["scout-daikou-hinshitsu-kanri", "scout-daikou-kadai-bunmen", "scout-da
 これらは、知名度のある会社には書きにくい訴求です。知名度の無さを隠すのではなく、無いからこそ書けることを書きます。
 
 <aside class="cta-inline">
-  <p>知名度の無さを訴求に変える書き方を、自社の役割と課題から一緒に組めます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 対象の選び方

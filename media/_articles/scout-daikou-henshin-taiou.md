@@ -64,8 +64,8 @@ related: ["scout-daikou-hanbun-uchisei", "scout-daikou-jinin", "scout-daikou-nam
 **この線を決めておかないと、代行は全部を確認に回すか、答えてはいけないことに答えるかのどちらかになります**。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -166,8 +166,8 @@ related: ["scout-daikou-hanbun-uchisei", "scout-daikou-jinin", "scout-daikou-nam
 **そして、この記録は自社の環境に残してください**。代行会社の環境だけだと、契約が終わったときに失われます。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

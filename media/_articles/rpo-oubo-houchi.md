@@ -51,8 +51,8 @@ related: ["rpo-fugouhi-renraku", "rpo-taiken-warui", "rpo-agent-ooi", "rpo-agent
 損失は、「応募が来ているのに採れない」という形で、最も無駄の大きい形です。
 
 <aside class="cta-inline">
-<p>応募の放置を止める「見る人・見る時間・見た後の型」を、いまの体制に合わせて一緒に作れます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 放置を止める三つ
@@ -122,8 +122,8 @@ related: ["rpo-fugouhi-renraku", "rpo-taiken-warui", "rpo-agent-ooi", "rpo-agent
 溜まった応募の対処は、一週間で終わります。終わったら、毎朝の運用に移ります。
 
 <aside class="cta-inline">
-<p>溜まった応募の一覧化と全員への連絡を、担当者が一緒に一週間で進められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 放置が起きにくい仕組み

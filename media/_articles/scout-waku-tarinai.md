@@ -45,8 +45,8 @@ related: ["scout-waku-amaru", "scout-daikou-kadai-baitai", "scout-plan-erabi", "
 四つを組み合わせて、送る相手を並べます。枠が月に百通なら、上から百人。それ以下は、翌月に回すか、送りません。
 
 <aside class="cta-inline">
-  <p>送る相手の優先順位の軸を、求人票の役割に合わせて担当者と一緒に決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 優先順位をつけると起きること
@@ -94,8 +94,8 @@ related: ["scout-waku-amaru", "scout-daikou-kadai-baitai", "scout-plan-erabi", "
 契約の条件（途中で上げられるか、下げるときの条件）は、[媒体のプラン選び](/media/scout-plan-erabi/)で挙げたとおり、事前に確認しておきます。
 
 <aside class="cta-inline">
-  <p>プランを上げる前の五つの確認を、担当者のレポートをもとに一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 複数職種で枠を分けるとき

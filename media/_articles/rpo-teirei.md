@@ -46,8 +46,8 @@ related: ["rpo-kpi-keiyaku", "rpo-report-koumoku", "rpo-hanki-minaoshi", "rpo-ka
 **この記録が半年分たまると、次の打ち手の判断が速くなります**。同じ状況が起きたときに、前回何をして何が起きたかが分かるためです。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -97,8 +97,8 @@ related: ["rpo-kpi-keiyaku", "rpo-report-koumoku", "rpo-hanki-minaoshi", "rpo-ka
 **現場の責任者を時々呼ぶ**。要件のずれが疑われるときは、配属先の責任者に出てもらうと擦り合わせが速く進みます。毎回でなくて構いません。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

@@ -1,6 +1,6 @@
 ---
 title: "副業許可の申請の出し方｜「認めてもらう」ではなく「会社の懸念を先に潰す」書き方"
-description: "本業の会社に副業の申請を出すとき、何を、どう書けば通るか。会社が見ているのは副業の内容より、本業への影響・情報の漏えい・競業・労働時間の四つの懸念です。申請の前に確認すること、申請に書く項目、懸念ごとの書き方、上司への伝え方、認められなかったときの対応、認められた後に守ることを整理しました。就業規則の効力や法令は専門家に確認する前提です。"
+description: "本業の会社に副業の申請を出すとき、何を、どう書けば通るか。"
 pillar: "fukugyo"
 series: "報酬・契約"
 target: "単価・契約・税務"
@@ -47,8 +47,8 @@ related: ["fukugyo-fukugyo-kinshi", "fukugyo-kougyou-hishi", "fukugyo-riekisouha
 確認せずに出すと、様式が違う、規定に沿っていない、上司が驚く、で止まります。
 
 <aside class="cta-inline">
-  <p>本業の会社の規定に沿う形で受けられる案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 申請に書く項目
@@ -112,8 +112,8 @@ related: ["fukugyo-fukugyo-kinshi", "fukugyo-kougyou-hishi", "fukugyo-riekisouha
 上司との会話は、申請の中身を変えるものではなく、申請が通った後の関係を保つためのものです。
 
 <aside class="cta-inline">
-  <p>本業の会社と競合せず、情報を持ち込まない形で受けられる案件を選べる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 認められなかったときの対応

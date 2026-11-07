@@ -63,8 +63,8 @@ related: ["scout-daikou-junbi", "scout-persona-sakusei", "scout-baitai-kaiyaku",
 **社内で揃ってから、代行に渡してください**。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -147,8 +147,8 @@ related: ["scout-daikou-junbi", "scout-persona-sakusei", "scout-baitai-kaiyaku",
 **共通する部分と、職種ごとに違う部分を分けて伝えると効率的です**。会社の情報、訴求の材料は共通。要件と候補者像は職種ごと。
 
 <aside class="cta-inline">
-  <p>いまの体制で何が足りないのか、一緒に洗い出します</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

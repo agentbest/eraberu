@@ -49,8 +49,8 @@ related: ["fukugyo-choka-kadou", "fukugyo-koushin", "fukugyo-mibarai", "fukugyo-
 記録の道具は、スプレッドシートの一枚で足ります。日付・工程・分・メモの四列。凝った道具は要りません。続けられる形が、最も良い道具です。
 
 <aside class="cta-inline">
-  <p>工程ごとの稼働の記録を、見積もりと照らして依頼側に見せられる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 依頼側への申告の型
@@ -110,8 +110,8 @@ related: ["fukugyo-choka-kadou", "fukugyo-koushin", "fukugyo-mibarai", "fukugyo-
 どの形でも、記録は自分のためのものです。請求のためだけに記録すると、月額型では記録しなくなり、範囲の広がりに気づけなくなります。
 
 <aside class="cta-inline">
-  <p>時給型でも月額型でも、稼働の記録と申告を前提にした案件を受けられる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 記録が自分を守る場面

@@ -47,8 +47,8 @@ related: ["rpo-nenshu-awanai", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-s
 構造を変えるのは、「届ける層」「求人票の項目」「判断の軸」「面接での話し方」の四つです。
 
 <aside class="cta-inline">
-<p>大手と比べられる構造の整理と、土俵を変える設計を一緒にできます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 大手にはない条件の見つけ方
@@ -115,8 +115,8 @@ related: ["rpo-nenshu-awanai", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-s
 見せ方の要点は、「待遇を隠さない」ことです。隠せば、内定の後に分かり、辞退と不信になります。「待遇では届かない」を先に認めた会社は、候補者に信用されます。
 
 <aside class="cta-inline">
-<p>大手にはない条件の見せ方を、求人票と面接の両方で一緒に設計できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 辞退の理由の分け方

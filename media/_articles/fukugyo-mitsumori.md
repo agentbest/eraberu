@@ -47,8 +47,8 @@ related: ["fukugyo-oubo-tsuika", "fukugyo-choka-kadou", "fukugyo-koushin", "fuku
 五つが書いてあれば、依頼側は「この工程は要らないので下げてほしい」「この業務も含めてほしいので、追加でいくらか」と、中身で交渉できます。
 
 <aside class="cta-inline">
-  <p>工程と時間が明確な案件を、見積もりの型を持って受けられる形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>人事の副業について、関連する実務情報を読む</p>
+  <a href="/media/fukugyo/">人事副業の記事を探す</a>
 </aside>
 
 ## 書き方の型
@@ -116,8 +116,8 @@ related: ["fukugyo-oubo-tsuika", "fukugyo-choka-kadou", "fukugyo-koushin", "fuku
 反応への対応は、全部「工程と時間で合わせる」に集約されます。金額だけで応じないことが、原則です。
 
 <aside class="cta-inline">
-  <p>工程と時間で交渉できる依頼側の案件を、条件が合うときだけ受ける形で登録できます</p>
-  <a href="/partner.html">担当者として登録する</a>
+  <p>受ける業務や契約条件を整理しておく</p>
+  <a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む</a>
 </aside>
 
 ## 見積もりを次に活かす記録

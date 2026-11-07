@@ -47,8 +47,8 @@ related: ["rpo-intern-sekkei", "rpo-nenrei-katayori", "rpo-senior-saiyo", "rpo-y
 定義を決めると、求人票で「対象」を書け、面接官に「見る観点」を渡せます。
 
 <aside class="cta-inline">
-<p>自社での第二新卒の定義と位置づけを、役割と育てる型に合わせて一緒に決められます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 自社での位置づけの決め方
@@ -115,8 +115,8 @@ related: ["rpo-intern-sekkei", "rpo-nenrei-katayori", "rpo-senior-saiyo", "rpo-y
 給与の基準が無いと、候補者ごとに変わり、既存社員との整合が崩れます。基準を先に作ります。
 
 <aside class="cta-inline">
-<p>第二新卒の給与の基準と役割の段階を、既存社員との整合を含めて一緒に設計できます</p>
-<a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 育てる型と受け入れ

@@ -47,8 +47,8 @@ related: ["rpo-nittei-chousei-osoi", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-a
 日程の設計は、面接者の枠の確保が前提です。枠が無ければ、近くも、候補者に選ばせることもできません。
 
 <aside class="cta-inline">
-  <p>面接の日程を近くし、候補者が選べる形にする設計を、面接者の枠から一緒に組めます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 面接前の連絡の型
@@ -126,8 +126,8 @@ related: ["rpo-nittei-chousei-osoi", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-a
 欠席は、起きます。起きたときに、責めず、記録し、次の設計に活かします。
 
 <aside class="cta-inline">
-  <p>欠席の記録から原因を分析し、日程と連絡の設計を直すところを一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 欠席率の見方

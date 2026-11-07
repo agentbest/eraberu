@@ -49,8 +49,8 @@ related: ["scout-alumni-scout", "scout-baitai-kaiyaku", "scout-baitai-kirikae", 
 経営者の時間を使う分、対象は絞ります。年に数名の幹部採用なら、経営者が声をかけるのは、その数倍程度です。
 
 <aside class="cta-inline">
-  <p>経営者が声をかける候補者の絞り込みと、経営者の時間の設計を、担当者と一緒にできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 経営の課題から入る文面
@@ -116,8 +116,8 @@ related: ["scout-alumni-scout", "scout-baitai-kaiyaku", "scout-baitai-kirikae", 
 条件の話は、対話を重ねて「一緒にやりたい」となった後です。先に条件を出すと、対話が条件交渉になります。
 
 <aside class="cta-inline">
-  <p>役割と責任の設計から条件の形まで、専門家との連携を含めて一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 代行の担当者が担う範囲

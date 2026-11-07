@@ -44,8 +44,8 @@ related: ["scout-daikou-kadai-account", "scout-daikou-kadai-baitai", "scout-daik
 これらは、担当者が意図して抱え込むものではありません。渡す仕組みが無いから、自然に代行側に溜まります。
 
 <aside class="cta-inline">
-  <p>いま何が代行側にあり、何が社内に無いか、一緒に棚卸しできます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 社内に残すべき資産の四つ
@@ -95,8 +95,8 @@ related: ["scout-daikou-kadai-account", "scout-daikou-kadai-baitai", "scout-daik
 そのうえで、次の運用を決めます。別の代行会社に渡すのか、内製に戻すのか、いまの代行会社と契約の条件を変えて続けるのか。依存を解いた状態なら、三つのどれでも選べます。
 
 <aside class="cta-inline">
-  <p>資産の引き渡しの求め方と、次の運用の選び方を一緒に整理できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 内製に戻すかどうかの判断

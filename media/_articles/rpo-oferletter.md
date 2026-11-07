@@ -48,8 +48,8 @@ related: ["rpo-gouhi-kettei", "rpo-kaigai-itaku", "rpo-kaisha-nanori", "rpo-mens
 **九番目と十番目を分けておくのが実務では大事です**。候補者からの質問が来たとき、条件に関するものは自社に戻す。手続きに関するものは代行が答える。この線を決めておかないと、代行側は全部を確認に回すか、答えてはいけないことに答えるかのどちらかになります。
 
 <aside class="cta-inline">
-  <p>自社の採用のどこを外に出せるか、整理してみませんか</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ### エラベルの見解
@@ -107,8 +107,8 @@ related: ["rpo-gouhi-kettei", "rpo-kaigai-itaku", "rpo-kaisha-nanori", "rpo-mens
 **辞退の連絡が来た場合**。受け付けるのは代行でも構いませんが、**理由の確認と記録は必要です**。次の採用に使える材料になります。辞退の扱いは[内定辞退が出たときの返金・補填の取り決め](/media/rpo-naitei-jitai-henkin/)にまとめています。
 
 <aside class="cta-inline">
-  <p>担当者の経歴を見てから決められます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ### エラベルの見解

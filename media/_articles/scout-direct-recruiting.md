@@ -57,8 +57,8 @@ related: ["scout-headhunt", "scout-alumni-scout", "scout-daikou-check", "scout-d
 **社内に運用の稼働が無い場合。** 対象設定、文面、送信、返信対応。これを回す稼働が無いと、始めても続きません。代行に出す選択肢はありますが、判断（対象・役割・通す基準）は社内に残ります。
 
 <aside class="cta-inline">
-  <p>採りたい職種がダイレクトリクルーティングに向くか、母数と経歴の読みやすさから一緒に見立てられます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
+  <a href="/compare/">採用代行・RPOを比較する</a>
 </aside>
 
 ## 運用の全工程
@@ -128,8 +128,8 @@ related: ["scout-headhunt", "scout-alumni-scout", "scout-daikou-check", "scout-d
 これらが整っていれば、内製でも代行でも、立ち上げは一か月以内に済みます。整っていないと、送り始めてから整えることになり、立ち上げが二か月、三か月と延びます。
 
 <aside class="cta-inline">
-  <p>始める前に整える七つを、いまの状態から一緒に確認できます</p>
-  <a href="/#consult">無料で相談する</a>
+  <p>任せる前に、費用と契約の条件を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 
 ## 内製か、代行か
