@@ -39,8 +39,8 @@ related: ["rpo-shokushu-keiken", "rpo-erabikata", "rpo-freelance-vs-kaisha", "rp
 **つまり、業界経験が要るかどうかは、職種と依頼の範囲で決まります**。会社の業界より、採る職種のほうが判断の基準になります。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

@@ -41,8 +41,8 @@ related: ["rpo-kpi-keiyaku", "rpo-saiyo-tanka", "rpo-teirei", "rpo-agent-tono-ch
 差し引きで社内の時間が減っていて、その金額が代行費用を下回るなら、時間の観点では効果が出ています。上回るなら、範囲か稼働量の見直しを検討します。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

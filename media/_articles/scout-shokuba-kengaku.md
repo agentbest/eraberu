@@ -41,8 +41,8 @@ related: ["scout-daikou-henshin-taiou", "scout-daikou-kadai-hayasa", "scout-daik
 **効きにくい場面。** 見せて魅力になるものが無い、社内が見学を受け入れる体制に無い、候補者が遠方で来られない。この場合は、動画や資料で代替するか、オンラインの見学（画面越しに職場を案内する）を検討します。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 提案するタイミング

@@ -45,8 +45,8 @@ related: ["rpo-startup-seed-rpo", "rpo-startup-seed-shippai", "rpo-startup-seed-
 **時間の目安。**一緒に働いてみる期間の、実際の仕事の時間です。採用のための追加の時間はほぼ要らず、仕事そのものが見極めになります。創業者が「決めるのは自分だから、感じたことをそのまま言ってほしい」と伝えることが前提です。業務委託から決める形は[業務委託で入ってもらってから採用する](/media/rpo-gyoumu-itaku-saiyo/)に、現場への説明は[現場に採用代行の導入を説明する](/media/rpo-genba-setsumei/)に整理しています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

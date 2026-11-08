@@ -44,8 +44,8 @@ related: ["rpo-mitsumori-sa", "rpo-yuryou-shokugyo-shokai", "rpo-consul-tono-chi
 計算のときにぶれやすいのが三番の実費です。代行の月額だけを見て安いと判断し、媒体費を足したら紹介と変わらなかった、という順番はよく起きます。費用の内訳の考え方は[採用代行の費用の内訳](/media/rpo-hiyou-uchiwake/)で扱っています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

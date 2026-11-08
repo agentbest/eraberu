@@ -45,8 +45,8 @@ related: ["scout-ichiji-menjo", "scout-daikou-check", "scout-daikou-kadai-baitai
 五つが揃えば、飛ばします。一つでも欠ければ、面談を組みます。判断は、返信のやり取りを見ている担当者が、最も正確にできます。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 飛ばしてはいけない条件

@@ -41,8 +41,8 @@ related: ["scout-daikou-jyoushitsu", "scout-baitai-kaiyaku", "scout-baitai-kirik
 逆算の数字は仮置きで構いません。運用が始まって数字が出たら、置き換えていきます。大事なのは、「上限まで送る」を目標にしないことです。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 見積もりで聞くこと：数ではなく根拠

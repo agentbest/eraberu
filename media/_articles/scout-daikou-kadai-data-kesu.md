@@ -43,8 +43,8 @@ related: ["scout-daikou-data", "scout-daikou-kadai-account", "scout-daikou-kadai
 こうした条項の書き方や効力については、弁護士などの専門家にご確認ください。この記事は、確認する項目の整理であって、法的な助言ではありません。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 終了時に削除を求める範囲

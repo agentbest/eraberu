@@ -39,8 +39,8 @@ related: ["scout-daikou-kadai-hanki", "scout-baitai-kaiyaku", "scout-baitai-kiri
 向かない職種を一職種で頼むと、成果が出ずに「代行が悪い」となります。頼む前に、担当者に「この職種はスカウトに向いているか」を率直に聞いてください。「向かない」と言える担当者は、信頼できます。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 契約の形

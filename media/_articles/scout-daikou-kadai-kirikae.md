@@ -41,8 +41,8 @@ related: ["scout-baitai-kirikae", "scout-daikou-fukusuu-baitai", "scout-daikou-k
 前回の経験を使わずに、営業の提案書だけで選ぶと、前回と同じ基準で選ぶことになり、同じ結果になります。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 会社ではなく担当者を選ぶ

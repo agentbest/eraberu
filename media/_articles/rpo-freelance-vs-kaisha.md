@@ -57,8 +57,8 @@ related: ["rpo-erabikata", "rpo-gyoukai-keiken", "rpo-hikaku-hyou", "rpo-jirei-m
 **社内の管理体制が求められる**。委託先の管理に関する規程がある場合、法人との契約のほうが手続きが整います。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

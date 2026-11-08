@@ -40,8 +40,8 @@ related: ["rpo-chihou-kigyo-taisei", "rpo-chihou-kigyo-shippai", "rpo-chihou-kig
 **費用の見方。**月に何件の紹介と応募を扱うかで稼働が決まります。地方企業は件数が多くないので、月額ではなく、件数か時間で受けられる代行のほうが合うことがあります。契約の前に「月に何件まで、返事は何時間以内」を決めます。日程調整は[面接の日程調整は代行に出せるか](/media/rpo-task-nittei-chousei-daikou/)に、社員の紹介の仕組みは[リファラル採用の設計は代行に出せるか](/media/rpo-task-referral-daikou/)に書いています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

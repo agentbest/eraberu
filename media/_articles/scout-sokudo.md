@@ -57,8 +57,8 @@ related: ["scout-mendan-settei-ritsu", "scout-abtest", "scout-ai-bunmen", "scout
 理由の要点は、「承認」「型」「枠」です。承認を減らし、型を用意し、枠を先に空ける。この三つで、四つの箇所の遅れの大半は消えます。担当者に「もっと速く」と言うより、仕組みを変えるほうが効きます。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 速さが効かない箇所

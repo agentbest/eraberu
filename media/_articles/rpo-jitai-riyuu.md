@@ -43,8 +43,8 @@ related: ["rpo-jitai-ooi", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-shouk
 聞く人は、「候補者にとって、言いにくくない相手」です。会社の中で言えば、面接に関わっていない人。会社の外なら、担当者です。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 聞き方を変える

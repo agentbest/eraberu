@@ -52,8 +52,8 @@ related: ["rpo-ipo-junbi-shippai", "rpo-ipo-junbi-taisei", "rpo-ipo-junbi-hiyou"
 **費用の見方。**候補者の件数と面接の回数で稼働が決まります。「記録が社内の共有の場所に揃っているか」「決裁の記録が流れのとおりに残っているか」「候補者が返事を待った日数」で、最初の月の効果を見ます。監査に耐える記録の考え方は[上場企業が採用代行で失敗するパターン](/media/rpo-joujou-shippai/)に、日程調整は[面接の日程調整は代行に出せるか](/media/rpo-task-nittei-chousei-daikou/)に、採用管理システムは[ATS（採用管理システム）の運用は代行に出せるか](/media/rpo-task-ats-unyou-daikou/)に整理しています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

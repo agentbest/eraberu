@@ -37,8 +37,8 @@ related: ["scout-daikou-check", "scout-daikou-kadai-baitai", "scout-daikou-kadai
 時間は三十分を上限にします。報告をレポートで済ませていれば、決めることに三十分あれば足ります。一時間を確保すると、時間を埋めるために報告が長くなります。短く設定し、足りなければ延ばすほうが、時間の使い方が引き締まります。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 出る人

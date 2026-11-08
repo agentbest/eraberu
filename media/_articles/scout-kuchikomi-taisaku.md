@@ -49,8 +49,8 @@ related: ["scout-koho-renkei", "scout-saiyo-site-doushen", "scout-chimeido-nai-k
 この整理をしておけば、文面と面談で口コミに向き合えます。整理が無いと、候補者に聞かれて答えられません。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 文面で先に触れる

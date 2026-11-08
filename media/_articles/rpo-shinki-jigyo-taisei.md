@@ -44,8 +44,8 @@ related: ["rpo-shinki-jigyo-rpo", "rpo-shinki-jigyo-shippai", "rpo-shinki-jigyo-
 **時間の目安。**最終の面接の回数と、事業の節目の判断です。最終の面接の枠を、週のうち固定で先に確保し、代行がその枠に入れます。枠がないと、一次で決まった候補者が最終を待つ間に他社に決まります。条件提示は[条件提示・オファー面談は代行に出せるか](/media/rpo-task-jouken-teiji-daikou/)に、内定の後の工程は[内定者フォローは代行に出せるか](/media/rpo-task-naitei-follow-daikou/)に整理しています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

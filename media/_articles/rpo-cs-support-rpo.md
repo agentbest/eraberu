@@ -47,8 +47,8 @@ related: ["rpo-cs-support-boshuudan", "rpo-cs-support-scout", "rpo-cs-support-yo
 見ていて差がつくのは、「現場のSVに聞いているか」です。人事だけで作った求人は「お客様対応全般」になり、SVに聞くと中身と受け入れの流れが具体的になります。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 中身の整理の仕方

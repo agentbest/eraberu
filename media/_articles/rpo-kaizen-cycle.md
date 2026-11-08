@@ -67,8 +67,8 @@ related: ["rpo-feedback", "rpo-kpi-goui", "rpo-report-hindo", "rpo-taisei-kakuni
 **下の二つは、自社側の打ち手です**。代行の運用を変えても直りません。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

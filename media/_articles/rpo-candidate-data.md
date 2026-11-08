@@ -57,8 +57,8 @@ related: ["rpo-data-henkan", "rpo-kouhosha-tsuuchi", "rpo-agent-tono-chigai", "r
 **三番目は判断が分かれます**。共有すると仕分けの精度が上がりますが、主観的な表現も含まれます。**評価コメントそのものではなく、要件のどの項目に照らして落としたかを構造化して渡す**形が実務的な落としどころです。権限の設計は[渡すATSの権限範囲](/media/rpo-ats-kengen/)にまとめています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

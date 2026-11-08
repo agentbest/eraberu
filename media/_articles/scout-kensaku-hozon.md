@@ -64,8 +64,8 @@ related: ["scout-ai-screening", "scout-boshuudan-hirosugi", "scout-boshuudan-sem
 型の要点は、「対応する層の名前」です。検索と送信ログの層が紐づいていれば、「この検索の結果はこうだった」が分かります。紐づいていないと、検索を保存しても結果と結びつかず、良し悪しが判断できません。送信ログの層は[送信ログの残し方](/media/scout-log/)に書いています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 使い回しの型

@@ -51,8 +51,8 @@ related: ["rpo-chusho-shippai", "rpo-chusho-taisei", "rpo-chusho-hiyou", "rpo-ch
 **費用の見方。**候補者の件数と面接の回数で稼働が決まります。「担当が採用の運用に使った時間」が減ったか、「社長に確認が届く回数」が週に一度になったか、「候補者が返事を待った日数」が減ったかで、最初の月の効果を見ます。日程調整は[面接の日程調整は代行に出せるか](/media/rpo-task-nittei-chousei-daikou/)に、兼務の担当が一人の会社の順番は[人事が一人の会社の採用代行](/media/rpo-jinji-hitori-rpo/)に、専任の人事がいない会社の順番は[専任の人事がいない会社の採用代行](/media/rpo-jinji-fuzai-rpo/)に整理しています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

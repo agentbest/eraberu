@@ -55,8 +55,8 @@ related: ["scout-daikou-hinshitsu-kanri", "scout-daikou-shounin", "scout-daikou-
 **そして、型は職種ごとに用意してください**。職種が違えば訴求も変わります。**型が一つだと、書き分けの負担が増えます**。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

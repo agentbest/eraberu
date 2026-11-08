@@ -61,8 +61,8 @@ related: ["rpo-ai-katsuyou", "rpo-ai-scout", "rpo-ats-erabikata", "rpo-ats-taiou
 **定例会で定期的に聞いてみてください**。「最近、この職種の市場はどうですか」。**担当者が現役で運用していれば、情報は新しい**。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

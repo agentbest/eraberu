@@ -37,8 +37,8 @@ related: ["scout-baitai-kaiyaku", "scout-baitai-kirikae", "scout-daikou-fukusuu-
 主媒体の選び方は、担当者に相談してください。この職種で扱った経験のある媒体、母数の見立て、仕様の慣れ。担当者が扱い慣れた媒体を主にするほうが、立ち上げは速くなります。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 候補者層で分ける

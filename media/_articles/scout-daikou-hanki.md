@@ -31,8 +31,8 @@ related: ["scout-daikou-hyouka", "scout-daikou-kadai-hiyou", "scout-daikou-kadai
 目的が曖昧なまま始めていた場合は、ここで決めます。目的が決まらないと、続けるか変えるかの判断ができません。「何となく続いている」状態は、目的が無いか、目的が忘れられているかのどちらかです。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 見る数字と、見ない数字

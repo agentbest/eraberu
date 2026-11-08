@@ -45,8 +45,8 @@ related: ["rpo-ipo-junbi-rpo", "rpo-ipo-junbi-shippai", "rpo-ipo-junbi-hiyou", "
 **時間の目安。**週に数時間で、週に一度の代行との確認と、経営陣への確認をまとめる時間と、決めてよい範囲の判断と、記録の所在の確認です。運用そのもの（連絡、日程の往復、紹介会社との日々の連絡）は代行が持ちます。窓口の作り方は[専任の人事がいない会社の採用体制の作り方](/media/rpo-jinji-fuzai-taisei/)に、専任人事を守る考え方は[従業員百名規模の会社の採用体制の作り方](/media/rpo-jugyoin-100-taisei/)に、経営者への出し方は[経営者に採用の状況が伝わらない](/media/rpo-keieisha-rikai/)に整理しています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

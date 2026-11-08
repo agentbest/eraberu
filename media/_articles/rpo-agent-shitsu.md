@@ -46,8 +46,8 @@ related: ["rpo-agent-ooi", "rpo-agent-shoukai-konai", "rpo-chihou-saiyo", "rpo-e
 記録があれば、紹介会社に「先月の推薦十件のうち、七件が〇〇の経験の不足でした」と具体的に伝えられます。「質が低い」より、紹介会社は動きやすくなります。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 要件のずれを直す

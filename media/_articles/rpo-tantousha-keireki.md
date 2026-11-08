@@ -59,8 +59,8 @@ related: ["rpo-tantousha-mikiwame", "rpo-eigyo-to-jitsumu", "rpo-erabikata", "rp
 **職種の経験を確認する質問**は、「その職種で、書類選考のときに何を見ていましたか」。**具体的な観点が出るなら、実際に候補者を見ています**。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

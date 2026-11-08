@@ -41,8 +41,8 @@ related: ["rpo-aiaigasa", "rpo-fukugyo-jinzai-itaku", "rpo-fukusuu-hattyu", "rpo
 **参加範囲を決める**。外部の担当者が入るチャンネルでは、社内の会話がそのまま見えます。採用に関する情報だけが流れる場所を分けておきます。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

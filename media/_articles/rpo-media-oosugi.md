@@ -45,8 +45,8 @@ related: ["rpo-media-erabenai", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-
 棚卸しに要るのは、一週間ほどです。棚卸しをしないまま「減らそう」とすると、効いている媒体を切り、効いていない媒体が残ります。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 減らす基準

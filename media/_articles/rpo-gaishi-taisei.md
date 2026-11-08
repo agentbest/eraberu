@@ -44,8 +44,8 @@ related: ["rpo-gaishi-rpo", "rpo-gaishi-shippai", "rpo-gaishi-hiyou", "rpo-chiho
 **時間の目安。**最初に語る時間を代行と一度、その後は面接の時間です。管理職が語る時間を取らずに代行に「職務の定義を翻訳して求人票にしてください」と渡すと、日本の候補者に届きません。求人原稿は[求人原稿の作成は代行に出せるか](/media/rpo-task-kyujin-genko-daikou/)に、会社の雰囲気の伝え方は[企業文化を理解してもらう方法](/media/rpo-kigyou-bunka/)に、要件の決め方は[採用要件の定義を代行に出す](/media/rpo-task-youken-teigi-daikou/)に整理しています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

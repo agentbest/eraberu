@@ -45,8 +45,8 @@ related: ["rpo-yasui-riyuu", "rpo-hiyou-shitsumon", "rpo-hiyou-souba", "rpo-mits
 そして、**月額を想定稼働時間で割って実質の時間単価を出します**。ここで安い提案より下回ることは珍しくありません。差の分解の手順は[同じ条件で見積もりに差が出る理由](/media/rpo-mitsumori-sa/)にまとめています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

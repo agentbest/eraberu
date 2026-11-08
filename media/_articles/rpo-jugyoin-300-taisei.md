@@ -49,8 +49,8 @@ related: ["rpo-jugyoin-300-rpo", "rpo-jugyoin-300-shippai", "rpo-jugyoin-300-hiy
 **時間の目安。**運用を代行に出して空いた時間を、部門長との調整と要件に使います。週に一度、代行からの「進めるか」の判断をまとめて返す時間と、部門長への報告の時間です。要件の決め方は[採用要件の定義を代行に出す](/media/rpo-task-youken-teigi-daikou/)に、現場への説明は[現場に採用代行の導入を説明する](/media/rpo-genba-setsumei/)に整理しています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

@@ -47,8 +47,8 @@ related: ["scout-chimeido-nai-kaisha", "scout-daikou-hinshitsu-kanri", "scout-da
 日本語の文面のルール（使わない言葉、段落の構成、トーン）も、英語に置き換えて持ちます。日本語で「急成長」「裁量が大きい」を避けるなら、英語でも同じ意味の表現を避けます。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 英語で書くときに変わる点

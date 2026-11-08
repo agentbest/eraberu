@@ -53,8 +53,8 @@ related: ["rpo-mokuhyou-konkyo", "rpo-yuusen-jyuni", "rpo-agent-ooi", "rpo-agent
 「外から採る数」の合計が、採用目標です。積み上げの考え方は[採用目標人数の根拠がない](/media/rpo-mokuhyou-konkyo/)と同じです。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 表の作り方

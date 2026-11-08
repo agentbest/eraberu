@@ -45,8 +45,8 @@ related: ["scout-daikou-kadai-jitai", "scout-daikou-kadai-nittei", "scout-daikou
 四つを全部やると、面談一回あたりの負担は、三十分の面談と一分の評価だけになります。ここまで減らして、それでも出ないなら、理由は負担ではありません。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 面談の意味を見せる

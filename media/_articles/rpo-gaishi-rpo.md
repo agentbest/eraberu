@@ -40,8 +40,8 @@ related: ["rpo-gaishi-shippai", "rpo-gaishi-taisei", "rpo-gaishi-hiyou", "rpo-ch
 **費用の見方。**月に何件の候補者を扱い、承認を待つ間の連絡を何回入れるかで稼働が決まります。契約の前に「返事は何時間以内、承認待ちの連絡は何日ごと」を決めます。「承認を待つ間に辞退された人数」が減ったかで効果を見ます。日程調整は[面接の日程調整は代行に出せるか](/media/rpo-task-nittei-chousei-daikou/)に、内定の後の工程は[内定者フォローは代行に出せるか](/media/rpo-task-naitei-follow-daikou/)に書いています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

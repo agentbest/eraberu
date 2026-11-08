@@ -58,8 +58,8 @@ related: ["scout-blacklist", "scout-jisha-shain", "scout-jyufuku-boushi", "scout
 五つの列に、あれば良い列として、役割、媒体、最初の送信日、相手の希望（時期、条件）、懸念、辞退の理由、を足します。ただし、最初は五つで始めます。列が多いと、入力されません。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 段階の定義

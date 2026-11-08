@@ -40,8 +40,8 @@ related: ["rpo-family-business-shippai", "rpo-family-business-taisei", "rpo-fami
 **費用の見方。**聞き取りと一枚の作成は、成果物で受けられます。社長の時間を一度、まとまった枠で取ることが条件で、それが取れないなら、後の工程を出しても効きません。要件の決め方は[採用要件の定義を代行に出す](/media/rpo-task-youken-teigi-daikou/)に、聞き取りの型は[採用要件の定義の進め方](/media/rpo-task-youken-teigi-susumekata/)に、経営者に状況が伝わらないときは[経営者に採用の状況が伝わらない](/media/rpo-keieisha-rikai/)に書いています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

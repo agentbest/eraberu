@@ -47,8 +47,8 @@ related: ["rpo-agent-shitsu", "rpo-agent-shoukai-konai", "rpo-chihou-saiyo", "rp
 **一枚の表にする。** 会社名、担当者、手数料の条件、推薦、書類通過、面接、内定、入社、担当者の対応。この表が、絞る判断の材料です。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 絞る基準

@@ -49,8 +49,8 @@ related: ["scout-tenkin-ari", "scout-josei-scout", "scout-kyuuyo-makeru", "scout
 これらを、文面の役割の記述の後に、簡潔に書きます。書けば、実態と合わない候補者は返信の前に見送り、合う候補者は安心して返信します。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 対象の広がりと絞り方

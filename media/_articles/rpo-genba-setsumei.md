@@ -47,8 +47,8 @@ related: ["rpo-keieisha-setsumei", "rpo-shanai-chousei", "rpo-ai-katsuyou", "rpo
 **候補者からの声を拾う仕組みを作る**。面接で候補者の様子を聞き、対応に問題がないかを確認します。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

@@ -59,8 +59,8 @@ related: ["scout-taisei", "scout-tantousha-ikusei", "scout-abtest", "scout-ai-bu
 兆候の要点は、「返信から返答までの日数」を最初に見ることです。これが伸びていれば、送信が続いていても、限界は来ています。指標の見方は[スカウト運用で見るべき指標](/media/scout-shihyou/)に書いています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 限界の手前で切り替える四つの手

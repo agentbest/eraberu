@@ -57,8 +57,8 @@ related: ["scout-jinriki-genkai", "scout-taisei", "scout-abtest", "scout-ai-bunm
 見るものの要点は、「週次で、決めた箇所だけ見る」ことです。全部を見ると、教える側の稼働が尽きます。一段目なら「一段落目と誤りと記録」だけ。二段目なら「振り返りの一文」だけ。見る箇所を絞れば、週に十五分で足ります。振り返りの型は[週次の振り返りで見る数字](/media/scout-furikaeri/)に書いています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 教える側の役割

@@ -54,8 +54,8 @@ related: ["rpo-data-henkan", "rpo-fukugyo-jinzai-itaku", "rpo-haken-tono-chigai"
 移すたびに、代行の稼働量を下げます。月額型なら範囲を絞り、時間単価型なら上限時間を下げる。**契約に稼働量を調整できる条項があるかを、移行の前に確認しておきます**。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

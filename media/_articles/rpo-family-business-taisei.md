@@ -46,8 +46,8 @@ related: ["rpo-family-business-rpo", "rpo-family-business-shippai", "rpo-family-
 **時間の目安。**週に一度、代行からの判断の依頼をまとめて社長に出す時間と、社長の一言が出たときに確認する短い時間です。人事が一人の会社の考え方が参考になり、[人事が一人の会社の採用体制の作り方](/media/rpo-jinji-hitori-taisei/)に、定例で見る数字は[採用代行との定例会で見るべき数字](/media/rpo-teirei/)に整理しています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

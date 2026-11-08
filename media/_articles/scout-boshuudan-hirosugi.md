@@ -55,8 +55,8 @@ related: ["scout-boshuudan-semasugi", "scout-abtest", "scout-ai-bunmen", "scout-
 四つの要点は、「絞りに使うのは外せない一つだけ」ということです。要件を二つ三つ使って絞ると、条件を厳しくしたのと同じで、採りたい人が消えます。絞りは一つで、あとは順番で扱います。要件の分け方は[必須要件と歓迎要件の線が引けない](/media/rpo-must-want/)に書いています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 絞ってはいけない方向

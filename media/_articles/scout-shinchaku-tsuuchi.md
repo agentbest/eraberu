@@ -60,8 +60,8 @@ related: ["scout-abtest", "scout-ai-bunmen", "scout-boshuudan-hirosugi", "scout-
 固定の要点は、「送信の時間帯の前に見る」ことです。見てから送るまでを、一つの流れにします。見る時間と送る時間が離れると、「見たが送っていない」新着が溜まります。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## その場で送るかの基準

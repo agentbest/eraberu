@@ -39,8 +39,8 @@ related: ["rpo-jibun-goto", "rpo-kaizen-cycle", "rpo-kpi-goui", "rpo-report-hind
 **三番目が重要です**。多くの場合、うまくいっていない原因は個人の能力ではなく設計にあります。**基準が渡されていない、情報が薄い、判断が返ってこない**。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

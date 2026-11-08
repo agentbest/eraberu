@@ -47,8 +47,8 @@ related: ["scout-nagasa", "scout-abtest", "scout-ai-bunmen", "scout-casual-menda
 四段は、それぞれ短く。全部で、スマートフォンで一〜二画面に収まる長さが目安です。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 一段落目の書き方

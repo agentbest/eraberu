@@ -41,8 +41,8 @@ related: ["rpo-kyuu-seichou-shippai", "rpo-kyuu-seichou-taisei", "rpo-kyuu-seich
 **費用の見方。**一次面接は一回あたりの時間が固定なので、回数で見ます。日程調整は月の応募の件数で稼働が決まります。契約の前に「月に何回の面接、何件の応募」を決め、その稼働に見合う月額かを見ます。一次面接は[一次面接は代行に出せるか](/media/rpo-task-ichiji-mensetsu-daikou/)に、日程調整は[面接の日程調整は代行に出せるか](/media/rpo-task-nittei-chousei-daikou/)に、面接官の育て方は[面接官トレーニングは代行に出せるか](/media/rpo-task-mensetsukan-kunren-daikou/)に書いています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

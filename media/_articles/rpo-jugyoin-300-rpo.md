@@ -40,8 +40,8 @@ related: ["rpo-jugyoin-300-shippai", "rpo-jugyoin-300-taisei", "rpo-jugyoin-300-
 **費用の見方。**候補者の件数と部門の数で稼働が決まります。「責任者が設計と部門長との調整に使えた時間」が増えたかで、最初の月の効果を見ます。日程調整は[面接の日程調整は代行に出せるか](/media/rpo-task-nittei-chousei-daikou/)に、採用管理の運用は[ATS（採用管理システム）の運用は代行に出せるか](/media/rpo-task-ats-unyou-daikou/)に、人事が一人の会社の順番は[人事が一人の会社の採用代行](/media/rpo-jinji-hitori-rpo/)に書いています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

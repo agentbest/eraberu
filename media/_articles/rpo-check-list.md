@@ -43,8 +43,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-chuuto-kaiyaku", "rpo-freelance-itaku", "r
 **四番目の聞き方が効きます**。含まれるものを並べてもらうより、含まれないものを聞くほうが漏れが出ません。読み方は[見積もりの読み方](/media/rpo-mitsumori-mikata/)、差の分解は[同じ条件で見積もりに差が出る理由](/media/rpo-mitsumori-sa/)にまとめています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

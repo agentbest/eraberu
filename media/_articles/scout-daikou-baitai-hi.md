@@ -37,8 +37,8 @@ related: ["scout-daikou-getsugaku", "scout-daikou-seika", "scout-baitai-kaiyaku"
 どの形が良いかは一概に言えませんが、判断の軸は費用の合計ではなく、次の三つです。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 判断の軸：記録・関係・切り替えの自由

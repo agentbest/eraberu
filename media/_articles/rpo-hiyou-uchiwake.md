@@ -39,8 +39,8 @@ related: ["rpo-agent-tono-chigai", "rpo-baitai-hi-betsu", "rpo-consul-tono-chiga
 このうち、金額の差として現れやすいのは担当者の稼働です。**月額を想定稼働時間で割ると、時間あたりの実質単価が出ます**。この数字にすると、体系の違う見積もりも同じ土俵に乗ります。時間単価の見方は[時間単価はいくらが妥当か](/media/rpo-jikan-tanka/)で扱っています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

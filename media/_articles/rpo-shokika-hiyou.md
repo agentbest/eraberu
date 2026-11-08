@@ -40,8 +40,8 @@ related: ["rpo-getsugaku-vs-seika", "rpo-kakaku-koushou", "rpo-saitei-keiyaku-ki
 **発注側が持っている**。要件定義書も文面も自社で用意し、代行は実行だけを担う設計です。社内に採用の経験がある会社では、この形が一番安く付きます。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

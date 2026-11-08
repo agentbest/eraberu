@@ -50,8 +50,8 @@ related: ["rpo-fukusuu-shokushu", "rpo-jinin-keikaku", "rpo-mokuhyou-konkyo", "r
 「影響が小さく、期間が短い」職種は、最後です。始めれば早く採れ、止まっても事業は止まりません。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 並べる手順

@@ -49,8 +49,8 @@ related: ["rpo-mensetsukan-bara", "rpo-casual-mendan-kadai", "rpo-hyouka-kijun",
 段階を分けたら、各段階で「何を確認するか」を分けます。一次で経歴の深さ、二次で組織との相性、最終で通す判断。同じことを三回聞く面接は、候補者にも面接官にも無駄です。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 観点を絞って、面接官を増やす

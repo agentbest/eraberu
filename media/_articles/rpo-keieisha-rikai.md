@@ -48,8 +48,8 @@ related: ["rpo-fukusuu-shokushu", "rpo-gaichu-hanni", "rpo-genba-kyouryoku", "rp
 この六つに答える形で報告を組み立てれば、経営者は判断できます。「頑張っています」は、六つのどれにも答えていません。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 月次の報告の型

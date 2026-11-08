@@ -39,8 +39,8 @@ related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa", "scout-daiko
 五つのどれかが特定できれば、対処は自然に決まります。特定できないまま「増やしてください」と言っても、担当者は何を変えればよいか分かりません。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 発注側に原因があることは多い

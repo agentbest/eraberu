@@ -47,8 +47,8 @@ related: ["scout-daikou-nagare", "scout-daikou-sokudo", "scout-daikou-checklist"
 一か月で、「送れる数」「返信率の目安」「返信対応が回るか」が見えます。ここで回っていなければ、二か月目に入る前に、稼働と体制を見直します。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 内製で詰まりやすい点

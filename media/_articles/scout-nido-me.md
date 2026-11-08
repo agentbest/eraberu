@@ -57,8 +57,8 @@ related: ["scout-kikan-aketa", "scout-abtest", "scout-ai-bunmen", "scout-casual-
 要点は、「一通目に触れる」と「別の面を一つ」と「短く軽く」です。一通目に触れないと、相手は「同じものが二回来た」と受け取ります。別の面が無いと、「催促」に見えます。長いと、「押し売り」に見えます。件名の作り方は[スカウトの件名の作り方](/media/scout-kenmei/)に、一段落目の個別化は[パーソナライズはどこまでやるべきか](/media/scout-personalize/)に書いています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 変えない要素

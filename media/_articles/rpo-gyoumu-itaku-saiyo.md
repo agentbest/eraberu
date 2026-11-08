@@ -49,8 +49,8 @@ related: ["rpo-fukugyo-saiyo", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agent-s
 「業務委託か、社員の試用期間か」の判断は、法令上の扱いに関わるので、専門家に確認のうえで決めます。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 契約と役割の設計

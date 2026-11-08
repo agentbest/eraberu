@@ -53,8 +53,8 @@ related: ["rpo-saitei-keiyaku-kikan", "rpo-agent-tono-chigai", "rpo-consul-tono-
 この提案への反応で、相手の体制も見えます。すぐに応じる会社は、途中で範囲を変えることを想定した運用ができています。期間の考え方は[最低契約期間はなぜ設定されるのか](/media/rpo-saitei-keiyaku-kikan/)にまとめています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

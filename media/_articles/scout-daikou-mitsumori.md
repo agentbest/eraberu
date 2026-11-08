@@ -39,8 +39,8 @@ related: ["scout-daikou-hiyou-hikaku", "scout-daikou-baitai-hi", "scout-daikou-c
 「誰が・週何時間・何社掛け持ちで」の三つを書面で出せない提案は、契約後に担当が替わっても説明できません。担当者の名前と経歴を、契約前に見せてもらってください。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 二.業務範囲

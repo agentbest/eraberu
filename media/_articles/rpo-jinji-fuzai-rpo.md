@@ -42,8 +42,8 @@ related: ["rpo-jinji-fuzai-shippai", "rpo-jinji-fuzai-taisei", "rpo-jinji-fuzai-
 **費用の見方。**連絡と日程調整は、月に何件の応募を扱うかで稼働が決まります。契約の前に「月に何件まで、返事は何時間以内」を決め、その稼働に見合う月額かを見ます。日程調整の詳細は[面接の日程調整は代行に出せるか](/media/rpo-task-nittei-chousei-daikou/)に、内定の後の工程は[内定者フォローは代行に出せるか](/media/rpo-task-naitei-follow-daikou/)に書いています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

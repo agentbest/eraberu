@@ -41,8 +41,8 @@ related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-henshin", "scout-daik
 三つのどれかを、担当者に率直に聞いてください。「返信対応が遅れているが、稼働が足りないのか、判断を待っているのか、こちらの承認で止まっているのか」。担当者が答えやすい聞き方です。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 発注側が原因であることは多い

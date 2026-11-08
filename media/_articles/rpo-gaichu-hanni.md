@@ -48,8 +48,8 @@ related: ["rpo-fukusuu-shokushu", "rpo-genba-kyouryoku", "rpo-hikitsugi-nai", "r
 「面接」は、日程調整（作業）、観点と質問の案（材料）、判定（判断）に分かれます。「面接を任せるか」ではなく、「面接の中の、どれを任せるか」です。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 工程ごとの線の引き方

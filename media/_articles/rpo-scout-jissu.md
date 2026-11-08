@@ -41,8 +41,8 @@ related: ["rpo-ai-scout", "rpo-ats-taiou", "rpo-baitai-taiou", "rpo-shitauke-kou
 **これは代行会社の問題ではなく、指標の設計の問題です**。件数を約束させれば、件数を満たす動きになります。指標の置き方は[契約にKPIを入れるべきか](/media/rpo-kpi-keiyaku/)にまとめています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

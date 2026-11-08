@@ -39,8 +39,8 @@ related: ["rpo-getsugaku-vs-seika", "rpo-seikahoushuu-teigi", "rpo-baitai-hi-bet
 取り決めの形としては、成果報酬の一部を入社まで留保する、承諾後の辞退は成果としない、といった書き方があります。どちらも代行側の負担になるので、単価とセットで交渉することになります。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

@@ -35,8 +35,8 @@ related: ["rpo-chuuto-kaiyaku", "rpo-data-henkan", "rpo-hanki-minaoshi", "rpo-hi
 **選考中の候補者を理由に延ばし続ける**。進行中の候補者がいると切りにくいのですが、採用は続くので「候補者がいない時期」はなかなか来ません。区切りを決めて判断します。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

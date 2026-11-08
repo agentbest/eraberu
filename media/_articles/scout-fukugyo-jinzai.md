@@ -45,8 +45,8 @@ related: ["scout-gyoumu-itaku-boshuu", "scout-alumni-scout", "scout-daikou-jikan
 **本業との関係で配慮すること。** 候補者の本業と自社が競合しないか、本業の会社の副業規定に触れないか。候補者本人に確認してもらう事項ですが、こちらから聞く姿勢を持ちます。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 文面で示す稼働と期待値

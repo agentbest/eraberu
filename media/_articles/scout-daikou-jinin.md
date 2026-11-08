@@ -66,8 +66,8 @@ related: ["scout-daikou-shokushu-betsu", "scout-daikou-hanbun-uchisei", "scout-d
 **分けるなら、情報を共有する仕組みが要ります**。返信の内容を条件を作る人に伝える、定期的に擦り合わせる。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

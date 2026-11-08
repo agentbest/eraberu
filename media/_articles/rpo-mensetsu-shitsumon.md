@@ -47,8 +47,8 @@ related: ["rpo-kouzou-mensetsu", "rpo-casual-mendan-kadai", "rpo-hyouka-kijun", 
 観点が決まれば、「この観点を確認するには、何を聞けばよいか」と考えられます。観点が無いまま「良い質問」を探しても、見つかりません。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 過去の場面を聞く型

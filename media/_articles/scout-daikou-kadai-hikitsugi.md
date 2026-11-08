@@ -41,8 +41,8 @@ related: ["scout-daikou-kadai-tantou", "scout-daikou-checklist", "scout-daikou-k
 渡し方は、合った人・合わなかった人の例です。個人が特定できない形で、「この書き方の経歴は合った」「この書き方は合わなかった」を数件。[面談してみると要件と違う](/media/scout-daikou-kadai-mismatch/)で書いた、面談後の一行の積み重ねがそのまま使えます。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 三.進行中の候補者の「文脈」

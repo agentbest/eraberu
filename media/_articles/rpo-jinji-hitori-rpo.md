@@ -41,8 +41,8 @@ related: ["rpo-jinji-hitori-shippai", "rpo-jinji-hitori-taisei", "rpo-jinji-hito
 **費用の見方。**月に何件の応募を扱い、返事を何時間以内に返すかで、稼働が決まります。契約の前に件数と期限を決め、その稼働に見合う月額かを見ます。人事の細切れの時間が減った分を、要件と判断の整理に使えているかを、最初の月の終わりに人事と経営者で確かめます。日程調整の詳細は[面接の日程調整は代行に出せるか](/media/rpo-task-nittei-chousei-daikou/)に、人事の時間の組み替えは[人事が一人の会社の採用体制の作り方](/media/rpo-jinji-hitori-taisei/)に書いています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

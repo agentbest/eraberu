@@ -46,8 +46,8 @@ related: ["rpo-joujou-rpo", "rpo-joujou-shippai", "rpo-joujou-hiyou", "rpo-chiho
 **時間の目安。**要件を言葉にするときにまとまった時間を一度、面接の時間、週に一度の定例か判断の時間です。人事部は、事業部の責任者に代行を紹介する場を設け、「要件と判断は事業部、契約と統制は人事部」と両者の前で分けます。要件の決め方は[採用要件の定義を代行に出す](/media/rpo-task-youken-teigi-daikou/)に、現場への説明は[現場に採用代行の導入を説明する](/media/rpo-genba-setsumei/)に、定例で見る数字は[採用代行との定例会で見るべき数字](/media/rpo-teirei/)に整理しています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

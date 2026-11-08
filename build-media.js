@@ -23,6 +23,7 @@
 'use strict';
 const fs = require('fs');
 const path = require('path');
+const {guideFor, profileFor} = require('./service-guides');
 
 const DIR = __dirname;
 const SRC = path.join(DIR, 'media', '_articles');
@@ -106,8 +107,8 @@ const TAG_BY_LABEL = new Map(TAGS.map(t => [t.label, t]));
    ⚠ 記事の読者と違うCTAを出すと問い合わせが噛み合わなくなる。frontmatter の reader で必ず出し分ける。
    ⚠ 企業向けの打合せ予約（Timerex）はフォーム送信後に案内する方針。ここから直リンクしない。 */
 const CTA = {
-  company: { href: '/compare/', label: '採用代行を比較する',
-             lead: '自社に合う採用代行を、比較して選ぶ', sub: 'エラベルは採用代行・RPOの比較メディアです。料金と対応業務から各社を比較できます。運営会社のスカウト代行も、自社サービスと明示して紹介しています。',
+  company: { href: '/compare/', label: '課題に合うサービスを記事で探す',
+             lead: '困りごとから、任せられるサービスを知る', sub: '応募不足、日程調整、スカウトの改善。課題ごとの記事で、頼める業務とサービス候補を紹介しています。',
              alt: { href: '/#consult', label: '運営会社のスカウト代行を見る' } },
   person:  { href: '/media/fukugyo/', label: '人事副業の実務記事を探す',
              lead: '人事副業の進め方を、記事で整理する', sub: '業務範囲、報酬、契約、働き方についてまとめた既存記事のアーカイブです。担当者登録や案件紹介を申し込むページではありません。',
@@ -295,9 +296,9 @@ ${ld.map(x => `<script type="application/ld+json">${JSON.stringify(x)}</script>`
     <nav class="nav-links">
       <a href="/media/">メディア</a>
       ${PILLARS.map(p => `<a href="/media/${p.key}/">${esc(p.name)}</a>`).join('\n      ')}
-      <a href="/compare/">サービス比較</a>
+      <a href="/compare/">課題別サービスガイド</a>
     </nav>
-    <a class="btn btn-primary cta-mini" href="/compare/">採用代行を比較する</a>
+    <a class="btn btn-primary cta-mini" href="/compare/">課題からサービスを探す</a>
   </div>
 </header><div class="wrap" style="padding-top:12px;font-size:11px;color:#4C566A">採用代行・RPO比較メディア。運営会社のスカウト代行も紹介しています。<a href="/editorial.html" style="text-decoration:underline">掲載・広告ポリシー</a></div>`;
 }
@@ -314,8 +315,8 @@ function foot() {
         <a href="/media/">メディア</a>
         ${PILLARS.map(p => `<a href="/media/${p.key}/">${esc(p.name)}</a>`).join('\n        ')}
         <a href="/media/search/">記事を検索</a>
-        <a href="/compare/">料金比較</a>
-        <a href="/compare/">採用代行を比較する</a>
+        <a href="/compare/">課題別サービスガイド</a>
+        <a href="/compare/">課題からサービスを探す</a>
         <a href="/editorial.html">掲載・広告ポリシー</a>
         <a href="/media/fukugyo/">人事副業の実務情報</a>
         <a href="/privacy.html">プライバシーポリシー</a>
@@ -370,7 +371,7 @@ function share(url, title, label) {
 function ctaBlock(reader, h2) {
   const c = CTA[reader] || CTA.company;
   const other = reader === 'person'
-    ? `<p class="cta__other">採用でお困りの企業さまは <a href="/compare/">採用代行を比較する →</a></p>`
+    ? `<p class="cta__other">採用でお困りの企業さまは <a href="/compare/">課題別のサービス紹介記事へ →</a></p>`
     : `<p class="cta__other">人事副業の情報をお探しの方は <a href="/media/fukugyo/">実務記事のアーカイブへ →</a></p>`;
   return `<aside class="cta">
     <h2>${esc(h2 || c.lead)}</h2>
@@ -430,7 +431,20 @@ function articleHtml(a, ctx) {
   const p = PILLAR[a.pillar] || PILLARS[0];
   const hub = hubOf(a);
   const hubUrl = `/media/hub/${hub.slug}/`;
-  const { html, heads } = mdToHtml(a._body);
+  let { html, heads } = mdToHtml(a._body);
+  const guide = guideFor(a);
+  if (guide) {
+    let at = heads.findIndex(h => /まとめ/.test(h.text));
+    if (at < 0) at = heads.findIndex(h => /よくある質問/.test(h.text));
+    if (at >= 0) {
+      const marker = `<h2 id="${heads[at].id}">`;
+      html = html.replace(marker, guide.html + '\n' + marker);
+      heads.splice(at, 0, {id:'service-options',text:guide.title});
+    } else {
+      html += '\n' + guide.html;
+      heads.push({id:'service-options',text:guide.title});
+    }
+  }
   const url = `/media/${a.slug}/`;
 
   const toc = heads.length >= 3
@@ -454,11 +468,11 @@ function articleHtml(a, ctx) {
       <ul><li><a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む →</a></li>
           <li><a href="${hubUrl}">「${esc(hub.name)}」の記事一覧を見る →</a></li>
           <li><a href="/media/fukugyo/">人事副業の記事をすべて見る →</a></li></ul></aside>`
-    : `<aside class="nextbox"><p class="nextbox__t">${esc(p.name)}の検討を進めている方へ</p>
-      <p class="nextbox__l">「${esc(p.name)}」を任せるときは、料金と業務範囲、支援体制をセットで比べましょう。各社の公式情報を整理した比較ページをご用意しています。</p>
-      <ul><li><a href="/compare/">採用代行の料金・業務範囲を比較する →</a></li>
-          <li><a href="/compare/">料金比較を見る →</a></li>
-          <li><a href="${hubUrl}">「${esc(hub.name)}」の記事一覧を見る →</a></li></ul></aside>`;
+    : `<aside class="nextbox"><p class="nextbox__t">この記事から、次に読むなら</p>
+      <p class="nextbox__l">外注する前に、依頼範囲と費用の条件を整理しておきましょう。</p>
+      <ul>${guide ? '<li><a href="#service-options">この記事で紹介したサービス候補に戻る ↑</a></li>' : ''}
+          <li><a href="/media/hub/rpo-hiyou/">費用・契約の考え方を読む →</a></li>
+          <li><a href="${hubUrl}">「${esc(hub.name)}」の関連記事を読む →</a></li></ul></aside>`;
 
   /* この記事のタグ（一覧ページを持っているものだけ） */
   const tags = a.tags.map(t => TAG_BY_LABEL.get(t)).filter(t => t && ctx.liveTags.has(t.slug));
@@ -580,7 +594,7 @@ function topHtml(all, ctx) {
   <ul class="grid"><li><a href="/media/hub/rpo-kadai/"><span class="grid__n">応募・選考の課題を整理したい</span><span class="grid__d">応募不足や辞退の原因と、外注の使いどころ。</span></a></li><li><a href="/media/hub/rpo-gyomu/"><span class="grid__n">任せられる業務を知りたい</span><span class="grid__d">日程調整、求人票、スカウトなど工程別に読む。</span></a></li><li><a href="/media/hub/rpo-hiyou/"><span class="grid__n">費用・契約の見方を知りたい</span><span class="grid__d">料金体系、見積もり、契約条件を整理する。</span></a></li><li><a href="/media/hub/scout-kaizen/"><span class="grid__n">スカウトの返信を増やしたい</span><span class="grid__d">対象者、件名、文面と運用の見直し。</span></a></li></ul>
   ${PILLARS.filter(p=>p.key!=='fukugyo').map(p=>`<h2 class="sec" id="${p.key}">${esc(p.name)}の実務ガイド</h2><p class="note">${esc(p.lead)}</p>${hubGrid(HUBS.filter(h=>h.pillar===p.key),ctx.hubCount)}<p class="more"><a href="/media/${p.key}/">${esc(p.name)}の全記事を見る →</a></p>`).join('')}
   <h2 class="sec">サービス選びに進む</h2>
-  <p class="lead">依頼したいことが決まったら、各社の公開情報を同じ観点で見比べましょう。</p><p><a class="btn btn-primary" href="/compare/">採用代行・RPOの比較ページへ →</a></p>
+  <p class="lead">課題の記事を読みながら、任せられる業務とサービス候補を知ることができます。</p><p><a class="btn btn-primary" href="/compare/">困りごと別のサービス紹介記事へ →</a></p>
   <h2 class="sec" id="latest">採用担当者向けの記事</h2>${artList(company.slice(0,LATEST))}
   <h2 class="sec" id="archive">人事副業の実務アーカイブ</h2><p class="note">人事経験を副業で活かす方向けの既存記事を残しています。採用代行を発注する方向けの記事とは分けてご覧ください。エラベルでの担当者登録・案件紹介は受け付けていません。</p><p class="more"><a href="/media/fukugyo/">人事副業の記事を読む →</a></p>
   <h2 class="sec" id="tag">テーマから探す</h2><details><summary>タグの一覧を開く</summary>${ctx.tagGroups.map(g=>`<div class="group"><h3>${esc(g.name)}</h3>${tagCloud(g.tags)}</div>`).join('')}</details>
@@ -891,6 +905,27 @@ footer{background:var(--navy);color:var(--on-navy-soft);border-top:1px solid var
 .foot-links{display:flex;flex-wrap:wrap;gap:8px 22px}
 .foot-links a:hover{color:#fff}
 .foot-copy{margin-top:26px;padding-top:18px;border-top:1px solid var(--on-navy-line);font-size:.8rem;color:#6E8199}
+/* Contextual editorial service suggestions: part of each article, rather than a catalogue. */
+.service-guide{margin:3.5rem 0;padding-top:1.8rem;border-top:3px solid var(--navy);scroll-margin-top:100px}
+.body .service-guide__eyebrow{font-size:.74rem;font-weight:800;letter-spacing:.08em;color:var(--accent-ink);margin-bottom:.6rem}
+.body .service-guide h2{margin-top:0;border:none;padding:0;font-size:1.55rem;line-height:1.65}
+.body .service-guide__context{font-size:.78rem;color:var(--ink-soft);border-bottom:1px solid var(--line);padding-bottom:1.2rem}
+.service-guide__choices{display:grid;gap:0}
+.service-option{padding:1.6rem 0;border-bottom:1px solid var(--line)}
+.body .service-option__angle{font-weight:800;font-size:.8rem;color:var(--accent-ink);margin:0 0 .4rem}
+.body .service-option h3{font-size:1.35rem;margin:.3rem 0 .35rem;padding:0;border:none}
+.body .service-option__company{font-size:.76rem;color:var(--ink-soft);margin:.2rem 0 1rem}
+.service-option__company span{display:inline-block;margin-left:.5rem;background:var(--accent-tint);padding:.1rem .5rem;border-radius:3px;color:var(--accent-ink);font-weight:800}
+.service-option dl{margin:1rem 0;font-size:.85rem;line-height:1.85}
+.service-option dl div{display:grid;grid-template-columns:11.5rem 1fr;gap:1rem;padding:.65rem 0;background:transparent}
+.service-option dt{font-weight:700;color:var(--ink-soft)}.service-option dd{margin:0}
+.body a.service-option__link{display:inline-block;font-size:.85rem;font-weight:800;color:var(--accent-ink);text-decoration:underline;text-underline-offset:4px}
+.service-guide__check{margin-top:1.5rem;padding:1.3rem 1.5rem;background:var(--accent-tint);border-radius:5px}
+.body .service-guide__check h3{margin:0 0 .6rem;padding:0;border:none;font-size:1rem}
+.body .service-guide__check p{margin:0;font-size:.88rem}
+.body .service-guide__note{font-size:.72rem;color:var(--ink-soft);line-height:1.9;margin-top:1.1rem}
+#service-options{scroll-margin-top:110px}
+@media(max-width:600px){.body .service-guide h2{font-size:1.3rem}.service-option dl div{grid-template-columns:1fr;gap:.2rem}.body .service-option h3{font-size:1.15rem}.service-guide__check{padding:1.1rem}.service-option__company span{margin-left:0;margin-top:.4rem;display:table}}
 `;
 
 /* ---------- 出力 ---------- */
@@ -990,7 +1025,7 @@ function main() {
       crumbs: [{ name: 'ホーム', url: '/' }, { name: 'メディア', url: '/media/' }, { name: p.name, url: `/media/${p.key}/` }, { name: h.name }],
       links: h.pillar === 'fukugyo'
         ? `<p class="hub-links"><a href="/media/hub/fukugyo-hoshu/">報酬・契約の考え方を読む →</a><a href="/media/fukugyo/">人事副業の記事をすべて見る →</a></p>`
-        : `<p class="hub-links"><a href="/compare/">採用代行を比較する →</a><a href="/compare/">料金比較を見る →</a></p>`,
+        : `<p class="hub-links"><a href="/compare/">課題別のサービス紹介記事へ →</a><a href="/media/hub/rpo-hiyou/">費用・契約のガイド →</a></p>`,
       reader: h.pillar === 'fukugyo' ? 'person' : 'company', ctaTitle: h.pillar === 'fukugyo' ? null : `${p.name}のサービスを比較する`,
     }, list);
     urls.push(`/media/hub/${h.slug}/`);
@@ -1027,4 +1062,5 @@ function main() {
   console.log(`sitemap.xml: ${urls.length}URL`);
 }
 
-main();
+if (require.main === module) main();
+module.exports = {load, articleHtml};

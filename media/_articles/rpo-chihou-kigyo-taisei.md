@@ -44,8 +44,8 @@ related: ["rpo-chihou-kigyo-rpo", "rpo-chihou-kigyo-shippai", "rpo-chihou-kigyo-
 **時間の目安。**候補者一人につき、見学と会話の時間です。候補者の数が限られる地方企業では、一人ひとりにこの時間を使うことが、決まる率に直接効きます。代行が日程を組み、社内の人は当日語るだけにします。会社の雰囲気の伝え方は[企業文化を理解してもらう方法](/media/rpo-kigyou-bunka/)に、応募前の面談は[カジュアル面談は代行に出せるか](/media/rpo-task-casual-mendan-daikou/)に整理しています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

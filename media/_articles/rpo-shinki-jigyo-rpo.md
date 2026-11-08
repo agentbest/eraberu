@@ -41,8 +41,8 @@ related: ["rpo-shinki-jigyo-shippai", "rpo-shinki-jigyo-taisei", "rpo-shinki-jig
 **費用の見方。**文面と説明の作成は成果物で受けられます。応募前の面談は回数で、連絡と日程調整は月の件数で稼働が決まります。契約の前に、「責任者の聞き取りを一回、文面を一式、面談を月に何回、連絡を月に何件」と決め、その稼働に見合う月額かを見ます。文面の型は[事業開発向けスカウト文面の型](/media/rpo-jigyo-kaihatsu-scout/)に、カジュアル面談は[カジュアル面談は代行に出せるか](/media/rpo-task-casual-mendan-daikou/)に、日程調整は[面接の日程調整は代行に出せるか](/media/rpo-task-nittei-chousei-daikou/)に書いています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

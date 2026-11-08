@@ -57,8 +57,8 @@ related: ["scout-headhunt", "scout-alumni-scout", "scout-daikou-check", "scout-d
 **社内に運用の稼働が無い場合。** 対象設定、文面、送信、返信対応。これを回す稼働が無いと、始めても続きません。代行に出す選択肢はありますが、判断（対象・役割・通す基準）は社内に残ります。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 運用の全工程

@@ -45,8 +45,8 @@ related: ["rpo-mega-venture-rpo", "rpo-mega-venture-shippai", "rpo-mega-venture-
 **時間の目安。**波の前に、要件を落とす一、二時間と、代行を横に置く二週間。その後は、週に一度の代行との確認と、線の中の連絡の確認（その日のうちに返す）と、見送りの理由を戻す短い時間です。スカウトの送信、日程、連絡、記録は代行が持ち、リクルーターは要件と候補者体験と事業部との関係に戻ります。要件の作り方は[採用要件の定義は代行に出せるか](/media/rpo-task-youken-teigi-daikou/)に、スカウトの文面は[スカウト文面の作成は代行に出せるか](/media/rpo-task-scout-bunmen-daikou/)に、カジュアル面談は[カジュアル面談は代行に出せるか](/media/rpo-task-casual-mendan-daikou/)に整理しています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

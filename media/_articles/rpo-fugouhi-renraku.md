@@ -52,8 +52,8 @@ related: ["rpo-oubo-houchi", "rpo-taiken-warui", "rpo-agent-ooi", "rpo-agent-shi
 損失は、見えにくいです。「出さなくても、何も起きていない」ように見えます。ただ、応募が減り、口コミが悪くなり、紹介会社が離れる形で、見えないところで起きています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 期限の決め方

@@ -48,8 +48,8 @@ related: ["rpo-tantousha-keireki", "rpo-eigyo-to-jitsumu", "rpo-erabikata", "rpo
 **だから、自社の状態を先に把握してください**。足りないのは手か、設計か。ここが決まれば、必要なタイプも決まります。三つの形の選び方は[採用代行の種類](/media/rpo-shurui/)にまとめています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

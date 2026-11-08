@@ -51,8 +51,8 @@ related: ["rpo-shanai-se-rpo", "rpo-shanai-se-scout", "rpo-shanai-se-youken", "r
 見ていて差がつくのは、「応募の数ではなく、書類で落とす率を見ているか」です。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 層ごとの見直しの違い

@@ -53,8 +53,8 @@ related: ["rpo-startup-series-a-shippai", "rpo-startup-series-a-taisei", "rpo-st
 **費用の見方。**送信の件数と返信の件数で稼働が決まります。「創業者が抽出と送信と返信と日程に使った時間」が減ったか、「返信のうち面接に進んだ比率」が保たれたかで、最初の月の効果を見ます。送信数と返信率だけを見ると、数字を動かす最短の行動で文面が薄くなります。スカウトの送信は[スカウトの送信は代行に出せるか](/media/rpo-task-scout-soushin-daikou/)に、文面は[スカウト文面の作成は代行に出せるか](/media/rpo-task-scout-bunmen-daikou/)に、日程調整は[面接の日程調整は代行に出せるか](/media/rpo-task-nittei-chousei-daikou/)に整理しています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

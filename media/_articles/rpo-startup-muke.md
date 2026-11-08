@@ -57,8 +57,8 @@ related: ["rpo-daikigyo-muke", "rpo-chusho-muke", "rpo-eigyo-to-jitsumu", "rpo-u
 最低契約期間が長い、範囲の変更ができない、一時停止ができない。**こうした条件は、状況が変わる会社には合いません**。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

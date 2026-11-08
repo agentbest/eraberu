@@ -6,7 +6,7 @@
     const value = button.dataset.filter;
     buttons.forEach(b => b.setAttribute('aria-pressed', String(b === button)));
     [...rows, ...services].forEach(el => { el.hidden = value !== 'all' && !el.dataset.tags.split(' ').includes(value); });
-    document.getElementById('result-count').textContent = `${rows.filter(el => !el.hidden).length}サービスを表示`;
+    if (document.getElementById('result-count')) document.getElementById('result-count').textContent = `${rows.filter(el => !el.hidden).length}サービスを表示`;
   }));
   const initialFilter = new URLSearchParams(window.location.search).get('need');
   if (initialFilter) buttons.find(b => b.dataset.filter === initialFilter)?.click();

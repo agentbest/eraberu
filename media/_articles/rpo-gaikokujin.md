@@ -45,8 +45,8 @@ related: ["rpo-shougaisha-koyou", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-agen
 「全部が分かってから動く」ではなく、「三つを並行して、一つずつ整理する」形にします。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 在留資格の考え方と専門家への相談

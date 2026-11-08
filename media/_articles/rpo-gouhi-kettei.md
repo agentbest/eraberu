@@ -48,8 +48,8 @@ related: ["rpo-mensetsu-hyouka", "rpo-nenshu-kaiji", "rpo-kaigai-itaku", "rpo-ka
 **三番目が実務では効きます**。代行が「迷う候補者」として抽出し、自社が判断する。この形なら、明らかな候補は自動で処理され、自社は判断が要るものだけを見ればよくなります。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

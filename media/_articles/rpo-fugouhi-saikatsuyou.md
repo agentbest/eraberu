@@ -57,8 +57,8 @@ related: ["rpo-talent-pool-katsuyou", "rpo-agent-ooi", "rpo-agent-shitsu", "rpo-
 分ける要点は、「当時の不採用の理由」です。理由が「要件」「時期」「他の候補者」なら、声をかけられます。「相性」「認識のずれ」「言動」なら、かけません。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 伝え方の型

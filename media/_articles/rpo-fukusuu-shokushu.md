@@ -58,8 +58,8 @@ related: ["rpo-gaichu-hanni", "rpo-genba-kyouryoku", "rpo-hikitsugi-nai", "rpo-j
 分ける要点は、「中身は職種ごと、型と窓口は共通」です。中身まで共通にすると職種に合わず、型まで職種ごとにすると手間が四倍になります。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 同時に回す設計

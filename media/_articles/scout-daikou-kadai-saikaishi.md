@@ -41,8 +41,8 @@ related: ["scout-daikou-kadai-baitai", "scout-daikou-kadai-hayasa", "scout-daiko
 **担当者との関係を残す。** 止める理由を率直に伝え、再開の可能性があることを伝えます。担当者の連絡先を残します。良い担当者なら、再開時に同じ人に頼めることが、立ち上げの速さになります。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 止めている間にできること

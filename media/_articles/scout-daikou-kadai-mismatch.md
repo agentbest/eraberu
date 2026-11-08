@@ -39,8 +39,8 @@ related: ["scout-daikou-kadai-shitsu", "scout-daikou-junbi", "scout-daikou-kadai
 **文脈の条件を伝える。** 「整った仕組みの中での経験ではなく、仕組みを作った経験を求めている」のように、環境の条件を伝えます。担当者は、企業規模や組織の段階から、文脈を推測できます。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 返信のやり取りで確かめる

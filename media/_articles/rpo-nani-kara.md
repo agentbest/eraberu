@@ -48,8 +48,8 @@ related: ["rpo-kouka-sokutei", "rpo-toriaezu-boshu", "rpo-yosan-nai", "rpo-yuuse
 数える数字が無い場合、一日目は「今日から記録を始める」にします。過去の数字が無くても、止まっている段階は、応募の対応の実感（返信が遅れている、面接が組めない、辞退が多い）から仮に特定して、動きます。[採用の数字が取れていない](/media/rpo-data-nai/)。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 止まっている段階の特定

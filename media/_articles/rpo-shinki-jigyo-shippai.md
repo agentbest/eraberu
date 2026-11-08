@@ -31,8 +31,8 @@ related: ["rpo-shinki-jigyo-rpo", "rpo-shinki-jigyo-taisei", "rpo-shinki-jigyo-h
 **先に打つ手。**事業の責任者が、候補者に向けて「なぜこの事業を始めるのか」「最初の一年で何をやるのか」「入った人は何を任されるのか」を、社内の言葉ではなく、候補者が自分の次の一歩として想像できる言葉で語る時間を、代行と一緒に一度作ります。代行はそれを聞き取り、スカウトの文面と面接での説明に落とします。実績がないことは隠さず、「実績がないから、作る人が要る」と伝えます。文面の型は[事業開発向けスカウト文面の型](/media/rpo-jigyo-kaihatsu-scout/)に、事業開発の母集団は[事業開発の母集団形成](/media/rpo-jigyo-kaihatsu-boshuudan/)に、カジュアル面談は[カジュアル面談は代行に出せるか](/media/rpo-task-casual-mendan-daikou/)に書いています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

@@ -52,8 +52,8 @@ related: ["rpo-startup-series-b-shippai", "rpo-startup-series-b-taisei", "rpo-st
 **費用の見方。**候補者の件数と面接の回数で稼働が決まります。「採用責任者が要件と言葉と型に使えた時間」が増えたか、「見送りの理由が要件の言葉で戻るようになったか」「候補者が返事を待った日数」が減ったかで、最初の月の効果を見ます。日程調整は[面接の日程調整は代行に出せるか](/media/rpo-task-nittei-chousei-daikou/)に、要件の作り方は[採用要件の定義は代行に出せるか](/media/rpo-task-youken-teigi-daikou/)に、面接官のばらつきは[面接官によって評価がばらつく](/media/rpo-mensetsukan-bara/)に整理しています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

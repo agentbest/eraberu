@@ -57,8 +57,8 @@ related: ["scout-abtest", "scout-ai-bunmen", "scout-boshuudan-hirosugi", "scout-
 材料の要点は、「返信率だけで決めない」ことです。返信率が十分でも、面談以降で落ちていれば、量を増やしても面談の担当者が疲弊するだけです。四つを並べて見ます。指標の見方は[スカウト運用で見るべき指標](/media/scout-shihyou/)に書いています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 状態ごとの判断

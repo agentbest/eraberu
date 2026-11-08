@@ -41,8 +41,8 @@ related: ["rpo-joujou-shippai", "rpo-joujou-taisei", "rpo-joujou-hiyou", "rpo-ch
 **費用の見方。**月に何件の面接を組み、何件の記録を作るかで稼働が決まります。契約の前に「情報の範囲、保管の場所、削除の時期」を線として渡し、その線で受けられるかを確認します。「応募から面接までの日数」が縮んだかで効果を見ます。日程調整は[面接の日程調整は代行に出せるか](/media/rpo-task-nittei-chousei-daikou/)に、候補者の情報とNDAは[採用代行に渡す候補者情報とNDAの範囲](/media/rpo-nda/)に書いています。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ### エラベルの見解

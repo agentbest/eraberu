@@ -43,8 +43,8 @@ related: ["scout-alumni-scout", "scout-baitai-kaiyaku", "scout-baitai-kirikae", 
 三つの層は、経歴の読み方も、文面の一段落目も、訴求も違います。同じ文面では、どの層にも届きません。
 
 <aside class="cta-inline">
-  <p>依頼できる範囲を知ったら、各社の支援内容を比べる</p>
-  <a href="/compare/">採用代行・RPOを比較する</a>
+  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
+  <a href="#service-options">この課題で検討できるサービスを見る</a>
 </aside>
 
 ## 層ごとの文面と訴求
