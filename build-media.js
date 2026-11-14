@@ -401,6 +401,57 @@ function artItem(a, opt = {}) {
 }
 function artList(items, opt) { return `<ul class="art">${items.map(a => artItem(a, opt)).join('')}</ul>`; }
 
+/* ---------- ポータル風の部品（記事トップ・記事ページ） ----------
+   記事にアイキャッチ画像は無いので、サムネイルはCSSだけで作る（ハブ＝カテゴリごとに固定の色の面＋カテゴリ名＋テーマ）。
+   色はハブの並び（HUBS）で決まる固定表。柱ごとに色の系統を分けている（採用代行＝緑系、スカウト代行＝朱系、人事副業＝紺系）。
+   ⚠ アクセス数のデータは無い。「人気」「ランキング」「よく読まれている」とは書かない。 */
+const THUMB_COLORS = {
+  rpo:     ['#24584B', '#1E4E5C', '#3B5D3A', '#365E73', '#2D5A48', '#4A5A2E', '#2B4F6B', '#3E6156', '#2F6B5C'],
+  scout:   ['#B5452A', '#9C3D2E', '#A0522D', '#8A4B1F', '#B04A3A'],
+  fukugyo: ['#3D4A6B', '#4A3F66', '#2F4858', '#5A4A6B', '#38506B', '#47506A', '#3A3F5C'],
+};
+const thumbCss = () => HUBS.map(h => {
+  const list = THUMB_COLORS[h.pillar];
+  const n = HUBS.filter(x => x.pillar === h.pillar).indexOf(h);
+  return `.th--${h.slug}{--th:${list[n % list.length]}}`;
+}).join('\n');
+function thumb(a, size) {
+  const hub = hubOf(a);
+  return `<span class="th th--${hub.slug}${size ? ' th--' + size : ''}" aria-hidden="true"><span class="th__c">${esc(hub.name)}</span><span class="th__k">${esc(a.target || hub.series)}</span></span>`;
+}
+/* カード（サムネ＋カテゴリ＋タイトル＋日付）。日付は記事にある pubDate をそのまま出す */
+function card(a, opt = {}) {
+  const hub = hubOf(a);
+  return `<li class="card${opt.cls ? ' ' + opt.cls : ''}"><a href="/media/${esc(a.slug)}/">${thumb(a, opt.size)}<span class="card__b">`
+    + `<span class="card__m"><span class="card__cat">${esc(hub.name)}</span>${a.pubDate ? `<time datetime="${escAttr(a.pubDate)}">${esc(a.pubDate)}</time>` : ''}</span>`
+    + `<span class="card__t">${esc(a.title)}</span>`
+    + (opt.desc ? `<span class="card__d">${esc(a.description || '')}</span>` : '')
+    + `</span></a></li>`;
+}
+function cardGrid(items, cls) { return `<ul class="cards${cls ? ' ' + cls : ''}">${items.map(a => card(a)).join('')}</ul>`; }
+/* サイドバー用の小さいカード（横並び：小サムネ＋タイトル） */
+function miniList(items) { return `<ul class="minis">${items.map(a => card(a, { size: 'sm', cls: 'card--mini' })).join('')}</ul>`; }
+/* カテゴリのタブ列。スマホはこの列の中だけ横スクロールする */
+function catTabs(current) {
+  const items = [{ href: '/media/', name: 'すべて', key: 'all' }]
+    .concat(PILLARS.map(p => ({ href: `/media/${p.key}/`, name: p.name, key: p.key })))
+    .concat(HUBS.filter(h => h.pillar !== 'fukugyo').map(h => ({ href: `/media/hub/${h.slug}/`, name: h.name, key: h.slug })));
+  return `<nav class="tabs" aria-label="カテゴリ"><ul>${items.map(x =>
+    `<li><a href="${x.href}"${x.key === current ? ' aria-current="page"' : ''}>${esc(x.name)}</a></li>`).join('')}</ul></nav>`;
+}
+/* カテゴリ一覧（件数つき）。柱ごとにハブを並べる */
+function catList(counts, only) {
+  return PILLARS.filter(p => !only || p.key === only).map(p =>
+    `<p class="side__p"><a href="/media/${p.key}/">${esc(p.name)}</a></p><ul class="side__cats">${HUBS.filter(h => h.pillar === p.key && counts.get(h.slug)).map(h =>
+      `<li><a href="/media/hub/${h.slug}/"><span>${esc(h.name)}</span><span class="count">${counts.get(h.slug)}</span></a></li>`).join('')}</ul>`).join('');
+}
+/* サイドバーの相談CTA（既存CTAと同じリンク先） */
+function sideCta(reader) {
+  const c = CTA[reader] || CTA.company;
+  return `<div class="side__box side__cta"><p class="side__h">${esc(c.lead)}</p><p class="side__l">${esc(c.sub)}</p>
+    <a class="cta__btn" href="${escAttr(c.href)}">${esc(c.label)}</a></div>`;
+}
+
 /* ページ送り。agent-best と同じ「← 前へ ｜ n / N ｜ 次へ →」。2ページ目以降は {base}{n}/ */
 function pager(base, page, pages) {
   if (pages <= 1) return '';
@@ -481,11 +532,10 @@ function articleHtml(a, ctx) {
       + tags.map(t => `<li><a href="/media/tag/${t.slug}/">${esc(t.label)}</a></li>`).join('') + `</ul></section>` : '';
 
   const rel = (a.related || []).map(s => ctx.bySlug.get(s)).filter(Boolean);
-  const relHtml = rel.length
-    ? `<section class="block"><h2 class="block__t">関連記事</h2>${artList(rel)}</section>` : '';
 
   /* 同じハブの他の記事。先頭から取ると全記事が同じ6本にリンクするので、
-     並び順の中で「自分の次の6件」を巡回して取り、内部リンクをハブ全体に散らす（agent-best と同じ） */
+     並び順の中で「自分の次の6件」を巡回して取り、内部リンクをハブ全体に散らす（agent-best と同じ）。
+     PCは右サイドバー、スマホは本文の後ろに出る */
   const mates = ctx.byHub.get(hub.slug);
   const relSet = new Set([a.slug, ...rel.map(r => r.slug)]);
   const me = Math.max(0, mates.findIndex(x => x.slug === a.slug));
@@ -494,10 +544,22 @@ function articleHtml(a, ctx) {
     const x = mates[(me + i) % mates.length];
     if (!relSet.has(x.slug)) same.push(x);
   }
+  /* 本文の後ろの「関連記事」カード。frontmatter の related があればそれ、無ければ同じハブの新しい順 */
+  const relCards = rel.length ? rel
+    : ctx.byHubNew.get(hub.slug).filter(x => x.slug !== a.slug && !same.includes(x)).slice(0, 4);
+  const relHtml = relCards.length
+    ? `<section class="block"><h2 class="block__t">関連記事</h2>${cardGrid(relCards, 'cards--rel')}
+      <p class="more"><a href="${hubUrl}">「${esc(hub.name)}」の記事をもっと見る →</a></p></section>` : '';
   const sameHtml = same.length
-    ? `<section class="block"><h2 class="block__t">「${esc(hub.name)}」の他の記事</h2>
-      <ul class="art art--compact">${same.map(x => `<li><a href="/media/${esc(x.slug)}/"><span class="art__t">${esc(x.title)}</span>${x.target ? `<span class="chip">${esc(x.target)}</span>` : ''}</a></li>`).join('')}</ul>
+    ? `<section class="side__box"><h2 class="side__h">「${esc(hub.name)}」の他の記事</h2>
+      ${miniList(same)}
       <p class="more"><a href="${hubUrl}">「${esc(hub.name)}」の記事一覧を見る →</a></p></section>` : '';
+  const side = `<aside class="side" aria-label="サイドバー">
+    ${sameHtml}
+    <section class="side__box"><h2 class="side__h">カテゴリ</h2>${catList(ctx.hubCount, p.key)}
+      <p class="side__p side__p--other">${PILLARS.filter(x => x.key !== p.key).map(x => `<a href="/media/${x.key}/">${esc(x.name)}の記事 →</a>`).join('')}</p></section>
+    <div class="side__stick">${sideCta(a.reader)}</div>
+  </aside>`;
 
   const cr = [{ name: 'ホーム', url: '/' }, { name: 'メディア', url: '/media/' },
               { name: p.name, url: `/media/${p.key}/` }, { name: hub.name, url: hubUrl }];
@@ -513,10 +575,15 @@ function articleHtml(a, ctx) {
   return head({ title: `${a.title}｜エラベル`, desc: a.description, url, ogType: 'article', jsonld })
     + `<main class="wrap art-page">
   ${crumbs(cr)}
+  <div class="art-layout">
+  <article class="art-main">
+  <p class="meta meta--top">
+    <a class="meta__pillar" href="/media/${p.key}/">${esc(p.name)}</a><a class="meta__hub th--${hub.slug}" href="${hubUrl}">${esc(hub.name)}</a>${a.pubDate ? `<span class="meta__date">公開 ${esc(a.pubDate)}</span>` : ''}
+  </p>
   <h1>${esc(a.title)}</h1>
   <p class="article-purpose">${a.reader === 'person' ? '人事副業の実務アーカイブ' : '採用担当者向け実務ガイド'} / この記事は判断の考え方を整理するものです。媒体仕様・料金は出典の基準日と最新の公式情報を合わせてご確認ください。</p>
   <p class="meta">
-    <a class="meta__hub" href="${hubUrl}">${esc(hub.name)}</a>${a.target ? `<span class="chip">${esc(a.target)}</span>` : ''}
+    ${a.target ? `<span class="chip">${esc(a.target)}</span>` : ''}
     <span class="meta__date">情報の基準日 ${esc(a.reviewedAt || a.pubDate)}</span>
   </p>
   ${toc}
@@ -528,9 +595,11 @@ ${html}
   ${share(url, a.title)}
   ${tagHtml}
   ${relHtml}
-  ${sameHtml}
   ${AUTHOR}
   ${ctaBlock(a.reader)}
+  </article>
+  ${side}
+  </div>
 </main>`
     + foot();
 }
@@ -581,23 +650,46 @@ function topHtml(all, ctx) {
   const desc = '採用の課題、任せる業務、費用と契約から必要な記事を探す実務ガイド。採用代行・スカウト代行を比較する前の判断材料を整理しています。';
   const company = all.filter(a => a.reader === 'company');
   const starters = ['rpo-erabikata', 'rpo-hiyou-souba', 'rpo-mitsumori-mikata'].map(slug => ctx.bySlug.get(slug)).filter(Boolean);
+  /* 注目枠：大1本＝「まず読んでおきたい記事」の先頭、小＝その残り＋採用担当者向けの最新記事で3本まで（決定的に決まる） */
+  const featured = starters.concat(company.filter(a => !starters.includes(a))).slice(0, 4);
+  const [big, ...smalls] = featured;
+  /* サイドバーの「注目の記事」：まず読んでおきたい記事＋「課題から探す」の各ハブの最新記事。アクセス数ではない */
+  const picks = [];
+  starters.concat(['rpo-kadai', 'rpo-gyomu', 'rpo-hiyou', 'scout-kaizen'].map(s => (ctx.byHubNew.get(s) || [])[0]))
+    .forEach(a => { if (a && !picks.includes(a)) picks.push(a); });
+  const sideTags = ctx.tagGroups.flatMap(g => g.tags).sort((x, y) => y.count - x.count || x.slug.localeCompare(y.slug)).slice(0, 14);
+  const sech = (id, h, more, moreLabel) => `<div class="sech"><h2${id ? ` id="${id}"` : ''}>${esc(h)}</h2>${more ? `<a href="${more}">${esc(moreLabel || 'もっと見る')} →</a>` : ''}</div>`;
   return head({ title, desc, url: '/media/', jsonld: crumbLd([{name:'ホーム',url:'/'},{name:'採用実務ガイド'}], '/media/') })
     + `<main class="wrap hub hub--top">
   ${crumbs([{name:'ホーム',url:'/'},{name:'採用実務ガイド'}])}
   <h1>採用の困りごとを、記事で整理する。</h1>
   <p class="lead">何を任せるか、いくらで頼むか、どう選ぶか。採用代行の比較に入る前に、必要な情報からご覧ください。</p>
+  ${catTabs('all')}
   ${searchBox()}
-  <nav class="jump" aria-label="ガイドの入口"><a href="#start">はじめての方へ</a><a href="#rpo">採用代行</a><a href="#scout">スカウト代行</a><a href="#archive">人事副業アーカイブ</a><a href="#tag">テーマから探す</a></nav>
-  <h2 class="sec" id="start">まず読んでおきたい記事</h2>
-  ${artList(starters)}
-  <h2 class="sec">課題から探す</h2>
+  <nav class="jump" aria-label="ガイドの入口"><a href="#start">はじめての方へ</a><a href="#latest">新着記事</a><a href="#rpo">採用代行</a><a href="#scout">スカウト代行</a><a href="#archive">人事副業アーカイブ</a><a href="#tag">テーマから探す</a></nav>
+  <div class="portal">
+  <div class="portal__main">
+  ${sech('start', 'まず読んでおきたい記事')}
+  ${big ? `<div class="hero"><ul class="hero__big">${card(big, { size: 'lg', desc: true, cls: 'card--big' })}</ul>
+    <ul class="hero__sub">${smalls.map(a => card(a, { size: 'sm', cls: 'card--mini' })).join('')}</ul></div>` : ''}
+  ${sech('latest', '新着記事（採用担当者向け）', '/media/rpo/', '採用代行の記事をすべて見る')}
+  ${cardGrid(company.slice(0, LATEST))}
+  ${sech('', '課題から探す')}
   <ul class="grid"><li><a href="/media/hub/rpo-kadai/"><span class="grid__n">応募・選考の課題を整理したい</span><span class="grid__d">応募不足や辞退の原因と、外注の使いどころ。</span></a></li><li><a href="/media/hub/rpo-gyomu/"><span class="grid__n">任せられる業務を知りたい</span><span class="grid__d">日程調整、求人票、スカウトなど工程別に読む。</span></a></li><li><a href="/media/hub/rpo-hiyou/"><span class="grid__n">費用・契約の見方を知りたい</span><span class="grid__d">料金体系、見積もり、契約条件を整理する。</span></a></li><li><a href="/media/hub/scout-kaizen/"><span class="grid__n">スカウトの返信を増やしたい</span><span class="grid__d">対象者、件名、文面と運用の見直し。</span></a></li></ul>
-  ${PILLARS.filter(p=>p.key!=='fukugyo').map(p=>`<h2 class="sec" id="${p.key}">${esc(p.name)}の実務ガイド</h2><p class="note">${esc(p.lead)}</p>${hubGrid(HUBS.filter(h=>h.pillar===p.key),ctx.hubCount)}<p class="more"><a href="/media/${p.key}/">${esc(p.name)}の全記事を見る →</a></p>`).join('')}
-  <h2 class="sec">サービス選びに進む</h2>
-  <p class="lead">課題の記事を読みながら、任せられる業務とサービス候補を知ることができます。</p><p><a class="btn btn-primary" href="/compare/">困りごと別のサービス紹介記事へ →</a></p>
-  <h2 class="sec" id="latest">採用担当者向けの記事</h2>${artList(company.slice(0,LATEST))}
-  <h2 class="sec" id="archive">人事副業の実務アーカイブ</h2><p class="note">人事経験を副業で活かす方向けの既存記事を残しています。採用代行を発注する方向けの記事とは分けてご覧ください。エラベルでの担当者登録・案件紹介は受け付けていません。</p><p class="more"><a href="/media/fukugyo/">人事副業の記事を読む →</a></p>
-  <h2 class="sec" id="tag">テーマから探す</h2><details><summary>タグの一覧を開く</summary>${ctx.tagGroups.map(g=>`<div class="group"><h3>${esc(g.name)}</h3>${tagCloud(g.tags)}</div>`).join('')}</details>
+  ${PILLARS.filter(p=>p.key!=='fukugyo').map(p=>`<section class="catsec">${sech(p.key, `${p.name}の実務ガイド`, `/media/${p.key}/`)}<p class="note">${esc(p.lead)}</p>${cardGrid(ctx.byPillar[p.key].slice(0, 6))}<h3 class="catsec__h">テーマから探す</h3>${hubGrid(HUBS.filter(h=>h.pillar===p.key),ctx.hubCount)}<p class="more"><a href="/media/${p.key}/">${esc(p.name)}の全記事を見る →</a></p></section>`).join('')}
+  ${sech('', 'サービス選びに進む')}
+  <p class="lead">課題の記事を読みながら、任せられる業務とサービス候補を知ることができます。</p><p class="go"><a class="btn btn-primary" href="/compare/">困りごと別のサービス紹介記事へ →</a></p>
+  <section class="catsec">${sech('archive', '人事副業の実務アーカイブ', '/media/fukugyo/')}<p class="note">人事経験を副業で活かす方向けの既存記事を残しています。採用代行を発注する方向けの記事とは分けてご覧ください。エラベルでの担当者登録・案件紹介は受け付けていません。</p>${cardGrid(ctx.byPillar.fukugyo.slice(0, 4))}<p class="more"><a href="/media/fukugyo/">人事副業の記事を読む →</a></p></section>
+  ${sech('tag', 'テーマから探す')}<details><summary>タグの一覧を開く</summary>${ctx.tagGroups.map(g=>`<div class="group"><h3>${esc(g.name)}</h3>${tagCloud(g.tags)}</div>`).join('')}</details>
+  </div>
+  <aside class="side" aria-label="サイドバー">
+    <section class="side__box"><h2 class="side__h">注目の記事</h2><p class="side__note">編集部が最初に読んでほしい記事と、課題別の新着です。</p>
+      <ol class="ranks">${picks.map(a => `<li><a href="/media/${esc(a.slug)}/"><span class="ranks__t">${esc(a.title)}</span><span class="ranks__c">${esc(hubOf(a).name)}</span></a></li>`).join('')}</ol></section>
+    <section class="side__box"><h2 class="side__h">カテゴリ</h2>${catList(ctx.hubCount)}</section>
+    ${sideCta('company')}
+    <section class="side__box"><h2 class="side__h">タグ</h2>${tagCloud(sideTags)}<p class="more"><a href="#tag">タグの一覧を見る →</a></p></section>
+  </aside>
+  </div>
   ${ctaBlock('company')}
 </main>` + foot();
 }
@@ -926,6 +1018,116 @@ footer{background:var(--navy);color:var(--on-navy-soft);border-top:1px solid var
 .body .service-guide__note{font-size:.72rem;color:var(--ink-soft);line-height:1.9;margin-top:1.1rem}
 #service-options{scroll-margin-top:110px}
 @media(max-width:600px){.body .service-guide h2{font-size:1.3rem}.service-option dl div{grid-template-columns:1fr;gap:.2rem}.body .service-option h3{font-size:1.15rem}.service-guide__check{padding:1.1rem}.service-option__company span{margin-left:0;margin-top:.4rem;display:table}}
+
+/* ===== ポータル風（記事トップ・記事ページ） ===== */
+:root{--brand:#E4572E}
+.hub--top{max-width:var(--maxw)}
+/* カテゴリのタブ列。はみ出しはこの列の中だけで横スクロール */
+.tabs{margin:1.1em 0 0;border-bottom:1px solid var(--line);overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:thin}
+.tabs ul{list-style:none;margin:0;padding:0;display:flex;gap:2px;white-space:nowrap;width:max-content}
+.tabs a{display:block;padding:.55em .95em;font-size:.87rem;font-weight:700;color:var(--ink-soft);border-bottom:3px solid transparent}
+.tabs a:hover{color:var(--ink);border-bottom-color:var(--line-strong)}
+.tabs a[aria-current]{color:var(--ink);border-bottom-color:var(--brand)}
+
+.portal{display:grid;gap:40px}
+.portal__main{min-width:0}
+@media (min-width:1024px){.portal{grid-template-columns:minmax(0,1fr) 300px}}
+.sech{display:flex;justify-content:space-between;align-items:baseline;gap:.4em 1em;margin:2.4em 0 .9em;padding:.4em .8em;
+  border-left:5px solid var(--navy);background:var(--surface-2);border-radius:4px}
+.sech h2{font-size:1.2rem;line-height:1.5;scroll-margin-top:80px}
+.sech a{flex:none;font-size:.82rem;font-weight:800;color:var(--accent-ink)}
+.sech a:hover{text-decoration:underline}
+@media (max-width:480px){.sech{flex-direction:column}.sech h2{font-size:1.1rem}}
+.catsec__h{font-size:1rem;margin:1.8em 0 .6em}
+.go{margin-top:.9em}
+
+/* CSSだけのサムネイル（16:9。色はハブごとの固定表 .th--{ハブ}） */
+.th{position:relative;display:flex;flex-direction:column;justify-content:space-between;gap:6px;aspect-ratio:16/9;width:100%;
+  padding:10px 12px;background:var(--th,var(--accent));color:#fff;overflow:hidden;border-radius:8px}
+.th::after{content:'';position:absolute;right:-16%;bottom:-45%;width:65%;aspect-ratio:1;border-radius:50%;background:rgba(255,255,255,.1)}
+.th::before{content:'';position:absolute;left:12px;bottom:10px;width:22px;height:3px;border-radius:2px;background:var(--brand)}
+.th__c{position:relative;z-index:1;font-size:.68rem;font-weight:700;line-height:1.4;opacity:.92;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.th__k{position:relative;z-index:1;margin-bottom:10px;font-size:1.02rem;font-weight:800;line-height:1.35;overflow-wrap:anywhere;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.th--lg .th__c{font-size:.8rem}
+.th--lg .th__k{font-size:1.55rem}
+.th--sm{flex:none;width:96px;padding:6px 8px;border-radius:6px;justify-content:center}
+.th--sm .th__c,.th--sm::before{display:none}
+.th--sm .th__k{margin:0;font-size:.7rem;-webkit-line-clamp:3}
+
+/* カード */
+.cards{list-style:none;padding:0;margin:0;display:grid;gap:20px 16px;grid-template-columns:repeat(2,minmax(0,1fr))}
+@media (min-width:760px){.cards{grid-template-columns:repeat(3,minmax(0,1fr))}.cards--rel{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.card a{display:flex;flex-direction:column;gap:8px;height:100%}
+.card a:hover .card__t{text-decoration:underline}
+.card a:hover .th{filter:brightness(1.08)}
+.card__b{display:flex;flex-direction:column;gap:3px;min-width:0}
+.card__m{display:flex;flex-wrap:wrap;align-items:baseline;gap:.1em .7em;font-size:.72rem;line-height:1.5;color:var(--ink-faint)}
+.card__cat{font-weight:800;color:var(--accent-ink)}
+.card__m time{font-family:var(--mono)}
+.card__t{font-weight:800;font-size:.9rem;line-height:1.6;overflow-wrap:anywhere;
+  display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.card__d{font-size:.85rem;color:var(--ink-soft);line-height:1.75;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.card--mini a{flex-direction:row;align-items:flex-start;gap:12px}
+.card--mini .card__t{font-size:.85rem}
+@media (max-width:420px){.cards{gap:16px 12px}.card__t{font-size:.85rem}.th__k{font-size:.9rem}}
+
+/* 注目枠 */
+.hero{display:grid;gap:18px}
+.hero ul{list-style:none;margin:0;padding:0}
+.hero__sub{display:grid;gap:14px;align-content:start}
+.hero__sub li+li{border-top:1px solid var(--line);padding-top:14px}
+.card--big .card__t{font-size:1.2rem;-webkit-line-clamp:4}
+@media (min-width:760px){.hero{grid-template-columns:minmax(0,1.35fr) minmax(0,1fr)}}
+
+/* サイドバー（1024px以上で右。未満は本文の後ろ） */
+.side{min-width:0;display:flex;flex-direction:column;gap:22px}
+.side__box{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px 18px}
+.side__h{font-size:.98rem;line-height:1.5;margin:0 0 .7em;padding:0 0 .5em;border:0;border-bottom:2px solid var(--navy);background:none}
+.side__note{font-size:.75rem;color:var(--ink-faint);line-height:1.6;margin:-.3em 0 .4em}
+.side__cta{background:var(--navy);border-color:var(--navy);color:#fff}
+.side__cta .side__h{color:#fff;border-bottom-color:var(--on-navy-line)}
+.side__l{font-size:.82rem;line-height:1.75;color:var(--on-navy-soft);margin:0 0 1em}
+.side__cta .cta__btn{display:block;text-align:center;padding:.7rem 1rem;font-size:.88rem}
+.side__p{font-weight:800;font-size:.88rem;margin:.7em 0 .15em}
+.side__p:first-of-type{margin-top:0}
+.side__p a:hover{text-decoration:underline}
+.side__p--other{display:flex;flex-direction:column;gap:.2em;margin-top:.9em;font-size:.84rem;color:var(--accent-ink)}
+.side__cats{list-style:none;margin:0;padding:0}
+.side__cats a{display:flex;justify-content:space-between;gap:.6em;padding:.3em 0;font-size:.84rem;line-height:1.6;color:var(--ink-soft);border-bottom:1px dashed var(--line)}
+.side__cats a:hover{color:var(--ink)}
+.side .chips{gap:6px}
+.side .chips a{font-size:.78rem}
+.side .more{font-size:.85rem}
+.minis{list-style:none;margin:0;padding:0;display:grid;gap:12px}
+.ranks{list-style:none;margin:0;padding:0;counter-reset:r}
+.ranks li{counter-increment:r;border-bottom:1px solid var(--line)}
+.ranks li:last-child{border-bottom:0}
+.ranks a{display:grid;grid-template-columns:26px minmax(0,1fr);column-gap:10px;padding:.65em 0}
+.ranks a::before{content:counter(r);grid-row:span 2;display:grid;place-items:center;width:26px;height:26px;border-radius:6px;
+  background:var(--navy);color:#fff;font-weight:800;font-size:.8rem;font-family:var(--mono);line-height:1}
+.ranks li:nth-child(-n+3) a::before{background:var(--brand)}
+.ranks__t{font-weight:800;font-size:.86rem;line-height:1.55}
+.ranks a:hover .ranks__t{text-decoration:underline}
+.ranks__c{font-size:.72rem;color:var(--ink-faint);line-height:1.5}
+
+/* 記事ページ：PCは本文（約680px）＋右サイドバー */
+.art-page{max-width:var(--maxw)}
+.art-layout{display:grid;gap:40px}
+.art-main{min-width:0}
+.art-layout>*{width:100%;max-width:var(--readw);margin:0 auto}
+@media (min-width:1024px){
+  .art-layout{grid-template-columns:minmax(0,1fr) 300px}
+  .art-layout>*{max-width:none;margin:0}
+  .side__stick{position:sticky;top:84px}
+}
+.meta--top{margin:6px 0 0;gap:.4em .6em}
+.meta__pillar{font-weight:800;font-size:.8rem;color:var(--ink-soft)}
+.meta__pillar:hover{text-decoration:underline}
+.meta--top .meta__hub{background:var(--th,var(--navy));color:#fff;font-size:.78rem}
+.meta--top .meta__hub:hover{background:var(--th,var(--navy));opacity:.88}
+.block .more{margin-top:1.1em}
+${thumbCss()}
 `;
 
 /* ---------- 出力 ---------- */
@@ -978,7 +1180,11 @@ function main() {
     tags: g.tags.map(([slug, label]) => ({ slug, label, count: byTag.get(slug).length })).filter(t => liveTags.has(t.slug)) }))
     .filter(g => g.tags.length);
 
-  const ctx = { bySlug: new Map(all.map(a => [a.slug, a])), byHub, hubCount, byPillar, liveTags, tagGroups };
+  /* ハブごとの新しい順（all が新しい順なのでそのまま振り分ける）。記事ページの関連記事・トップのカテゴリ別で使う */
+  const byHubNew = new Map(HUBS.map(h => [h.slug, []]));
+  all.forEach(a => byHubNew.get(hubOf(a).slug).push(a));
+
+  const ctx = { bySlug: new Map(all.map(a => [a.slug, a])), byHub, byHubNew, hubCount, byPillar, liveTags, tagGroups };
 
   /* 古い出力を消す（記事を削ったときに残骸が残らないように）。_articles と assets は消さない */
   if (fs.existsSync(OUT)) {
