@@ -371,3 +371,40 @@ footer{background:var(--navy);color:var(--on-navy-soft);border-top:1px solid var
 .th--fukugyo-skill{--th:#38506B}
 .th--fukugyo-gyomu{--th:#47506A}
 .th--fukugyo-keireki{--th:#3A3F5C}
+
+/* 運営会社のスカウト代行LPへの導線（own-promo.js） */
+.ob-own,.ob-pr{display:inline-block;margin-left:.5em;padding:.05em .55em;border-radius:4px;font-size:.68rem;font-weight:800;vertical-align:.12em}
+.ob-own{background:#E4E5FB;color:#33359E}.ob-pr{background:#f3f0e8;color:#6b5a2e;border:1px solid #d8ccb0}
+.ob-top{margin:1.6rem 0 2.2rem;padding:1.2rem 1.2rem 1rem;border:2px solid #4C4FD8;border-radius:12px;background:#F7F7FF}
+.ob-top__h{margin:0 0 .8rem;font-weight:900;font-size:1.05rem;line-height:1.55}.ob-top__h em{font-style:normal;background:linear-gradient(transparent 60%,#FFE08A 60%)}
+.ob-top__list{list-style:none;margin:0;padding:0;display:grid;gap:.6rem}
+.body .ob-top__list li{margin:0;padding:.75rem .9rem;border:1px solid var(--line);border-radius:9px;background:#fff;display:grid;grid-template-columns:auto 1fr auto;gap:.2rem .7rem;align-items:center}
+.body .ob-top__list li::before{content:none}
+.ob-top__n{grid-row:span 2;font-size:.7rem;font-weight:900;color:#fff;background:#0B1A32;border-radius:6px;padding:.3rem .5rem;white-space:nowrap}
+.ob-top__own .ob-top__n{background:#4C4FD8}
+.ob-top__list b{font-size:.95rem}
+.ob-top__d{grid-column:2;font-size:.82rem;color:var(--ink-soft,#48586F);line-height:1.5}
+.body .ob-top__list a{grid-column:3;grid-row:1/span 2;font-size:.8rem;font-weight:800;white-space:nowrap}
+.body .ob-top__list a.ob-top__btn,.body a.ob-btn{display:inline-block;background:#E8590C;color:#fff;border-radius:8px;padding:.6rem 1rem;text-decoration:none;box-shadow:0 6px 16px -8px #E8590C}
+.body a.ob-btn:hover,.body .ob-top__list a.ob-top__btn:hover{background:#C9480A}
+.ob-top__note,.ob-mid__note{margin:.7rem 0 0;font-size:.72rem;color:#6b7280;line-height:1.6}
+@media (max-width:600px){.body .ob-top__list li{grid-template-columns:auto 1fr}.body .ob-top__list a{grid-column:1/-1;grid-row:auto;text-align:center}}
+.ob-mid{margin:2.4rem 0;padding:1rem;border:1px solid var(--line);border-radius:12px;background:#fff;text-align:center}
+.ob-mid__h{margin:0 0 .6rem;font-size:.8rem;font-weight:800;color:#33359E}.ob-mid__h span{font-weight:700;color:#6b7280}
+.body a.ob-mid__bn,.ob-mid__bn{display:block;max-width:600px;margin:0 auto .8rem;border:0}
+.ob-mid__bn img,.ob-end__bn img,.ob-side img{display:block;width:100%;height:auto;border-radius:12px;transition:transform .15s}
+.ob-mid__bn:hover img,.ob-end__bn:hover img{transform:translateY(-2px)}
+.ob-mid a.ob-btn{min-width:min(100%,340px);padding:.85rem 1.4rem;font-size:1rem;font-weight:900}
+.ob-end{margin:2.8rem 0 1.6rem;padding:1.6rem 1.4rem;border-radius:14px;background:#0B1A32;color:#EAF0F8}
+.ob-end__eyebrow{margin:0 0 .3rem;font-size:.82rem;font-weight:800;color:#FFD166}
+.ob-end h2{margin:0 0 1rem;padding:0;border:0;background:none;color:#fff;font-size:1.3rem;line-height:1.5}
+.ob-end__in{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:1.2rem;align-items:center}
+.ob-end ul{margin:0;padding:0;list-style:none}.ob-end li{margin:0 0 .5rem;padding-left:1.5em;position:relative;font-size:.92rem;line-height:1.6}
+.ob-end li::before{content:"✓";position:absolute;left:0;color:#12A150;font-weight:900}
+.ob-end__who{margin:.6rem 0 0;font-size:.85rem;color:#C9D4E5}
+.ob-end a.ob-btn--lg,.ob-end .ob-btn--lg{display:block;margin:1.2rem auto 0;max-width:460px;text-align:center;padding:1rem;font-size:1.05rem;font-weight:900;background:#E8590C;color:#fff;border-radius:10px;text-decoration:none}
+.ob-end__note{margin:1rem 0 0;font-size:.74rem;color:#9CB0CB;line-height:1.7}.ob-end__note a{color:#fff;text-decoration:underline}
+@media (max-width:640px){.ob-end__in{grid-template-columns:1fr}}
+.ob-side img{margin:0 0 .7rem}.ob-side a.ob-btn{display:block;text-align:center;background:#E8590C;color:#fff;border-radius:8px;padding:.65rem;font-weight:900}
+.ob-mid--list{max-width:720px;margin-left:auto;margin-right:auto}
+.ob-mid--list a.ob-btn{display:inline-block;background:#E8590C;color:#fff;border-radius:8px;padding:.85rem 1.4rem;font-weight:900}

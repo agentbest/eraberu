@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" font-family="'Hiragino Kaku Gothic ProN','Hiragino Sans','Yu Gothic','Noto Sans JP','Meiryo',sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1A32"/><stop offset="1" stop-color="#1E2470"/></linearGradient>
+    <radialGradient id="gl" cx=".88" cy=".1" r=".6"><stop offset="0" stop-color="#4C4FD8" stop-opacity=".75"/><stop offset="1" stop-color="#4C4FD8" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="600" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="600" height="300" rx="18" fill="url(#gl)"/>
+  <g fill="none" stroke="#fff" stroke-opacity=".08"><circle cx="520" cy="250" r="90"/><circle cx="520" cy="250" r="130"/></g>
+  <rect x="30" y="26" width="214" height="28" rx="14" fill="#4C4FD8"/>
+  <text x="137" y="45" fill="#fff" font-size="14" font-weight="700" text-anchor="middle">採用ご担当者さまへ｜スカウト代行</text>
+  <text x="30" y="102" fill="#fff" font-size="34" font-weight="800">スカウト運用を、</text>
+  <text x="30" y="146" fill="#fff" font-size="34" font-weight="800">まるごと代行。</text>
+  <text x="30" y="206" fill="#C9CBFF" font-size="20" font-weight="700">月額</text>
+  <text x="78" y="212" fill="#FFD166" font-size="58" font-weight="900">0</text>
+  <text x="116" y="210" fill="#FFD166" font-size="28" font-weight="900">円〜</text>
+  <text x="182" y="190" fill="#EAF0F8" font-size="14" font-weight="700">成果報酬 新卒20万円／中途50万円</text>
+  <text x="182" y="212" fill="#9CB0CB" font-size="13">OpenWork・BizReach・doda・Green・AMBI</text>
+  <rect x="30" y="236" width="230" height="44" rx="10" fill="#4C4FD8"/>
+  <text x="145" y="264" fill="#fff" font-size="17" font-weight="800" text-anchor="middle">無料で相談する →</text>
+  <text x="572" y="268" fill="#9CB0CB" font-size="12" text-anchor="end">運営会社：株式会社エージェントベスト</text>
+  <text x="572" y="284" fill="#9CB0CB" font-size="11" text-anchor="end">有料職業紹介 13-ユ-316964</text>
+</svg>

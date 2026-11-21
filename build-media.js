@@ -23,7 +23,8 @@
 'use strict';
 const fs = require('fs');
 const path = require('path');
-const {guideFor, profileFor, personGuideFor} = require('./service-guides');
+const {guideFor, profileFor, personGuideFor, services: SERVICES} = require('./service-guides');
+const OB = require('./own-promo');
 
 const DIR = __dirname;
 const SRC = path.join(DIR, 'media', '_articles');
@@ -109,7 +110,7 @@ const TAG_BY_LABEL = new Map(TAGS.map(t => [t.label, t]));
 const CTA = {
   company: { href: '/compare/', label: '課題に合うサービスを記事で探す',
              lead: '困りごとから、任せられるサービスを知る', sub: '応募不足、日程調整、スカウトの改善。課題ごとの記事で、頼める業務とサービス候補を紹介しています。',
-             alt: { href: '/#consult', label: '運営会社のスカウト代行を見る' } },
+             alt: { href: 'https://scout.agent-best.net/?utm_source=eraberu&utm_medium=cta&utm_campaign=navy', label: '運営会社のスカウト代行（月額0円〜）' } },
   person:  { href: '/media/fukugyo/', label: '人事副業の実務記事を探す',
              lead: '人事副業の進め方を、記事で整理する', sub: '業務範囲、報酬、契約、働き方についてまとめた既存記事のアーカイブです。担当者登録や案件紹介を申し込むページではありません。',
              alt: { href: '/media/fukugyo/', label: '人事副業の記事を読む' } },
@@ -327,6 +328,7 @@ function foot() {
   <!-- ab-network:start --><nav class="abn" aria-label="エージェントベストのサイト一覧"><style>.abn{margin:32px 0 0;padding:24px 0 0;border-top:1px solid rgba(127,127,127,.28);font-size:13px;line-height:1.6;text-align:left;color:inherit}.abn-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:20px 32px}.abn-h{margin:0 0 8px;font-size:12px;font-weight:700;letter-spacing:.06em;opacity:.9}.abn ul{list-style:none;margin:0;padding:0}.abn li{margin:0 0 4px;padding:0}.abn li:before{content:none}.abn a{color:inherit;opacity:.78;text-decoration:none;border:0;background:none}.abn a:hover,.abn a:focus-visible{opacity:1;text-decoration:underline}.abn-op{margin:16px 0 0;font-size:12px;opacity:.75}</style><div class="abn-grid"><div><p class="abn-h">転職のご相談（特化サイト）</p><ul><li><a href="https://lp.pmtenshoku.com/" target="_blank" rel="noopener">PM・プロジェクトマネージャーの転職</a></li><li><a href="https://eng.agent-best.net/" target="_blank" rel="noopener">エンジニアからコンサルへの転職</a></li><li><a href="https://lp.matenshoku.com/" target="_blank" rel="noopener">未経験からM&amp;A業界へ</a></li><li><a href="https://lp.consultenshoku.com/" target="_blank" rel="noopener">未経験からコンサルへ</a></li><li><a href="https://engineertenshoku.com/" target="_blank" rel="noopener">未経験からエンジニアへ</a></li><li><a href="https://lp.kumikomitenshoku.com/" target="_blank" rel="noopener">IoT・組込みエンジニアの転職</a></li><li><a href="https://fde.agent-best.net/" target="_blank" rel="noopener">FDE（フォワードデプロイドエンジニア）</a></li><li><a href="https://consultingcareerchange50.agent-best.net/" target="_blank" rel="noopener">コンサルファーム出身者の次のキャリア</a></li><li><a href="https://student.agent-best.net/" target="_blank" rel="noopener">学生のキャリア支援</a></li><li><a href="https://skill.agent-best.net/genba/" target="_blank" rel="noopener">医療・介護・現場の仕事からの転職</a></li></ul></div><div><p class="abn-h">求人・情報を探す</p><ul><li><a href="https://jobs.agent-best.net/" target="_blank" rel="noopener">中途・ハイクラスの求人</a></li><li><a href="https://skill.agent-best.net/" target="_blank" rel="noopener">未経験・第二新卒の求人</a></li><li><a href="https://shinsotsu.agent-best.net/" target="_blank" rel="noopener">新卒・インターンの求人</a></li><li><a href="https://freelanceanken.com/" target="_blank" rel="noopener">フリーランス案件（エンジニア・コンサル）</a></li><li><a href="https://www.pmtenshoku.com/" target="_blank" rel="noopener">PM転職の求人検索</a></li><li><a href="https://www.consultenshoku.com/" target="_blank" rel="noopener">コンサル転職の求人検索</a></li><li><a href="https://www.matenshoku.com/" target="_blank" rel="noopener">M&amp;A転職の求人検索</a></li><li><a href="https://www.eigyotenshoku.com/" target="_blank" rel="noopener">営業転職の求人検索</a></li><li><a href="https://www.kumikomitenshoku.com/" target="_blank" rel="noopener">IoT・組込み転職の求人検索</a></li><li><a href="https://zaiseikatenshoku.com/" target="_blank" rel="noopener">財政課・自治体経験を活かす転職</a></li><li><a href="https://www.agent-best.net/media/" target="_blank" rel="noopener">転職メディア</a></li><li><a href="https://www.agent-best.net/cases/" target="_blank" rel="noopener">転職事例集</a></li><li><a href="https://www.agent-hi-kaku.com/" target="_blank" rel="noopener">転職エージェント比較</a></li></ul></div><div><p class="abn-h">採用ご担当者さまへ</p><ul><li><a href="https://www.agent-best.net/business/" target="_blank" rel="noopener">人材紹介（求人のご依頼）</a></li><li><a href="https://scout.agent-best.net/" target="_blank" rel="noopener">スカウト代行</a></li><li><a href="https://offerboxapp.com/" target="_blank" rel="noopener">OfferBox運用代行</a></li><li><a href="https://green.agent-best.net/" target="_blank" rel="noopener">Green運用代行</a></li><li><a href="https://infra.agent-best.net/" target="_blank" rel="noopener">長期インターン採用（Infra）</a></li><li><a href="https://saiyo-media.agent-best.net/" target="_blank" rel="noopener">求人広告代理店（求人媒体の比較・申込）</a></li></ul></div></div><p class="abn-op">運営：<a href="https://www.agent-best.net/" target="_blank" rel="noopener">株式会社エージェントベスト</a></p></nav><!-- ab-network:end --></div>
 </footer>
 <!-- ab-chat:start --><script src="/ab-chat.js" defer data-ab-chat data-site="eraberu" data-mode="business" data-label="エラベル"></script><!-- ab-chat:end -->
+${OB.JS}
 </body>
 </html>`;
 }
@@ -485,6 +487,9 @@ function articleHtml(a, ctx) {
   const hubUrl = `/media/hub/${hub.slug}/`;
   let { html, heads } = mdToHtml(a._body);
   const guide = guideFor(a) || personGuideFor(a);
+  /* 自社LP（スカウト代行）：中ほどのバナーは guide を入れる前に位置を決める（guide の section の中に入れないため） */
+  const company = a.reader !== 'person';
+  if (company && guide) html = OB.insertMid(html, OB.midBanner(a));
   if (guide) {
     let at = heads.findIndex(h => /まとめ/.test(h.text));
     if (at < 0) at = heads.findIndex(h => /よくある質問/.test(h.text));
@@ -497,6 +502,7 @@ function articleHtml(a, ctx) {
       heads.push({id:guide.id||'service-options',text:guide.title});
     }
   }
+  if (company && guide) html = OB.insertTop(html, OB.topBox(a, guide, SERVICES));
   const url = `/media/${a.slug}/`;
 
   const toc = heads.length >= 3
@@ -559,7 +565,7 @@ function articleHtml(a, ctx) {
     ${sameHtml}
     <section class="side__box"><h2 class="side__h">カテゴリ</h2>${catList(ctx.hubCount, p.key)}
       <p class="side__p side__p--other">${PILLARS.filter(x => x.key !== p.key).map(x => `<a href="/media/${x.key}/">${esc(x.name)}の記事 →</a>`).join('')}</p></section>
-    <div class="side__stick">${sideCta(a.reader)}</div>
+    <div class="side__stick">${company ? OB.sideBox(a) : ''}${sideCta(a.reader)}</div>
   </aside>`;
 
   const cr = [{ name: 'ホーム', url: '/' }, { name: 'メディア', url: '/media/' },
@@ -591,6 +597,7 @@ function articleHtml(a, ctx) {
   <div class="body">
 ${html}
   </div>
+  ${company ? OB.endBlock(a) : ''}
   ${srcHtml}
   ${box}
   ${share(url, a.title)}
@@ -620,6 +627,7 @@ function listPage(o) {
   <h2 class="sec">${esc(o.listTitle || 'すべての記事')}（${o.total}本）${o.pages > 1 ? `<span class="pageof">${o.page}／${o.pages}ページ</span>` : ''}</h2>
   ${artList(o.items, { noPillar: o.noPillar })}
   ${pager(o.base, o.page, o.pages)}
+  ${o.reader === 'company' ? OB.listBanner(/shinsotsu/.test(o.base) ? 'offerbox' : 'scout', 'list', o.base) : ''}
   ${share(o.base, o.h1, 'このページをシェア')}
   ${ctaBlock(o.reader, o.ctaTitle)}
 </main>`
@@ -678,6 +686,7 @@ function topHtml(all, ctx) {
   ${sech('', '課題から探す')}
   <ul class="grid"><li><a href="/media/hub/rpo-kadai/"><span class="grid__n">応募・選考の課題を整理したい</span><span class="grid__d">応募不足や辞退の原因と、外注の使いどころ。</span></a></li><li><a href="/media/hub/rpo-gyomu/"><span class="grid__n">任せられる業務を知りたい</span><span class="grid__d">日程調整、求人票、スカウトなど工程別に読む。</span></a></li><li><a href="/media/hub/rpo-hiyou/"><span class="grid__n">費用・契約の見方を知りたい</span><span class="grid__d">料金体系、見積もり、契約条件を整理する。</span></a></li><li><a href="/media/hub/scout-kaizen/"><span class="grid__n">スカウトの返信を増やしたい</span><span class="grid__d">対象者、件名、文面と運用の見直し。</span></a></li></ul>
   ${PILLARS.filter(p=>p.key!=='fukugyo').map(p=>`<section class="catsec">${sech(p.key, `${p.name}の実務ガイド`, `/media/${p.key}/`)}<p class="note">${esc(p.lead)}</p>${cardGrid(ctx.byPillar[p.key].slice(0, 6))}<h3 class="catsec__h">テーマから探す</h3>${hubGrid(HUBS.filter(h=>h.pillar===p.key),ctx.hubCount)}<p class="more"><a href="/media/${p.key}/">${esc(p.name)}の全記事を見る →</a></p></section>`).join('')}
+  ${OB.listBanner('scout', 'top', '/media/')}
   ${sech('', 'サービス選びに進む')}
   <p class="lead">課題の記事を読みながら、任せられる業務とサービス候補を知ることができます。</p><p class="go"><a class="btn btn-primary" href="/compare/">困りごと別のサービス紹介記事へ →</a></p>
   <section class="catsec">${sech('archive', '人事副業の実務アーカイブ', '/media/fukugyo/')}<p class="note">人事経験を副業で活かす方向けの既存記事を残しています。採用代行を発注する方向けの記事とは分けてご覧ください。エラベルでの担当者登録・案件紹介は受け付けていません。</p>${cardGrid(ctx.byPillar.fukugyo.slice(0, 4))}<p class="more"><a href="/media/fukugyo/">人事副業の記事を読む →</a></p></section>
@@ -687,6 +696,7 @@ function topHtml(all, ctx) {
     <section class="side__box"><h2 class="side__h">注目の記事</h2><p class="side__note">編集部が最初に読んでほしい記事と、課題別の新着です。</p>
       <ol class="ranks">${picks.map(a => `<li><a href="/media/${esc(a.slug)}/"><span class="ranks__t">${esc(a.title)}</span><span class="ranks__c">${esc(hubOf(a).name)}</span></a></li>`).join('')}</ol></section>
     <section class="side__box"><h2 class="side__h">カテゴリ</h2>${catList(ctx.hubCount)}</section>
+    ${OB.sideBox({ slug: 'media-top', reader: 'company', title: '' })}
     ${sideCta('company')}
     <section class="side__box"><h2 class="side__h">タグ</h2>${tagCloud(sideTags)}<p class="more"><a href="#tag">タグの一覧を見る →</a></p></section>
   </aside>
@@ -1208,7 +1218,7 @@ function main() {
       fs.rmSync(path.join(OUT, f), { recursive: true, force: true });
     });
   }
-  w('assets/media.css', CSS);
+  w('assets/media.css', CSS + OB.CSS);
   fs.writeFileSync(path.join(DIR, '.nojekyll'), '', 'utf8');
 
   all.forEach(a => w(`${a.slug}/index.html`, articleHtml(a, ctx)));
