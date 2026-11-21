@@ -225,6 +225,20 @@ footer{background:var(--navy);color:var(--on-navy-soft);border-top:1px solid var
 .body .service-guide__check h3{margin:0 0 .6rem;padding:0;border:none;font-size:1rem}
 .body .service-guide__check p{margin:0;font-size:.88rem}
 .body .service-guide__note{font-size:.72rem;color:var(--ink-soft);line-height:1.9;margin-top:1.1rem}
+.body a.service-option__bn{display:block;width:300px;max-width:100%;margin:.4rem 0 1rem}.service-option__bn img{display:block;width:300px;max-width:100%;height:auto;border-radius:6px}
+/* 人事副業（個人向け）の記事のPR枠（service-guides.js の personGuideFor） */
+.pr-guide{margin:3.5rem 0;padding:1.6rem 1.4rem;border:2px solid var(--accent-ink);border-radius:10px;background:#fffaf4;scroll-margin-top:100px}
+.body .pr-guide__eyebrow{display:inline-block;font-size:.72rem;font-weight:800;letter-spacing:.06em;color:var(--accent-ink);border:1px solid var(--accent-ink);border-radius:3px;padding:.05rem .5rem;margin:0 0 .6rem}
+.body .pr-guide h2{margin-top:0;border:none;padding:0;font-size:1.4rem;line-height:1.6}
+.pr-guide__cards{display:grid;gap:1.2rem;margin-top:1rem}
+.pr-card{position:relative;padding:1.2rem;border:1px solid var(--line);border-radius:8px;background:#fff}
+.body .pr-card__name{font-weight:900;font-size:1.1rem;margin:0}.pr-card__name span{font-size:.7rem;font-weight:800;color:var(--accent-ink);background:var(--accent-tint);padding:.05rem .45rem;border-radius:3px;vertical-align:2px}
+.body .pr-card__catch{font-weight:800;color:var(--accent-ink);margin:.3rem 0 .6rem}
+.body a.pr-card__bn{display:block;width:300px;max-width:100%;margin:0 auto .6rem}.pr-card__bn img{display:block;width:300px;max-width:100%;height:auto;border-radius:6px}
+.pr-card ul{margin:.4rem 0;padding-left:1.2em;font-size:.9rem}
+.body .pr-card__who{font-size:.85rem;background:var(--accent-tint);padding:.5rem .8rem;border-radius:5px;margin:.6rem 0}
+.body a.pr-card__btn{display:block;max-width:380px;margin:.8rem auto 0;padding:.8rem 1rem;border-radius:999px;background:linear-gradient(180deg,#ff8a1f,#f0650a);box-shadow:0 4px 0 #c04f05;color:#fff;font-weight:800;text-align:center;text-decoration:none}
+.body .pr-guide__note{font-size:.72rem;color:var(--ink-soft);line-height:1.9;margin-top:1rem}
 #service-options{scroll-margin-top:110px}
 @media(max-width:600px){.body .service-guide h2{font-size:1.3rem}.service-option dl div{grid-template-columns:1fr;gap:.2rem}.body .service-option h3{font-size:1.15rem}.service-guide__check{padding:1.1rem}.service-option__company span{margin-left:0;margin-top:.4rem;display:table}}
 
