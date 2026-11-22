@@ -10,6 +10,17 @@ pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "scout-daikou-shounin"
 related: ["scout-daikou-kakunin-flow", "scout-daikou-hinshitsu-kanri", "scout-baitai-kaiyaku", "scout-baitai-kirikae"]
+serviceProfile: "general"
+serviceIds: ["marugoto", "caster"]
+serviceTitle: "承認の条件と送信前の確認を整理するなら"
+serviceLead: "誰を送信対象にするか、どの表現を使えるかの方針は自社で持ちます。以下はスカウトの実務を補う候補です。全件確認をなくすことを目的にせず、承認が必要な例外と、合意した条件で進める範囲を整理して相談します。"
+serviceCheck: "必須条件・除外条件、承認が必要な文面、確認期限、例外時の連絡先を用意します。送信前の確認方法、履歴と抜き取り確認、条件変更時の再承認を決め、合意前の送信を防ぐ運用を確認します。"
+serviceAngle_marugoto: "社内の役割と外部の実行を整理する"
+serviceReason_marugoto: "スカウトと採用実務を扱うため、対象者と文面の確認を日々の運用に組み込みたい場合の候補です。承認待ちの件数や、例外の判断をどう社内へ戻すか確認します。"
+serviceConfirm_marugoto: "現場への確認と資料準備、任せる採用実務、社内の判断者、承認待ちや例外の扱い、成果物と報告、稼働・費用を確認。"
+serviceAngle_caster: "連絡・準備・運用を継続して補う"
+serviceReason_caster: "スカウト運用を扱うため、確認の締め切りと送信の段取りをつなぎたい場合の候補です。使う媒体での承認方法、履歴の残し方、担当者が判断できる範囲を確認します。"
+serviceConfirm_caster: "利用媒体と管理環境、準備・調整する範囲、現場に残す確認と判断、連絡の窓口、承認期限と記録、稼働・費用を確認。"
 ---
 
 代行が書いた文面を、一通ずつ承認してから送るか。**全件を承認すれば事故は防げますが、送信が遅れ、確認の時間も積み上がります**。そして、候補者への接触が遅れると、他社が先に声をかけます。この記事では、全件承認が必要な場面と、減らしていく判断を整理します。確認フローの設計は[送信前の文面確認フロー](/media/scout-daikou-kakunin-flow/)にまとめています。

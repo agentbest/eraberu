@@ -10,6 +10,7 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-candidate-data"
 related: ["rpo-data-henkan", "rpo-kouhosha-tsuuchi", "rpo-agent-tono-chigai", "rpo-aiaigasa"]
+serviceProfile: "none"
 ---
 
 選考で不採用となった候補者の情報を、いつまで持つか。**多くの会社が、決めないまま持ち続けています**。採用管理システムに残り、媒体にも残り、代行会社の環境にも残る。決めていないと、削除の判断をする機会がありません。この記事では、保管期間の決め方と、代行会社と共有する範囲を整理します。なお、**個人データの取り扱いは自社の管理体制や取得時の説明によって判断が変わるため、専門家にご確認ください**。
@@ -58,7 +59,7 @@ related: ["rpo-data-henkan", "rpo-kouhosha-tsuuchi", "rpo-agent-tono-chigai", "r
 
 <aside class="cta-inline">
   <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

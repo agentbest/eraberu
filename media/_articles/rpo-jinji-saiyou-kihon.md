@@ -10,6 +10,17 @@ pubDate: 2026-09-08
 reviewedAt: 2026-09-08
 slug: "rpo-jinji-saiyou-kihon"
 related: ["rpo-jinji-ikusei", "rpo-chusho-muke", "rpo-daikigyo-muke", "rpo-nenkan-schedule"]
+serviceProfile: "team"
+serviceIds: ["marugoto", "helpyou"]
+serviceTitle: "最初の採用計画と、任せる定型作業を整理するなら"
+serviceLead: "初めての担当では、採る人の要件と社内の判断者を決めたうえで、外部に頼む工程を選びます。以下は設計から実行を補う支援と、手順の決まった事務を任せる支援の候補です。入門研修の提供とは分けて相談します。"
+serviceCheck: "募集職種・人数・期限、予算、現状の応募経路、合否と条件の決裁者を用意します。最初に整える資料、依頼工程、承認の期限、開始までの準備と費用を確認します。"
+serviceAngle_marugoto: "要件と実行体制を整理する"
+serviceReason_marugoto: "採用設計から実務まで扱うため、何を誰が進めるかから相談したい場合の候補です。社内で要件と条件を決める人を置き、外部の提案を確認する流れを決めます。"
+serviceConfirm_marugoto: "要件整理の進め方、対象職種・媒体、担当と承認者、初期の成果物、開始時期・定例・契約範囲と費用を確認。"
+serviceAngle_helpyou: "手順が決まった応募対応や日程を切り出す"
+serviceReason_helpyou: "応募者対応・日程調整・入力などを案内しているため、判断の仕事に時間を残すための候補です。採用方針の決定や担当者教育を任せる前提にせず、手順と例外時の確認先を用意します。"
+serviceConfirm_helpyou: "対象作業と件数、連絡文面・手順、管理環境、対応時間、例外時の連絡先、必要時間と費用を確認。"
 ---
 
 はじめて採用を担当することになった。**何から手をつければよいか分からない**という段階で、まず押さえておきたいことを整理します。採用は工程の集まりで、それぞれに役割があります。全体像が見えると、いま何をすべきかも決まります。

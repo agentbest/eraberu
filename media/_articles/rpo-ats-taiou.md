@@ -10,6 +10,17 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-ats-taiou"
 related: ["rpo-ats-erabikata", "rpo-baitai-taiou", "rpo-scout-jissu", "rpo-shitauke-kouzou"]
+serviceProfile: "operations"
+serviceIds: ["caster", "helpyou"]
+serviceTitle: "自社のATSで実務を回せる体制を確認するなら"
+serviceLead: "ATSを新しく選ぶのではなく、現在の環境で任せる操作と判断を整理します。以下は採用実務を補う候補です。特定ATSへの対応を一覧として保証するものではなく、実際に担当する人の経験と、手順・権限・習熟期間を確認して相談します。"
+serviceCheck: "ATS名と利用環境、対象求人、任せる登録・更新・連絡、独自のルールと権限を用意します。担当者の経験、試しに行う作業、ミス時の訂正、習熟・引き継ぎの費用、終了時の権限解除を確認します。"
+serviceAngle_caster: "複数の採用工程を自社環境でつなげる"
+serviceReason_caster: "応募者対応や媒体運用を扱うため、ATSを使う工程全体の運用を相談する候補です。自社ATSの経験、媒体との受け渡し、承認や記録の方法は担当体制と合わせて確認します。"
+serviceConfirm_caster: "対象ATSと担当者の経験、操作・連絡・承認の範囲、独自ルール、習熟と試行、エラー対応・記録、稼働と費用を確認。"
+serviceAngle_helpyou: "登録・更新等の定型作業を渡す"
+serviceReason_helpyou: "応募情報の入力・管理や日程調整を扱うため、手順の決まった操作を切り出す候補です。自社ATSの操作と権限に対応できるか、習熟に必要な説明と確認を相談します。"
+serviceConfirm_helpyou: "対象ATSへの対応、作業手順と権限、試行・確認・修正、例外の戻し先、習熟・引き継ぎ時間、最低利用条件と費用を確認。"
 ---
 
 自社が使っている採用管理システムに、代行会社が対応できるか。**「使えます」という答えだけでは判断できません**。操作できることと、そのシステムで採用の運用を回せることは別だからです。この記事では、選定の段階で確認する項目を整理します。運用が始まった後の権限管理は[渡すATSの権限範囲](/media/rpo-ats-kengen/)にまとめています。

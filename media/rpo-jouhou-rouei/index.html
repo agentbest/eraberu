@@ -3,22 +3,22 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>採用代行からの情報漏えいを防ぐ設計｜エラベル</title>
-<meta name="description" content="採用代行での情報事故は、悪意より運用の隙間から起きます。置き場所を一つにする、権限を最小にする、受け渡しをなくすという三つの原則と、退任フロー、事故時の初動を整理しました。">
+<title>採用代行の情報漏えい対策｜取扱経路・権限と事故時の初動｜エラベル</title>
+<meta name="description" content="採用代行で扱う候補者情報の経路・権限・端末・委託先を確認。集約や共有方法だけで安全を保証せず、変更・終了と漏えいの疑いを把握した際の連絡、報告・通知を整理します。">
 <meta name="robots" content="index,follow">
 <meta name="theme-color" content="#0B1A32">
 <link rel="canonical" href="https://eraberusaiyodaiko.com/media/rpo-jouhou-rouei/">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="エラベル">
-<meta property="og:title" content="採用代行からの情報漏えいを防ぐ設計｜エラベル">
-<meta property="og:description" content="採用代行での情報事故は、悪意より運用の隙間から起きます。置き場所を一つにする、権限を最小にする、受け渡しをなくすという三つの原則と、退任フロー、事故時の初動を整理しました。">
+<meta property="og:title" content="採用代行の情報漏えい対策｜取扱経路・権限と事故時の初動｜エラベル">
+<meta property="og:description" content="採用代行で扱う候補者情報の経路・権限・端末・委託先を確認。集約や共有方法だけで安全を保証せず、変更・終了と漏えいの疑いを把握した際の連絡、報告・通知を整理します。">
 <meta property="og:url" content="https://eraberusaiyodaiko.com/media/rpo-jouhou-rouei/">
 <meta property="og:locale" content="ja_JP">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="/media/assets/media.css">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://eraberusaiyodaiko.com/media/rpo-jouhou-rouei/"},"url":"https://eraberusaiyodaiko.com/media/rpo-jouhou-rouei/","headline":"採用代行からの情報漏えいを防ぐ設計","description":"採用代行での情報事故は、悪意より運用の隙間から起きます。置き場所を一つにする、権限を最小にする、受け渡しをなくすという三つの原則と、退任フロー、事故時の初動を整理しました。","inLanguage":"ja","datePublished":"2026-09-07","dateModified":"2026-09-07","author":{"@type":"Organization","name":"エラベル編集部","url":"https://eraberusaiyodaiko.com/editorial.html"},"publisher":{"@type":"Organization","name":"株式会社エージェントベスト","url":"https://www.agent-best.net/"}}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://eraberusaiyodaiko.com/"},{"@type":"ListItem","position":2,"name":"メディア","item":"https://eraberusaiyodaiko.com/media/"},{"@type":"ListItem","position":3,"name":"採用代行","item":"https://eraberusaiyodaiko.com/media/rpo/"},{"@type":"ListItem","position":4,"name":"費用・契約・法務","item":"https://eraberusaiyodaiko.com/media/hub/rpo-hiyou/"},{"@type":"ListItem","position":5,"name":"採用代行からの情報漏えいを防ぐ設計","item":"https://eraberusaiyodaiko.com/media/rpo-jouhou-rouei/"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://eraberusaiyodaiko.com/media/rpo-jouhou-rouei/"},"url":"https://eraberusaiyodaiko.com/media/rpo-jouhou-rouei/","headline":"採用代行の情報漏えい対策｜取扱経路・権限と事故時の初動","description":"採用代行で扱う候補者情報の経路・権限・端末・委託先を確認。集約や共有方法だけで安全を保証せず、変更・終了と漏えいの疑いを把握した際の連絡、報告・通知を整理します。","inLanguage":"ja","datePublished":"2026-09-07","dateModified":"2026-09-07","author":{"@type":"Organization","name":"エラベル編集部","url":"https://eraberusaiyodaiko.com/editorial.html"},"publisher":{"@type":"Organization","name":"株式会社エージェントベスト","url":"https://www.agent-best.net/"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://eraberusaiyodaiko.com/"},{"@type":"ListItem","position":2,"name":"メディア","item":"https://eraberusaiyodaiko.com/media/"},{"@type":"ListItem","position":3,"name":"採用代行","item":"https://eraberusaiyodaiko.com/media/rpo/"},{"@type":"ListItem","position":4,"name":"費用・契約・法務","item":"https://eraberusaiyodaiko.com/media/hub/rpo-hiyou/"},{"@type":"ListItem","position":5,"name":"採用代行の情報漏えい対策｜取扱経路・権限と事故時の初動","item":"https://eraberusaiyodaiko.com/media/rpo-jouhou-rouei/"}]}</script>
 <!-- Google アナリティクス（既存12サイトと同じプロパティ。サイト別はホスト名で分ける） -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
 <script>
@@ -46,101 +46,80 @@
   </div>
 </header><div class="wrap" style="padding-top:12px;font-size:11px;color:#4C566A">採用代行・RPO比較メディア。運営会社のスカウト代行も紹介しています。<a href="/editorial.html" style="text-decoration:underline">掲載・広告ポリシー</a></div><main class="wrap art-page">
   <nav class="crumb" aria-label="パンくず"><a href="/">ホーム</a><i aria-hidden="true">/</i><a href="/media/">メディア</a><i aria-hidden="true">/</i><a href="/media/rpo/">採用代行</a><i aria-hidden="true">/</i><a href="/media/hub/rpo-hiyou/">費用・契約・法務</a></nav>
-  <h1>採用代行からの情報漏えいを防ぐ設計</h1>
+  <h1>採用代行の情報漏えい対策｜取扱経路・権限と事故時の初動</h1>
   <p class="article-purpose">採用担当者向け実務ガイド / この記事は判断の考え方を整理するものです。媒体仕様・料金は出典の基準日と最新の公式情報を合わせてご確認ください。</p>
   <p class="meta">
     <a class="meta__hub" href="/media/hub/rpo-hiyou/">費用・契約・法務</a><span class="chip">費用・契約・法務</span>
     <span class="meta__date">情報の基準日 2026-09-07</span>
   </p>
-  <nav class="toc" aria-label="目次"><p class="toc__t">目次</p><ol><li><a href="#h1">三つの原則</a></li><li><a href="#h2">受け渡しをなくす設計</a></li><li><a href="#h3">退任と交代のフロー</a></li><li><a href="#h4">端末と環境の取り決め</a></li><li><a href="#h5">事故が起きたときの初動</a></li><li><a href="#service-options">費用を比較するときのサービス候補</a></li><li><a href="#h6">まとめ</a></li><li><a href="#h7">よくある質問</a></li></ol></nav>
+  <nav class="toc" aria-label="目次"><p class="toc__t">目次</p><ol><li><a href="#h1">情報の置き場所だけでなく、取扱いの経路を確認する</a></li><li><a href="#h2">必要な権限と、共有・送信の方法を選ぶ</a></li><li><a href="#h3">端末・作業場所・再委託も含めて管理する</a></li><li><a href="#h4">開始・変更・終了の権限を確認する</a></li><li><a href="#h5">漏えいの疑いを把握したら、連絡と被害拡大防止を進める</a></li><li><a href="#h6">外部報告と本人通知は、調査完了前から要否を判断する</a></li><li><a href="#h7">まとめ</a></li><li><a href="#h8">よくある質問</a></li></ol></nav>
   <div class="body">
-<p>採用代行に業務を任せると、候補者の情報が社外の担当者の手に渡ります。ここで起きる事故は、<strong>悪意によるものより、運用の隙間から起きるもののほうが多い</strong>というのが実務の感覚です。誤送信、共有リンクの放置、退任した担当者のアカウントが残ったまま。これらは仕組みで減らせます。この記事では、設計の三つの原則と、退任時と事故時の手順を整理します。なお、具体的な対応は自社の管理体制によって変わるため、<strong>個別の判断は専門家にご確認ください</strong>。</p>
-<h2 id="h1">三つの原則</h2>
-<p><strong>一.置き場所を一つにする</strong>。候補者の情報を、自社の採用管理システムに集約します。代行会社の環境、担当者の端末、メールの添付、共有ドライブ。散らばるほど、把握も削除もできなくなります。</p>
-<p><strong>二.権限を最小にする</strong>。任せる業務に必要な範囲だけを渡します。管理者権限を渡さない、見せなくてよい情報は見せない。権限の設計は<a href="/media/rpo-ats-kengen/">渡すATSの権限範囲</a>にまとめています。</p>
-<p><strong>三.受け渡しをなくす</strong>。ファイルを送る運用をやめ、同じ場所を見る運用にします。送るという行為がなくなれば、誤送信も、送り先での放置も起きません。</p>
-<p><strong>三番目が、事故を減らす効果としては最も大きい</strong>。応募書類をメールで送る運用が残っていると、宛先の間違いは確率の問題として起きます。</p>
-<h2 id="h2">受け渡しをなくす設計</h2>
-<p>具体的には、次のように置き換えます。</p>
-<div class="tw"><table><thead><tr><th>よくある運用</th><th>置き換え</th></tr></thead><tbody><tr><td>応募書類をメールで送る</td><td>採用管理システムで閲覧してもらう</td></tr><tr><td>候補者一覧を表計算で送る</td><td>共有の環境に置き、権限で見せる</td></tr><tr><td>評価コメントをチャットに貼る</td><td>システム内の該当候補者に記録する</td></tr><tr><td>面接の日程を個別にやりとり</td><td>日程調整の機能を使う</td></tr><tr><td>選考結果をメールで通知</td><td>ステータスの変更で伝える</td></tr></tbody></table></div>
-<p><strong>置き換えられない場面もあります</strong>。システムに機能がない、代行側の環境が対応していない。その場合は、共有リンクの期限を切る、パスワードを分けて送る、といった補い方をします。</p>
-<p><strong>補い方より、そもそも送らずに済む形を探すほうが確実です</strong>。運用を設計する段階で、どこにファイルの移動が発生するかを洗い出しておきます。</p>
-<h2 id="h3">退任と交代のフロー</h2>
-<p>事故が起きやすいのは、人が入れ替わるときです。手順を決めておきます。</p>
-<p><strong>入るとき</strong></p>
-<ol><li>誰が、どの業務を担当するかを確認する</li><li>必要な権限を洗い出す（採用管理システム、媒体、メール、チャット）</li><li>権限を発行し、一覧に記録する</li><li>情報の取り扱いのルールを渡す（置き場所、受け渡しの方法、禁止事項）</li></ol>
-<p><strong>出るとき</strong></p>
-<ol><li>必要なデータが自社の環境にあるか確認する</li><li>担当していた候補者の状況を引き継ぐ</li><li>すべての権限を削除する（採用管理システム、媒体、メール、チャット、共有ドライブ）</li><li>一覧を更新する</li></ol>
-<p><strong>四番目の権限が漏れやすい</strong>。採用管理システムは削除したが、媒体のアカウントが残っていた。チャットのチャンネルに入ったままだった。<strong>一覧を作っておくと、この漏れが防げます</strong>。</p>
-<aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
-</aside>
+<p>採用代行へ業務を任せる際は、候補者情報を誰が、どこで、何のために扱うかを確認します。情報を一つのシステムへ集める、ファイル送付を共有リンクへ変えるといった方法だけで、漏えいを防げるとは限りません。扱う情報、権限、端末、共有先、記録、事故時の連絡を合わせて設計します。</p>
+<p>この記事では、安全管理と事故対応を確認する項目を整理します。具体的な設定や事故への対応、法令上の報告・通知の判断は、社内の情報管理・法務担当、システム管理者、専門家と確認してください。権限の整理は<a href="/media/rpo-ats-kengen/">ATSの権限範囲</a>、委託先との関係は<a href="/media/rpo-kojin-jouhou/">個人情報と委託先の監督</a>も参照できます。</p>
+<h2 id="h1">情報の置き場所だけでなく、取扱いの経路を確認する</h2>
+<p>候補者の情報には、応募書類、連絡先、選考記録、日程、面接資料などがあります。採用管理システム以外にも、媒体、メール、チャット、共有ドライブ、端末、紙、連携先やバックアップなど、実際に情報が残る範囲を確認します。</p>
+<div class="tw"><table><thead><tr><th>確認する項目</th><th>記録する内容</th><th>点検すること</th></tr></thead><tbody><tr><td>情報と目的</td><td>項目、対象者、利用目的、必要な期間</td><td>任せる業務に不要な情報まで渡していないか</td></tr><tr><td>取扱者</td><td>社内、委託先、再委託先、管理者</td><td>担当範囲、教育、交代時の連絡が明確か</td></tr><tr><td>保存先・経路</td><td>システム、出力、添付、共有、端末等</td><td>複製、転送、外部連携も把握できるか</td></tr><tr><td>権限</td><td>閲覧、編集、出力、共有、管理</td><td>必要な対象者と機能へ限定できるか</td></tr><tr><td>記録と終了</td><td>操作記録、保存・削除、引き継ぎ</td><td>実際に確認する担当と方法があるか</td></tr></tbody></table></div>
+<p>一覧に載っていない保存先やアカウントがないか、実際の環境とも照合します。一覧を作るだけで、把握漏れや無断利用がなくなるわけではありません。確認できていない場所や操作も、未確認として残します。</p>
+<p><a href="https://www.ppc.go.jp/files/pdf/260614_guidelines01.pdf" target="_blank" rel="noopener">個人情報保護委員会の通則編ガイドライン</a>は、安全管理や委託先の監督を扱っています。契約だけでなく、今回の情報と業務に合う管理が実施されているかを確認する資料として参照してください。</p>
+<h2 id="h2">必要な権限と、共有・送信の方法を選ぶ</h2>
+<p>権限は、担当する業務に必要な候補者と機能へ限定します。閲覧できる人、編集できる人、出力・外部共有できる人、設定を管理する人を分けて確認します。個別アカウントを使うか、認証や操作記録をどう管理するかも、利用する環境に合わせて決めます。</p>
+<p>必要な情報へ直接アクセスできることと、安全であることは別の確認です。権限を広げれば速さと安全の両方が成立するとは置きません。逆に制限を設ける場合も、承認された代替手順を用意し、私物端末や無許可の共有へ流れる運用がないかを確認します。</p>
+<p>応募書類を添付せずに共有する方法は、不要な複製を減らすための選択肢です。ただし、共有リンクの宛先、閲覧者の認証、期限、再共有、出力の可否、操作記録などは点検が必要です。共有先の設定ミスやアカウントの不正利用があれば、添付がなくても情報が意図しない相手へ届くおそれがあります。</p>
+<p>パスワードを別送するだけで安全と判断せず、承認した送信手段と宛先確認、取扱者の認証、保存・削除を合わせて確認します。採用管理システムのステータス変更も、候補者本人への結果通知を自動的に代替するとは限りません。誰へ何を伝える操作なのかを区別してください。</p>
 <h3>エラベルの見解</h3>
-<p>情報管理の設計で、実効性を分ける要素が一つあります。<strong>棚卸しの頻度</strong>です。</p>
-<p>契約時にどれだけ丁寧に権限を設計しても、運用が続くうちに実態はずれます。担当者が増える、パートナーが入る、一時的に権限を広げたまま戻し忘れる。これらは悪意なく起きます。</p>
-<p>だから、<strong>四半期に一度、一覧と実際のアカウントを突き合わせる時間</strong>を運用に組み込んでください。作業自体は短時間で終わります。採用管理システム、媒体、メール、チャット。それぞれのユーザー一覧を出して、手元の記録と照らすだけです。</p>
-<p>この作業には副次的な効果もあります。知らない名前が出てきたら、担当者の交代か再委託が起きているということです。<strong>契約で通知を求めていても、通知が来ないことはあります</strong>。棚卸しは、その把握の手段にもなります。</p>
-<p>そして、この定期確認は委託先の監督の実態を作る作業でもあります。取り扱いの整理は<a href="/media/rpo-kojin-jouhou/">個人情報保護法と委託先の監督</a>にまとめています。<strong>記録として残しておくことに意味があります</strong>。</p>
-<h2 id="h4">端末と環境の取り決め</h2>
-<p>どの環境から情報にアクセスするかも、設計の対象です。契約や覚書で取り決める項目です。</p>
-<ul><li>業務に使う端末（会社支給か、個人の端末か）</li><li>アクセスする場所（自宅、共用スペース、外出先）</li><li>二段階認証などの設定が有効になっているか</li><li>画面の共有や、公共の場での作業についての取り決め</li><li>端末に情報を保存しない運用になっているか</li></ul>
-<p><strong>業務委託のパートナーが実務を担う場合、この確認は特に意味を持ちます</strong>。会社の管理下にある端末とは限らないためです。再委託の扱いは<a href="/media/rpo-hakenmoto-sekinin/">再委託はどこまで許容するか</a>で扱っています。</p>
-<p>すべてを厳しくすると業務が回らなくなるので、<strong>扱う情報の深さに応じて水準を決めます</strong>。日程調整だけなら軽く、選考の評価に触れるなら厚く、という考え方です。</p>
-<h2 id="h5">事故が起きたときの初動</h2>
-<p>起きないことが前提ですが、備えは要ります。決めておくのは次のあたりです。</p>
-<p><strong>報告の速さ</strong>。代行会社から自社へ、どのくらいで報告が来るか。契約に定めを置いておきます。</p>
-<p><strong>社内の受け手</strong>。誰が受け、誰が判断するか。採用担当が一人で抱える形にしないよう、管理部門への経路を決めておきます。</p>
-<p><strong>影響範囲の確認</strong>。どのデータが、どの範囲に及んだか。置き場所が一つにまとまっていると、この確認が速く終わります。</p>
-<p><strong>候補者への連絡</strong>。必要な場合の文面と経路。</p>
-<p><strong>関係機関への対応</strong>。報告や通知が求められる場面については、事案の内容によって扱いが変わります。<strong>判断が必要な局面では、社内の管理部門と専門家に速やかに相談してください</strong>。</p>
-<p><strong>初動の速さは、置き場所の設計に依存します</strong>。情報が散らばっていると、何がどこにあったかの確認だけで時間がかかります。</p>
+<p>置き場所の数を減らすこと自体より、「必要な情報がどこにあり、誰が何をできるか」を確かめられる状態を目指すことを勧めます。集約先への依存、障害時の業務、必要なバックアップも確認します。</p>
+<p>運用変更後は、承認した方法で実際に作業できるかを確かめます。情報を無断で持ち出さないための手順と、困ったときの照会先を用意し、利便性だけで権限を広げないようにします。</p>
 <aside class="cta-inline">
-  <p>任せる前に、費用と契約の条件を整理する</p>
+  <p>委託時の管理と契約の確認事項を整理する</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
+</aside>
+<h2 id="h3">端末・作業場所・再委託も含めて管理する</h2>
+<p>会社支給か私物かという区分だけで、安全性は確定できません。端末やアプリの管理、認証、更新、画面の閲覧、外部保存、紛失時の連絡、印刷物の扱いなどを確認します。認証を強める場合も、それだけで漏えい防止が完了したとはみなしません。</p>
+<p>在宅や共用の場所で扱う場合は、周囲からの閲覧、画面共有、通話、紙の放置なども確認します。日程調整だけだから軽い管理でよいとは決めず、扱う連絡先や予定、必要な情報の性質と量、影響を踏まえて決めてください。</p>
+<p>再委託や担当変更は、契約上の条件、事前確認や通知、実際の担当者、アクセスする環境を確認します。委託先の選定、契約、取扱状況の把握は、通則編ガイドラインも参照し、情報管理・法務担当や専門家へ確認します。確認の頻度は四半期に一度と固定せず、取扱状況と変更の発生に合わせて決めます。</p>
+<h2 id="h4">開始・変更・終了の権限を確認する</h2>
+<p>開始時は、担当業務と必要情報、承認者、アカウント、権限、保存先、利用期限、教育を確認します。必要な操作ができるかに加え、不要な候補者や管理機能にアクセスできないかも点検します。委託先からの質問や例外時の承認を記録する方法も決めます。</p>
+<p>交代や契約終了時には、進行中の候補者と未回答の質問を引き継ぎます。採用管理システムだけでなく、媒体、メール、チャット、共有リンク、外部連携など、実際の一覧に沿って権限の停止・変更を確認してください。契約終了時点の合意と実施記録を残します。</p>
+<p>必要な記録の保存、情報の返却・削除、バックアップや操作記録の扱いも確認します。保存の必要性や調査中の記録を確認せず、アカウントと関連データをまとめて削除する方法へ固定しません。疑わしい操作がある場合は、保全とアクセス制限の方法を管理者や専門家と判断します。</p>
+<h2 id="h5">漏えいの疑いを把握したら、連絡と被害拡大防止を進める</h2>
+<p>通則編ガイドラインは、漏えい等やそのおそれのある事案が発覚した場合について、責任者への直ちの報告と被害拡大防止、調査等を示しています。事実関係がすべて分かるまで、社内への報告を待つ流れにはしません。</p>
+<p>委託先と依頼元の連絡先、時間外・不在時の代替、情報管理・法務・システム管理者への経路を平時に決めます。発覚時点で分かることと未確認事項を伝え、誰が次の判断と調査を進めるかを明確にします。</p>
+<p>初期記録として、把握した日時、起きた操作、関係する情報と対象、宛先・公開範囲、すでに取った措置、残る不明点を整理します。関連するメール、操作記録、設定などは、保全方法を管理者へ確認してください。調査前に記録や端末を自己判断で消去することは避けます。</p>
+<p>共有停止、権限の制限、通信やアカウントへの対応などは、情報の流出や業務への影響を見て管理者・専門家と進めます。すべての事案で同じ操作をすればよいとは置きません。誤送信先への連絡や削除依頼も、社内の判断経路に沿って実施・記録し、相手の削除回答だけで影響がなくなったとは確定しないようにします。</p>
+<h2 id="h6">外部報告と本人通知は、調査完了前から要否を判断する</h2>
+<p><a href="https://www.ppc.go.jp/personalinfo/legal/leakAction/" target="_blank" rel="noopener">個人情報保護委員会の漏えい等の対応案内</a>では、報告対象となる事態と、速報・確報などを確認できます。漏えいが確定した場合だけでなく、おそれがある場合も対象になり得るため、発覚時点から要否と期限の確認を進めます。</p>
+<p>速報は、報告対象事態を知ってから速やかに行うもので、通則編ガイドラインは目安を概ね3～5日以内としています。速報時点では把握している内容を報告する整理です。この目安を、社内への連絡や被害拡大防止を待ってよい期間とは扱いません。</p>
+<p>確報や本人への通知、報告先、起算点、委託元・委託先の義務や通知の扱いは、具体的な事案に照らして情報管理・法務担当と専門家が確認します。「委託先が報告するから自社は不要」「少人数だから不要」と自己判断で決めないでください。必要な報告や通知を、契約上の相談や調査の完了待ちで遅らせないようにします。</p>
+<aside class="cta-inline">
+  <p>委託先との管理・引き継ぎの確認事項を整理する</p>
   <a href="/media/hub/rpo-hiyou/">費用・契約の記事を読む</a>
 </aside>
 <h3>エラベルの見解</h3>
-<p>情報管理を厳しくすると業務が遅くなる、という前提で考えられがちですが、<strong>実際には逆になる設計があります</strong>。</p>
-<p>置き場所を一つにする設計がそれです。候補者の情報が採用管理システムに集約されていれば、代行の担当者は必要なときに自分で見られます。ファイルを依頼する必要も、届くのを待つ必要もない。権限を渡すという一手間で、日々のやりとりが減ります。</p>
-<p>逆に、権限を絞りすぎて「必要なときに送ってもらう」運用にすると、依頼と送付のやりとりが毎回発生します。その時間は稼働として消費され、しかもファイルが移動する分だけ事故の余地も増える。<strong>管理を厳しくしたつもりが、遅くて危ない設計になっている</strong>という状態です。</p>
-<p>だから、権限を絞る方向だけで考えないでください。<strong>必要な人が必要な情報に直接届く形を作り、代わりに把握と棚卸しを徹底する</strong>。この組み合わせのほうが、速さと安全の両方が成り立ちます。</p>
-<p>情報管理の設計は、制限の設計ではなく経路の設計です。</p>
-<section class="service-guide" aria-labelledby="service-options" data-profile="cost">
-<p class="service-guide__eyebrow">この課題を、サービスで支える</p><h2 id="service-options">費用を比較するときのサービス候補</h2>
-<p>予算だけで選ぶ前に、必要なのが採用チームの支援か、事務作業の代行かを分けましょう。以下は依頼範囲の異なる候補例です。同じ作業量と期間を伝え、総額で見積もりを確認してください。</p><p class="service-guide__context">この記事のテーマ：採用代行からの情報漏えいを防ぐ設計</p>
-<div class="service-guide__choices"><article class="service-option" data-service="caster">
-<p class="service-option__angle">採用チームの稼働量で見積もる</p><h3>CASTER BIZ recruiting</h3><p class="service-option__company">株式会社キャスター</p>
-<p>採用の実務を継続して任せるときは、必要時間と対象業務を決めて相談する候補です。</p><dl><div><dt>公式に案内されている業務</dt><dd>採用戦略、スカウト、求人媒体の運用、応募者対応などを支援。</dd></div><div><dt>相談するときに確認したいこと</dt><dd>必要な稼働時間と、任せる工程・追加作業の範囲を確認。</dd></div></dl>
-<a class="service-option__link" href="https://recruiting.cast-er.com/" target="_blank" rel="noopener noreferrer" data-service="caster">公式サイトで支援内容を確認する ↗</a></article>
-<article class="service-option" data-service="helpyou">
-<p class="service-option__angle">事務作業を切り出して見積もる</p><h3>HELP YOU</h3><p class="service-option__company">株式会社ニット</p>
-<p>採用方針や判断は社内に残し、連絡・入力などの作業量を基準に相談する候補です。</p><dl><div><dt>公式に案内されている業務</dt><dd>求人票の作成、応募者対応、面接日程の調整、採用データ入力などに対応。</dd></div><div><dt>相談するときに確認したいこと</dt><dd>月の作業時間、対応時間帯、承認が必要な業務の分担を確認。</dd></div></dl>
-<a class="service-option__link" href="https://help-you.me/service/hr/" target="_blank" rel="noopener noreferrer" data-service="helpyou">公式サイトで支援内容を確認する ↗</a></article></div>
-<div class="service-guide__check"><h3>相談前に、ここまで整理しておく</h3><p>初期費用、月額、成果報酬、広告・媒体費、追加作業の単価と契約期間をそろえます。安い順の掲載ではありません。</p></div>
-<p class="service-guide__note">掲載は支援内容をもとに整理した候補例で、成果や個別条件への対応を保証するものではありません。順番はランキングではありません。公式情報の確認日：2026-11-08。料金・対応範囲は各社にご確認ください。<a href="/editorial.html">掲載方針</a></p></section>
-<h2 id="h6">まとめ</h2>
-<ul><li>事故は悪意より<strong>運用の隙間</strong>から起きる。仕組みで減らせる</li><li>原則は<strong>置き場所を一つにする・権限を最小にする・受け渡しをなくす</strong></li><li><strong>受け渡しをなくす</strong>設計が、事故を減らす効果としては最も大きい</li><li>人が入れ替わるときが危ない。<strong>入るとき・出るときの手順</strong>を決める</li><li>権限は<strong>一覧で管理し、四半期に一度棚卸し</strong>する。交代や再委託の把握にもなる</li><li>端末と環境の取り決めは、<strong>扱う情報の深さに応じて水準を決める</strong></li><li>事故時の<strong>報告の速さと社内の受け手</strong>を先に決める。初動は置き場所の設計に依存する</li><li>権限を絞るだけでは遅くて危うい。<strong>直接届く形＋徹底した把握</strong>の組み合わせにする</li></ul>
-<h2 id="h7">よくある質問</h2>
-<h3>代行会社の情報管理体制はどう確認すればよいですか</h3>
-<p>商談の段階で、社内の管理体制、従業員への教育、再委託の有無、端末の管理方法を聞き、回答を記録に残します。契約後は、四半期または契約更新の前にチェックシートで確認する形が現実的です。確認の記録を残しておくことに意味があります。</p>
-<h3>個人情報を扱う以上、代行に任せないほうが安全ではありませんか</h3>
-<p>社内で扱う場合も事故は起きます。むしろ、外部に委託する機会に置き場所と権限を整理すると、社内の運用も一緒に改善することがあります。判断は、任せる業務の範囲と、自社の管理体制の実態を照らして決めてください。</p>
-<h3>誤送信が起きてしまった場合、まず何をすればよいですか</h3>
-<p>事実関係の確認が先です。何が、どの範囲に送られたか。そのうえで、社内の管理部門に速やかに報告し、対応を判断します。関係機関への報告や本人への通知が求められるかは事案によって変わるため、専門家にご確認ください。あわせて、同じ経路で再発しない仕組みを検討します。</p>
+<p>事故時には、何が確定し、何が未確認で、誰がいつまでに確認するかを更新し続けることを勧めます。ログが見つからないことと、アクセスや流出がなかったことも区別します。分からない点を分からないまま共有できる連絡経路が必要です。</p>
+<p>再発防止は、担当者への注意だけで終わらせず、権限、設定、手順、教育、委託先の確認が実際に働くかを点検します。対策を導入したという記録と、対策の実施・確認結果も分けて残します。</p>
+<h2 id="h7">まとめ</h2>
+<p>採用代行の情報管理は、情報の目的・範囲、取扱者、保存と共有の経路、権限、端末、委託先の実態から確認します。共有方法や集約先だけで安全を保証せず、変更・終了と事故時の対応まで設計してください。疑いを把握した段階から連絡し、被害拡大防止と調査、報告・通知の判断を進めます。</p>
+<h2 id="h8">よくある質問</h2>
+<h3>採用管理システムに集約すれば漏えいを防げますか</h3>
+<p>集約だけでは保証できません。権限や外部共有、出力、端末、連携先、操作記録などを確認します。必要な複製やバックアップも含め、実際の取扱いを把握してください。</p>
+<h3>委託先の確認は四半期に一度で十分ですか</h3>
+<p>一律には決められません。扱う情報と業務、権限変更、担当交代、再委託、事故などの状況に合わせ、定期確認と変更時の確認を設計します。確認できなかった事項と、是正の担当・予定も記録します。</p>
+<h3>誤送信したかもしれない場合、まず調査すべきですか</h3>
+<p>調査が終わるまで報告を待たず、分かる範囲で責任者と管理部門へ速やかに連絡します。被害拡大防止と記録の保全、事実確認を進め、法令上の報告・本人通知の要否と期限を専門家と確認してください。</p>
   </div>
-  
+  <section class="sources"><strong>出典</strong><ul><li><a href="https://www.ppc.go.jp/files/pdf/260614_guidelines01.pdf" target="_blank" rel="noopener nofollow">個人情報保護委員会 通則編ガイドライン（令和8年6月一部改正）</a></li><li><a href="https://www.ppc.go.jp/personalinfo/legal/leakAction/" target="_blank" rel="noopener nofollow">個人情報保護委員会 漏えい等の対応とお役立ち資料</a></li></ul><p class="reviewed">本記事は 2026-09-07 時点の公開情報にもとづいて作成しています。</p></section>
   <aside class="nextbox"><p class="nextbox__t">この記事から、次に読むなら</p>
       <p class="nextbox__l">外注する前に、依頼範囲と費用の条件を整理しておきましょう。</p>
-      <ul><li><a href="#service-options">この記事で紹介したサービス候補に戻る ↑</a></li>
+      <ul>
           <li><a href="/media/hub/rpo-hiyou/">費用・契約の考え方を読む →</a></li>
           <li><a href="/media/hub/rpo-hiyou/">「費用・契約・法務」の関連記事を読む →</a></li></ul></aside>
   <div class="share">
     <p class="share__t">この記事をシェア</p>
     <ul>
-      <li><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Feraberusaiyodaiko.com%2Fmedia%2Frpo-jouhou-rouei%2F&amp;text=%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%E3%81%8B%E3%82%89%E3%81%AE%E6%83%85%E5%A0%B1%E6%BC%8F%E3%81%88%E3%81%84%E3%82%92%E9%98%B2%E3%81%90%E8%A8%AD%E8%A8%88" target="_blank" rel="noopener">X</a></li>
+      <li><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Feraberusaiyodaiko.com%2Fmedia%2Frpo-jouhou-rouei%2F&amp;text=%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%E3%81%AE%E6%83%85%E5%A0%B1%E6%BC%8F%E3%81%88%E3%81%84%E5%AF%BE%E7%AD%96%EF%BD%9C%E5%8F%96%E6%89%B1%E7%B5%8C%E8%B7%AF%E3%83%BB%E6%A8%A9%E9%99%90%E3%81%A8%E4%BA%8B%E6%95%85%E6%99%82%E3%81%AE%E5%88%9D%E5%8B%95" target="_blank" rel="noopener">X</a></li>
       <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Feraberusaiyodaiko.com%2Fmedia%2Frpo-jouhou-rouei%2F" target="_blank" rel="noopener">Facebook</a></li>
       <li><a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Feraberusaiyodaiko.com%2Fmedia%2Frpo-jouhou-rouei%2F" target="_blank" rel="noopener">LinkedIn</a></li>
-      <li><a href="https://b.hatena.ne.jp/add?mode=confirm&amp;url=https%3A%2F%2Feraberusaiyodaiko.com%2Fmedia%2Frpo-jouhou-rouei%2F&amp;title=%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%E3%81%8B%E3%82%89%E3%81%AE%E6%83%85%E5%A0%B1%E6%BC%8F%E3%81%88%E3%81%84%E3%82%92%E9%98%B2%E3%81%90%E8%A8%AD%E8%A8%88" target="_blank" rel="noopener">はてブ</a></li>
+      <li><a href="https://b.hatena.ne.jp/add?mode=confirm&amp;url=https%3A%2F%2Feraberusaiyodaiko.com%2Fmedia%2Frpo-jouhou-rouei%2F&amp;title=%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%E3%81%AE%E6%83%85%E5%A0%B1%E6%BC%8F%E3%81%88%E3%81%84%E5%AF%BE%E7%AD%96%EF%BD%9C%E5%8F%96%E6%89%B1%E7%B5%8C%E8%B7%AF%E3%83%BB%E6%A8%A9%E9%99%90%E3%81%A8%E4%BA%8B%E6%95%85%E6%99%82%E3%81%AE%E5%88%9D%E5%8B%95" target="_blank" rel="noopener">はてブ</a></li>
     </ul>
   </div>
   <section class="block"><h2 class="block__t">この記事のタグ</h2><ul class="chips"><li><a href="/media/tag/joho/">情報管理</a></li></ul></section>
@@ -162,7 +141,7 @@
       <span class="art__m"><span class="chip chip--p">採用代行</span><span class="chip">費用・契約・法務</span></span>
     </a></li></ul></section>
   <section class="block"><h2 class="block__t">「費用・契約・法務」の他の記事</h2>
-      <ul class="art art--compact"><li><a href="/media/rpo-uchisei-modoshi/"><span class="art__t">採用代行から内製に戻すときの手順</span><span class="chip">費用・契約・法務</span></a></li><li><a href="/media/rpo-yasui-riyuu/"><span class="art__t">採用代行が安いときに疑う3つの点</span><span class="chip">費用・契約・法務</span></a></li><li><a href="/media/rpo-gisou-ukeoi/"><span class="art__t">採用代行が偽装請負になる境界線</span><span class="chip">費用・契約・法務</span></a></li><li><a href="/media/rpo-takai-riyuu/"><span class="art__t">採用代行が高いときに何に払っているのか</span><span class="chip">費用・契約・法務</span></a></li><li><a href="/media/rpo-kaisha-nanori/"><span class="art__t">採用代行が自社名を名乗ることの是非</span><span class="chip">費用・契約・法務</span></a></li><li><a href="/media/rpo-trouble-jirei/"><span class="art__t">採用代行でよくあるトラブルと予防策</span><span class="chip">費用・契約・法務</span></a></li></ul>
+      <ul class="art art--compact"><li><a href="/media/rpo-tantousha-koutai/"><span class="art__t">採用代行の担当者が替わるときのリスク</span><span class="chip">費用・契約・法務</span></a></li><li><a href="/media/rpo-kenshuu-hiyou/"><span class="art__t">採用代行の担当者教育コストは誰が持つか</span><span class="chip">費用・契約・法務</span></a></li><li><a href="/media/rpo-hanki-minaoshi/"><span class="art__t">採用代行の半期見直し｜実施・費用と次期の範囲を照合する</span><span class="chip">費用・契約・法務</span></a></li><li><a href="/media/rpo-hiyou-shitsumon/"><span class="art__t">採用代行の費用を商談で確認する質問｜範囲・追加費用・終了条件</span><span class="chip">費用・契約・法務</span></a></li><li><a href="/media/rpo-hiyou-souba/"><span class="art__t">採用代行の費用相場｜月額型・成果報酬型・時間単価型の違い</span><span class="chip">費用・契約・法務</span></a></li><li><a href="/media/rpo-hiyou-uchiwake/"><span class="art__t">採用代行の費用内訳｜外部支出と社内時間を分けて比較する</span><span class="chip">費用・契約・法務</span></a></li></ul>
       <p class="more"><a href="/media/hub/rpo-hiyou/">「費用・契約・法務」の記事一覧を見る →</a></p></section>
   <aside class="author">
   <p class="author__t">編集・運営</p>
