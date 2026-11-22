@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-kougai-kinshi"
 related: ["rpo-jouhou-rouei", "rpo-agent-tono-chigai", "rpo-aiaigasa", "rpo-ats-kengen"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 採用代行の契約書に、引き抜きの禁止や競業に関する条項が置かれることがあります。**採用という業務の性質上、代行会社は自社の社員の情報にも、候補者の情報にも触れます**。だから条項を置く発想は自然ですが、範囲を広く取りすぎると相手が受け入れられず、狭すぎると意味がありません。この記事では、条項の三つの方向と、範囲の絞り方を整理します。なお、**条項の有効性や解釈は個別の事情で変わるため、締結前に弁護士など専門家にご確認ください**。
@@ -35,8 +38,8 @@ related: ["rpo-jouhou-rouei", "rpo-agent-tono-chigai", "rpo-aiaigasa", "rpo-ats-
 **実務的には、競業そのものを禁じるより、情報の取り扱いを厳しくするほうが目的に合います**。自社の要件、給与テーブル、組織の課題が他社に流れないこと。これは秘密保持の取り決めで対応できます。範囲の決め方は[候補者情報とNDAの範囲](/media/rpo-nda/)にまとめています。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-kpi-mitatsu"
 related: ["rpo-kpi-keiyaku", "rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 採用代行に置いた目標が未達だった。このとき、契約の話をする前にやることがあります。**未達の原因を工程で切り分けること**です。採用の数字は代行の稼働だけで決まるものではなく、自社の判断速度や市場の状況にも左右されます。切り分けずに契約の話に入ると、原因が残ったまま相手だけが替わることになります。この記事では、切り分けの手順と、その後の判断を整理します。
@@ -48,8 +51,8 @@ related: ["rpo-kpi-keiyaku", "rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuut
 **四番目が抜けると、原因が代行側に見え続けます**。自社の判断が遅れていた期間があれば、そこが原因かもしれません。指標の置き方は[契約にKPIを入れるべきか](/media/rpo-kpi-keiyaku/)にまとめています。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

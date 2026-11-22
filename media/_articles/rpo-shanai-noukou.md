@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-shanai-noukou"
 related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-freelance-itaku"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 採用代行を何年か使ったのに、社内には何も残っていない。この状態はよく起きます。**残らないのは代行会社のせいではなく、残る設計をしていないから**です。契約に一項目を入れ、報告の様式を決めておくだけで、蓄積の有無は大きく変わります。この記事では、何を残すのか、そのために契約と運用で何をするのかを整理します。
@@ -54,8 +57,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-fr
 **この四つを契約か別紙に書いておけば、蓄積の土台はできます**。契約書全体の確認項目は[業務委託契約書で確認する10項目](/media/rpo-keiyakusho-check/)にまとめています。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

@@ -10,6 +10,9 @@ pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-keiyaku"
 related: ["scout-fukugyo-jinzai", "scout-gyoumu-itaku-boshuu", "scout-alumni-scout", "scout-baitai-kaiyaku"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 スカウト代行の契約書を見ると、金額・期間・支払い条件は書かれていても、「どこまでやるか」「誰がやるか」「終わったとき何が残るか」は曖昧なことが多くあります。もめるのは、まさにその曖昧な部分です。結論を先に書くと、**契約書は業務範囲・担当者・記録の帰属・出口の四つの領域で読み、書かれていなければ覚書で足してください**。金額の交渉より、この四つを書面にすることのほうが、後々の損失を防ぎます。見積もりの段階で確認する項目は[見積もりで確認する項目](/media/scout-daikou-mitsumori/)に、解約の実務は[解約と引き継ぎ](/media/scout-daikou-kaiyaku/)にまとめています。なお、契約の個別の判断は、弁護士などの専門家にご確認ください。
@@ -33,8 +36,8 @@ related: ["scout-fukugyo-jinzai", "scout-gyoumu-itaku-boshuu", "scout-alumni-sco
 **範囲を変えるとき**の手続き。広げる・縮めるときに、誰が申し出て、費用がどう動くか。運用の途中で範囲は変わるものなので、変え方を最初に決めておきます。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ## 二.担当者の指定と交代

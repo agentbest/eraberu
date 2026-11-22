@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-naitei-jitai-henkin"
 related: ["rpo-getsugaku-vs-seika", "rpo-seikahoushuu-teigi", "rpo-baitai-hi-betsu", "rpo-check-list"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 内定を出した候補者に辞退された。採用代行を使っていた場合、この費用はどう扱われるのか。結論から言うと、**採用代行の費用は、原則として内定辞退では戻りません**。代行は業務の遂行に対して払う契約であり、採用の成立を保証するものではないためです。ただし、成果報酬型の場合は取り決め方によって変わりますし、返金以外の補填の形もあります。整理します。
@@ -39,8 +42,8 @@ related: ["rpo-getsugaku-vs-seika", "rpo-seikahoushuu-teigi", "rpo-baitai-hi-bet
 取り決めの形としては、成果報酬の一部を入社まで留保する、承諾後の辞退は成果としない、といった書き方があります。どちらも代行側の負担になるので、単価とセットで交渉することになります。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

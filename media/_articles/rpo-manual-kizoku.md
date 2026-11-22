@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-manual-kizoku"
 related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-freelance-itaku"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 採用代行が作った求人原稿、スカウト文面、選考のマニュアル。これらの権利は誰のものか。**契約に定めがなければ、当然に自社のものになるとは限りません**。作成したのは受託者側だからです。この扱いは契約で決められるので、締結時に確認しておく項目になります。この記事では、線引きの考え方と、契約に書く内容を整理します。なお、**権利の帰属や解釈は個別の事情で変わるため、締結前に弁護士など専門家にご確認ください**。
@@ -43,8 +46,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-fr
 **七番目は見落とされやすい項目です**。求人原稿に画像を使っている場合、その画像の権利がどうなっているか。素材の利用条件によっては、契約終了後に使えないことがあります。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

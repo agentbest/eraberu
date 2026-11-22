@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-nda"
 related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-freelance-itaku"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 採用代行に業務を任せると、社外の担当者が自社の情報を扱うことになります。そこで秘密保持の取り決めを交わすわけですが、**採用の現場で渡す情報は候補者データだけではありません**。給与テーブル、組織の課題、退職の理由、面接での評価。これらが対象に入っているかどうかで、取り決めの実効性が変わります。この記事では、対象範囲の決め方と、契約後の運用まで整理します。
@@ -46,8 +49,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-fr
 **違反時の扱い**。差止めや損害賠償の定め。実際に発動することは多くありませんが、条項として置いておく意味はあります。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

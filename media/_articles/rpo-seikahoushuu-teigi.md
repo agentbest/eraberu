@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-seikahoushuu-teigi"
 related: ["rpo-getsugaku-vs-seika", "rpo-kakaku-koushou", "rpo-naitei-jitai-henkin", "rpo-saitei-keiyaku-kikan"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 採用代行を成果報酬型で契約するとき、金額よりも先に決めるべきものがあります。**何をもって成果とするか**です。ここが曖昧なまま始まると、請求のたびに確認作業が発生し、双方の時間が削られます。人材紹介の「入社」のように成果が一つに定まらないのが、採用代行の成果報酬の難しさです。この記事では、定義に必要な要素と、書き方の型を整理します。
@@ -48,8 +51,8 @@ related: ["rpo-getsugaku-vs-seika", "rpo-kakaku-koushou", "rpo-naitei-jitai-henk
 成果は、**代行が影響を与えられる範囲の一番先**に置くのが噛み合います。スカウト運用なら面談設定まで、選考支援まで含むなら面談実施まで、といった具合です。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

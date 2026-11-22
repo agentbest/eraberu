@@ -10,6 +10,9 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "scout-sabetsu-hyougen"
 related: ["scout-abtest", "scout-ai-bunmen", "scout-blacklist", "scout-casual-mendan-sasoi"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 スカウトの文面や、対象の選び方が、年齢や性別や国籍などの属性による差別と受け取られないか。不安はあるが、何が問題になるかの線が分からず、「悪意は無いから大丈夫」で担当者に任せている。ある日、候補者から「この文面は年齢で選んでいますよね」と返信が来て、初めて考える。結論を先に書くと、**差別的表現の確認は、「悪意が無いか」では見られません。「属性を指定・限定・優遇・排除していないか」の四つの形で文面を見て、「対象の選び方が属性になっていないか」を検索の条件で見ます。何が法令で制限されるかは国や時点で変わるので、線そのものは専門家に確認し、社内では「送る前に、決めた箇所を、決めた手順で見る」ことを仕組みにします**。品質の確認の全体は[品質チェックの仕組み](/media/scout-daikou-check/)に、属性で絞らない対象の選び方は[女性候補者へのアプローチ設計](/media/scout-josei-scout/)と[シニア層へのスカウト](/media/scout-senior-scout/)にまとめています。
@@ -60,8 +63,8 @@ related: ["scout-abtest", "scout-ai-bunmen", "scout-blacklist", "scout-casual-me
 箇所の要点は、「役割の要件を属性に翻訳しない」ことです。「体力が要る」なら「立ち仕事が中心」と業務で書く。誰が向いているかは、読んだ人が判断します。年齢や性別の偏りの構造は[年齢構成が偏っている](/media/rpo-nenrei-katayori/)と[女性比率を上げたいが応募が偏る](/media/rpo-josei-hiritsu/)に書いています。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ## 対象の選び方で見る箇所

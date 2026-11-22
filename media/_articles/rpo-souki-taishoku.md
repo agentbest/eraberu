@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-souki-taishoku"
 related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-freelance-itaku"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 採用した人が短期間で退職した場合、採用代行の費用は戻るのか。**採用代行に定着の保証を求める条項は、構造的に馴染みません**。代行が担っているのは採用の業務であり、入社後の配属・育成・評価は自社の領域だからです。とはいえ、早期退職が続けば費用は無駄になります。この記事では、保証条項が難しい理由と、代わりに置ける取り決めを整理します。
@@ -42,8 +45,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-fr
 **選考時の情報提供の範囲を広げる**。候補者に渡す情報を増やし、入社後のずれを減らす。職務内容の詳細、想定される難しさ、評価の考え方。これらを求人原稿や面談の案内に含める作業を、代行の範囲に入れます。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

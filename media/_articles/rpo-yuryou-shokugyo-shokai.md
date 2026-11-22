@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-yuryou-shokugyo-shokai"
 related: ["rpo-agent-tono-chigai", "rpo-consul-tono-chigai", "rpo-getsugaku-vs-seika", "rpo-hiyou-shitsumon"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 採用代行と有料職業紹介は、どちらも採用を助ける外部サービスですが、**買っているものが違います**。代行は業務の遂行を、紹介は候補者との出会いを提供します。この違いは費用の出方だけでなく、どちらが誰のために動くのかという点にも及びます。ここを整理しないまま「どちらが安いか」を比べると、判断を誤ります。この記事では、使い分けと併用の設計を実務の視点でまとめます。
@@ -40,8 +43,8 @@ related: ["rpo-agent-tono-chigai", "rpo-consul-tono-chigai", "rpo-getsugaku-vs-s
 この違いは、**採用の難易度が上がるほど大きくなります**。母集団が薄い職種では、候補者に自社をどう説明するかが結果を分けます。そこを自社の管理下に置けるのが代行の利点です。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

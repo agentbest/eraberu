@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-keiyakusho-check"
 related: ["rpo-freelance-itaku", "rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 採用代行の契約書は、他の業務委託契約と大きくは変わりません。ただ、採用という業務の性質から、**注意して読む条項が決まっています**。人の情報を扱うこと、社外の担当者が自社の名前で候補者と接すること、そして成果が数字で測りにくいこと。この三つが、他の外注契約と違う点です。この記事では、契約書を範囲・お金・終わり方の三つに整理して、確認する項目を順に並べます。
@@ -51,8 +54,8 @@ related: ["rpo-freelance-itaku", "rpo-baitai-hi-betsu", "rpo-check-list", "rpo-c
 このほか、損害賠償の上限、反社会的勢力の排除、準拠法と管轄も一般的な条項として入ります。**内容に不明な点があるときは、締結前に弁護士など専門家にご確認ください**。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

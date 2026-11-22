@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-media-account"
 related: ["rpo-aiaigasa", "rpo-ats-kengen", "rpo-fukugyo-jinzai-itaku", "rpo-fukusuu-hattyu"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 採用代行に媒体の運用を任せるなら、管理画面へのアクセスが要ります。ここで多いのが、**自社の担当者のIDとパスワードをそのまま共有する**という形です。速いのですが、誰が何をしたかが追えなくなり、退任時の処理も曖昧になります。この記事では、渡す前に確認することと、運用に組み込む管理の実務を整理します。
@@ -41,8 +44,8 @@ related: ["rpo-aiaigasa", "rpo-ats-kengen", "rpo-fukugyo-jinzai-itaku", "rpo-fuk
 **個別アカウントが発行できない媒体もあります**。その場合は、操作の記録を別に残す運用にする、権限の低いアカウントを一つ用意する、といった補い方を検討します。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

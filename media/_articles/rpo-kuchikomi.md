@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-kuchikomi"
 related: ["rpo-buranding", "rpo-kaisha-nanori", "rpo-kouhosha-tsuuchi", "rpo-agent-tono-chigai"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 選考の体験は、候補者によって外部に書かれることがあります。口コミサイト、SNS、知人への話。**採用代行を使っている場合、書かれる内容の多くは代行が担っている工程で起きています**。一次連絡、日程調整、不採用の連絡。地味な工程ほど、体験として記憶に残ります。この記事では、書かれやすい内容と、予防の設計を整理します。
@@ -47,8 +50,8 @@ related: ["rpo-buranding", "rpo-kaisha-nanori", "rpo-kouhosha-tsuuchi", "rpo-age
 **これらはすべて、設計で防げます**。防ぎ方は[採用代行を使うと採用ブランドは落ちるか](/media/rpo-buranding/)にまとめています。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

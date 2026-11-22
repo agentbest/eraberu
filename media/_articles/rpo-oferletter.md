@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-oferletter"
 related: ["rpo-gouhi-kettei", "rpo-kaigai-itaku", "rpo-kaisha-nanori", "rpo-mensetsu-hyouka"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 内定を出すときに候補者へ渡す書面。呼び方は会社によって違いますが、**内容を確定し、自社の名義で発行するのは自社です**。ここは代行に渡せません。一方で、書面の準備、送付の段取り、受領の確認といった事務は任せられます。この記事では、その線引きと、実務で決めておくことを整理します。なお、**書面の記載事項や法令上の扱いは個別の事情で変わるため、専門家にご確認ください**。
@@ -48,8 +51,8 @@ related: ["rpo-gouhi-kettei", "rpo-kaigai-itaku", "rpo-kaisha-nanori", "rpo-mens
 **九番目と十番目を分けておくのが実務では大事です**。候補者からの質問が来たとき、条件に関するものは自社に戻す。手続きに関するものは代行が答える。この線を決めておかないと、代行側は全部を確認に回すか、答えてはいけないことに答えるかのどちらかになります。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-kouhosha-tsuuchi"
 related: ["rpo-kaisha-nanori", "rpo-buranding", "rpo-candidate-data", "rpo-data-henkan"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 採用代行を使っていることを、候補者に伝える必要はあるか。**個別のやりとりで毎回伝える運用は一般的ではありません**。一方で、個人情報の取り扱いに関する説明の中では、委託の可能性に触れておく形が通常です。この二つは別の話なので、分けて整理します。なお、**個人データの取り扱いに関する説明の要否は自社の運用によって変わるため、専門家にご確認ください**。
@@ -37,8 +40,8 @@ related: ["rpo-kaisha-nanori", "rpo-buranding", "rpo-candidate-data", "rpo-data-
 **ただし、これは「隠す」ということではありません**。聞かれたら答える、必要な場面では伝える。この姿勢が前提になります。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

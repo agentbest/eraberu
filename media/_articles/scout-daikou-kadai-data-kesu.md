@@ -10,6 +10,9 @@ pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-data-kesu"
 related: ["scout-daikou-data", "scout-daikou-kadai-account", "scout-daikou-kadai-baitai", "scout-daikou-kadai-bunmen"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 契約が終わった。代行会社の担当者の手元には、送った候補者の一覧、返信の内容、面談に進んだ人の経歴が残っている。それは、いつ、どう消されるのか。聞かなければ、答えは返ってきません。結論を先に書くと、**候補者データの削除は、契約時に「何を・いつ・どう消し・どう確認するか」を取り決め、終了時にその取り決めに沿って求め、完了の書面を受け取ってください**。取り決めが無いと、求める根拠がありません。なお、個人情報の扱いは法令と契約に関わるため、個別の判断は弁護士などの専門家にご確認ください。アカウントの返却は[アカウントの返却](/media/scout-daikou-kadai-account/)に、契約の条項は[契約書で決めておくこと](/media/scout-daikou-keiyaku/)にまとめています。
@@ -43,8 +46,8 @@ related: ["scout-daikou-data", "scout-daikou-kadai-account", "scout-daikou-kadai
 こうした条項の書き方や効力については、弁護士などの専門家にご確認ください。この記事は、確認する項目の整理であって、法的な助言ではありません。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ## 終了時に削除を求める範囲

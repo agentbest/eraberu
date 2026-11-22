@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-seikyuu-cycle"
 related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-freelance-itaku"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 採用代行の契約で、請求まわりは後回しにされがちです。ただ、**締め日と支払日、月中に始めた場合の扱いを決めていないと、毎月の経理処理で確認が発生します**。契約時に決めておけば一度で済む話が、運用のたびに戻ってくる。この記事では、決めておく項目を料金体系ごとに整理します。なお、**会計上の処理は自社の方針によって変わるため、経理部門や税理士にご確認ください**。
@@ -45,8 +48,8 @@ related: ["rpo-baitai-hi-betsu", "rpo-check-list", "rpo-chuuto-kaiyaku", "rpo-fr
 **成果報酬型は、成果の成立時点と請求のタイミングを分けて決めます**。成果が発生するたびに請求するのか、月末にまとめるのか。取り消しが出た場合の処理も決めておきます。定義の作り方は[成果の定義でもめない書き方](/media/rpo-seikahoushuu-teigi/)で扱っています。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

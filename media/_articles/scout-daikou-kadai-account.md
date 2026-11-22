@@ -10,6 +10,9 @@ pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "scout-daikou-kadai-account"
 related: ["scout-daikou-kadai-data-kesu", "scout-daikou-data", "scout-daikou-kadai-baitai", "scout-daikou-kadai-bunmen"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 契約が終わった。媒体のアカウントは、どうなっているか。代行会社の担当者のログインは残っていないか。自社の名義だと思っていたら、実は代行会社の名義で、終了と同時に見られなくなった。こうした問題は、契約の終わりに初めて気づくことが多く、その時点では手遅れになりがちです。結論を先に書くと、**アカウントの返却は、名義が自社か代行会社かで手順が違います。自社名義なら権限の回収と設定の確認、代行会社名義なら記録の引き出しと移管の可否を、契約が終わる前に済ませてください**。名義の決め方は[媒体費は誰が負担するか](/media/scout-daikou-baitai-hi/)に、解約全体の手順は[解約と引き継ぎ](/media/scout-daikou-kaiyaku/)にまとめています。
@@ -43,8 +46,8 @@ related: ["scout-daikou-kadai-data-kesu", "scout-daikou-data", "scout-daikou-kad
 権限を外す前に、[引き継ぎで抜けやすい項目](/media/scout-daikou-kadai-hikitsugi/)で書いた「媒体の設定の一覧と理由」を受け取っておきます。外した後に「あの設定はなぜ」と聞けなくなります。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ## 代行会社名義の場合：記録の引き出しと移管

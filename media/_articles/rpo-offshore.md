@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-offshore"
 related: ["rpo-fukugyo-jinzai-itaku", "rpo-aiaigasa", "rpo-chuuto-kaiyaku", "rpo-fukusuu-hattyu"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 採用業務の一部を、海外の担い手に委託するという選択があります。費用を抑えられる可能性がある一方で、**採用は言葉と文化に強く依存する業務**なので、切り出せる範囲は限られます。この記事では、任せられる工程と難しい工程を分け、契約面で確認することを整理します。なお、**契約の準拠法やデータの取り扱いは事情によって変わるため、進める際は専門家にご確認ください**。
@@ -53,8 +56,8 @@ related: ["rpo-fukugyo-jinzai-itaku", "rpo-aiaigasa", "rpo-chuuto-kaiyaku", "rpo
 書類の一次仕分けも難易度が高い。**日本の職務経歴書は、書き方が定型化していない**ため、読み取りには慣れが要ります。同じ経験でも表現の仕方が人によって違い、そこを補って読む必要があります。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

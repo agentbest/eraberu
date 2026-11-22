@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-kpi-keiyaku"
 related: ["rpo-kpi-mitatsu", "rpo-report-koumoku", "rpo-tantousha-koutai", "rpo-teirei"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 採用代行の契約に成果指標を入れておきたい。そう考えるのは自然ですが、**入れ方によっては運用が歪みます**。指標は、置いた瞬間から相手の動き方を変えるからです。判断の分かれ目は、その指標を報酬に連動させるのか、見るだけにするのかという点にあります。この記事では、指標の選び方と、置いたときに起きることを整理します。
@@ -57,8 +60,8 @@ related: ["rpo-kpi-mitatsu", "rpo-report-koumoku", "rpo-tantousha-koutai", "rpo-
 **部分的に制御できる指標をどう扱うかが、設計の勘所です**。返信率は文面と候補者選定で変わるので代行の腕が出ますが、自社の知名度や条件も効きます。ここを報酬に連動させるなら、影響する要素を切り分ける会話が要ります。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解

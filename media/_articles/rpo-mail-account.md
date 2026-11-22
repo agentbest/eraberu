@@ -10,6 +10,9 @@ pubDate: 2026-09-07
 reviewedAt: 2026-09-07
 slug: "rpo-mail-account"
 related: ["rpo-kaisha-nanori", "rpo-aiaigasa", "rpo-ats-kengen", "rpo-fukugyo-jinzai-itaku"]
+serviceProfile: "none"
+serviceCheckedAt: "2026-11-22"
+serviceReviewMethod: "fulltext-rule-audit"
 ---
 
 採用代行が候補者と連絡を取るとき、どのメールアドレスを使うか。自社ドメインのアドレスを渡すか、代行会社のアドレスから送ってもらうか。**候補者から見た体裁を取るなら自社ドメイン、管理のしやすさを取るなら代行側のアドレス**という整理になりますが、実際には中間の設計もあります。この記事では、選択肢と、それぞれで決めておくことを整理します。
@@ -48,8 +51,8 @@ related: ["rpo-kaisha-nanori", "rpo-aiaigasa", "rpo-ats-kengen", "rpo-fukugyo-ji
 ただし、共有アドレスだけだと、候補者から見て担当者が誰か分かりにくくなります。署名で補います。
 
 <aside class="cta-inline">
-  <p>この記事の課題を、外部の支援で補うなら。記事内で、依頼できる業務と相談時の確認事項を紹介しています。</p>
-  <a href="#service-options">この課題で検討できるサービスを見る</a>
+  <p>契約や情報管理の確認事項を整理するなら。関連する法務・情報管理の記事もご確認ください。</p>
+  <a href="/media/hub/rpo-hiyou/">費用・契約・法務の関連記事を読む</a>
 </aside>
 
 ### エラベルの見解
