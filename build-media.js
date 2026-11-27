@@ -25,7 +25,10 @@ const fs = require('fs');
 const path = require('path');
 const {guideFor, profileFor, personGuideFor, articleAffiliateFor, services: SERVICES} = require('./service-guides');
 const OB = require('./own-promo');
-const COVER_ASSETS = require('./cover-assets.json').assets;
+const COVER_CONFIG = require('./cover-assets.json');
+const COVER_ASSETS = COVER_CONFIG.assets;
+const COVER_GROUPS = COVER_CONFIG.groups;
+const COVER_DIRECTIONS = require('./cover-directions.json').articles;
 for (const asset of Object.values(COVER_ASSETS)) {
   for (const file of [asset.image, asset.social]) {
     if (!fs.existsSync(path.join(__dirname, file.slice(1)))) throw Error(`Missing cover asset: ${file}`);
@@ -438,12 +441,22 @@ const thumbCss = () => HUBS.map(h => {
 function thumb(a, size) {
   const hub = hubOf(a);
   const cover = coverFor(a);
+  const direction = coverDirectionFor(a);
   const eager = size === 'hero' || size === 'lg';
-  return `<span class="th th--image th--${hub.slug}${size ? ' th--' + size : ''}" aria-hidden="true"><img class="th__image" src="${cover.image}" width="${cover.width}" height="${cover.height}" alt="" loading="${eager ? 'eager' : 'lazy'}" decoding="async"${eager ? ' fetchpriority="high"' : ''}><span class="th__shade"></span><span class="th__copy"><span class="th__c">${esc(hub.name)}</span><span class="th__k">${esc(coverHeadline(a))}</span><span class="th__brand">エラベル <span>ERABERU</span></span></span></span>`;
+  return `<span class="th th--image th--${hub.slug} th--layout-${direction.layout}${size ? ' th--' + size : ''}" data-cover-art="${esc(direction.asset)}" aria-hidden="true"><img class="th__image" src="${cover.image}" width="${cover.width}" height="${cover.height}" alt="" loading="${eager ? 'eager' : 'lazy'}" decoding="async"${eager ? ' fetchpriority="high"' : ''}><span class="th__shade"></span><span class="th__copy"><span class="th__c">${esc(hub.name)}</span><span class="th__k">${esc(coverHeadline(a))}</span><span class="th__brand">エラベル <span>ERABERU</span></span></span></span>`;
+}
+function coverDirectionFor(a) {
+  const hub = hubOf(a);
+  const group = hub && COVER_GROUPS[hub.slug];
+  if (!group?.length) throw Error(`Missing cover category: ${a.slug}`);
+  let hash = 0;
+  for (const c of a.slug) hash = (Math.imul(hash, 31) + c.codePointAt(0)) >>> 0;
+  const direction = COVER_DIRECTIONS[a.slug] || {asset:group[hash % group.length], layout:Math.floor(hash / group.length) % 3};
+  if (!group.includes(direction.asset) || ![0,1,2].includes(direction.layout)) throw Error(`Invalid cover direction: ${a.slug}`);
+  return direction;
 }
 function coverFor(a) {
-  const hub = hubOf(a);
-  const cover = hub && COVER_ASSETS[hub.slug];
+  const cover = COVER_ASSETS[coverDirectionFor(a).asset];
   if (!cover) throw Error(`Missing article cover: ${a.slug}`);
   return cover;
 }
@@ -1216,6 +1229,16 @@ ${thumbCss()}
 .th--list .th__c{font-size:clamp(7px,2.5cqw,10px);padding:1px 4px}
 .th--list .th__k{font-size:clamp(10px,5.5cqw,21px);-webkit-line-clamp:3}
 .art--compact>li>a{grid-template-columns:none}
+.th--layout-1 .th__copy{justify-content:flex-start}
+.th--layout-1 .th__k{margin-top:6%}
+.th--layout-1 .th__brand{margin-top:auto}
+.th--layout-1 .th__c{background:#f4e2bb;color:#17392f;border-color:#f4e2bb}
+.th--layout-1 .th__image{transform:scale(1.055);transform-origin:80% 45%}
+.th--layout-2 .th__copy{justify-content:flex-end}
+.th--layout-2 .th__c{margin-bottom:auto}
+.th--layout-2 .th__k{padding-left:7%;border-left:3px solid #f1bd66}
+.th--layout-2 .th__brand{margin-top:5%}
+.th--layout-2 .th__image{transform:scale(1.025);transform-origin:85% 70%}
 @media(max-width:600px){.art>li>a{grid-template-columns:120px minmax(0,1fr);gap:12px}.article-cover{margin:1.2rem 0 1.6rem}.th--list .th__c{display:none}.th--image .th__k{-webkit-line-clamp:3}.th--hero .th__k{-webkit-line-clamp:4}.th--image .th__copy{gap:4px}}
 `;
 

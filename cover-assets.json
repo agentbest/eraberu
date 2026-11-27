@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-11-27",
   "tool": "built-in image_gen",
-  "design": "21 thematic AI artworks shared by article category; article-specific headlines are HTML text, not 2000 individually AI-generated illustrations.",
+  "design": "42 AI-generated editorial artworks across 21 categories; stable per-article artwork and one of 3 HTML headline layouts. Not 2000 individually AI-generated images.",
   "assets": {
     "rpo-kadai": {
       "image": "/assets/media-covers/rpo-kadai.webp",
@@ -149,6 +149,260 @@
       "width": 1536,
       "height": 1024,
       "prompt": "Use case: illustration-story. Asset: finished landscape 3:2 editorial cover for Eraberu Japanese HR side-work magazine. Subject: An orange portfolio case and blank resume card stand at a fork of two elegant ivory paths rising into steps, connecting past HR experience to a thoughtful next working role. Exquisite tactile paper sculpture and matte clay, bold clear silhouettes, warm sculptural lighting and fine paper grain, sophisticated contemporary magazine art direction. Warm ivory, burnt orange, midnight navy and pale gold. RIGHT 55% contains the sculptural scene; LEFT 45% is completely empty deep midnight navy for a website headline. Full bleed, striking at thumbnail scale. No text, letters, numbers, logos, watermarks, earnings claims or contact sheet."
+    },
+    "rpo-kadai-v2": {
+      "image": "/assets/media-covers/rpo-kadai-v2.webp",
+      "social": "/assets/media-covers/rpo-kadai-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "rpo-kadai",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (rpo-kadai). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting subject matter. Recompose the physical scene: use a different three-quarter viewpoint, change the arrangement and spacing of the supporting objects and the proportions of the primary motif; reduce duplicated small elements, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Keep the subject concentrated on the RIGHT 55 percent, LEFT 45 percent remains empty dark space for later website headline text. Keep landscape 3:2. No text, letters, numbers, logos, watermark, charts or split-screen. Do not add a headline."
+    },
+    "rpo-erabikata-v2": {
+      "image": "/assets/media-covers/rpo-erabikata-v2.webp",
+      "social": "/assets/media-covers/rpo-erabikata-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "rpo-erabikata",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (rpo-erabikata). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting subject matter. Recompose the physical scene: use a different three-quarter viewpoint, change the arrangement and spacing of the supporting objects and the proportions of the primary motif; reduce duplicated small elements, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Keep the subject concentrated on the RIGHT 55 percent, LEFT 45 percent remains empty dark space for later website headline text. Keep landscape 3:2. No text, letters, numbers, logos, watermark, charts or split-screen. Do not add a headline."
+    },
+    "rpo-hiyou-v2": {
+      "image": "/assets/media-covers/rpo-hiyou-v2.webp",
+      "social": "/assets/media-covers/rpo-hiyou-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "rpo-hiyou",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (rpo-hiyou). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "rpo-phase-v2": {
+      "image": "/assets/media-covers/rpo-phase-v2.webp",
+      "social": "/assets/media-covers/rpo-phase-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "rpo-phase",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (rpo-phase). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "rpo-gyomu-v2": {
+      "image": "/assets/media-covers/rpo-gyomu-v2.webp",
+      "social": "/assets/media-covers/rpo-gyomu-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "rpo-gyomu",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (rpo-gyomu). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "rpo-shokushu-v2": {
+      "image": "/assets/media-covers/rpo-shokushu-v2.webp",
+      "social": "/assets/media-covers/rpo-shokushu-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "rpo-shokushu",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (rpo-shokushu). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "rpo-gyokai-v2": {
+      "image": "/assets/media-covers/rpo-gyokai-v2.webp",
+      "social": "/assets/media-covers/rpo-gyokai-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "rpo-gyokai",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (rpo-gyokai). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "rpo-chiiki-v2": {
+      "image": "/assets/media-covers/rpo-chiiki-v2.webp",
+      "social": "/assets/media-covers/rpo-chiiki-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "rpo-chiiki",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (rpo-chiiki). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "rpo-baitai-v2": {
+      "image": "/assets/media-covers/rpo-baitai-v2.webp",
+      "social": "/assets/media-covers/rpo-baitai-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "rpo-baitai",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (rpo-baitai). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "scout-unyo-v2": {
+      "image": "/assets/media-covers/scout-unyo-v2.webp",
+      "social": "/assets/media-covers/scout-unyo-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "scout-unyo",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (scout-unyo). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "scout-kaizen-v2": {
+      "image": "/assets/media-covers/scout-kaizen-v2.webp",
+      "social": "/assets/media-covers/scout-kaizen-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "scout-kaizen",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (scout-kaizen). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "scout-baitai-v2": {
+      "image": "/assets/media-covers/scout-baitai-v2.webp",
+      "social": "/assets/media-covers/scout-baitai-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "scout-baitai",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (scout-baitai). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "scout-shinsotsu-v2": {
+      "image": "/assets/media-covers/scout-shinsotsu-v2.webp",
+      "social": "/assets/media-covers/scout-shinsotsu-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "scout-shinsotsu",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (scout-shinsotsu). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "scout-shokushu-v2": {
+      "image": "/assets/media-covers/scout-shokushu-v2.webp",
+      "social": "/assets/media-covers/scout-shokushu-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "scout-shokushu",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (scout-shokushu). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "fukugyo-hajimekata-v2": {
+      "image": "/assets/media-covers/fukugyo-hajimekata-v2.webp",
+      "social": "/assets/media-covers/fukugyo-hajimekata-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "fukugyo-hajimekata",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (fukugyo-hajimekata). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "fukugyo-hatarakikata-v2": {
+      "image": "/assets/media-covers/fukugyo-hatarakikata-v2.webp",
+      "social": "/assets/media-covers/fukugyo-hatarakikata-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "fukugyo-hatarakikata",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (fukugyo-hatarakikata). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "fukugyo-hoshu-v2": {
+      "image": "/assets/media-covers/fukugyo-hoshu-v2.webp",
+      "social": "/assets/media-covers/fukugyo-hoshu-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "fukugyo-hoshu",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (fukugyo-hoshu). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "fukugyo-seido-v2": {
+      "image": "/assets/media-covers/fukugyo-seido-v2.webp",
+      "social": "/assets/media-covers/fukugyo-seido-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "fukugyo-seido",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (fukugyo-seido). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "fukugyo-skill-v2": {
+      "image": "/assets/media-covers/fukugyo-skill-v2.webp",
+      "social": "/assets/media-covers/fukugyo-skill-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "fukugyo-skill",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (fukugyo-skill). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "fukugyo-gyomu-v2": {
+      "image": "/assets/media-covers/fukugyo-gyomu-v2.webp",
+      "social": "/assets/media-covers/fukugyo-gyomu-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "fukugyo-gyomu",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (fukugyo-gyomu). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
+    },
+    "fukugyo-keireki-v2": {
+      "image": "/assets/media-covers/fukugyo-keireki-v2.webp",
+      "social": "/assets/media-covers/fukugyo-keireki-v2.jpg",
+      "width": 1536,
+      "height": 1024,
+      "reference": "fukugyo-keireki",
+      "prompt": "Use case: precise-object-edit. Reference image is the existing Eraberu editorial artwork. Create a SECOND, clearly distinguishable but closely related composition for a different article in the SAME category (fukugyo-keireki). Preserve the tactile paper-and-clay materials, professional magazine style, original dark background hue, ivory/orange/gold palette and the same recruiting or HR subject matter. Recompose the physical scene: use a different three-quarter viewpoint, rearrange supporting objects and proportions of the primary motif, reduce duplicated details, add one related blank note card or simple sculptural ring. This must be newly rendered artwork, not a crop, mirror or recolor of the reference. Subject stays on the RIGHT 55 percent; LEFT 45 percent remains empty dark space for website headline text. Landscape 3:2. No text, letters, numbers, logos, watermark, charts, earnings promises or split-screen. Do not add a headline."
     }
+  },
+  "groups": {
+    "rpo-kadai": [
+      "rpo-kadai",
+      "rpo-kadai-v2"
+    ],
+    "rpo-erabikata": [
+      "rpo-erabikata",
+      "rpo-erabikata-v2"
+    ],
+    "rpo-hiyou": [
+      "rpo-hiyou",
+      "rpo-hiyou-v2"
+    ],
+    "rpo-phase": [
+      "rpo-phase",
+      "rpo-phase-v2"
+    ],
+    "rpo-gyomu": [
+      "rpo-gyomu",
+      "rpo-gyomu-v2"
+    ],
+    "rpo-shokushu": [
+      "rpo-shokushu",
+      "rpo-shokushu-v2"
+    ],
+    "rpo-gyokai": [
+      "rpo-gyokai",
+      "rpo-gyokai-v2"
+    ],
+    "rpo-chiiki": [
+      "rpo-chiiki",
+      "rpo-chiiki-v2"
+    ],
+    "rpo-baitai": [
+      "rpo-baitai",
+      "rpo-baitai-v2"
+    ],
+    "scout-unyo": [
+      "scout-unyo",
+      "scout-unyo-v2"
+    ],
+    "scout-kaizen": [
+      "scout-kaizen",
+      "scout-kaizen-v2"
+    ],
+    "scout-baitai": [
+      "scout-baitai",
+      "scout-baitai-v2"
+    ],
+    "scout-shinsotsu": [
+      "scout-shinsotsu",
+      "scout-shinsotsu-v2"
+    ],
+    "scout-shokushu": [
+      "scout-shokushu",
+      "scout-shokushu-v2"
+    ],
+    "fukugyo-hajimekata": [
+      "fukugyo-hajimekata",
+      "fukugyo-hajimekata-v2"
+    ],
+    "fukugyo-hatarakikata": [
+      "fukugyo-hatarakikata",
+      "fukugyo-hatarakikata-v2"
+    ],
+    "fukugyo-hoshu": [
+      "fukugyo-hoshu",
+      "fukugyo-hoshu-v2"
+    ],
+    "fukugyo-seido": [
+      "fukugyo-seido",
+      "fukugyo-seido-v2"
+    ],
+    "fukugyo-skill": [
+      "fukugyo-skill",
+      "fukugyo-skill-v2"
+    ],
+    "fukugyo-gyomu": [
+      "fukugyo-gyomu",
+      "fukugyo-gyomu-v2"
+    ],
+    "fukugyo-keireki": [
+      "fukugyo-keireki",
+      "fukugyo-keireki-v2"
+    ]
   }
 }

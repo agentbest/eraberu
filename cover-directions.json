@@ -1,0 +1,8006 @@
+{
+  "version": 1,
+  "description": "Stable per-article assignments. Alternate compositions in actual hub order: target then Japanese title. Main featured cost articles use distinct artwork.",
+  "articles": {
+    "fukugyo-schedule": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 0
+    },
+    "fukugyo-2kenme": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 0
+    },
+    "fukugyo-linkedin": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 1
+    },
+    "fukugyo-note": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 1
+    },
+    "fukugyo-sns-hasshin": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 2
+    },
+    "fukugyo-x-unyou": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 2
+    },
+    "fukugyo-daimei": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 0
+    },
+    "fukugyo-trouble": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 0
+    },
+    "fukugyo-hearing": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 1
+    },
+    "fukugyo-remote": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 1
+    },
+    "fukugyo-profile": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 2
+    },
+    "fukugyo-review": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 2
+    },
+    "fukugyo-anken-fuyasu": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 0
+    },
+    "fukugyo-hikitsugi": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 0
+    },
+    "fukugyo-nani-kara": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 1
+    },
+    "fukugyo-shoki-90nichi": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 1
+    },
+    "fukugyo-kadai-teigi": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 2
+    },
+    "fukugyo-kaisha-daihyou": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 2
+    },
+    "fukugyo-gaibu-tachiba": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 0
+    },
+    "fukugyo-marunage": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 0
+    },
+    "fukugyo-chokusetsu": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 1
+    },
+    "fukugyo-kibo-tokka": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 1
+    },
+    "fukugyo-kitai-chousei": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 2
+    },
+    "fukugyo-gyoukai-tokka": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 2
+    },
+    "fukugyo-kaiyaku-sareta": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 0
+    },
+    "fukugyo-keieisha-chokka": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 0
+    },
+    "fukugyo-keiken-asai": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 1
+    },
+    "fukugyo-keizoku": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 1
+    },
+    "fukugyo-kengen-nai": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 2
+    },
+    "fukugyo-genba-chousei": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 2
+    },
+    "fukugyo-genjou-haaku": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 0
+    },
+    "fukugyo-kojin-jouhou": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 0
+    },
+    "fukugyo-kouhosha-taiou": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 1
+    },
+    "fukugyo-mukanai": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 1
+    },
+    "fukugyo-awanai-anken": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 2
+    },
+    "fukugyo-gouhi": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 2
+    },
+    "fukugyo-kankyou": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 0
+    },
+    "fukugyo-tool": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 0
+    },
+    "fukugyo-shiryou": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 1
+    },
+    "fukugyo-tsugi-e": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 1
+    },
+    "fukugyo-jiko-shoukai": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 2
+    },
+    "fukugyo-jisseki-tsumu": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 2
+    },
+    "fukugyo-shanai-jinji": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 0
+    },
+    "fukugyo-shuumatsu": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 0
+    },
+    "fukugyo-hatsu-anken-fuan": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 1
+    },
+    "fukugyo-shodan": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 1
+    },
+    "fukugyo-shoukai-renkei": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 2
+    },
+    "fukugyo-security": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 2
+    },
+    "fukugyo-shokushu-tokka": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 0
+    },
+    "fukugyo-1nenme": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 0
+    },
+    "fukugyo-3nenme": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 1
+    },
+    "fukugyo-community": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 1
+    },
+    "fukugyo-tekisei": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 2
+    },
+    "fukugyo-hajimekata": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 2
+    },
+    "fukugyo-manager": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 0
+    },
+    "fukugyo-cho": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 0
+    },
+    "fukugyo-mikeiken": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 1
+    },
+    "fukugyo-senmon-tokka": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 1
+    },
+    "fukugyo-quick-win": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 2
+    },
+    "fukugyo-hayaasa": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 2
+    },
+    "fukugyo-taimen": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 0
+    },
+    "fukugyo-taishoku-kanyo": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 0
+    },
+    "fukugyo-kotowaru": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 1
+    },
+    "fukugyo-shoukai": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 1
+    },
+    "fukugyo-chiiki": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 2
+    },
+    "fukugyo-chuui-kigyou": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 2
+    },
+    "fukugyo-teirei-shinkou": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 0
+    },
+    "fukugyo-teian": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 0
+    },
+    "fukugyo-rireki-touroku": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 1
+    },
+    "fukugyo-ihan-shinai": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 1
+    },
+    "fukugyo-tokui-ryouiki": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 2
+    },
+    "fukugyo-nensyu-teiji": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 2
+    },
+    "fukugyo-platform": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 0
+    },
+    "fukugyo-anken-sagashi": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 0
+    },
+    "fukugyo-heijitsu-yoru": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 1
+    },
+    "fukugyo-benkyoukai": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 1
+    },
+    "fukugyo-houkoku": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 2
+    },
+    "fukugyo-jikan-kakuho": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 2
+    },
+    "fukugyo-mensetsu-daikou-chuui": {
+      "asset": "fukugyo-hajimekata",
+      "layout": 0
+    },
+    "fukugyo-mail": {
+      "asset": "fukugyo-hajimekata-v2",
+      "layout": 0
+    },
+    "fukugyo-invoice": {
+      "asset": "fukugyo-hoshu",
+      "layout": 0
+    },
+    "fukugyo-mensetsu-shitsumon": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 0
+    },
+    "fukugyo-startup-keiken": {
+      "asset": "fukugyo-hoshu",
+      "layout": 1
+    },
+    "fukugyo-portfolio": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 1
+    },
+    "fukugyo-yasuuke": {
+      "asset": "fukugyo-hoshu",
+      "layout": 2
+    },
+    "fukugyo-ikkyuu": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 2
+    },
+    "fukugyo-kaigo-ikuji": {
+      "asset": "fukugyo-hoshu",
+      "layout": 0
+    },
+    "fukugyo-kadou-kanri": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 0
+    },
+    "fukugyo-kaigyou-todoke": {
+      "asset": "fukugyo-hoshu",
+      "layout": 1
+    },
+    "fukugyo-kakutei-shinkoku": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 1
+    },
+    "fukugyo-kougyou-hishi": {
+      "asset": "fukugyo-hoshu",
+      "layout": 2
+    },
+    "fukugyo-scope": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 2
+    },
+    "fukugyo-keiyaku-kikan": {
+      "asset": "fukugyo-hoshu",
+      "layout": 0
+    },
+    "fukugyo-koushin": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 0
+    },
+    "fukugyo-keiken-nensuu": {
+      "asset": "fukugyo-hoshu",
+      "layout": 1
+    },
+    "fukugyo-keihi": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 1
+    },
+    "fukugyo-getsugaku": {
+      "asset": "fukugyo-hoshu",
+      "layout": 2
+    },
+    "fukugyo-mitsumori": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 2
+    },
+    "fukugyo-genzei": {
+      "asset": "fukugyo-hoshu",
+      "layout": 0
+    },
+    "fukugyo-shoninka": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 0
+    },
+    "fukugyo-saitei-hoshou": {
+      "asset": "fukugyo-hoshu",
+      "layout": 1
+    },
+    "fukugyo-shiharai-site": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 1
+    },
+    "fukugyo-shikaku": {
+      "asset": "fukugyo-hoshu",
+      "layout": 2
+    },
+    "fukugyo-jikyuu": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 2
+    },
+    "fukugyo-shitsugyou-hoken": {
+      "asset": "fukugyo-hoshu",
+      "layout": 0
+    },
+    "fukugyo-jisseki-shimeshikata": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 0
+    },
+    "fukugyo-jissekikoukai": {
+      "asset": "fukugyo-hoshu",
+      "layout": 1
+    },
+    "fukugyo-shakai-hoken": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 1
+    },
+    "fukugyo-himitsu-hoji": {
+      "asset": "fukugyo-hoshu",
+      "layout": 2
+    },
+    "fukugyo-kadou-jikan": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 2
+    },
+    "fukugyo-jyuumin-zei": {
+      "asset": "fukugyo-hoshu",
+      "layout": 0
+    },
+    "fukugyo-jouken-suriawase": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 0
+    },
+    "fukugyo-agent-keiken": {
+      "asset": "fukugyo-hoshu",
+      "layout": 1
+    },
+    "fukugyo-tanka-souba": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 1
+    },
+    "fukugyo-seika": {
+      "asset": "fukugyo-hoshu",
+      "layout": 2
+    },
+    "fukugyo-seikyuusho": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 2
+    },
+    "fukugyo-aoiro": {
+      "asset": "fukugyo-hoshu",
+      "layout": 0
+    },
+    "fukugyo-taishoku-go": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 0
+    },
+    "fukugyo-daikigyo-keiken": {
+      "asset": "fukugyo-hoshu",
+      "layout": 1
+    },
+    "fukugyo-tanka-agekata": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 1
+    },
+    "fukugyo-koushou": {
+      "asset": "fukugyo-hoshu",
+      "layout": 2
+    },
+    "fukugyo-neage-timing": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 2
+    },
+    "fukugyo-choka-kadou": {
+      "asset": "fukugyo-hoshu",
+      "layout": 0
+    },
+    "fukugyo-oubo-tsuika": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 0
+    },
+    "fukugyo-teinen-go": {
+      "asset": "fukugyo-hoshu",
+      "layout": 1
+    },
+    "fukugyo-20man": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 1
+    },
+    "fukugyo-nenkan-shuunyuu": {
+      "asset": "fukugyo-hoshu",
+      "layout": 2
+    },
+    "fukugyo-scope-creep": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 2
+    },
+    "fukugyo-nenshuu-mokuhyou": {
+      "asset": "fukugyo-hoshu",
+      "layout": 0
+    },
+    "fukugyo-mensetsu": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 0
+    },
+    "fukugyo-kyoka-shinsei": {
+      "asset": "fukugyo-hoshu",
+      "layout": 1
+    },
+    "fukugyo-fukugyo-kinshi": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 1
+    },
+    "fukugyo-shokumu-keirekisho": {
+      "asset": "fukugyo-hoshu",
+      "layout": 2
+    },
+    "fukugyo-fukusuu-anken": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 2
+    },
+    "fukugyo-mibarai": {
+      "asset": "fukugyo-hoshu",
+      "layout": 0
+    },
+    "fukugyo-houjin-ka": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 0
+    },
+    "fukugyo-riekisouhan": {
+      "asset": "fukugyo-hoshu",
+      "layout": 1
+    },
+    "fukugyo-honnngyou-hikaku": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 1
+    },
+    "fukugyo-honmyo": {
+      "asset": "fukugyo-hoshu",
+      "layout": 2
+    },
+    "fukugyo-roudou-jikan-tsuusan": {
+      "asset": "fukugyo-hoshu-v2",
+      "layout": 2
+    },
+    "fukugyo-ai-bunmen": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-ai-katsuyou": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-ats-skill": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-kpi-sekkei-skill": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-account-kanri": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-hikitsugi-junbi": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-kyoka-toru": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-kokyaku-tool": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-komyuniti-unei": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-spreadsheet": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-tasuku-kanri": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-chiimu": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-tool-toitsu": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-data-skill": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-vpn": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-password": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-hearing-skill": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-fasiritation": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-project": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-qa-1": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-qa-10": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-qa-11": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-qa-12": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-qa-13": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-qa-14": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-qa-15": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-qa-2": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-qa-3": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-qa-4": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-qa-5": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-qa-6": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-qa-7": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-qa-8": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-qa-9": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-tool-ichiran": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-jouhou-bunri": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-shippai-1": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-shippai-10": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-shippai-2": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-shippai-3": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-shippai-4": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-shippai-5": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-shippai-6": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-shippai-7": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-shippai-8": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-shippai-9": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-eigo": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-yagou": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-kazoku": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-log": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-kadou-houkoku": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-kouzou-ka": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-kaigo": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-kaizen": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-kaizen-teian": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-shiten": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-gakushuu": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-kaomidase": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-gijiroku": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-yasumi": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-kessai": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-keiyaku-koushin-koushou": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-saitaku": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-kodomo": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-tanmatsu": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-shiryou-skill": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-jirei-kakikata": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-jirei-ryuuyou": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-jikan-haibun": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-hp": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-honmyou-hasshin": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-shikaku-toru": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-shucchou": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-shoukai-ryou": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-shoukai-tanomu": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-jouhou-shuushuu": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-shinrai": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-nettowaku": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-suuji": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-seika-mienai": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-seika-teigi": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-koe-kake": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-seikyuu-timing": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-mentor": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-tsuzukanai": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-benchmark": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-kaigi-jikan": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-tanka-suii": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-tanki-choki": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-okure-renraku": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-choki": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-tsuukin": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-hantai-sareta": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-teian-timing": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-nakama": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-dokuritsu": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-burnout": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-hasshin-nglines": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-hasshin-neta": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-hasshin-hindo": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-tsukare": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-hyouka-sareru": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-tenshoku-tsunagu": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-honngyou-hanei": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-yameru": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-honngyou-ni-suru": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-fukusuu-kanri": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-kyoudou-anken": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-shitsumon-shikata": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-writing": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-heijitsu-taiou": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-report-hindo": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-houkaisei": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-houjin-keiyaku": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-ryouritsu": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 0
+    },
+    "fukugyo-honngyou-eikyou": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 0
+    },
+    "fukugyo-warukunai-kotowari": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 1
+    },
+    "fukugyo-meishi": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 1
+    },
+    "fukugyo-yuukyuu": {
+      "asset": "fukugyo-hatarakikata",
+      "layout": 2
+    },
+    "fukugyo-renraku-sokudo": {
+      "asset": "fukugyo-hatarakikata-v2",
+      "layout": 2
+    },
+    "fukugyo-hrbp-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 0
+    },
+    "fukugyo-hrbp-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 0
+    },
+    "fukugyo-it-jinji-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 1
+    },
+    "fukugyo-it-jinji-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 1
+    },
+    "fukugyo-engineer-kara-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 2
+    },
+    "fukugyo-engineer-kara-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 2
+    },
+    "fukugyo-kyaria-consultant-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 0
+    },
+    "fukugyo-kyaria-consultant-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 0
+    },
+    "fukugyo-startup-jinji-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 1
+    },
+    "fukugyo-startup-jinji-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 1
+    },
+    "fukugyo-headhunter-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 2
+    },
+    "fukugyo-headhunter-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 2
+    },
+    "fukugyo-venture-jinji-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 0
+    },
+    "fukugyo-venture-jinji-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 0
+    },
+    "fukugyo-marketer-kara-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 1
+    },
+    "fukugyo-marketer-kara-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 1
+    },
+    "fukugyo-meekaa-jinji-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 2
+    },
+    "fukugyo-meekaa-jinji-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 2
+    },
+    "fukugyo-iryou-jinji-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 0
+    },
+    "fukugyo-iryou-jinji-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 0
+    },
+    "fukugyo-ikuji-fukushoku-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 1
+    },
+    "fukugyo-ikuji-fukushoku-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 1
+    },
+    "fukugyo-eigyo-kara-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 2
+    },
+    "fukugyo-eigyo-kara-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 2
+    },
+    "fukugyo-gaikokujin-saiyo-tantou-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 0
+    },
+    "fukugyo-gaikokujin-saiyo-tantou-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 0
+    },
+    "fukugyo-gaishi-jinji-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 1
+    },
+    "fukugyo-gaishi-jinji-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 1
+    },
+    "fukugyo-kyujin-koukoku-eigyo-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 2
+    },
+    "fukugyo-kyujin-koukoku-eigyo-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 2
+    },
+    "fukugyo-kyouiku-jinji-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 0
+    },
+    "fukugyo-kyouiku-jinji-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 0
+    },
+    "fukugyo-kinyu-jinji-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 1
+    },
+    "fukugyo-kinyu-jinji-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 1
+    },
+    "fukugyo-kigyou-keiei-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 2
+    },
+    "fukugyo-kigyou-keiei-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 2
+    },
+    "fukugyo-kensetsu-jinji-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 0
+    },
+    "fukugyo-kensetsu-jinji-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 0
+    },
+    "fukugyo-saiyo-manager-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 1
+    },
+    "fukugyo-saiyo-manager-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 1
+    },
+    "fukugyo-rpo-keikensha-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 2
+    },
+    "fukugyo-rpo-keikensha-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 2
+    },
+    "fukugyo-saiyo-tantou-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 0
+    },
+    "fukugyo-saiyo-tantou-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 0
+    },
+    "fukugyo-sharoushi-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 1
+    },
+    "fukugyo-sharoushi-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 1
+    },
+    "fukugyo-shanai-recruiter-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 2
+    },
+    "fukugyo-shanai-recruiter-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 2
+    },
+    "fukugyo-kouri-jinji-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 0
+    },
+    "fukugyo-kouri-jinji-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 0
+    },
+    "fukugyo-shougaisha-koyou-tantou-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 1
+    },
+    "fukugyo-shougaisha-koyou-tantou-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 1
+    },
+    "fukugyo-shinsotsu-tantou-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 2
+    },
+    "fukugyo-shinsotsu-tantou-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 2
+    },
+    "fukugyo-kyouiku-tantou-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 0
+    },
+    "fukugyo-kyouiku-tantou-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 0
+    },
+    "fukugyo-agent-ca-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 1
+    },
+    "fukugyo-agent-ca-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 1
+    },
+    "fukugyo-agent-ra-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 2
+    },
+    "fukugyo-agent-ra-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 2
+    },
+    "fukugyo-haken-coordinator-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 0
+    },
+    "fukugyo-haken-coordinator-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 0
+    },
+    "fukugyo-consultant-jinji-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 1
+    },
+    "fukugyo-consultant-jinji-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 1
+    },
+    "fukugyo-jinji-kikaku-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 2
+    },
+    "fukugyo-jinji-kikaku-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 2
+    },
+    "fukugyo-chro-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 0
+    },
+    "fukugyo-chro-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 0
+    },
+    "fukugyo-mikeiken-jinji-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 1
+    },
+    "fukugyo-mikeiken-jinji-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 1
+    },
+    "fukugyo-soshiki-kaihatsu-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 2
+    },
+    "fukugyo-soshiki-kaihatsu-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 2
+    },
+    "fukugyo-daikigyo-jinji-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 0
+    },
+    "fukugyo-daikigyo-jinji-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 0
+    },
+    "fukugyo-chusho-jinji-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 1
+    },
+    "fukugyo-chusho-jinji-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 1
+    },
+    "fukugyo-chuushoukigyou-shindanshi-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 2
+    },
+    "fukugyo-chuushoukigyou-shindanshi-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 2
+    },
+    "fukugyo-roumu-tantou-fukugyo": {
+      "asset": "fukugyo-keireki",
+      "layout": 0
+    },
+    "fukugyo-roumu-tantou-tanka": {
+      "asset": "fukugyo-keireki-v2",
+      "layout": 0
+    },
+    "fukugyo-one-on-one-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-one-on-one-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-one-on-one-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-one-on-one-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-ats-dounyu-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-ats-dounyu-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-ats-dounyu-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-ats-dounyu-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-engagement-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-engagement-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-engagement-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-engagement-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-onboarding-sekkei-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-onboarding-sekkei-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-onboarding-sekkei-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-onboarding-sekkei-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-casual-mendan-fk-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-casual-mendan-fk-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-casual-mendan-fk-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-casual-mendan-fk-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-jd-sakusei-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-jd-sakusei-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-jd-sakusei-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-jd-sakusei-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-scout-daikou-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-scout-daikou-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-scout-daikou-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-scout-daikou-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-gaikokujin-roumu-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-gaikokujin-roumu-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-gaikokujin-roumu-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-gaikokujin-roumu-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-kyujin-raiting-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-kyujin-raiting-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-kyujin-raiting-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-kyujin-raiting-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-kyuyo-seido-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-kyuyo-seido-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-kyuyo-seido-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-kyuyo-seido-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-kensyu-koushi-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-kensyu-koushi-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-kensyu-koushi-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-kensyu-koushi-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-koukei-ikusei-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-koukei-ikusei-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-koukei-ikusei-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-koukei-ikusei-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-sns-unyou-fk-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-sns-unyou-fk-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-sns-unyou-fk-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-sns-unyou-fk-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-meetup-unei-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-meetup-unei-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-meetup-unei-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-meetup-unei-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-saiyo-koho-fk-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-saiyo-koho-fk-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-saiyo-koho-fk-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-saiyo-koho-fk-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-saiyo-senryaku-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-saiyo-senryaku-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-saiyo-senryaku-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-saiyo-senryaku-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-rpo-pm-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-rpo-pm-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-rpo-pm-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-rpo-pm-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-youken-seiri-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-youken-seiri-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-youken-seiri-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-youken-seiri-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-shugyo-kisoku-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-shugyo-kisoku-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-shugyo-kisoku-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-shugyo-kisoku-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-shorui-senkou-fk-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-shorui-senkou-fk-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-shorui-senkou-fk-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-shorui-senkou-fk-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-shougai-koyou-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-shougai-koyou-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-shougai-koyou-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-shougai-koyou-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-shinsotsu-sekkei-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-shinsotsu-sekkei-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-shinsotsu-sekkei-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-shinsotsu-sekkei-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-agent-control-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-agent-control-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-agent-control-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-agent-control-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-jinji-seido-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-jinji-seido-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-jinji-seido-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-jinji-seido-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-soshiki-survey-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-soshiki-survey-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-soshiki-survey-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-soshiki-survey-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-nittei-chousei-fk-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-nittei-chousei-fk-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-nittei-chousei-fk-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-nittei-chousei-fk-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-hyouka-seido-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-hyouka-seido-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-hyouka-seido-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-hyouka-seido-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-mensetsu-daikou-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-mensetsu-daikou-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-mensetsu-daikou-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-mensetsu-daikou-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-taishoku-boushi-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-taishoku-boushi-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-taishoku-boushi-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 0
+    },
+    "fukugyo-taishoku-boushi-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 0
+    },
+    "fukugyo-roumu-jitsumu-hajimekata": {
+      "asset": "fukugyo-gyomu",
+      "layout": 1
+    },
+    "fukugyo-roumu-jitsumu-shigoto": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 1
+    },
+    "fukugyo-roumu-jitsumu-fukugyo": {
+      "asset": "fukugyo-gyomu",
+      "layout": 2
+    },
+    "fukugyo-roumu-jitsumu-tanka": {
+      "asset": "fukugyo-gyomu-v2",
+      "layout": 2
+    },
+    "fukugyo-law-36kyoutei": {
+      "asset": "fukugyo-seido",
+      "layout": 0
+    },
+    "fukugyo-law-sns-chousa": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 0
+    },
+    "fukugyo-law-stress-check": {
+      "asset": "fukugyo-seido",
+      "layout": 1
+    },
+    "fukugyo-law-sexual-hara": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 1
+    },
+    "fukugyo-law-telework": {
+      "asset": "fukugyo-seido",
+      "layout": 2
+    },
+    "fukugyo-law-harasumento": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 2
+    },
+    "fukugyo-law-power-hara": {
+      "asset": "fukugyo-seido",
+      "layout": 0
+    },
+    "fukugyo-law-freelance-hou": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 0
+    },
+    "fukugyo-law-flex": {
+      "asset": "fukugyo-seido",
+      "layout": 1
+    },
+    "fukugyo-law-mynumber": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 1
+    },
+    "fukugyo-law-mata-hara": {
+      "asset": "fukugyo-seido",
+      "layout": 2
+    },
+    "fukugyo-law-minashi": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 2
+    },
+    "fukugyo-law-mental": {
+      "asset": "fukugyo-seido",
+      "layout": 0
+    },
+    "fukugyo-law-reference": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 0
+    },
+    "fukugyo-law-anzen-hairyo": {
+      "asset": "fukugyo-seido",
+      "layout": 1
+    },
+    "fukugyo-law-ikuji": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 1
+    },
+    "fukugyo-law-jouhou-kouhyou": {
+      "asset": "fukugyo-seido",
+      "layout": 2
+    },
+    "fukugyo-law-kaigo": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 2
+    },
+    "fukugyo-law-kaiko": {
+      "asset": "fukugyo-seido",
+      "layout": 0
+    },
+    "fukugyo-law-gaikokujin-zairyuu": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 0
+    },
+    "fukugyo-law-gaikokujin-todokede": {
+      "asset": "fukugyo-seido",
+      "layout": 1
+    },
+    "fukugyo-law-fukugyo-kyoka": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 1
+    },
+    "fukugyo-law-gisou-ukeoi": {
+      "asset": "fukugyo-seido",
+      "layout": 2
+    },
+    "fukugyo-law-kyuukei": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 2
+    },
+    "fukugyo-law-koushin-jouhou": {
+      "asset": "fukugyo-seido",
+      "layout": 0
+    },
+    "fukugyo-law-gyoumu-itaku": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 0
+    },
+    "fukugyo-law-kojin-jouhou": {
+      "asset": "fukugyo-seido",
+      "layout": 1
+    },
+    "fukugyo-law-koyou-keiyaku": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 1
+    },
+    "fukugyo-law-koyou-hoken": {
+      "asset": "fukugyo-seido",
+      "layout": 2
+    },
+    "fukugyo-law-kouhosha-jouhou": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 2
+    },
+    "fukugyo-law-nenkin": {
+      "asset": "fukugyo-seido",
+      "layout": 0
+    },
+    "fukugyo-law-koureisha": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 0
+    },
+    "fukugyo-law-kenkou-shindan": {
+      "asset": "fukugyo-seido",
+      "layout": 1
+    },
+    "fukugyo-law-sairyou": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 1
+    },
+    "fukugyo-law-sanzen-sango": {
+      "asset": "fukugyo-seido",
+      "layout": 2
+    },
+    "fukugyo-law-shiyou-kikan": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 2
+    },
+    "fukugyo-law-jikangai": {
+      "asset": "fukugyo-seido",
+      "layout": 0
+    },
+    "fukugyo-law-shakai-hoken": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 0
+    },
+    "fukugyo-law-shugyo-kisoku": {
+      "asset": "fukugyo-seido",
+      "layout": 1
+    },
+    "fukugyo-law-shugyo-kisoku-henkou": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 1
+    },
+    "fukugyo-law-shukkou": {
+      "asset": "fukugyo-seido",
+      "layout": 2
+    },
+    "fukugyo-law-josei-katsuyaku": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 2
+    },
+    "fukugyo-law-shougaisha-koyou": {
+      "asset": "fukugyo-seido",
+      "layout": 0
+    },
+    "fukugyo-law-shokuan-hou": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 0
+    },
+    "fukugyo-law-seibetsu": {
+      "asset": "fukugyo-seido",
+      "layout": 1
+    },
+    "fukugyo-law-seiri-kaiko": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 1
+    },
+    "fukugyo-law-taishoku-kanshou": {
+      "asset": "fukugyo-seido",
+      "layout": 2
+    },
+    "fukugyo-law-jitan": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 2
+    },
+    "fukugyo-law-choukai": {
+      "asset": "fukugyo-seido",
+      "layout": 0
+    },
+    "fukugyo-law-tenkin": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 0
+    },
+    "fukugyo-law-doitsu-roudou": {
+      "asset": "fukugyo-seido",
+      "layout": 1
+    },
+    "fukugyo-law-tokutei-ginou": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 1
+    },
+    "fukugyo-law-naitei": {
+      "asset": "fukugyo-seido",
+      "layout": 2
+    },
+    "fukugyo-law-naitei-jitai": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 2
+    },
+    "fukugyo-law-naitei-torikeshi": {
+      "asset": "fukugyo-seido",
+      "layout": 0
+    },
+    "fukugyo-law-tsuuhou": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 0
+    },
+    "fukugyo-law-nyuutai-shoku": {
+      "asset": "fukugyo-seido",
+      "layout": 1
+    },
+    "fukugyo-law-yuukyuu": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 1
+    },
+    "fukugyo-law-nenrei-seigen": {
+      "asset": "fukugyo-seido",
+      "layout": 2
+    },
+    "fukugyo-law-haichi-tenkan": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 2
+    },
+    "fukugyo-law-henkei": {
+      "asset": "fukugyo-seido",
+      "layout": 0
+    },
+    "fukugyo-law-boshuu-jouken": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 0
+    },
+    "fukugyo-law-houkaisei": {
+      "asset": "fukugyo-seido",
+      "layout": 1
+    },
+    "fukugyo-law-shitsumon-ng": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 1
+    },
+    "fukugyo-law-yuuki-koyou": {
+      "asset": "fukugyo-seido",
+      "layout": 2
+    },
+    "fukugyo-law-rousai": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 2
+    },
+    "fukugyo-law-roukihou": {
+      "asset": "fukugyo-seido",
+      "layout": 0
+    },
+    "fukugyo-law-roudou-jikan": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 0
+    },
+    "fukugyo-law-haken": {
+      "asset": "fukugyo-seido",
+      "layout": 1
+    },
+    "fukugyo-law-roudou-jouken-meiji": {
+      "asset": "fukugyo-seido-v2",
+      "layout": 1
+    },
+    "fukugyo-skill-1on1": {
+      "asset": "fukugyo-skill",
+      "layout": 0
+    },
+    "fukugyo-skill-ats-unyou": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 0
+    },
+    "fukugyo-skill-ats-sekkei": {
+      "asset": "fukugyo-skill",
+      "layout": 1
+    },
+    "fukugyo-skill-kpi": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 1
+    },
+    "fukugyo-skill-alumni": {
+      "asset": "fukugyo-skill",
+      "layout": 2
+    },
+    "fukugyo-skill-intern": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 2
+    },
+    "fukugyo-skill-engagement": {
+      "asset": "fukugyo-skill",
+      "layout": 0
+    },
+    "fukugyo-skill-oferring": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 0
+    },
+    "fukugyo-skill-onboarding": {
+      "asset": "fukugyo-skill",
+      "layout": 1
+    },
+    "fukugyo-skill-casual": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 1
+    },
+    "fukugyo-skill-jd": {
+      "asset": "fukugyo-skill",
+      "layout": 2
+    },
+    "fukugyo-skill-scout-bunmen": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 2
+    },
+    "fukugyo-skill-spreadsheet": {
+      "asset": "fukugyo-skill",
+      "layout": 0
+    },
+    "fukugyo-skill-persona": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 0
+    },
+    "fukugyo-skill-dashboard": {
+      "asset": "fukugyo-skill",
+      "layout": 1
+    },
+    "fukugyo-skill-talent-pool": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 1
+    },
+    "fukugyo-skill-screening": {
+      "asset": "fukugyo-skill",
+      "layout": 2
+    },
+    "fukugyo-skill-manual": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 2
+    },
+    "fukugyo-skill-referral": {
+      "asset": "fukugyo-skill",
+      "layout": 0
+    },
+    "fukugyo-skill-reference": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 0
+    },
+    "fukugyo-skill-report": {
+      "asset": "fukugyo-skill",
+      "layout": 1
+    },
+    "fukugyo-skill-hikitsugi": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 1
+    },
+    "fukugyo-skill-gaikokujin": {
+      "asset": "fukugyo-skill",
+      "layout": 2
+    },
+    "fukugyo-skill-midashi": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 2
+    },
+    "fukugyo-skill-kyujin-genkou": {
+      "asset": "fukugyo-skill",
+      "layout": 0
+    },
+    "fukugyo-skill-kyuyo-table": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 0
+    },
+    "fukugyo-skill-kyougou-chousa": {
+      "asset": "fukugyo-skill",
+      "layout": 1
+    },
+    "fukugyo-skill-kensaku": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 1
+    },
+    "fukugyo-skill-kensyu": {
+      "asset": "fukugyo-skill",
+      "layout": 2
+    },
+    "fukugyo-skill-koushi": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 2
+    },
+    "fukugyo-skill-mikiwame": {
+      "asset": "fukugyo-skill",
+      "layout": 0
+    },
+    "fukugyo-skill-list": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 0
+    },
+    "fukugyo-skill-kouzou-mensetsu": {
+      "asset": "fukugyo-skill",
+      "layout": 1
+    },
+    "fukugyo-skill-sns": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 1
+    },
+    "fukugyo-skill-meetup": {
+      "asset": "fukugyo-skill",
+      "layout": 2
+    },
+    "fukugyo-skill-saiyo-site": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 2
+    },
+    "fukugyo-skill-data-bunseki": {
+      "asset": "fukugyo-skill",
+      "layout": 0
+    },
+    "fukugyo-skill-funnel": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 0
+    },
+    "fukugyo-skill-keikaku": {
+      "asset": "fukugyo-skill",
+      "layout": 1
+    },
+    "fukugyo-skill-koho-kikaku": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 1
+    },
+    "fukugyo-skill-tanka-keisan": {
+      "asset": "fukugyo-skill",
+      "layout": 2
+    },
+    "fukugyo-skill-yosan": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 2
+    },
+    "fukugyo-skill-youken-hearing": {
+      "asset": "fukugyo-skill",
+      "layout": 0
+    },
+    "fukugyo-skill-uriba": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 0
+    },
+    "fukugyo-skill-shain-interview": {
+      "asset": "fukugyo-skill",
+      "layout": 1
+    },
+    "fukugyo-skill-jinji-ikusei": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 1
+    },
+    "fukugyo-skill-agent-kaigi": {
+      "asset": "fukugyo-skill",
+      "layout": 2
+    },
+    "fukugyo-skill-agent-brief": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 2
+    },
+    "fukugyo-skill-agent-kanri": {
+      "asset": "fukugyo-skill",
+      "layout": 0
+    },
+    "fukugyo-skill-shougaisha": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 0
+    },
+    "fukugyo-skill-shinsotsu": {
+      "asset": "fukugyo-skill",
+      "layout": 1
+    },
+    "fukugyo-skill-jinji-seido": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 1
+    },
+    "fukugyo-skill-survey": {
+      "asset": "fukugyo-skill",
+      "layout": 2
+    },
+    "fukugyo-skill-soushin-unyou": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 2
+    },
+    "fukugyo-skill-exit-interview": {
+      "asset": "fukugyo-skill",
+      "layout": 0
+    },
+    "fukugyo-skill-teichaku": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 0
+    },
+    "fukugyo-skill-grade": {
+      "asset": "fukugyo-skill",
+      "layout": 1
+    },
+    "fukugyo-skill-douki-zuke": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 1
+    },
+    "fukugyo-skill-uchisei-shien": {
+      "asset": "fukugyo-skill",
+      "layout": 2
+    },
+    "fukugyo-skill-jitai-boushi": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 2
+    },
+    "fukugyo-skill-nittei": {
+      "asset": "fukugyo-skill",
+      "layout": 0
+    },
+    "fukugyo-skill-souba-chousa": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 0
+    },
+    "fukugyo-skill-baitai-sentei": {
+      "asset": "fukugyo-skill",
+      "layout": 1
+    },
+    "fukugyo-skill-hyouka-sheet": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 1
+    },
+    "fukugyo-skill-hyouka": {
+      "asset": "fukugyo-skill",
+      "layout": 2
+    },
+    "fukugyo-skill-ab-test": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 2
+    },
+    "fukugyo-skill-henshin-taiou": {
+      "asset": "fukugyo-skill",
+      "layout": 0
+    },
+    "fukugyo-skill-mensetsu-sekkei": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 0
+    },
+    "fukugyo-skill-mensetsukan": {
+      "asset": "fukugyo-skill",
+      "layout": 1
+    },
+    "fukugyo-skill-shitsumon-shuu": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 1
+    },
+    "fukugyo-skill-mbo": {
+      "asset": "fukugyo-skill",
+      "layout": 2
+    },
+    "fukugyo-skill-jinin-keikaku": {
+      "asset": "fukugyo-skill-v2",
+      "layout": 2
+    },
+    "fukugyo-skill-rishoku-bunseki": {
+      "asset": "fukugyo-skill",
+      "layout": 0
+    },
+    "rpo-ats-tsukaikonasenai": {
+      "asset": "rpo-kadai",
+      "layout": 0
+    },
+    "rpo-cxo-saiyo": {
+      "asset": "rpo-kadai-v2",
+      "layout": 0
+    },
+    "rpo-indeed-yuryou": {
+      "asset": "rpo-kadai",
+      "layout": 1
+    },
+    "rpo-intern-sekkei": {
+      "asset": "rpo-kadai-v2",
+      "layout": 1
+    },
+    "rpo-engineer-torenai": {
+      "asset": "rpo-kadai",
+      "layout": 2
+    },
+    "rpo-casual-mendan-kadai": {
+      "asset": "rpo-kadai-v2",
+      "layout": 2
+    },
+    "rpo-senior-saiyo": {
+      "asset": "rpo-kadai",
+      "layout": 0
+    },
+    "rpo-jd-nai": {
+      "asset": "rpo-kadai-v2",
+      "layout": 0
+    },
+    "rpo-scout-henshin-nai": {
+      "asset": "rpo-kadai",
+      "layout": 1
+    },
+    "rpo-scout-jikan-nai": {
+      "asset": "rpo-kadai-v2",
+      "layout": 1
+    },
+    "rpo-gaichu-hanni": {
+      "asset": "rpo-kadai",
+      "layout": 2
+    },
+    "rpo-yuusen-jyuni": {
+      "asset": "rpo-kadai-v2",
+      "layout": 2
+    },
+    "rpo-media-erabenai": {
+      "asset": "rpo-kadai",
+      "layout": 0
+    },
+    "rpo-toriaezu-boshu": {
+      "asset": "rpo-kadai-v2",
+      "layout": 0
+    },
+    "rpo-hellowork": {
+      "asset": "rpo-kadai",
+      "layout": 1
+    },
+    "rpo-remote-saiyo": {
+      "asset": "rpo-kadai-v2",
+      "layout": 1
+    },
+    "rpo-referral-susumanai": {
+      "asset": "rpo-kadai",
+      "layout": 2
+    },
+    "rpo-eigyo-teichaku": {
+      "asset": "rpo-kadai-v2",
+      "layout": 2
+    },
+    "rpo-ouboga-konai": {
+      "asset": "rpo-kadai",
+      "layout": 0
+    },
+    "rpo-oubo-shitsu": {
+      "asset": "rpo-kadai-v2",
+      "layout": 0
+    },
+    "rpo-oubo-houchi": {
+      "asset": "rpo-kadai",
+      "layout": 1
+    },
+    "rpo-ats-nai": {
+      "asset": "rpo-kadai-v2",
+      "layout": 1
+    },
+    "rpo-nani-kara": {
+      "asset": "rpo-kadai",
+      "layout": 2
+    },
+    "rpo-talent-pool-katsuyou": {
+      "asset": "rpo-kadai-v2",
+      "layout": 2
+    },
+    "rpo-gaikokujin": {
+      "asset": "rpo-kadai",
+      "layout": 0
+    },
+    "rpo-kanbu-saiyo": {
+      "asset": "rpo-kadai-v2",
+      "layout": 0
+    },
+    "rpo-ketsuin-taiou": {
+      "asset": "rpo-kadai",
+      "layout": 1
+    },
+    "rpo-kyuu-zouin": {
+      "asset": "rpo-kadai-v2",
+      "layout": 1
+    },
+    "rpo-kyujin-genkou-furui": {
+      "asset": "rpo-kadai",
+      "layout": 2
+    },
+    "rpo-kyougou-bunseki": {
+      "asset": "rpo-kadai-v2",
+      "layout": 2
+    },
+    "rpo-gyoumu-itaku-saiyo": {
+      "asset": "rpo-kadai",
+      "layout": 0
+    },
+    "rpo-keieisha-rikai": {
+      "asset": "rpo-kadai-v2",
+      "layout": 0
+    },
+    "rpo-mikiwame": {
+      "asset": "rpo-kadai",
+      "layout": 1
+    },
+    "rpo-genba-kyouryoku": {
+      "asset": "rpo-kadai-v2",
+      "layout": 1
+    },
+    "rpo-koukei-sha": {
+      "asset": "rpo-kadai",
+      "layout": 2
+    },
+    "rpo-taiken-warui": {
+      "asset": "rpo-kadai-v2",
+      "layout": 2
+    },
+    "rpo-kuchikomi-warui": {
+      "asset": "rpo-kadai",
+      "layout": 0
+    },
+    "rpo-kokoku-hi-muda": {
+      "asset": "rpo-kadai-v2",
+      "layout": 0
+    },
+    "rpo-kouzou-mensetsu": {
+      "asset": "rpo-kadai",
+      "layout": 1
+    },
+    "rpo-goudou-setsumeikai": {
+      "asset": "rpo-kadai-v2",
+      "layout": 1
+    },
+    "rpo-kpi-erabenai": {
+      "asset": "rpo-kadai",
+      "layout": 2
+    },
+    "rpo-note-unyou": {
+      "asset": "rpo-kadai-v2",
+      "layout": 2
+    },
+    "rpo-sns-nani": {
+      "asset": "rpo-kadai",
+      "layout": 0
+    },
+    "rpo-meetup-hito-konai": {
+      "asset": "rpo-kadai-v2",
+      "layout": 0
+    },
+    "rpo-shanai-chinmoku": {
+      "asset": "rpo-kadai",
+      "layout": 1
+    },
+    "rpo-nouhau-nai": {
+      "asset": "rpo-kadai-v2",
+      "layout": 1
+    },
+    "rpo-data-nai": {
+      "asset": "rpo-kadai",
+      "layout": 2
+    },
+    "rpo-funnel": {
+      "asset": "rpo-kadai-v2",
+      "layout": 2
+    },
+    "rpo-koho-neta": {
+      "asset": "rpo-kadai",
+      "layout": 0
+    },
+    "rpo-jinji-tantou-1nichi": {
+      "asset": "rpo-kadai-v2",
+      "layout": 0
+    },
+    "rpo-mokuhyou-konkyo": {
+      "asset": "rpo-kadai",
+      "layout": 1
+    },
+    "rpo-yosan-nai": {
+      "asset": "rpo-kadai-v2",
+      "layout": 1
+    },
+    "rpo-youken-katame": {
+      "asset": "rpo-kadai",
+      "layout": 2
+    },
+    "rpo-youken-takasugi": {
+      "asset": "rpo-kadai-v2",
+      "layout": 2
+    },
+    "rpo-shashin-nai": {
+      "asset": "rpo-kadai",
+      "layout": 0
+    },
+    "rpo-shijou-souba": {
+      "asset": "rpo-kadai-v2",
+      "layout": 0
+    },
+    "rpo-kouka-sokutei": {
+      "asset": "rpo-kadai",
+      "layout": 1
+    },
+    "rpo-shorui-tsuuka-hikui": {
+      "asset": "rpo-kadai-v2",
+      "layout": 1
+    },
+    "rpo-josei-hiritsu": {
+      "asset": "rpo-kadai",
+      "layout": 2
+    },
+    "rpo-agent-shoukai-konai": {
+      "asset": "rpo-kadai-v2",
+      "layout": 2
+    },
+    "rpo-agent-ooi": {
+      "asset": "rpo-kadai",
+      "layout": 0
+    },
+    "rpo-agent-shitsu": {
+      "asset": "rpo-kadai-v2",
+      "layout": 0
+    },
+    "rpo-tesuuryou-takai": {
+      "asset": "rpo-kadai",
+      "layout": 1
+    },
+    "rpo-shougaisha-koyou": {
+      "asset": "rpo-kadai-v2",
+      "layout": 1
+    },
+    "rpo-shinsotsu-teichaku": {
+      "asset": "rpo-kadai",
+      "layout": 2
+    },
+    "rpo-shinsotsu-ka-chuuto": {
+      "asset": "rpo-kadai-v2",
+      "layout": 2
+    },
+    "rpo-jinji-hitori-kadai": {
+      "asset": "rpo-kadai",
+      "layout": 0
+    },
+    "rpo-jinji-saiyo": {
+      "asset": "rpo-kadai-v2",
+      "layout": 0
+    },
+    "rpo-hikitsugi-nai": {
+      "asset": "rpo-kadai",
+      "layout": 1
+    },
+    "rpo-souki-rishoku": {
+      "asset": "rpo-kadai-v2",
+      "layout": 1
+    },
+    "rpo-kenmu": {
+      "asset": "rpo-kadai",
+      "layout": 2
+    },
+    "rpo-hikaku-dekinai": {
+      "asset": "rpo-kadai-v2",
+      "layout": 2
+    },
+    "rpo-kyugyo-jouken": {
+      "asset": "rpo-kadai",
+      "layout": 0
+    },
+    "rpo-alumni-katsuyou": {
+      "asset": "rpo-kadai-v2",
+      "layout": 0
+    },
+    "rpo-daigaku-renkei": {
+      "asset": "rpo-kadai",
+      "layout": 1
+    },
+    "rpo-second-shinsotsu": {
+      "asset": "rpo-kadai-v2",
+      "layout": 1
+    },
+    "rpo-chimeido-nai": {
+      "asset": "rpo-kadai",
+      "layout": 2
+    },
+    "rpo-chiiki-media": {
+      "asset": "rpo-kadai-v2",
+      "layout": 2
+    },
+    "rpo-chihou-saiyo": {
+      "asset": "rpo-kadai",
+      "layout": 0
+    },
+    "rpo-nenshu-awanai": {
+      "asset": "rpo-kadai-v2",
+      "layout": 0
+    },
+    "rpo-doga-katsuyou": {
+      "asset": "rpo-kadai",
+      "layout": 1
+    },
+    "rpo-jitai-ooi": {
+      "asset": "rpo-kadai-v2",
+      "layout": 1
+    },
+    "rpo-jitai-riyuu": {
+      "asset": "rpo-kadai",
+      "layout": 2
+    },
+    "rpo-nittei-chousei-osoi": {
+      "asset": "rpo-kadai-v2",
+      "layout": 2
+    },
+    "rpo-nenshu-kousho": {
+      "asset": "rpo-kadai",
+      "layout": 0
+    },
+    "rpo-nenrei-katayori": {
+      "asset": "rpo-kadai-v2",
+      "layout": 0
+    },
+    "rpo-media-oosugi": {
+      "asset": "rpo-kadai",
+      "layout": 1
+    },
+    "rpo-tsuuki-hendou": {
+      "asset": "rpo-kadai-v2",
+      "layout": 1
+    },
+    "rpo-must-want": {
+      "asset": "rpo-kadai",
+      "layout": 2
+    },
+    "rpo-hyouka-kijun": {
+      "asset": "rpo-kadai-v2",
+      "layout": 2
+    },
+    "rpo-fugouhi-renraku": {
+      "asset": "rpo-kadai",
+      "layout": 0
+    },
+    "rpo-fugouhi-saikatsuyou": {
+      "asset": "rpo-kadai-v2",
+      "layout": 0
+    },
+    "rpo-fukugyo-saiyo": {
+      "asset": "rpo-kadai",
+      "layout": 1
+    },
+    "rpo-fukusuu-shokushu": {
+      "asset": "rpo-kadai-v2",
+      "layout": 1
+    },
+    "rpo-mikeiken-saiyo": {
+      "asset": "rpo-kadai",
+      "layout": 2
+    },
+    "rpo-mensetsu-shitsumon": {
+      "asset": "rpo-kadai-v2",
+      "layout": 2
+    },
+    "rpo-mensetsu-kettai": {
+      "asset": "rpo-kadai",
+      "layout": 0
+    },
+    "rpo-mensetsukan-tarinai": {
+      "asset": "rpo-kadai-v2",
+      "layout": 0
+    },
+    "rpo-mensetsukan-bara": {
+      "asset": "rpo-kadai",
+      "layout": 1
+    },
+    "rpo-jinin-keikaku": {
+      "asset": "rpo-kadai-v2",
+      "layout": 1
+    },
+    "rpo-aiaigasa": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 0
+    },
+    "rpo-kpi-mitatsu": {
+      "asset": "rpo-hiyou",
+      "layout": 0
+    },
+    "rpo-oferletter": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 1
+    },
+    "rpo-offshore": {
+      "asset": "rpo-hiyou",
+      "layout": 1
+    },
+    "rpo-supot-irai": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 2
+    },
+    "rpo-talent-pool": {
+      "asset": "rpo-hiyou",
+      "layout": 2
+    },
+    "rpo-freelance-itaku": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 0
+    },
+    "rpo-jikan-seisan": {
+      "asset": "rpo-hiyou",
+      "layout": 0
+    },
+    "rpo-kaigai-itaku": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 1
+    },
+    "rpo-data-henkan": {
+      "asset": "rpo-hiyou",
+      "layout": 1
+    },
+    "rpo-kouhosha-tsuuchi": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 2
+    },
+    "rpo-nenshu-kaiji": {
+      "asset": "rpo-hiyou",
+      "layout": 2
+    },
+    "rpo-jyoseikin": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 0
+    },
+    "rpo-shanai-noukou": {
+      "asset": "rpo-hiyou",
+      "layout": 0
+    },
+    "rpo-uchisei-modoshi": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 1
+    },
+    "rpo-yasui-riyuu": {
+      "asset": "rpo-hiyou",
+      "layout": 1
+    },
+    "rpo-gisou-ukeoi": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 2
+    },
+    "rpo-takai-riyuu": {
+      "asset": "rpo-hiyou",
+      "layout": 2
+    },
+    "rpo-trouble-jirei": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 0
+    },
+    "rpo-tantousha-shimei": {
+      "asset": "rpo-hiyou",
+      "layout": 0
+    },
+    "rpo-slack-renkei": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 1
+    },
+    "rpo-kougai-kinshi": {
+      "asset": "rpo-hiyou",
+      "layout": 1
+    },
+    "rpo-teirei": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 2
+    },
+    "rpo-kojin-jouhou": {
+      "asset": "rpo-hiyou",
+      "layout": 2
+    },
+    "rpo-consul-tono-chigai": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 0
+    },
+    "rpo-shokuan-hou": {
+      "asset": "rpo-hiyou",
+      "layout": 0
+    },
+    "rpo-agent-tono-chigai": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 1
+    },
+    "rpo-haken-tono-chigai": {
+      "asset": "rpo-hiyou",
+      "layout": 1
+    },
+    "rpo-yuryou-shokugyo-shokai": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 2
+    },
+    "rpo-mail-account": {
+      "asset": "rpo-hiyou",
+      "layout": 2
+    },
+    "rpo-ats-kengen": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 0
+    },
+    "rpo-nda": {
+      "asset": "rpo-hiyou",
+      "layout": 0
+    },
+    "rpo-roi": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 1
+    },
+    "rpo-sla": {
+      "asset": "rpo-hiyou",
+      "layout": 1
+    },
+    "rpo-toraiaru": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 2
+    },
+    "rpo-report-koumoku": {
+      "asset": "rpo-hiyou",
+      "layout": 2
+    },
+    "rpo-hikitsugi": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 0
+    },
+    "rpo-kakaku-koushou": {
+      "asset": "rpo-hiyou",
+      "layout": 0
+    },
+    "rpo-kadou-kashika": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 1
+    },
+    "rpo-keiyakusho-check": {
+      "asset": "rpo-hiyou",
+      "layout": 1
+    },
+    "rpo-kpi-keiyaku": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 2
+    },
+    "rpo-getsugaku-vs-seika": {
+      "asset": "rpo-hiyou",
+      "layout": 2
+    },
+    "rpo-mitsumori-mikata": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 0
+    },
+    "rpo-gouhi-kettei": {
+      "asset": "rpo-hiyou",
+      "layout": 0
+    },
+    "rpo-hakenmoto-sekinin": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 1
+    },
+    "rpo-saitei-keiyaku-kikan": {
+      "asset": "rpo-hiyou",
+      "layout": 1
+    },
+    "rpo-jikan-tanka": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 2
+    },
+    "rpo-shokika-hiyou": {
+      "asset": "rpo-hiyou",
+      "layout": 2
+    },
+    "rpo-jouhou-rouei": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 0
+    },
+    "rpo-tantousha-koutai": {
+      "asset": "rpo-hiyou",
+      "layout": 0
+    },
+    "rpo-kenshuu-hiyou": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 1
+    },
+    "rpo-hanki-minaoshi": {
+      "asset": "rpo-hiyou",
+      "layout": 1
+    },
+    "rpo-hiyou-shitsumon": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 2
+    },
+    "rpo-hiyou-souba": {
+      "asset": "rpo-hiyou",
+      "layout": 2
+    },
+    "rpo-hiyou-uchiwake": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 0
+    },
+    "rpo-fukusuu-hattyu": {
+      "asset": "rpo-hiyou",
+      "layout": 0
+    },
+    "rpo-kaisha-nanori": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 1
+    },
+    "rpo-kaiyaku-jiki": {
+      "asset": "rpo-hiyou",
+      "layout": 1
+    },
+    "rpo-buranding": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 2
+    },
+    "rpo-chuuto-kaiyaku": {
+      "asset": "rpo-hiyou",
+      "layout": 2
+    },
+    "rpo-check-list": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 0
+    },
+    "rpo-jidou-koushin": {
+      "asset": "rpo-hiyou",
+      "layout": 0
+    },
+    "rpo-hiyou-taikou": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 1
+    },
+    "rpo-shouhizei": {
+      "asset": "rpo-hiyou",
+      "layout": 1
+    },
+    "rpo-saiyo-tanka": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 2
+    },
+    "rpo-shanai-tono-hikaku": {
+      "asset": "rpo-hiyou",
+      "layout": 2
+    },
+    "rpo-yosan-sakutei": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 0
+    },
+    "rpo-seikahoushuu-teigi": {
+      "asset": "rpo-hiyou",
+      "layout": 0
+    },
+    "rpo-seikyuu-cycle": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 1
+    },
+    "rpo-souki-taishoku": {
+      "asset": "rpo-hiyou",
+      "layout": 1
+    },
+    "rpo-manual-kizoku": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 2
+    },
+    "rpo-kuchikomi": {
+      "asset": "rpo-hiyou",
+      "layout": 2
+    },
+    "rpo-mitsumori-sa": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 0
+    },
+    "rpo-naitei-jitai-henkin": {
+      "asset": "rpo-hiyou",
+      "layout": 0
+    },
+    "rpo-nenkan-keiyaku": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 1
+    },
+    "rpo-media-account": {
+      "asset": "rpo-hiyou",
+      "layout": 1
+    },
+    "rpo-baitai-hi-betsu": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 2
+    },
+    "rpo-candidate-data": {
+      "asset": "rpo-hiyou",
+      "layout": 2
+    },
+    "rpo-fukugyo-jinzai-itaku": {
+      "asset": "rpo-hiyou-v2",
+      "layout": 0
+    },
+    "rpo-mensetsu-hyouka": {
+      "asset": "rpo-hiyou",
+      "layout": 0
+    },
+    "rpo-it-kadai": {
+      "asset": "rpo-gyokai",
+      "layout": 0
+    },
+    "rpo-it-rpo": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 0
+    },
+    "rpo-it-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 1
+    },
+    "rpo-it-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 1
+    },
+    "rpo-saas-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 2
+    },
+    "rpo-saas-kadai": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 2
+    },
+    "rpo-saas-rpo": {
+      "asset": "rpo-gyokai",
+      "layout": 0
+    },
+    "rpo-saas-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 0
+    },
+    "rpo-ses-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 1
+    },
+    "rpo-ses-kadai": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 1
+    },
+    "rpo-ses-rpo": {
+      "asset": "rpo-gyokai",
+      "layout": 2
+    },
+    "rpo-ses-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 2
+    },
+    "rpo-sier-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 0
+    },
+    "rpo-sier-kadai": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 0
+    },
+    "rpo-sier-rpo": {
+      "asset": "rpo-gyokai",
+      "layout": 1
+    },
+    "rpo-sier-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 1
+    },
+    "rpo-energy-kadai": {
+      "asset": "rpo-gyokai",
+      "layout": 2
+    },
+    "rpo-energy-rpo": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 2
+    },
+    "rpo-energy-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 0
+    },
+    "rpo-energy-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 0
+    },
+    "rpo-enta-kadai": {
+      "asset": "rpo-gyokai",
+      "layout": 1
+    },
+    "rpo-enta-rpo": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 1
+    },
+    "rpo-enta-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 2
+    },
+    "rpo-enta-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 2
+    },
+    "rpo-game-hiyou": {
+      "asset": "rpo-gyokai",
+      "layout": 0
+    },
+    "rpo-game-kadai": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 0
+    },
+    "rpo-game-rpo": {
+      "asset": "rpo-gyokai",
+      "layout": 1
+    },
+    "rpo-game-jirei": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 1
+    },
+    "rpo-consul-gyokai-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 2
+    },
+    "rpo-consul-gyokai-kadai": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 2
+    },
+    "rpo-consul-gyokai-rpo": {
+      "asset": "rpo-gyokai",
+      "layout": 0
+    },
+    "rpo-consul-gyokai-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 0
+    },
+    "rpo-maker-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 1
+    },
+    "rpo-maker-kadai": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 1
+    },
+    "rpo-maker-rpo": {
+      "asset": "rpo-gyokai",
+      "layout": 2
+    },
+    "rpo-maker-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 2
+    },
+    "rpo-iryo-kadai": {
+      "asset": "rpo-gyokai",
+      "layout": 0
+    },
+    "rpo-iryo-rpo": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 0
+    },
+    "rpo-iryo-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 1
+    },
+    "rpo-iryo-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 1
+    },
+    "rpo-inshokugyo-kadai": {
+      "asset": "rpo-gyokai",
+      "layout": 2
+    },
+    "rpo-inshokugyo-rpo": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 2
+    },
+    "rpo-inshokugyo-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 0
+    },
+    "rpo-inshokugyo-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 0
+    },
+    "rpo-kaigo-gyokai-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 1
+    },
+    "rpo-kaigo-gyokai-kadai": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 1
+    },
+    "rpo-kaigo-gyokai-rpo": {
+      "asset": "rpo-gyokai",
+      "layout": 2
+    },
+    "rpo-kaigo-gyokai-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 2
+    },
+    "rpo-kyoiku-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 0
+    },
+    "rpo-kyoiku-kadai": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 0
+    },
+    "rpo-kyoiku-rpo": {
+      "asset": "rpo-gyokai",
+      "layout": 1
+    },
+    "rpo-kyoiku-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 1
+    },
+    "rpo-kinyu-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 2
+    },
+    "rpo-kinyu-kadai": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 2
+    },
+    "rpo-kinyu-rpo": {
+      "asset": "rpo-gyokai",
+      "layout": 0
+    },
+    "rpo-kinyu-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 0
+    },
+    "rpo-kensetsu-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 1
+    },
+    "rpo-kensetsu-kadai": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 1
+    },
+    "rpo-kensetsu-rpo": {
+      "asset": "rpo-gyokai",
+      "layout": 2
+    },
+    "rpo-kensetsu-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 2
+    },
+    "rpo-kokoku-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 0
+    },
+    "rpo-kokoku-kadai": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 0
+    },
+    "rpo-kokoku-rpo": {
+      "asset": "rpo-gyokai",
+      "layout": 1
+    },
+    "rpo-kokoku-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 1
+    },
+    "rpo-jidosha-kadai": {
+      "asset": "rpo-gyokai",
+      "layout": 2
+    },
+    "rpo-jidosha-rpo": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 2
+    },
+    "rpo-jidosha-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 0
+    },
+    "rpo-jidosha-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 0
+    },
+    "rpo-kouri-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 1
+    },
+    "rpo-kouri-kadai": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 1
+    },
+    "rpo-kouri-rpo": {
+      "asset": "rpo-gyokai",
+      "layout": 2
+    },
+    "rpo-kouri-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 2
+    },
+    "rpo-jinzai-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 0
+    },
+    "rpo-jinzai-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 0
+    },
+    "rpo-jinzai-kadai": {
+      "asset": "rpo-gyokai",
+      "layout": 1
+    },
+    "rpo-jinzai-rpo": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 1
+    },
+    "rpo-agri-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 2
+    },
+    "rpo-agri-kadai": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 2
+    },
+    "rpo-agri-rpo": {
+      "asset": "rpo-gyokai",
+      "layout": 0
+    },
+    "rpo-agri-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 0
+    },
+    "rpo-handoutai-kadai": {
+      "asset": "rpo-gyokai",
+      "layout": 1
+    },
+    "rpo-handoutai-rpo": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 1
+    },
+    "rpo-handoutai-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 2
+    },
+    "rpo-handoutai-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 2
+    },
+    "rpo-fudosan-hiyou": {
+      "asset": "rpo-gyokai",
+      "layout": 0
+    },
+    "rpo-fudosan-kadai": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 0
+    },
+    "rpo-fudosan-rpo": {
+      "asset": "rpo-gyokai",
+      "layout": 1
+    },
+    "rpo-fudosan-jirei": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 1
+    },
+    "rpo-butsuryu-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 2
+    },
+    "rpo-butsuryu-kadai": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 2
+    },
+    "rpo-butsuryu-rpo": {
+      "asset": "rpo-gyokai",
+      "layout": 0
+    },
+    "rpo-butsuryu-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 0
+    },
+    "rpo-hoiku-kadai": {
+      "asset": "rpo-gyokai",
+      "layout": 1
+    },
+    "rpo-hoiku-rpo": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 1
+    },
+    "rpo-hoiku-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 2
+    },
+    "rpo-hoiku-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 2
+    },
+    "rpo-hoken-kadai": {
+      "asset": "rpo-gyokai",
+      "layout": 0
+    },
+    "rpo-hoken-rpo": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 0
+    },
+    "rpo-hoken-jirei": {
+      "asset": "rpo-gyokai",
+      "layout": 1
+    },
+    "rpo-hoken-hiyou": {
+      "asset": "rpo-gyokai-v2",
+      "layout": 1
+    },
+    "rpo-ai-scout": {
+      "asset": "rpo-erabikata",
+      "layout": 0
+    },
+    "rpo-ats-erabikata": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 0
+    },
+    "rpo-kpi-goui": {
+      "asset": "rpo-erabikata",
+      "layout": 1
+    },
+    "rpo-online-kanketsu": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 1
+    },
+    "rpo-kickoff": {
+      "asset": "rpo-erabikata",
+      "layout": 2
+    },
+    "rpo-startup-muke": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 2
+    },
+    "rpo-toraiaru-sekkei": {
+      "asset": "rpo-erabikata",
+      "layout": 0
+    },
+    "rpo-nouhau-ikan": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 0
+    },
+    "rpo-jinji-saiyou-kihon": {
+      "asset": "rpo-erabikata",
+      "layout": 1
+    },
+    "rpo-freelance-vs-kaisha": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 1
+    },
+    "rpo-report-hindo": {
+      "asset": "rpo-erabikata",
+      "layout": 2
+    },
+    "rpo-hikitsugi-shiryou": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 2
+    },
+    "rpo-eigyo-to-jitsumu": {
+      "asset": "rpo-erabikata",
+      "layout": 0
+    },
+    "rpo-kibo-aisho": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 0
+    },
+    "rpo-kigyou-bunka": {
+      "asset": "rpo-erabikata",
+      "layout": 1
+    },
+    "rpo-shoki-90nichi": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 1
+    },
+    "rpo-keieisha-setsumei": {
+      "asset": "rpo-erabikata",
+      "layout": 2
+    },
+    "rpo-shoushi-hantei": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 2
+    },
+    "rpo-scout-jissu": {
+      "asset": "rpo-erabikata",
+      "layout": 0
+    },
+    "rpo-genba-setsumei": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 0
+    },
+    "rpo-shitauke-kouzou": {
+      "asset": "rpo-erabikata",
+      "layout": 1
+    },
+    "rpo-tool-hikaku": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 1
+    },
+    "rpo-kaizen-cycle": {
+      "asset": "rpo-erabikata",
+      "layout": 2
+    },
+    "rpo-mieruka": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 2
+    },
+    "rpo-manual-seibi": {
+      "asset": "rpo-erabikata",
+      "layout": 0
+    },
+    "rpo-yougo-shuu": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 0
+    },
+    "rpo-ai-katsuyou": {
+      "asset": "rpo-erabikata",
+      "layout": 1
+    },
+    "rpo-jidouka": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 1
+    },
+    "rpo-saiyo-soshiki": {
+      "asset": "rpo-erabikata",
+      "layout": 2
+    },
+    "rpo-toha": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 2
+    },
+    "rpo-jissekimikata": {
+      "asset": "rpo-erabikata",
+      "layout": 0
+    },
+    "rpo-shurui": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 0
+    },
+    "rpo-shitsumon-list": {
+      "asset": "rpo-erabikata",
+      "layout": 1
+    },
+    "rpo-tantousha-mikiwame": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 1
+    },
+    "rpo-hikaku-hyou": {
+      "asset": "rpo-erabikata",
+      "layout": 2
+    },
+    "rpo-erabikata": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 2
+    },
+    "rpo-tool-shitei": {
+      "asset": "rpo-erabikata",
+      "layout": 0
+    },
+    "rpo-jirei-mikata": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 0
+    },
+    "rpo-ats-taiou": {
+      "asset": "rpo-erabikata",
+      "layout": 1
+    },
+    "rpo-gyoukai-keiken": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 1
+    },
+    "rpo-taisei-kakunin": {
+      "asset": "rpo-erabikata",
+      "layout": 2
+    },
+    "rpo-shanai-chousei": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 2
+    },
+    "rpo-jinji-ikusei": {
+      "asset": "rpo-erabikata",
+      "layout": 0
+    },
+    "rpo-jyouchuu": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 0
+    },
+    "rpo-shokushu-keiken": {
+      "asset": "rpo-erabikata",
+      "layout": 1
+    },
+    "rpo-shinsotsu-schedule": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 1
+    },
+    "rpo-kikan-mikomi": {
+      "asset": "rpo-erabikata",
+      "layout": 2
+    },
+    "rpo-senzoku-vs-fukusuu": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 2
+    },
+    "rpo-nyusatsu": {
+      "asset": "rpo-erabikata",
+      "layout": 0
+    },
+    "rpo-baitai-taiou": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 0
+    },
+    "rpo-taiou-jikan": {
+      "asset": "rpo-erabikata",
+      "layout": 1
+    },
+    "rpo-jibun-goto": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 1
+    },
+    "rpo-feedback": {
+      "asset": "rpo-erabikata",
+      "layout": 2
+    },
+    "rpo-jouhou-teikyou": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 2
+    },
+    "rpo-daikigyo-muke": {
+      "asset": "rpo-erabikata",
+      "layout": 0
+    },
+    "rpo-ooote-vs-shokibo": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 0
+    },
+    "rpo-tantousha-keireki": {
+      "asset": "rpo-erabikata",
+      "layout": 1
+    },
+    "rpo-chusho-muke": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 1
+    },
+    "rpo-nenkan-schedule": {
+      "asset": "rpo-erabikata",
+      "layout": 2
+    },
+    "rpo-shijou-doukou": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 2
+    },
+    "rpo-teirei-sekkei": {
+      "asset": "rpo-erabikata",
+      "layout": 0
+    },
+    "rpo-teian-irai": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 0
+    },
+    "rpo-tokui-ryouiki": {
+      "asset": "rpo-erabikata",
+      "layout": 1
+    },
+    "rpo-uchisei-ikou": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 1
+    },
+    "rpo-nenkan-plan": {
+      "asset": "rpo-erabikata",
+      "layout": 2
+    },
+    "rpo-hanki-hyouka": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 2
+    },
+    "rpo-fukugyo-jinzai-vs-kaisha": {
+      "asset": "rpo-erabikata",
+      "layout": 0
+    },
+    "rpo-teian-hikaku": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 0
+    },
+    "rpo-tachiage-kikan": {
+      "asset": "rpo-erabikata",
+      "layout": 1
+    },
+    "rpo-ringi": {
+      "asset": "rpo-erabikata-v2",
+      "layout": 1
+    },
+    "rpo-aichi-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 0
+    },
+    "rpo-ehime-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 0
+    },
+    "rpo-ibaraki-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 1
+    },
+    "rpo-okayama-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 1
+    },
+    "rpo-okinawa-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 2
+    },
+    "rpo-iwate-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 2
+    },
+    "rpo-gifu-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 0
+    },
+    "rpo-miyazaki-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 0
+    },
+    "rpo-miyagi-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 1
+    },
+    "rpo-kyoto-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 1
+    },
+    "rpo-kumamoto-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 2
+    },
+    "rpo-gunma-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 2
+    },
+    "rpo-hiroshima-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 0
+    },
+    "rpo-kagawa-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 0
+    },
+    "rpo-kochi-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 1
+    },
+    "rpo-saga-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 1
+    },
+    "rpo-saitama-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 2
+    },
+    "rpo-mie-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 2
+    },
+    "rpo-yamagata-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 0
+    },
+    "rpo-yamaguchi-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 0
+    },
+    "rpo-yamanashi-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 1
+    },
+    "rpo-shiga-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 1
+    },
+    "rpo-kagoshima-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 2
+    },
+    "rpo-akita-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 2
+    },
+    "rpo-niigata-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 0
+    },
+    "rpo-kanagawa-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 0
+    },
+    "rpo-aomori-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 1
+    },
+    "rpo-shizuoka-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 1
+    },
+    "rpo-ishikawa-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 2
+    },
+    "rpo-chiba-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 2
+    },
+    "rpo-osaka-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 0
+    },
+    "rpo-oita-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 0
+    },
+    "rpo-nagasaki-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 1
+    },
+    "rpo-nagano-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 1
+    },
+    "rpo-tottori-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 2
+    },
+    "rpo-shimane-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 2
+    },
+    "rpo-tokyo-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 0
+    },
+    "rpo-tokushima-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 0
+    },
+    "rpo-tochigi-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 1
+    },
+    "rpo-nara-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 1
+    },
+    "rpo-toyama-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 2
+    },
+    "rpo-fukui-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 2
+    },
+    "rpo-fukuoka-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 0
+    },
+    "rpo-fukushima-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 0
+    },
+    "rpo-hyogo-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 1
+    },
+    "rpo-hokkaido-saiyo-daikou": {
+      "asset": "rpo-chiiki-v2",
+      "layout": 1
+    },
+    "rpo-wakayama-saiyo-daikou": {
+      "asset": "rpo-chiiki",
+      "layout": 2
+    },
+    "rpo-ambi-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-ambi-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-ambi-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-ambi-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-ambi-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-ambi-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-doda-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-doda-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-doda-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-doda-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-doda-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-doda-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-doda-x-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-doda-x-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-doda-x-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-doda-x-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-doda-x-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-doda-x-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-eight-career-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-eight-career-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-eight-career-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-eight-career-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-eight-career-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-eight-career-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-findy-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-findy-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-findy-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-findy-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-findy-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-findy-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-forkwell-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-forkwell-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-forkwell-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-forkwell-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-forkwell-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-forkwell-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-geekly-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-geekly-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-geekly-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-geekly-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-geekly-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-geekly-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-green-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-green-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-green-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-green-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-green-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-green-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-indeed-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-indeed-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-indeed-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-indeed-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-indeed-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-indeed-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-jac-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-jac-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-jac-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-jac-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-jac-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-jac-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-lapras-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-lapras-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-lapras-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-lapras-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-lapras-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-lapras-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-liiga-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-liiga-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-liiga-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-liiga-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-liiga-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-liiga-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-linkedin-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-linkedin-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-linkedin-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-linkedin-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-linkedin-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-linkedin-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-offers-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-offers-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-offers-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-offers-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-offers-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-offers-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-openwork-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-openwork-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-openwork-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-openwork-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-openwork-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-openwork-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-paiza-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-paiza-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-paiza-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-paiza-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-paiza-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-paiza-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-re-shukatsu-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-re-shukatsu-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-re-shukatsu-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-re-shukatsu-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-re-shukatsu-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-re-shukatsu-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-type-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-type-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-type-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-type-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-type-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-type-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-wantedly-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-wantedly-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-wantedly-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-wantedly-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-wantedly-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-wantedly-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-youtrust-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-youtrust-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-youtrust-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-youtrust-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-youtrust-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-youtrust-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-en-tenshoku-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-en-tenshoku-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-en-tenshoku-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-en-tenshoku-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-en-tenshoku-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-en-tenshoku-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-careercross-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-careercross-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-careercross-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-careercross-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-careercross-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-careercross-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-stanby-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-stanby-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-stanby-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-stanby-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-stanby-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-stanby-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-bizreach-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-bizreach-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-bizreach-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-bizreach-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-bizreach-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-bizreach-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-mynavi-tenshoku-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-mynavi-tenshoku-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-mynavi-tenshoku-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-mynavi-tenshoku-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-mynavi-tenshoku-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-mynavi-tenshoku-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-middle-tenshoku-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-middle-tenshoku-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-middle-tenshoku-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-middle-tenshoku-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-middle-tenshoku-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-middle-tenshoku-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-rikunabi-next-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-rikunabi-next-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-rikunabi-next-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-rikunabi-next-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-rikunabi-next-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-rikunabi-next-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-recruit-direct-scout-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-recruit-direct-scout-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-recruit-direct-scout-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-recruit-direct-scout-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-recruit-direct-scout-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-recruit-direct-scout-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-levtech-career-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-levtech-career-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-levtech-career-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-levtech-career-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-levtech-career-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-levtech-career-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-kyujin-box-scout-bunmen": {
+      "asset": "rpo-baitai",
+      "layout": 0
+    },
+    "rpo-kyujin-box-unyou-daikou": {
+      "asset": "rpo-baitai-v2",
+      "layout": 0
+    },
+    "rpo-kyujin-box-hiyou": {
+      "asset": "rpo-baitai",
+      "layout": 1
+    },
+    "rpo-kyujin-box-erabikata": {
+      "asset": "rpo-baitai-v2",
+      "layout": 1
+    },
+    "rpo-kyujin-box-henshinritsu": {
+      "asset": "rpo-baitai",
+      "layout": 2
+    },
+    "rpo-kyujin-box-shippai": {
+      "asset": "rpo-baitai-v2",
+      "layout": 2
+    },
+    "rpo-mr-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-mr-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-mr-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-mr-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-mr-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-sre-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-sre-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-sre-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-sre-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-sre-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-inside-sales-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-inside-sales-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-inside-sales-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-inside-sales-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-inside-sales-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-infra-engineer-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-infra-engineer-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-infra-engineer-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-infra-engineer-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-infra-engineer-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-engineer-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-engineer-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-engineer-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-engineer-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-engineer-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-customer-success-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-customer-success-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-customer-success-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-customer-success-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-customer-success-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-cs-support-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-cs-support-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-cs-support-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-cs-support-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-cs-support-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-consultant-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-consultant-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-consultant-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-consultant-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-consultant-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-data-scientist-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-data-scientist-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-data-scientist-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-data-scientist-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-data-scientist-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-designer-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-designer-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-designer-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-designer-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-designer-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-driver-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-driver-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-driver-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-driver-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-driver-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-pjm-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-pjm-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-pjm-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-pjm-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-pjm-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-pdm-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-pdm-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-pdm-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-pdm-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-pdm-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-marketer-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-marketer-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-marketer-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-marketer-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-marketer-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-inshoku-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-inshoku-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-inshoku-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-inshoku-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-inshoku-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-sales-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-sales-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-sales-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-sales-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-sales-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-kaigo-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-kaigo-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-kaigo-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-kaigo-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-kaigo-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-kangoshi-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-kangoshi-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-kangoshi-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-kangoshi-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-kangoshi-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-kikai-sekkei-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-kikai-sekkei-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-kikai-sekkei-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-kikai-sekkei-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-kikai-sekkei-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-keiei-kikaku-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-keiei-kikaku-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-keiei-kikaku-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-keiei-kikaku-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-keiei-kikaku-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-keiri-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-keiri-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-keiri-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-keiri-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-keiri-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-kenchiku-sekkei-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-kenchiku-sekkei-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-kenchiku-sekkei-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-kenchiku-sekkei-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-kenchiku-sekkei-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-kenkyu-kaihatsu-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-kenkyu-kaihatsu-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-kenkyu-kaihatsu-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-kenkyu-kaihatsu-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-kenkyu-kaihatsu-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-zaimu-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-zaimu-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-zaimu-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-zaimu-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-zaimu-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-sekou-kanri-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-sekou-kanri-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-sekou-kanri-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-sekou-kanri-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-sekou-kanri-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-jigyo-kaihatsu-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-jigyo-kaihatsu-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-jigyo-kaihatsu-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-jigyo-kaihatsu-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-jigyo-kaihatsu-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-shanai-se-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-shanai-se-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-shanai-se-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-shanai-se-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-shanai-se-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-jinji-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-jinji-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-jinji-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-jinji-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-jinji-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-seisan-gijutsu-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-seisan-gijutsu-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-seisan-gijutsu-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-seisan-gijutsu-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-seisan-gijutsu-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-soko-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-soko-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-soko-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-soko-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-soko-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-soumu-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-soumu-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-soumu-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-soumu-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-soumu-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-chourishi-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-chourishi-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-chourishi-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-chourishi-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-chourishi-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-denki-sekkei-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-denki-sekkei-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-denki-sekkei-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-denki-sekkei-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-denki-sekkei-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-hanbai-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-hanbai-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-hanbai-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-hanbai-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-hanbai-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-biyoshi-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-biyoshi-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-biyoshi-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-biyoshi-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-biyoshi-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-hinshitsu-kanri-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-hinshitsu-kanri-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-hinshitsu-kanri-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-hinshitsu-kanri-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-hinshitsu-kanri-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-hoikushi-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-hoikushi-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-hoikushi-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-hoikushi-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-hoikushi-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-houmu-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-houmu-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-houmu-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-houmu-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-houmu-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-yakuzaishi-youken": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-yakuzaishi-boshuudan": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-yakuzaishi-scout": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-yakuzaishi-hiyou": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-yakuzaishi-rpo": {
+      "asset": "rpo-shokushu",
+      "layout": 1
+    },
+    "rpo-roumu-youken": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 1
+    },
+    "rpo-roumu-boshuudan": {
+      "asset": "rpo-shokushu",
+      "layout": 2
+    },
+    "rpo-roumu-scout": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 2
+    },
+    "rpo-roumu-hiyou": {
+      "asset": "rpo-shokushu",
+      "layout": 0
+    },
+    "rpo-roumu-rpo": {
+      "asset": "rpo-shokushu-v2",
+      "layout": 0
+    },
+    "rpo-ipo-junbi-taisei": {
+      "asset": "rpo-phase",
+      "layout": 0
+    },
+    "rpo-ipo-junbi-rpo": {
+      "asset": "rpo-phase-v2",
+      "layout": 0
+    },
+    "rpo-ipo-junbi-shippai": {
+      "asset": "rpo-phase",
+      "layout": 1
+    },
+    "rpo-ipo-junbi-hiyou": {
+      "asset": "rpo-phase-v2",
+      "layout": 1
+    },
+    "rpo-startup-seed-shippai": {
+      "asset": "rpo-phase",
+      "layout": 2
+    },
+    "rpo-startup-seed-hiyou": {
+      "asset": "rpo-phase-v2",
+      "layout": 2
+    },
+    "rpo-startup-seed-taisei": {
+      "asset": "rpo-phase",
+      "layout": 0
+    },
+    "rpo-startup-seed-rpo": {
+      "asset": "rpo-phase-v2",
+      "layout": 0
+    },
+    "rpo-startup-series-a-shippai": {
+      "asset": "rpo-phase",
+      "layout": 1
+    },
+    "rpo-startup-series-a-hiyou": {
+      "asset": "rpo-phase-v2",
+      "layout": 1
+    },
+    "rpo-startup-series-a-taisei": {
+      "asset": "rpo-phase",
+      "layout": 2
+    },
+    "rpo-startup-series-a-rpo": {
+      "asset": "rpo-phase-v2",
+      "layout": 2
+    },
+    "rpo-startup-series-b-shippai": {
+      "asset": "rpo-phase",
+      "layout": 0
+    },
+    "rpo-startup-series-b-hiyou": {
+      "asset": "rpo-phase-v2",
+      "layout": 0
+    },
+    "rpo-startup-series-b-taisei": {
+      "asset": "rpo-phase",
+      "layout": 1
+    },
+    "rpo-startup-series-b-rpo": {
+      "asset": "rpo-phase-v2",
+      "layout": 1
+    },
+    "rpo-mega-venture-shippai": {
+      "asset": "rpo-phase",
+      "layout": 2
+    },
+    "rpo-mega-venture-hiyou": {
+      "asset": "rpo-phase-v2",
+      "layout": 2
+    },
+    "rpo-mega-venture-taisei": {
+      "asset": "rpo-phase",
+      "layout": 0
+    },
+    "rpo-mega-venture-rpo": {
+      "asset": "rpo-phase-v2",
+      "layout": 0
+    },
+    "rpo-gaishi-hiyou": {
+      "asset": "rpo-phase",
+      "layout": 1
+    },
+    "rpo-gaishi-taisei": {
+      "asset": "rpo-phase-v2",
+      "layout": 1
+    },
+    "rpo-gaishi-rpo": {
+      "asset": "rpo-phase",
+      "layout": 2
+    },
+    "rpo-gaishi-shippai": {
+      "asset": "rpo-phase-v2",
+      "layout": 2
+    },
+    "rpo-kyuu-seichou-shippai": {
+      "asset": "rpo-phase",
+      "layout": 0
+    },
+    "rpo-kyuu-seichou-hiyou": {
+      "asset": "rpo-phase-v2",
+      "layout": 0
+    },
+    "rpo-kyuu-seichou-taisei": {
+      "asset": "rpo-phase",
+      "layout": 1
+    },
+    "rpo-kyuu-seichou-rpo": {
+      "asset": "rpo-phase-v2",
+      "layout": 1
+    },
+    "rpo-jugyoin-100-taisei": {
+      "asset": "rpo-phase",
+      "layout": 2
+    },
+    "rpo-jugyoin-100-rpo": {
+      "asset": "rpo-phase-v2",
+      "layout": 2
+    },
+    "rpo-jugyoin-100-shippai": {
+      "asset": "rpo-phase",
+      "layout": 0
+    },
+    "rpo-jugyoin-100-hiyou": {
+      "asset": "rpo-phase-v2",
+      "layout": 0
+    },
+    "rpo-jugyoin-10-hiyou": {
+      "asset": "rpo-phase",
+      "layout": 1
+    },
+    "rpo-jugyoin-10-taisei": {
+      "asset": "rpo-phase-v2",
+      "layout": 1
+    },
+    "rpo-jugyoin-10-rpo": {
+      "asset": "rpo-phase",
+      "layout": 2
+    },
+    "rpo-jugyoin-10-shippai": {
+      "asset": "rpo-phase-v2",
+      "layout": 2
+    },
+    "rpo-jugyoin-300-taisei": {
+      "asset": "rpo-phase",
+      "layout": 0
+    },
+    "rpo-jugyoin-300-rpo": {
+      "asset": "rpo-phase-v2",
+      "layout": 0
+    },
+    "rpo-jugyoin-300-shippai": {
+      "asset": "rpo-phase",
+      "layout": 1
+    },
+    "rpo-jugyoin-300-hiyou": {
+      "asset": "rpo-phase-v2",
+      "layout": 1
+    },
+    "rpo-jugyoin-30-taisei": {
+      "asset": "rpo-phase",
+      "layout": 2
+    },
+    "rpo-jugyoin-30-rpo": {
+      "asset": "rpo-phase-v2",
+      "layout": 2
+    },
+    "rpo-jugyoin-30-shippai": {
+      "asset": "rpo-phase",
+      "layout": 0
+    },
+    "rpo-jugyoin-30-hiyou": {
+      "asset": "rpo-phase-v2",
+      "layout": 0
+    },
+    "rpo-shokibo-shippai": {
+      "asset": "rpo-phase",
+      "layout": 1
+    },
+    "rpo-shokibo-hiyou": {
+      "asset": "rpo-phase-v2",
+      "layout": 1
+    },
+    "rpo-shokibo-taisei": {
+      "asset": "rpo-phase",
+      "layout": 2
+    },
+    "rpo-shokibo-rpo": {
+      "asset": "rpo-phase-v2",
+      "layout": 2
+    },
+    "rpo-joujou-hiyou": {
+      "asset": "rpo-phase",
+      "layout": 0
+    },
+    "rpo-joujou-taisei": {
+      "asset": "rpo-phase-v2",
+      "layout": 0
+    },
+    "rpo-joujou-rpo": {
+      "asset": "rpo-phase",
+      "layout": 1
+    },
+    "rpo-joujou-shippai": {
+      "asset": "rpo-phase-v2",
+      "layout": 1
+    },
+    "rpo-shinki-jigyo-shippai": {
+      "asset": "rpo-phase",
+      "layout": 2
+    },
+    "rpo-shinki-jigyo-hiyou": {
+      "asset": "rpo-phase-v2",
+      "layout": 2
+    },
+    "rpo-shinki-jigyo-taisei": {
+      "asset": "rpo-phase",
+      "layout": 0
+    },
+    "rpo-shinki-jigyo-rpo": {
+      "asset": "rpo-phase-v2",
+      "layout": 0
+    },
+    "rpo-jinji-hitori-taisei": {
+      "asset": "rpo-phase",
+      "layout": 1
+    },
+    "rpo-jinji-hitori-rpo": {
+      "asset": "rpo-phase-v2",
+      "layout": 1
+    },
+    "rpo-jinji-hitori-shippai": {
+      "asset": "rpo-phase",
+      "layout": 2
+    },
+    "rpo-jinji-hitori-hiyou": {
+      "asset": "rpo-phase-v2",
+      "layout": 2
+    },
+    "rpo-jinji-fuzai-shippai": {
+      "asset": "rpo-phase",
+      "layout": 0
+    },
+    "rpo-jinji-fuzai-taisei": {
+      "asset": "rpo-phase-v2",
+      "layout": 0
+    },
+    "rpo-jinji-fuzai-rpo": {
+      "asset": "rpo-phase",
+      "layout": 1
+    },
+    "rpo-jinji-fuzai-hiyou": {
+      "asset": "rpo-phase-v2",
+      "layout": 1
+    },
+    "rpo-daikigyo-taisei": {
+      "asset": "rpo-phase",
+      "layout": 2
+    },
+    "rpo-daikigyo-rpo": {
+      "asset": "rpo-phase-v2",
+      "layout": 2
+    },
+    "rpo-daikigyo-shippai": {
+      "asset": "rpo-phase",
+      "layout": 0
+    },
+    "rpo-daikigyo-hiyou": {
+      "asset": "rpo-phase-v2",
+      "layout": 0
+    },
+    "rpo-chihou-kigyo-shippai": {
+      "asset": "rpo-phase",
+      "layout": 1
+    },
+    "rpo-chihou-kigyo-hiyou": {
+      "asset": "rpo-phase-v2",
+      "layout": 1
+    },
+    "rpo-chihou-kigyo-taisei": {
+      "asset": "rpo-phase",
+      "layout": 2
+    },
+    "rpo-chihou-kigyo-rpo": {
+      "asset": "rpo-phase-v2",
+      "layout": 2
+    },
+    "rpo-chusho-shippai": {
+      "asset": "rpo-phase",
+      "layout": 0
+    },
+    "rpo-chusho-taisei": {
+      "asset": "rpo-phase-v2",
+      "layout": 0
+    },
+    "rpo-chusho-rpo": {
+      "asset": "rpo-phase",
+      "layout": 1
+    },
+    "rpo-chusho-hiyou": {
+      "asset": "rpo-phase-v2",
+      "layout": 1
+    },
+    "rpo-family-business-taisei": {
+      "asset": "rpo-phase",
+      "layout": 2
+    },
+    "rpo-family-business-rpo": {
+      "asset": "rpo-phase-v2",
+      "layout": 2
+    },
+    "rpo-family-business-shippai": {
+      "asset": "rpo-phase",
+      "layout": 0
+    },
+    "rpo-family-business-hiyou": {
+      "asset": "rpo-phase-v2",
+      "layout": 0
+    },
+    "rpo-task-ats-unyou-susumekata": {
+      "asset": "rpo-gyomu",
+      "layout": 0
+    },
+    "rpo-task-ats-unyou-daikou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 0
+    },
+    "rpo-task-ats-unyou-hiyou": {
+      "asset": "rpo-gyomu",
+      "layout": 1
+    },
+    "rpo-task-sns-saiyo-susumekata": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 1
+    },
+    "rpo-task-sns-saiyo-daikou": {
+      "asset": "rpo-gyomu",
+      "layout": 2
+    },
+    "rpo-task-sns-saiyo-hiyou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 2
+    },
+    "rpo-task-alumni-susumekata": {
+      "asset": "rpo-gyomu",
+      "layout": 0
+    },
+    "rpo-task-alumni-daikou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 0
+    },
+    "rpo-task-alumni-hiyou": {
+      "asset": "rpo-gyomu",
+      "layout": 1
+    },
+    "rpo-task-casual-mendan-susumekata": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 1
+    },
+    "rpo-task-casual-mendan-daikou": {
+      "asset": "rpo-gyomu",
+      "layout": 2
+    },
+    "rpo-task-casual-mendan-hiyou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 2
+    },
+    "rpo-task-shokushu-teigi-susumekata": {
+      "asset": "rpo-gyomu",
+      "layout": 0
+    },
+    "rpo-task-shokushu-teigi-daikou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 0
+    },
+    "rpo-task-shokushu-teigi-hiyou": {
+      "asset": "rpo-gyomu",
+      "layout": 1
+    },
+    "rpo-task-scout-soushin-susumekata": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 1
+    },
+    "rpo-task-scout-soushin-daikou": {
+      "asset": "rpo-gyomu",
+      "layout": 2
+    },
+    "rpo-task-scout-soushin-hiyou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 2
+    },
+    "rpo-task-scout-bunmen-susumekata": {
+      "asset": "rpo-gyomu",
+      "layout": 0
+    },
+    "rpo-task-scout-bunmen-daikou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 0
+    },
+    "rpo-task-scout-bunmen-hiyou": {
+      "asset": "rpo-gyomu",
+      "layout": 1
+    },
+    "rpo-task-referral-susumekata": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 1
+    },
+    "rpo-task-referral-daikou": {
+      "asset": "rpo-gyomu",
+      "layout": 2
+    },
+    "rpo-task-referral-hiyou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 2
+    },
+    "rpo-task-reference-check-susumekata": {
+      "asset": "rpo-gyomu",
+      "layout": 0
+    },
+    "rpo-task-reference-check-daikou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 0
+    },
+    "rpo-task-reference-check-hiyou": {
+      "asset": "rpo-gyomu",
+      "layout": 1
+    },
+    "rpo-task-ichiji-mensetsu-susumekata": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 1
+    },
+    "rpo-task-ichiji-mensetsu-daikou": {
+      "asset": "rpo-gyomu",
+      "layout": 2
+    },
+    "rpo-task-ichiji-mensetsu-hiyou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 2
+    },
+    "rpo-task-gaikokujin-saiyo-susumekata": {
+      "asset": "rpo-gyomu",
+      "layout": 0
+    },
+    "rpo-task-gaikokujin-saiyo-daikou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 0
+    },
+    "rpo-task-gaikokujin-saiyo-hiyou": {
+      "asset": "rpo-gyomu",
+      "layout": 1
+    },
+    "rpo-task-kyujin-genko-susumekata": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 1
+    },
+    "rpo-task-kyujin-genko-daikou": {
+      "asset": "rpo-gyomu",
+      "layout": 2
+    },
+    "rpo-task-kyujin-genko-hiyou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 2
+    },
+    "rpo-task-baitai-unyou-susumekata": {
+      "asset": "rpo-gyomu",
+      "layout": 0
+    },
+    "rpo-task-baitai-unyou-daikou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 0
+    },
+    "rpo-task-baitai-unyou-hiyou": {
+      "asset": "rpo-gyomu",
+      "layout": 1
+    },
+    "rpo-task-kpi-sekkei-susumekata": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 1
+    },
+    "rpo-task-kpi-sekkei-daikou": {
+      "asset": "rpo-gyomu",
+      "layout": 2
+    },
+    "rpo-task-kpi-sekkei-hiyou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 2
+    },
+    "rpo-task-meetup-susumekata": {
+      "asset": "rpo-gyomu",
+      "layout": 0
+    },
+    "rpo-task-meetup-daikou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 0
+    },
+    "rpo-task-meetup-hiyou": {
+      "asset": "rpo-gyomu",
+      "layout": 1
+    },
+    "rpo-task-saiyo-site-susumekata": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 1
+    },
+    "rpo-task-saiyo-site-daikou": {
+      "asset": "rpo-gyomu",
+      "layout": 2
+    },
+    "rpo-task-saiyo-site-hiyou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 2
+    },
+    "rpo-task-data-bunseki-susumekata": {
+      "asset": "rpo-gyomu",
+      "layout": 0
+    },
+    "rpo-task-data-bunseki-daikou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 0
+    },
+    "rpo-task-data-bunseki-hiyou": {
+      "asset": "rpo-gyomu",
+      "layout": 1
+    },
+    "rpo-task-saiyo-keikaku-susumekata": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 1
+    },
+    "rpo-task-saiyo-keikaku-daikou": {
+      "asset": "rpo-gyomu",
+      "layout": 2
+    },
+    "rpo-task-saiyo-keikaku-hiyou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 2
+    },
+    "rpo-task-saiyo-koho-susumekata": {
+      "asset": "rpo-gyomu",
+      "layout": 0
+    },
+    "rpo-task-saiyo-koho-daikou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 0
+    },
+    "rpo-task-saiyo-koho-hiyou": {
+      "asset": "rpo-gyomu",
+      "layout": 1
+    },
+    "rpo-task-youken-teigi-susumekata": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 1
+    },
+    "rpo-task-youken-teigi-daikou": {
+      "asset": "rpo-gyomu",
+      "layout": 2
+    },
+    "rpo-task-youken-teigi-hiyou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 2
+    },
+    "rpo-task-shorui-senkou-susumekata": {
+      "asset": "rpo-gyomu",
+      "layout": 0
+    },
+    "rpo-task-shorui-senkou-daikou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 0
+    },
+    "rpo-task-shorui-senkou-hiyou": {
+      "asset": "rpo-gyomu",
+      "layout": 1
+    },
+    "rpo-task-jouken-teiji-susumekata": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 1
+    },
+    "rpo-task-jouken-teiji-daikou": {
+      "asset": "rpo-gyomu",
+      "layout": 2
+    },
+    "rpo-task-jouken-teiji-hiyou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 2
+    },
+    "rpo-task-shinsotsu-unyou-susumekata": {
+      "asset": "rpo-gyomu",
+      "layout": 0
+    },
+    "rpo-task-shinsotsu-unyou-daikou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 0
+    },
+    "rpo-task-shinsotsu-unyou-hiyou": {
+      "asset": "rpo-gyomu",
+      "layout": 1
+    },
+    "rpo-task-agent-taiou-susumekata": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 1
+    },
+    "rpo-task-agent-taiou-daikou": {
+      "asset": "rpo-gyomu",
+      "layout": 2
+    },
+    "rpo-task-agent-taiou-hiyou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 2
+    },
+    "rpo-task-tekisei-kensa-susumekata": {
+      "asset": "rpo-gyomu",
+      "layout": 0
+    },
+    "rpo-task-tekisei-kensa-daikou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 0
+    },
+    "rpo-task-tekisei-kensa-hiyou": {
+      "asset": "rpo-gyomu",
+      "layout": 1
+    },
+    "rpo-task-naitei-follow-susumekata": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 1
+    },
+    "rpo-task-naitei-follow-daikou": {
+      "asset": "rpo-gyomu",
+      "layout": 2
+    },
+    "rpo-task-naitei-follow-hiyou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 2
+    },
+    "rpo-task-onboarding-susumekata": {
+      "asset": "rpo-gyomu",
+      "layout": 0
+    },
+    "rpo-task-onboarding-daikou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 0
+    },
+    "rpo-task-onboarding-hiyou": {
+      "asset": "rpo-gyomu",
+      "layout": 1
+    },
+    "rpo-task-boshuudan-susumekata": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 1
+    },
+    "rpo-task-boshuudan-daikou": {
+      "asset": "rpo-gyomu",
+      "layout": 2
+    },
+    "rpo-task-boshuudan-hiyou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 2
+    },
+    "rpo-task-nittei-chousei-susumekata": {
+      "asset": "rpo-gyomu",
+      "layout": 0
+    },
+    "rpo-task-nittei-chousei-daikou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 0
+    },
+    "rpo-task-nittei-chousei-hiyou": {
+      "asset": "rpo-gyomu",
+      "layout": 1
+    },
+    "rpo-task-mensetsukan-kunren-susumekata": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 1
+    },
+    "rpo-task-mensetsukan-kunren-daikou": {
+      "asset": "rpo-gyomu",
+      "layout": 2
+    },
+    "rpo-task-mensetsukan-kunren-hiyou": {
+      "asset": "rpo-gyomu-v2",
+      "layout": 2
+    },
+    "scout-nido-me": {
+      "asset": "scout-kaizen",
+      "layout": 0
+    },
+    "scout-ai-bunmen": {
+      "asset": "scout-kaizen-v2",
+      "layout": 0
+    },
+    "scout-ai-screening": {
+      "asset": "scout-kaizen",
+      "layout": 1
+    },
+    "scout-casual-mendan-sasoi": {
+      "asset": "scout-kaizen-v2",
+      "layout": 1
+    },
+    "scout-kojin-jouhou-toriatsukai": {
+      "asset": "scout-kaizen",
+      "layout": 2
+    },
+    "scout-oubo-hikaku": {
+      "asset": "scout-kaizen-v2",
+      "layout": 2
+    },
+    "scout-agent-hikaku": {
+      "asset": "scout-kaizen",
+      "layout": 0
+    },
+    "scout-nensyu-kisai": {
+      "asset": "scout-kaizen-v2",
+      "layout": 0
+    },
+    "scout-cta": {
+      "asset": "scout-kaizen",
+      "layout": 1
+    },
+    "scout-kenmei": {
+      "asset": "scout-kaizen-v2",
+      "layout": 1
+    },
+    "scout-henshinritsu-souba": {
+      "asset": "scout-kaizen",
+      "layout": 2
+    },
+    "scout-sokudo": {
+      "asset": "scout-kaizen-v2",
+      "layout": 2
+    },
+    "scout-shihyou": {
+      "asset": "scout-kaizen",
+      "layout": 0
+    },
+    "scout-manual": {
+      "asset": "scout-kaizen-v2",
+      "layout": 0
+    },
+    "scout-tanka": {
+      "asset": "scout-kaizen",
+      "layout": 1
+    },
+    "scout-naitei-made": {
+      "asset": "scout-kaizen-v2",
+      "layout": 1
+    },
+    "scout-tool": {
+      "asset": "scout-kaizen",
+      "layout": 2
+    },
+    "scout-tantousha-ikusei": {
+      "asset": "scout-kaizen-v2",
+      "layout": 2
+    },
+    "scout-abtest": {
+      "asset": "scout-kaizen",
+      "layout": 0
+    },
+    "scout-nagasa": {
+      "asset": "scout-kaizen-v2",
+      "layout": 0
+    },
+    "scout-reibun-kouzou": {
+      "asset": "scout-kaizen",
+      "layout": 1
+    },
+    "scout-talent-pool": {
+      "asset": "scout-kaizen-v2",
+      "layout": 1
+    },
+    "scout-tenpure-hiritsu": {
+      "asset": "scout-kaizen",
+      "layout": 2
+    },
+    "scout-kensho-tan-i": {
+      "asset": "scout-kaizen-v2",
+      "layout": 2
+    },
+    "scout-personalize": {
+      "asset": "scout-kaizen",
+      "layout": 0
+    },
+    "scout-hikinuki": {
+      "asset": "scout-kaizen-v2",
+      "layout": 0
+    },
+    "scout-kaifuuritsu": {
+      "asset": "scout-kaizen",
+      "layout": 1
+    },
+    "scout-kyougou-shain": {
+      "asset": "scout-kaizen-v2",
+      "layout": 1
+    },
+    "scout-shokureki-genkyuu": {
+      "asset": "scout-kaizen",
+      "layout": 2
+    },
+    "scout-kenmei-ng": {
+      "asset": "scout-kaizen-v2",
+      "layout": 2
+    },
+    "scout-kensaku-hozon": {
+      "asset": "scout-kaizen",
+      "layout": 0
+    },
+    "scout-crm": {
+      "asset": "scout-kaizen-v2",
+      "layout": 0
+    },
+    "scout-miryoku-zuke": {
+      "asset": "scout-kaizen",
+      "layout": 1
+    },
+    "scout-sabetsu-hyougen": {
+      "asset": "scout-kaizen-v2",
+      "layout": 1
+    },
+    "scout-kikan-aketa": {
+      "asset": "scout-kaizen",
+      "layout": 2
+    },
+    "scout-jisha-shain": {
+      "asset": "scout-kaizen-v2",
+      "layout": 2
+    },
+    "scout-kaisha-shoukai": {
+      "asset": "scout-kaizen",
+      "layout": 0
+    },
+    "scout-jidouka-hanni": {
+      "asset": "scout-kaizen-v2",
+      "layout": 0
+    },
+    "scout-taisei": {
+      "asset": "scout-kaizen",
+      "layout": 1
+    },
+    "scout-torihikisaki": {
+      "asset": "scout-kaizen-v2",
+      "layout": 1
+    },
+    "scout-jyufuku-boushi": {
+      "asset": "scout-kaizen",
+      "layout": 2
+    },
+    "scout-shokushu-mei": {
+      "asset": "scout-kaizen-v2",
+      "layout": 2
+    },
+    "scout-shinchaku-tsuuchi": {
+      "asset": "scout-kaizen",
+      "layout": 0
+    },
+    "scout-jinriki-genkai": {
+      "asset": "scout-kaizen-v2",
+      "layout": 0
+    },
+    "scout-blacklist": {
+      "asset": "scout-kaizen",
+      "layout": 1
+    },
+    "scout-soushin-jikantai": {
+      "asset": "scout-kaizen-v2",
+      "layout": 1
+    },
+    "scout-log": {
+      "asset": "scout-kaizen",
+      "layout": 2
+    },
+    "scout-ryou-vs-shitsu": {
+      "asset": "scout-kaizen-v2",
+      "layout": 2
+    },
+    "scout-tsuiokuri": {
+      "asset": "scout-kaizen",
+      "layout": 0
+    },
+    "scout-soushin-hindo": {
+      "asset": "scout-kaizen-v2",
+      "layout": 0
+    },
+    "scout-nichiji-teiji": {
+      "asset": "scout-kaizen",
+      "layout": 1
+    },
+    "scout-nenrei-kisai": {
+      "asset": "scout-kaizen-v2",
+      "layout": 1
+    },
+    "scout-henshin-nashi-genin": {
+      "asset": "scout-kaizen",
+      "layout": 2
+    },
+    "scout-shokuan-hyouki": {
+      "asset": "scout-kaizen-v2",
+      "layout": 2
+    },
+    "scout-boshuudan-hirosugi": {
+      "asset": "scout-kaizen",
+      "layout": 0
+    },
+    "scout-boshuudan-semasugi": {
+      "asset": "scout-kaizen-v2",
+      "layout": 0
+    },
+    "scout-mendan-oubo-tenkan": {
+      "asset": "scout-kaizen",
+      "layout": 1
+    },
+    "scout-mendan-dotakyan": {
+      "asset": "scout-kaizen-v2",
+      "layout": 1
+    },
+    "scout-mendan-settei-ritsu": {
+      "asset": "scout-kaizen",
+      "layout": 2
+    },
+    "scout-yoyaku-link": {
+      "asset": "scout-kaizen-v2",
+      "layout": 2
+    },
+    "scout-daikou-kouhosha-suu": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-daikou-kadai-spot": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-daikou-tsuu-tanka": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-daikou-shounin": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-daikou-ats-renkei": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-daikou-kadai-kpi": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-daikou-kadai-account": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-daikou-kadai-saikaishi": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-daikou-slack": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-senior-scout": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-persona-sakusei": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-hajime-30nichi": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-naisei-junbi": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-daikou-toha": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-daikou-junbi": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-daikou-hanni": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-daikou-nagare": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-daikou-hiyou-souba": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-kyuuyo-teiji": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-daikou-persona": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-direct-recruiting": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-daikou-tool-shitei": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-daikou-toraiaru": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-daikou-nouhau": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-daikou-kadai-hajimete": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-remote-kyuujin": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-headhunt": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-daikou-report": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-ichiji-menjo": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-daikou-kadai-hikitsugi": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-eigo-bunmen": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-daikou-jinin": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-natsu-fuyu": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-kako-oubosha": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-daikou-kaiyaku": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-daikou-kaizen": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-gaikokujin-scout": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-kanbu-scout": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-kanri-shoku": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-daikou-kadai-marunage": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-kessan-ki": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-kyuu-boshuu": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-kyuuyo-makeru": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-daikou-kadai-kyougou": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-gyoumu-itaku-boshuu": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-daikou-keiyaku": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-keieisha-scout": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-daikou-hyouka": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-daikou-getsugaku": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-daikou-mitsumori": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-daikou-kadai-genba": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-genba-makikomi": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-daikou-kadai-data-kesu": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-kuchikomi-taisaku": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-saiyo-site-doushen": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-kikan-sekkei": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-koho-renkei": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-daikou-kadai-shousuu": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-daikou-manual-kizoku": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-baitai-kaiyaku": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-daikou-jikan-tanka": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-daikou-kadai-shanai": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-furikaeri": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-josei-scout": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-daikou-kadai-jouhou": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-daikou-shokushu-betsu": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-shokuba-kengaku": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-daikou-shinsotsu-chuuto": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-shinnendo": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-daikou-seika": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-daikou-data": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-daikou-kadai-ryou": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-daikou-jyoushitsu": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-daikou-kakunin-flow": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-waku-tarinai": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-waku-amaru": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-daikou-kadai-tsuzukeru": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-daikou-kadai-hayasa": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-daikou-taiou-jikan": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-alumni-scout": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-daikou-kadai-izon": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-golden-week": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-daikou-namae": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-daikou-kadai-tantou": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-chimeido-nai-kaisha": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-chihou-kigyo": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-daikou-teirei": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-tenkin-ari": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-tenshoku-ki": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-doga-tenpu": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-daikou-uchisei-ikou": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-daikou-kadai-nittei": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-daikou-nittei": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-nenmatsu": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-daikou-kengen": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-plan-erabi": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-baitai-kumiawase": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-baitai-kirikae": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-daikou-kadai-baitai": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-daikou-baitai-hi": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-daikou-checklist": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-daikou-hanki": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-daikou-hanbun-uchisei": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-daikou-kadai-hanki": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-daikou-kadai-hiyou": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-hijoukin": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-daikou-check": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-daikou-hinshitsu-kanri": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-fukugyo-jinzai": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-daikou-kyouyu": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-shokushu-yuusen": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-daikou-fukusuu-baitai": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-fukusuu-meigi": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-daikou-kadai-bunmen": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-daikou-tone": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-hyoujun-ka": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-daikou-kadai-kirikae": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-daikou-henshin-taiou": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-daikou-kadai-henshin": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-daikou-kadai-houkoku": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-mikeiken-boshuu": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-daikou-kadai-mismatch": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-mendan-nashi": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-daikou-mendan-doseki": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-daikou-kadai-jitai": {
+      "asset": "scout-unyo",
+      "layout": 2
+    },
+    "scout-daikou-kadai-yosan": {
+      "asset": "scout-unyo-v2",
+      "layout": 2
+    },
+    "scout-daikou-youken-sheet": {
+      "asset": "scout-unyo",
+      "layout": 0
+    },
+    "scout-daikou-kadai-shitsu": {
+      "asset": "scout-unyo-v2",
+      "layout": 0
+    },
+    "scout-daikou-sokudo": {
+      "asset": "scout-unyo",
+      "layout": 1
+    },
+    "scout-daikou-hiyou-hikaku": {
+      "asset": "scout-unyo-v2",
+      "layout": 1
+    },
+    "scout-ambi-template": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-ambi-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-ambi-daikou": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-ambi-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-doda-template": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-doda-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-doda-daikou": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-doda-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-doda-x-template": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-doda-x-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-doda-x-daikou": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-doda-x-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-eight-career-template": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-eight-career-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-eight-career-daikou": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-eight-career-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-findy-template": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-findy-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-findy-daikou": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-findy-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-forkwell-template": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-forkwell-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-forkwell-daikou": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-forkwell-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-geekly-template": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-geekly-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-geekly-daikou": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-geekly-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-green-template": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-green-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-green-daikou": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-green-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-indeed-template": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-indeed-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-indeed-daikou": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-indeed-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-jac-template": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-jac-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-jac-daikou": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-jac-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-lapras-template": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-lapras-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-lapras-daikou": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-lapras-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-liiga-template": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-liiga-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-liiga-daikou": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-liiga-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-linkedin-template": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-linkedin-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-linkedin-daikou": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-linkedin-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-offers-template": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-offers-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-offers-daikou": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-offers-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-openwork-template": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-openwork-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-openwork-daikou": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-openwork-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-paiza-template": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-paiza-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-paiza-daikou": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-paiza-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-re-shukatsu-template": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-re-shukatsu-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-re-shukatsu-daikou": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-re-shukatsu-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-type-template": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-type-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-type-daikou": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-type-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-wantedly-template": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-wantedly-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-wantedly-daikou": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-wantedly-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-youtrust-template": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-youtrust-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-youtrust-daikou": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-youtrust-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-en-tenshoku-template": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-en-tenshoku-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-en-tenshoku-daikou": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-en-tenshoku-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-careercross-template": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-careercross-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-careercross-daikou": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-careercross-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-stanby-template": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-stanby-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-stanby-daikou": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-stanby-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-bizreach-template": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-bizreach-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-bizreach-daikou": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-bizreach-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-mynavi-tenshoku-template": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-mynavi-tenshoku-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-mynavi-tenshoku-daikou": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-mynavi-tenshoku-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-middle-tenshoku-template": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-middle-tenshoku-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-middle-tenshoku-daikou": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-middle-tenshoku-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-rikunabi-next-template": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-rikunabi-next-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-rikunabi-next-daikou": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-rikunabi-next-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-recruit-direct-scout-template": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-recruit-direct-scout-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-recruit-direct-scout-daikou": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-recruit-direct-scout-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-levtech-career-template": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-levtech-career-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-levtech-career-daikou": {
+      "asset": "scout-baitai",
+      "layout": 0
+    },
+    "scout-levtech-career-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 0
+    },
+    "scout-kyujin-box-template": {
+      "asset": "scout-baitai",
+      "layout": 1
+    },
+    "scout-kyujin-box-unyou-sekkei": {
+      "asset": "scout-baitai-v2",
+      "layout": 1
+    },
+    "scout-kyujin-box-daikou": {
+      "asset": "scout-baitai",
+      "layout": 2
+    },
+    "scout-kyujin-box-kensaku-jouken": {
+      "asset": "scout-baitai-v2",
+      "layout": 2
+    },
+    "scout-mr-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 0
+    },
+    "scout-mr-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 0
+    },
+    "scout-sre-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 1
+    },
+    "scout-sre-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 1
+    },
+    "scout-inside-sales-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 2
+    },
+    "scout-inside-sales-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 2
+    },
+    "scout-infra-engineer-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 0
+    },
+    "scout-infra-engineer-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 0
+    },
+    "scout-engineer-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 1
+    },
+    "scout-engineer-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 1
+    },
+    "scout-customer-success-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 2
+    },
+    "scout-customer-success-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 2
+    },
+    "scout-cs-support-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 0
+    },
+    "scout-cs-support-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 0
+    },
+    "scout-consultant-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 1
+    },
+    "scout-consultant-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 1
+    },
+    "scout-data-scientist-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 2
+    },
+    "scout-data-scientist-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 2
+    },
+    "scout-designer-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 0
+    },
+    "scout-designer-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 0
+    },
+    "scout-driver-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 1
+    },
+    "scout-driver-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 1
+    },
+    "scout-pjm-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 2
+    },
+    "scout-pjm-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 2
+    },
+    "scout-pdm-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 0
+    },
+    "scout-pdm-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 0
+    },
+    "scout-marketer-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 1
+    },
+    "scout-marketer-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 1
+    },
+    "scout-inshoku-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 2
+    },
+    "scout-inshoku-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 2
+    },
+    "scout-sales-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 0
+    },
+    "scout-sales-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 0
+    },
+    "scout-kaigo-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 1
+    },
+    "scout-kaigo-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 1
+    },
+    "scout-kangoshi-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 2
+    },
+    "scout-kangoshi-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 2
+    },
+    "scout-kikai-sekkei-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 0
+    },
+    "scout-kikai-sekkei-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 0
+    },
+    "scout-keiei-kikaku-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 1
+    },
+    "scout-keiei-kikaku-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 1
+    },
+    "scout-keiri-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 2
+    },
+    "scout-keiri-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 2
+    },
+    "scout-kenchiku-sekkei-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 0
+    },
+    "scout-kenchiku-sekkei-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 0
+    },
+    "scout-kenkyu-kaihatsu-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 1
+    },
+    "scout-kenkyu-kaihatsu-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 1
+    },
+    "scout-zaimu-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 2
+    },
+    "scout-zaimu-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 2
+    },
+    "scout-sekou-kanri-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 0
+    },
+    "scout-sekou-kanri-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 0
+    },
+    "scout-jigyo-kaihatsu-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 1
+    },
+    "scout-jigyo-kaihatsu-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 1
+    },
+    "scout-shanai-se-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 2
+    },
+    "scout-shanai-se-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 2
+    },
+    "scout-jinji-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 0
+    },
+    "scout-jinji-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 0
+    },
+    "scout-seisan-gijutsu-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 1
+    },
+    "scout-seisan-gijutsu-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 1
+    },
+    "scout-soko-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 2
+    },
+    "scout-soko-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 2
+    },
+    "scout-soumu-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 0
+    },
+    "scout-soumu-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 0
+    },
+    "scout-chourishi-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 1
+    },
+    "scout-chourishi-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 1
+    },
+    "scout-denki-sekkei-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 2
+    },
+    "scout-denki-sekkei-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 2
+    },
+    "scout-hanbai-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 0
+    },
+    "scout-hanbai-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 0
+    },
+    "scout-biyoshi-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 1
+    },
+    "scout-biyoshi-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 1
+    },
+    "scout-hinshitsu-kanri-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 2
+    },
+    "scout-hinshitsu-kanri-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 2
+    },
+    "scout-hoikushi-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 0
+    },
+    "scout-hoikushi-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 0
+    },
+    "scout-houmu-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 1
+    },
+    "scout-houmu-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 1
+    },
+    "scout-yakuzaishi-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 2
+    },
+    "scout-yakuzaishi-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 2
+    },
+    "scout-roumu-bunmen": {
+      "asset": "scout-shokushu",
+      "layout": 0
+    },
+    "scout-roumu-kensaku": {
+      "asset": "scout-shokushu-v2",
+      "layout": 0
+    },
+    "scout-shinsotsu-doda-campus-daikou": {
+      "asset": "scout-shinsotsu",
+      "layout": 0
+    },
+    "scout-shinsotsu-doda-campus-template": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 0
+    },
+    "scout-shinsotsu-doda-campus-screening": {
+      "asset": "scout-shinsotsu",
+      "layout": 1
+    },
+    "scout-shinsotsu-doda-campus-unyou": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 1
+    },
+    "scout-shinsotsu-iroots-daikou": {
+      "asset": "scout-shinsotsu",
+      "layout": 2
+    },
+    "scout-shinsotsu-iroots-template": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 2
+    },
+    "scout-shinsotsu-iroots-screening": {
+      "asset": "scout-shinsotsu",
+      "layout": 0
+    },
+    "scout-shinsotsu-iroots-unyou": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 0
+    },
+    "scout-shinsotsu-labbase-daikou": {
+      "asset": "scout-shinsotsu",
+      "layout": 1
+    },
+    "scout-shinsotsu-labbase-template": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 1
+    },
+    "scout-shinsotsu-labbase-screening": {
+      "asset": "scout-shinsotsu",
+      "layout": 2
+    },
+    "scout-shinsotsu-labbase-unyou": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 2
+    },
+    "scout-shinsotsu-lognavi-daikou": {
+      "asset": "scout-shinsotsu",
+      "layout": 0
+    },
+    "scout-shinsotsu-lognavi-template": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 0
+    },
+    "scout-shinsotsu-lognavi-screening": {
+      "asset": "scout-shinsotsu",
+      "layout": 1
+    },
+    "scout-shinsotsu-lognavi-unyou": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 1
+    },
+    "scout-shinsotsu-offerbox-daikou": {
+      "asset": "scout-shinsotsu",
+      "layout": 2
+    },
+    "scout-shinsotsu-offerbox-template": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 2
+    },
+    "scout-shinsotsu-offerbox-screening": {
+      "asset": "scout-shinsotsu",
+      "layout": 0
+    },
+    "scout-shinsotsu-offerbox-unyou": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 0
+    },
+    "scout-shinsotsu-one-career-daikou": {
+      "asset": "scout-shinsotsu",
+      "layout": 1
+    },
+    "scout-shinsotsu-one-career-template": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 1
+    },
+    "scout-shinsotsu-one-career-screening": {
+      "asset": "scout-shinsotsu",
+      "layout": 2
+    },
+    "scout-shinsotsu-one-career-unyou": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 2
+    },
+    "scout-shinsotsu-techoffer-daikou": {
+      "asset": "scout-shinsotsu",
+      "layout": 0
+    },
+    "scout-shinsotsu-techoffer-template": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 0
+    },
+    "scout-shinsotsu-techoffer-screening": {
+      "asset": "scout-shinsotsu",
+      "layout": 1
+    },
+    "scout-shinsotsu-techoffer-unyou": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 1
+    },
+    "scout-shinsotsu-wantedly-shinsotsu-daikou": {
+      "asset": "scout-shinsotsu",
+      "layout": 2
+    },
+    "scout-shinsotsu-wantedly-shinsotsu-template": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 2
+    },
+    "scout-shinsotsu-wantedly-shinsotsu-screening": {
+      "asset": "scout-shinsotsu",
+      "layout": 0
+    },
+    "scout-shinsotsu-wantedly-shinsotsu-unyou": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 0
+    },
+    "scout-shinsotsu-asagaku-daikou": {
+      "asset": "scout-shinsotsu",
+      "layout": 1
+    },
+    "scout-shinsotsu-asagaku-template": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 1
+    },
+    "scout-shinsotsu-asagaku-screening": {
+      "asset": "scout-shinsotsu",
+      "layout": 2
+    },
+    "scout-shinsotsu-asagaku-unyou": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 2
+    },
+    "scout-shinsotsu-kimisuka-daikou": {
+      "asset": "scout-shinsotsu",
+      "layout": 0
+    },
+    "scout-shinsotsu-kimisuka-template": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 0
+    },
+    "scout-shinsotsu-kimisuka-screening": {
+      "asset": "scout-shinsotsu",
+      "layout": 1
+    },
+    "scout-shinsotsu-kimisuka-unyou": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 1
+    },
+    "scout-shinsotsu-careerticket-daikou": {
+      "asset": "scout-shinsotsu",
+      "layout": 2
+    },
+    "scout-shinsotsu-careerticket-template": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 2
+    },
+    "scout-shinsotsu-careerticket-screening": {
+      "asset": "scout-shinsotsu",
+      "layout": 0
+    },
+    "scout-shinsotsu-careerticket-unyou": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 0
+    },
+    "scout-shinsotsu-supporterz-daikou": {
+      "asset": "scout-shinsotsu",
+      "layout": 1
+    },
+    "scout-shinsotsu-supporterz-template": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 1
+    },
+    "scout-shinsotsu-supporterz-screening": {
+      "asset": "scout-shinsotsu",
+      "layout": 2
+    },
+    "scout-shinsotsu-supporterz-unyou": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 2
+    },
+    "scout-shinsotsu-mynavi-daikou": {
+      "asset": "scout-shinsotsu",
+      "layout": 0
+    },
+    "scout-shinsotsu-mynavi-template": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 0
+    },
+    "scout-shinsotsu-mynavi-screening": {
+      "asset": "scout-shinsotsu",
+      "layout": 1
+    },
+    "scout-shinsotsu-mynavi-unyou": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 1
+    },
+    "scout-shinsotsu-rikunabi-daikou": {
+      "asset": "scout-shinsotsu",
+      "layout": 2
+    },
+    "scout-shinsotsu-rikunabi-template": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 2
+    },
+    "scout-shinsotsu-rikunabi-screening": {
+      "asset": "scout-shinsotsu",
+      "layout": 0
+    },
+    "scout-shinsotsu-rikunabi-unyou": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 0
+    },
+    "scout-shinsotsu-gaishishukatsu-daikou": {
+      "asset": "scout-shinsotsu",
+      "layout": 1
+    },
+    "scout-shinsotsu-gaishishukatsu-template": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 1
+    },
+    "scout-shinsotsu-gaishishukatsu-screening": {
+      "asset": "scout-shinsotsu",
+      "layout": 2
+    },
+    "scout-shinsotsu-gaishishukatsu-unyou": {
+      "asset": "scout-shinsotsu-v2",
+      "layout": 2
+    }
+  }
+}

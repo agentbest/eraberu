@@ -401,6 +401,16 @@ footer{background:var(--navy);color:var(--on-navy-soft);border-top:1px solid var
 .th--list .th__c{font-size:clamp(7px,2.5cqw,10px);padding:1px 4px}
 .th--list .th__k{font-size:clamp(10px,5.5cqw,21px);-webkit-line-clamp:3}
 .art--compact>li>a{grid-template-columns:none}
+.th--layout-1 .th__copy{justify-content:flex-start}
+.th--layout-1 .th__k{margin-top:6%}
+.th--layout-1 .th__brand{margin-top:auto}
+.th--layout-1 .th__c{background:#f4e2bb;color:#17392f;border-color:#f4e2bb}
+.th--layout-1 .th__image{transform:scale(1.055);transform-origin:80% 45%}
+.th--layout-2 .th__copy{justify-content:flex-end}
+.th--layout-2 .th__c{margin-bottom:auto}
+.th--layout-2 .th__k{padding-left:7%;border-left:3px solid #f1bd66}
+.th--layout-2 .th__brand{margin-top:5%}
+.th--layout-2 .th__image{transform:scale(1.025);transform-origin:85% 70%}
 @media(max-width:600px){.art>li>a{grid-template-columns:120px minmax(0,1fr);gap:12px}.article-cover{margin:1.2rem 0 1.6rem}.th--list .th__c{display:none}.th--image .th__k{-webkit-line-clamp:3}.th--hero .th__k{-webkit-line-clamp:4}.th--image .th__copy{gap:4px}}
 
 /* 運営会社のスカウト代行LPへの導線（own-promo.js） */
