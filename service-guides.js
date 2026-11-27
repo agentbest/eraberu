@@ -158,8 +158,6 @@ function personIdsFor(a) {
   if (a.reader !== 'person') return [];
   // 資格保有者向け記事には、未取得者向けの養成講習を押し出さない。
   if (['fukugyo-shikaku','fukugyo-shikaku-toru'].includes(a.slug)) return ['pasonaCc','chiikiCc','cmcaCc'];
-  const t = `${a.slug} ${a.title} ${a.series || ''}`;
-  if (/law-|制度|法務|税務|確定申告|社会保険|就業規則|守秘|個人情報|利益相反|契約|違反/.test(t)) return [];
   return ['coconala'];
 }
 function personGuideFor(a) {
@@ -172,10 +170,40 @@ function personGuideFor(a) {
 <a class="pr-card__btn" href="https://px.a8.net/svt/ejp?a8mat=${s.text[0]}" target="_blank" rel="nofollow sponsored noopener" data-service="${id}">${esc(s.cta)} ›</a><img src="https://${s.text[1]}.a8.net/0.gif?a8mat=${s.text[0]}" width="1" height="1" alt="" style="border:0;position:absolute;width:1px;height:1px;overflow:hidden"></article>`; };
   const title = '人事の経験を、副業・キャリアに広げるサービス';
   const html = `<section class="pr-guide" aria-labelledby="pr-services"><p class="pr-guide__eyebrow">PR｜この記事に関連するサービス</p><h2 id="pr-services">${title}</h2>
-<p>${ids.includes('coconala')?'記事で整理した経験を、自分のサービスとして提供する場合の広告です。募集されている副業求人への応募や、案件紹介を受けるサービスとは異なります。':'キャリア支援を学ぶ場合の養成講習の広告です。資格取得が副業の必須条件という意味ではありません。無料説明会と有料講習を分け、受講料・学習時間・受験要件を確認してください。'}</p>
+<p>${ids.includes('coconala')?'人事・採用の経験を、自分のサービスとして出品したい方向けの広告です。提供する業務に必要な資格・許可、所属先の副業ルール、守秘義務と情報の扱いは、出品前に確認してください。募集されている副業求人への応募や、案件紹介を受けるサービスとは異なります。':'キャリア支援を学ぶ場合の養成講習の広告です。資格取得が副業の必須条件という意味ではありません。無料説明会と有料講習を分け、受講料・学習時間・受験要件を確認してください。'}</p>
 <div class="pr-guide__cards">${ids.map(card).join('\n')}</div>
 <p class="pr-guide__note">この枠はアフィリエイト広告（PR）です。リンク先で申し込みがあった場合、運営会社が報酬を受け取ることがあります。広告・提携情報の確認日：2026年11月27日。対象年齢・地域、料金・日程などの条件は各サービスの公式情報をご確認ください。<a href="/editorial.html">掲載方針</a></p></section>`;
   return {key:'person', id:'pr-services', title, html, entries: ids};
 }
 
-module.exports={services,profiles,profileFor,guideFor,checkedAt,personGuideFor,personServices,personIdsFor};
+// 全記事にASPを掲載する。本文の候補選定を広告のために変更せず、未掲載なら独立したPR枠を補う。
+function articleAffiliateFor(a, guide) {
+  if (a.reader === 'person') {
+    if (!guide || guide.key !== 'person' || !guide.entries.length) throw Error(`Missing person affiliate: ${a.slug}`);
+    return null;
+  }
+  if (a.reader !== 'company') throw Error(`Unknown affiliate audience: ${a.slug}`);
+  if (guide?.entries.some(([id]) => services[id]?.aff)) return null;
+  const profile = profileFor(a);
+  const id = ['operations','team'].includes(profile) ? 'fujiko'
+    : profile === 'attraction' ? 'kyujinkoukoku' : 'ikkatsu';
+  const s = services[id];
+  const ad = affiliatePrograms.programs[id];
+  if (!s?.aff || ad?.status !== 'approved') throw Error(`Missing approved affiliate: ${a.slug}`);
+  const contexts = {
+    fujiko: ['採用の事務を外部に任せたい方へ', '応募者への連絡や日程調整、データ入力など、採用事務の負担を減らしたい場合の広告です。任せたい作業と月の業務量を整理し、実際に対応できる範囲と社内に残す判断を確認してください。'],
+    kyujinkoukoku: ['求人広告の相談先を探している法人の方へ', '募集職種・勤務地・予算を伝えて、媒体選びや求人掲載を相談したい場合の広告です。記事で扱う特定の媒体・職種への対応、原稿作成や運用の範囲、広告費と支援費を個別に確認してください。人材業界の会社・個人事業主は広告の対象外です。'],
+    ikkatsu: ['採用実務の依頼先を探している方へ', '採用業務の委託も検討している法人・個人事業主向けの広告です。複数の採用代行会社への問い合わせ窓口で、一括.jp自体が採用実務を行うサービスではありません。依頼する工程と条件を整理して相談してください。']
+  };
+  const [title, context] = contexts[id];
+  const limitation = !profile
+    ? 'この記事は制度・法務や社内での判断を整理する記事です。下記の広告は採用業務の委託先探しに関するもので、法的判断や記事の問題を解決するサービスとしての紹介ではありません。'
+    : '本文で紹介したサービスとは別の広告枠です。記事で扱う個別の職種・地域・媒体への対応や成果を保証するものではありません。';
+  const html = `<aside class="article-affiliate" aria-labelledby="affiliate-options" data-affiliate-service="${id}">
+<p class="article-affiliate__label">PR｜採用担当者向けの広告</p><h2 id="affiliate-options">${esc(title)}</h2>
+<p class="article-affiliate__context">${esc(limitation)}</p><div class="article-affiliate__content"><div><h3>${esc(s.name)}</h3><p>${esc(context)}</p><p class="article-affiliate__company">提供：${esc(s.company)}</p></div><div>${bannerHtml(id,s)}</div></div>
+<p class="article-affiliate__note">この枠はアフィリエイト広告です。申し込みにより運営会社が報酬を受け取る場合があります。広告・提携情報の確認日：${esc(affiliatePrograms.checkedAt)}。料金・契約条件・対応範囲はリンク先で確認してください。<a href="/editorial.html">掲載・広告ポリシー</a></p></aside>`;
+  return {id, html};
+}
+
+module.exports={services,profiles,profileFor,guideFor,checkedAt,personGuideFor,personServices,personIdsFor,articleAffiliateFor};

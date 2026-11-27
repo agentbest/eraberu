@@ -23,7 +23,7 @@
 'use strict';
 const fs = require('fs');
 const path = require('path');
-const {guideFor, profileFor, personGuideFor, services: SERVICES} = require('./service-guides');
+const {guideFor, profileFor, personGuideFor, articleAffiliateFor, services: SERVICES} = require('./service-guides');
 const OB = require('./own-promo');
 
 const DIR = __dirname;
@@ -487,6 +487,7 @@ function articleHtml(a, ctx) {
   const hubUrl = `/media/hub/${hub.slug}/`;
   let { html, heads } = mdToHtml(a._body);
   const guide = guideFor(a) || personGuideFor(a);
+  const affiliate = articleAffiliateFor(a, guide);
   /* 自社LP（スカウト代行）：中ほどのバナーは guide を入れる前に位置を決める（guide の section の中に入れないため） */
   const company = a.reader !== 'person';
   if (company && guide) html = OB.insertMid(html, OB.midBanner(a));
@@ -597,6 +598,7 @@ function articleHtml(a, ctx) {
   <div class="body">
 ${html}
   </div>
+${affiliate ? affiliate.html : ''}
   ${company ? OB.endBlock(a) : ''}
   ${srcHtml}
   ${box}
@@ -1029,6 +1031,15 @@ footer{background:var(--navy);color:var(--on-navy-soft);border-top:1px solid var
 .body .service-guide__note{font-size:.72rem;color:var(--ink-soft);line-height:1.9;margin-top:1.1rem}
 .body a.service-option__bn{display:block;width:300px;max-width:100%;margin:.4rem 0 1rem}.service-option__bn img{display:block;width:300px;max-width:100%;height:auto;border-radius:6px}
 /* 人事副業（個人向け）の記事のPR枠（service-guides.js の personGuideFor） */
+.article-affiliate{margin:2rem 0;padding:1.4rem;border:1px solid var(--line);border-radius:8px;background:#fffaf4;scroll-margin-top:100px}
+.article-affiliate__label{margin:0 0 .6rem;font-size:.75rem;font-weight:800;color:var(--accent-ink)}
+.article-affiliate h2{margin:0 0 .7rem;font-size:1.2rem;line-height:1.6}
+.article-affiliate h3{margin:.5rem 0;font-size:1rem}.article-affiliate p{line-height:1.9}
+.article-affiliate__context,.article-affiliate__note,.article-affiliate__company{font-size:.8rem;color:var(--ink-soft)}
+.article-affiliate__content{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:1.2rem;align-items:center}
+.article-affiliate .service-option__bn{display:block;width:300px;max-width:100%;margin:0 auto}
+.article-affiliate .service-option__bn img{display:block;width:300px;max-width:100%;height:auto}
+@media(max-width:780px){.article-affiliate__content{grid-template-columns:minmax(0,1fr)}.article-affiliate{padding:1rem}}
 .pr-guide{margin:3.5rem 0;padding:1.6rem 1.4rem;border:2px solid var(--accent-ink);border-radius:10px;background:#fffaf4;scroll-margin-top:100px}
 .body .pr-guide__eyebrow{display:inline-block;font-size:.72rem;font-weight:800;letter-spacing:.06em;color:var(--accent-ink);border:1px solid var(--accent-ink);border-radius:3px;padding:.05rem .5rem;margin:0 0 .6rem}
 .body .pr-guide h2{margin-top:0;border:none;padding:0;font-size:1.4rem;line-height:1.6}
