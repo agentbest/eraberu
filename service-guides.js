@@ -67,11 +67,11 @@ const services = {
   leggenda: {name:'レジェンダの採用代行（RPO）', company:'レジェンダ・コーポレーション株式会社', kind:'採用設計・プロセス改善', url:'https://www.leggenda.co.jp/recruitment_support/rpo/', scope:'新卒・中途の採用設計、母集団形成、選考運用、分析などを支援。', confirm:'設計・実行それぞれの担当範囲と、社内の関係部署との進め方を確認。'},
   lein: {name:'LeINの採用代行（RPO）', company:'株式会社レイン', kind:'エンジニア採用', url:'https://lein.co.jp/lp/rpo/', scope:'エンジニア採用に向けた媒体・エージェント管理やスカウト設計などを支援。', confirm:'募集ポジションの技術領域、現場との要件整理、利用媒体を確認。'},
   // aff: ASP（A8.net）の計測リンク。表示時はPR表記・rel="sponsored"・計測用1pxを付ける。公式URLは url に残す。
-  ikkatsu: {name:'採用代行一括.jp', company:'株式会社eclore', kind:'採用代行会社への一括問い合わせ', url:'https://www.ikkatsu.jp/rpo/', aff:'https://px.a8.net/svt/ejp?a8mat=4BGNCJ+UYL0A+2LHA+4MS5OY', pixel:'https://www16.a8.net/0.gif?a8mat=4BGNCJ+UYL0A+2LHA+4MS5OY', bn:['4BGNCJ+UYL0A+2LHA+4MQNOH','www19','www25','261117235052','s00000012115028006000'], scope:'採用代行会社への依頼のほか、求人媒体への掲載や面接代行などの依頼内容を選び、複数の業者へまとめて問い合わせできる無料サービス。', confirm:'連絡が来る会社の数と、提案を比べる項目（任せる工程・費用の内訳・担当体制）を先に決めておく。'},
-  // 2026-11-21 追加（A8・メディア エラベル＝a8mat 4BGNCJ）。bn は 300x250 バナー [a8mat, 計測pxホスト, 画像ホスト, aid, mid]（wid は 002）
-  kyujinkoukoku: {name:'求人広告ドットコム', company:'株式会社bサーチ', kind:'求人広告の掲載・運用', url:'https://www.bsearch.co.jp/', aff:'https://px.a8.net/svt/ejp?a8mat=4BGNCJ+W5G7U+52NU+BX3J6', pixel:'https://www11.a8.net/0.gif?a8mat=4BGNCJ+W5G7U+52NU+BX3J6', bn:['4BGNCJ+W5G7U+52NU+BZGEP','www10','www29','261117235054','s00000023673002013000'], scope:'リクナビNEXT・Indeed・doda・engage・求人ボックスなど、多数の求人広告をまとめて扱い、媒体選びから掲載まで相談できる。', confirm:'募集職種・勤務地・予算・採用までの期限を伝え、媒体ごとの費用と掲載期間、原稿作成の範囲を比べる。人材業界の会社・個人事業主からの問い合わせは対象外。'},
-  sumareji: {name:'スマレジ・タイムカード', company:'株式会社スマレジ', kind:'クラウド勤怠管理', url:'https://timecard.smaregi.jp/', aff:'https://px.a8.net/svt/ejp?a8mat=4BGNCJ+IGHAY+4Z10+TU8UA', pixel:'https://www14.a8.net/0.gif?a8mat=4BGNCJ+IGHAY+4Z10+TU8UA', bn:['4BGNCJ+IGHAY+4Z10+TTLOX','www10','www22','261117235031','s00000023202005009000'], scope:'打刻・シフト作成・有給管理・給与計算までをクラウドでまとめて管理できる勤怠管理システム。0円から始められ、60日間すべての機能を試せる（同社公表）。', confirm:'従業員数・店舗数、打刻の方法、今使っている給与ソフトとの連携、有料プランに切り替える条件を資料で確認する。'},
-  fujiko: {name:'オンラインアシスタント フジ子さん', company:'BPOテクノロジー株式会社', kind:'バックオフィス業務のオンライン代行', url:'https://fujiko-san.com/', aff:'https://px.a8.net/svt/ejp?a8mat=4BGNCJ+WQVTM+3TWG+5YJRM', pixel:'https://www10.a8.net/0.gif?a8mat=4BGNCJ+WQVTM+3TWG+5YJRM', bn:['4BGNCJ+WQVTM+3TWG+5ZMCH','www10','www26','261117235055','s00000017872001006000'], scope:'経理・労務・採用・秘書などのバックオフィス業務を、オンラインのアシスタントが月単位の時間契約で支援。', confirm:'月の依頼時間、採用業務で任せる作業（応募者への連絡・日程調整・データ入力など）、社内で判断を残す範囲を確認。'},
+  ikkatsu: {name:'採用代行一括.jp', company:'株式会社eclore', kind:'採用代行会社への一括問い合わせ', url:'https://www.ikkatsu.jp/rpo/', scope:'採用代行会社への依頼のほか、求人媒体への掲載や面接代行などの依頼内容を選び、複数の業者へまとめて問い合わせできる無料サービス。', confirm:'連絡が来る会社の数と、提案を比べる項目（任せる工程・費用の内訳・担当体制）を先に決めておく。'},
+  // 広告リンク・計測画像は affiliate-programs.json の承認済み一覧から設定する。
+  kyujinkoukoku: {name:'求人広告ドットコム', company:'株式会社bサーチ', kind:'求人広告の掲載・運用', url:'https://www.bsearch.co.jp/', scope:'リクナビNEXT・Indeed・doda・engage・求人ボックスなど、多数の求人広告をまとめて扱い、媒体選びから掲載まで相談できる。', confirm:'募集職種・勤務地・予算・採用までの期限を伝え、媒体ごとの費用と掲載期間、原稿作成の範囲を比べる。人材業界の会社・個人事業主からの問い合わせは対象外。'},
+  sumareji: {name:'スマレジ・タイムカード', company:'株式会社スマレジ', kind:'クラウド勤怠管理', url:'https://timecard.smaregi.jp/', scope:'打刻・シフト作成・有給管理・給与計算までをクラウドでまとめて管理できる勤怠管理システム。料金と利用できる機能はプランごとに確認する。', confirm:'従業員数・店舗数、打刻の方法、今使っている給与ソフトとの連携、有料プランに切り替える条件を資料で確認する。'},
+  fujiko: {name:'オンラインアシスタント フジ子さん', company:'BPOテクノロジー株式会社', kind:'バックオフィス業務のオンライン代行', url:'https://fujiko-san.com/', scope:'経理・労務・採用・秘書などのバックオフィス業務を、オンラインのアシスタントが月単位の時間契約で支援。', confirm:'月の依頼時間、採用業務で任せる作業（応募者への連絡・日程調整・データ入力など）、社内で判断を残す範囲を確認。'},
   agentbest: {name:'エージェントベストのスカウト代行', company:'株式会社エージェントベスト', kind:'スカウト実務', owned:true, url:'https://scout.agent-best.net/', scope:'候補者選定、文面作成・送信、日程調整、選考管理などを支援。', confirm:'対応媒体、成果報酬を含む総額、返信後の業務分担を確認。'}
 };
 // Each connection describes an option, never a guarantee that the underlying problem will be solved.
@@ -88,6 +88,15 @@ const profiles = {
   cost: {title:'費用を比較するときのサービス候補', lead:'予算だけで選ぶ前に、必要なのが採用チームの支援か、事務作業の代行かを分けましょう。以下は依頼範囲の異なる候補例です。同じ作業量と期間を伝え、総額で見積もりを確認してください。', check:'初期費用、月額、成果報酬、広告・媒体費、追加作業の単価と契約期間をそろえます。安い順の掲載ではありません。', entries:[['caster','採用チームの稼働量で見積もる','採用の実務を継続して任せるときは、必要時間と対象業務を決めて相談する候補です。'],['helpyou','事務作業を切り出して見積もる','採用方針や判断は社内に残し、連絡・入力などの作業量を基準に相談する候補です。'],['ikkatsu','同じ条件で複数社に問い合わせる','依頼先の候補がまだ決まっていない段階で、同じ依頼内容を複数の採用代行会社に送り、提案と見積もりを並べたい場合に使えます。'],['kyujinkoukoku','求人広告費を媒体ごとに比べる','代行を頼む前に、求人広告そのものの費用を見直したい場合の候補です。同じ募集条件で複数の媒体の見積もりを並べられます。']]},
   general: {title:'この記事の業務を外部に任せるなら', lead:'一括で委託する方法だけでなく、求人運用、スカウト、応募者対応などを切り出す方法もあります。記事で整理した課題を、実際に頼みたい作業に置き換えてから相談しましょう。', check:'対象の職種・業界・地域、利用する媒体、月の業務量を伝えます。各社がその条件に対応できるか、担当体制や類似の支援経験を個別に確認してください。', entries:[['marugoto','採用の設計と実行をまとめて相談する','採用体制を補いながら、日々の実務も進めたい場合の候補です。対象職種や地域への対応は確認が必要です。'],['caster','採用実務をチームで継続運用する','複数の採用業務を組み合わせて任せたい場合に、必要な稼働時間と対応範囲を相談できます。'],['ikkatsu','依頼先の候補をまとめて集める','どの会社に相談するか決まっていない場合に、依頼内容を選んで複数の採用代行会社へまとめて問い合わせる方法です。'],['kyujinkoukoku','まず求人広告の出し方から見直す','外部に任せる前に、媒体選びや原稿の出し方を変えるだけで応募が増えることもあります。媒体を横断して相談できる窓口です。']]}
 };
+const affiliatePrograms = require('./affiliate-programs.json');
+function attachAffiliate(id, service) {
+  const program = affiliatePrograms.programs[id];
+  if (!program || program.status !== 'approved') throw Error(`Unapproved affiliate: ${id}`);
+  service.aff = `https://px.a8.net/svt/ejp?a8mat=${program.text[0]}`;
+  service.pixel = `https://${program.text[1]}.a8.net/0.gif?a8mat=${program.text[0]}`;
+  service.bn = program.bn;
+}
+for (const id of ['ikkatsu','fujiko','kyujinkoukoku','sumareji']) attachAffiliate(id, services[id]);
 const ruleText = a => `${a.slug} ${a.title} ${a.target || ''} ${(a.tags || []).join(' ')}`;
 function profileFor(a) {
   if(a.reader !== 'company') return null;
@@ -125,7 +134,7 @@ function guideFor(a) {
 <p>${esc(a[`serviceReason_${id}`] || why)}</p><dl><div><dt>公式に案内されている業務</dt><dd>${esc(s.scope)}</dd></div><div><dt>相談するときに確認したいこと</dt><dd>${esc(a[`serviceConfirm_${id}`] || s.confirm)}</dd></div></dl>
 ${s.aff&&s.bn?bannerHtml(id,s):''}${s.aff?`<a class="service-option__link" href="${esc(s.aff)}" target="_blank" rel="nofollow sponsored noopener" data-service="${id}">公式サイトで支援内容を確認する（PR）↗</a><img class="service-option__px" src="${esc(s.pixel)}" width="1" height="1" alt="" style="border:0;position:absolute;width:1px;height:1px;overflow:hidden">`:`<a class="service-option__link" href="${esc(s.url)}" target="_blank" rel="noopener noreferrer" data-service="${id}">公式サイトで支援内容を確認する ↗</a>`}</article>`}).join('\n')}</div>
 <div class="service-guide__check"><h3>相談前に、ここまで整理しておく</h3><p>${esc(p.check)}</p></div>
-<p class="service-guide__note">掲載は支援内容をもとに整理した候補例で、成果や個別条件への対応を保証するものではありません。順番はランキングではありません。公式情報の確認日：${esc(a.serviceCheckedAt || checkedAt)}。料金・対応範囲は各社にご確認ください。${entries.some(([id])=>services[id].aff)?'「PR」と表示したサービスのリンクはアフィリエイト広告で、申し込みがあった場合に当社が報酬を受け取ることがあります。':''}<a href="/editorial.html">掲載方針</a></p></section>`;
+<p class="service-guide__note">掲載は支援内容をもとに整理した候補例で、成果や個別条件への対応を保証するものではありません。順番はランキングではありません。公式情報の確認日：${esc(a.serviceCheckedAt || checkedAt)}。料金・対応範囲は各社にご確認ください。${entries.some(([id])=>services[id].aff)?'広告・提携情報の確認日：2026年11月27日。「PR」と表示したサービスのリンクはアフィリエイト広告で、申し込みがあった場合に当社が報酬を受け取ることがあります。':''}<a href="/editorial.html">掲載方針</a></p></section>`;
   return {key,title:p.title,html,entries};
 }
 // A8 の 300x250 バナー（エラベルのメディアは wid=002）。PR表記はカード側に付いている。
@@ -134,30 +143,24 @@ function bannerHtml(id, s) {
   return `<a class="service-option__bn" href="https://px.a8.net/svt/ejp?a8mat=${mat}" target="_blank" rel="nofollow sponsored noopener" data-service="${id}"><img src="https://${img}.a8.net/svt/bgt?aid=${aid}&amp;wid=002&amp;eno=01&amp;mid=${mid}&amp;mc=1" width="300" height="250" alt="${esc(s.name)}" loading="lazy"></a><img class="service-option__px" src="https://${px}.a8.net/0.gif?a8mat=${mat}" width="1" height="1" alt="" style="border:0;position:absolute;width:1px;height:1px;overflow:hidden">`;
 }
 
-/* ---------- 人事副業（個人向け）の記事に出すPR枠 ----------
-   読者は人事・採用の経験を副業やキャリアに生かしたい個人。企業向けの service-guide とは別枠。
-   成果条件：ココナラ＝新規サービス出品／養成講習＝ガイダンス・説明会参加（18歳以上）／
-   Backup Carrer＝東京で転職・30歳未満・経験社数2社以下／クラウドワークス テック＝エンジニア・デザイナー経験 25〜50歳 */
+/* 人事副業：案件出品と資格学習を分ける。広告のコードは承認済み一覧だけから取得。 */
 const personServices = {
-  coconala: {name:'ココナラ', catch:'人事・採用のスキルを「サービス」として出品できる', points:['求人票の添削や面接練習など、得意なことをそのまま出品','出品は無料','会員数190万人（2020年11月末時点・同社公表）'], who:'人事副業の最初の1件を、自分の値付けで取りたい方', cta:'無料で出品してみる',
-    text:['4BGNCJ+NTDQY+2PEO+6C1VM','www12'], bn:['4BGNCJ+NTDQY+2PEO+64C3L','www13','www20','261117235040','s00000012624001028000']},
-  pasonaCc: {name:'パソナ 国家資格キャリアコンサルタント養成講習', catch:'人事の経験を「国家資格」で裏付ける', points:['企業人事・人材育成の現場で使うことを想定したカリキュラム','企業人事や管理職など経験者が集まる学習環境','まずは無料のガイダンスから'], who:'キャリア面談や人材育成の仕事を広げたい人事経験者', cta:'無料ガイダンスに申し込む',
-    text:['4BGNCJ+1IRX7E+5TT2+5YJRM','www12'], bn:['4BGNCJ+1IRX7E+5TT2+5YZ75','www16','www22','261117235092','s00000027191001003000']},
-  chiikiCc: {name:'キャリアコンサルタント養成講習（オンライン）', catch:'働きながら、オンラインで国家資格を目指す', points:['オンライン完結と通学併用から選べる','最短約0.5か月で修了を目指せるコースあり（同協会公表）','受講料297,000円〜・入学金0円（同協会公表）'], who:'本業と両立しながら資格を取りたい方', cta:'無料の説明会に参加する',
-    text:['4BGNCJ+1KK80Q+59PG+62U36','www18'], bn:['4BGNCJ+1KK80Q+59PG+5YZ75','www18','www27','261117235095','s00000024586001003000']},
-  backup: {name:'Backup Carrer', catch:'人事・事務などバックオフィスへの転職をオンラインで支援', points:['無料の「仕事適性診断」','入社後の定着率 93.5%（同社公表）','マンツーマン・完全オンライン対応'], who:'東京で働きたい20代で、バックオフィスへの転職も考えている方', cta:'無料で相談する',
-    text:['4BGNCJ+1I6HLM+5BJ0+5YJRM','www11'], bn:['4BGNCJ+1I6HLM+5BJ0+5YZ75','www10','www25','261117235091','s00000024822001003000']},
-  cwtech: {name:'クラウドワークス テック', catch:'エンジニア・デザイナー経験を、フリーランス案件で生かす', points:['ITエンジニア・Webデザイナー向けのフリーランスエージェント','初心者からベテランまでアドバイザーが案件探しを支援','福利厚生サービスあり（同社公表）'], who:'25〜50歳で、エンジニア・デザイナーの経験がある方', cta:'無料で登録する',
-    text:['4BGNCJ+12P7VE+2OM2+ZQ80I','www14'], bn:['4BGNCJ+12P7VE+2OM2+ZW829','www18','www23','261117235065','s00000012521006029000']}
+  coconala: {name:'ココナラ', catch:'人事・採用の経験を、サービスとして出品する', points:['求人票の添削や面接練習など、自分が提供できる内容を出品する方法','提供範囲・納品物・料金・対応回数を決めてから掲載','案件の獲得や収入を保証するサービスではありません'], who:'自分の経験を生かし、依頼を受ける窓口を作りたい方', cta:'出品の仕組みを確認する（PR）'},
+  pasonaCc: {name:'パソナ 国家資格キャリアコンサルタント養成講習', catch:'キャリア面談や人材育成につながる学習を検討する', points:['企業人事や人材育成での活用を考える方向けの養成講習','無料ガイダンスで学習内容と日程を確認','講習の修了と資格取得は別。受講料・受験要件も確認'], who:'18歳以上（高校生・海外在住者を除く）で、面談支援を体系的に学びたい方', cta:'無料ガイダンスの内容を確認する（PR）'},
+  chiikiCc: {name:'地域連携プラットフォーム キャリアコンサルタント養成講習', catch:'働きながら学ぶための受講方法を確認する', points:['オンラインを含む受講方法・開講日程を説明会で確認','無料説明会・質問会で学習時間と費用を相談','資格取得や副業の受注・単価上昇を保証するものではありません'], who:'18歳以上（高校生・海外在住者を除く）で、学習と仕事の両立条件を確かめたい方', cta:'無料説明会の内容を確認する（PR）'},
+  cmcaCc: {name:'日本キャリア・マネージメント・カウンセラー協会（CMCA）養成講習', catch:'人事経験を生かすキャリア支援の学習を検討する', points:['人事・採用・人材育成の経験からキャリア支援を学ぶ方向け','無料オンライン説明会で講習内容と受講条件を確認','受講費用・日程・試験までの流れを確かめて判断'], who:'日本在住の22〜60歳で、キャリア支援を学びたい方', cta:'無料オンライン説明会を確認する（PR）'}
 };
+for (const [id, service] of Object.entries(personServices)) {
+  attachAffiliate(id, service);
+  service.text = affiliatePrograms.programs[id].text;
+}
 function personIdsFor(a) {
   if (a.reader !== 'person') return [];
-  const t = ruleText(a);
-  const ids = ['coconala'];
-  if (/キャリア|面談|育成|研修|資格|コンサル|1nenme|1年目/.test(t)) ids.push('pasonaCc', 'chiikiCc'); else ids.push('chiikiCc');
-  if (/転職|1nenme|1年目|20代|事務|労務/.test(t)) ids.push('backup');
-  if (/フリーランス|業務委託|エンジニア|デザイナー/.test(t)) ids.push('cwtech');
-  return ids;
+  // 資格保有者向け記事には、未取得者向けの養成講習を押し出さない。
+  if (['fukugyo-shikaku','fukugyo-shikaku-toru'].includes(a.slug)) return ['pasonaCc','chiikiCc','cmcaCc'];
+  const t = `${a.slug} ${a.title} ${a.series || ''}`;
+  if (/law-|制度|法務|税務|確定申告|社会保険|就業規則|守秘|個人情報|利益相反|契約|違反/.test(t)) return [];
+  return ['coconala'];
 }
 function personGuideFor(a) {
   const ids = personIdsFor(a);
@@ -168,11 +171,11 @@ function personGuideFor(a) {
 <ul>${s.points.map(p => `<li>${esc(p)}</li>`).join('')}</ul><p class="pr-card__who"><b>こんな人に：</b>${esc(s.who)}</p>
 <a class="pr-card__btn" href="https://px.a8.net/svt/ejp?a8mat=${s.text[0]}" target="_blank" rel="nofollow sponsored noopener" data-service="${id}">${esc(s.cta)} ›</a><img src="https://${s.text[1]}.a8.net/0.gif?a8mat=${s.text[0]}" width="1" height="1" alt="" style="border:0;position:absolute;width:1px;height:1px;overflow:hidden"></article>`; };
   const title = '人事の経験を、副業・キャリアに広げるサービス';
-  const html = `<section class="pr-guide" aria-labelledby="pr-services"><p class="pr-guide__eyebrow">PR｜この記事を読んだ人におすすめ</p><h2 id="pr-services">${title}</h2>
-<p>副業の最初の1件をつくる、資格で専門性を示す、働き方そのものを変える。次の一歩に使えるサービスです。登録や説明会への参加は無料です。</p>
+  const html = `<section class="pr-guide" aria-labelledby="pr-services"><p class="pr-guide__eyebrow">PR｜この記事に関連するサービス</p><h2 id="pr-services">${title}</h2>
+<p>${ids.includes('coconala')?'記事で整理した経験を、自分のサービスとして提供する場合の広告です。募集されている副業求人への応募や、案件紹介を受けるサービスとは異なります。':'キャリア支援を学ぶ場合の養成講習の広告です。資格取得が副業の必須条件という意味ではありません。無料説明会と有料講習を分け、受講料・学習時間・受験要件を確認してください。'}</p>
 <div class="pr-guide__cards">${ids.map(card).join('\n')}</div>
-<p class="pr-guide__note">この枠はアフィリエイト広告（PR）です。リンク先で申し込みがあった場合、運営会社が報酬を受け取ることがあります。数値は各社の公表値です。対象年齢・地域などの条件は各サービスの公式情報をご確認ください。<a href="/editorial.html">掲載方針</a></p></section>`;
+<p class="pr-guide__note">この枠はアフィリエイト広告（PR）です。リンク先で申し込みがあった場合、運営会社が報酬を受け取ることがあります。広告・提携情報の確認日：2026年11月27日。対象年齢・地域、料金・日程などの条件は各サービスの公式情報をご確認ください。<a href="/editorial.html">掲載方針</a></p></section>`;
   return {key:'person', id:'pr-services', title, html, entries: ids};
 }
 
-module.exports={services,profiles,profileFor,guideFor,checkedAt,personGuideFor,personServices};
+module.exports={services,profiles,profileFor,guideFor,checkedAt,personGuideFor,personServices,personIdsFor};

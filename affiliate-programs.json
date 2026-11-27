@@ -1,0 +1,128 @@
+{
+  "checkedAt": "2026-11-27",
+  "asp": "A8.net",
+  "site": "エラベル",
+  "bannerWid": "002",
+  "programs": {
+    "ikkatsu": {
+      "programId": "s00000012115028",
+      "status": "approved",
+      "text": [
+        "4BGNCJ+UYL0A+2LHA+4MS5OY",
+        "www15"
+      ],
+      "bn": [
+        "4BGNCJ+UYL0A+2LHA+4MQNOH",
+        "www19",
+        "www20",
+        "261117235052",
+        "s00000012115028006000"
+      ]
+    },
+    "fujiko": {
+      "programId": "s00000017872001",
+      "status": "approved",
+      "text": [
+        "4BGNCJ+WQVTM+3TWG+5YJRM",
+        "www15"
+      ],
+      "bn": [
+        "4BGNCJ+WQVTM+3TWG+5ZMCH",
+        "www16",
+        "www24",
+        "261117235055",
+        "s00000017872001006000"
+      ]
+    },
+    "kyujinkoukoku": {
+      "programId": "s00000023673002",
+      "status": "approved",
+      "text": [
+        "4BGNCJ+W5G7U+52NU+BX3J6",
+        "www19"
+      ],
+      "bn": [
+        "4BGNCJ+W5G7U+52NU+BZGEP",
+        "www14",
+        "www29",
+        "261117235054",
+        "s00000023673002013000"
+      ]
+    },
+    "sumareji": {
+      "programId": "s00000023202005",
+      "status": "approved",
+      "text": [
+        "4BGNCJ+IGHAY+4Z10+TRVYQ",
+        "www15"
+      ],
+      "bn": [
+        "4BGNCJ+IGHAY+4Z10+TTLOX",
+        "www14",
+        "www26",
+        "261117235031",
+        "s00000023202005009000"
+      ]
+    },
+    "coconala": {
+      "programId": "s00000012624001",
+      "status": "approved",
+      "text": [
+        "4BGNCJ+NTDQY+2PEO+6C1VM",
+        "www16"
+      ],
+      "bn": [
+        "4BGNCJ+NTDQY+2PEO+64C3L",
+        "www15",
+        "www20",
+        "261117235040",
+        "s00000012624001028000"
+      ]
+    },
+    "pasonaCc": {
+      "programId": "s00000027191001",
+      "status": "approved",
+      "text": [
+        "4BGNCJ+1IRX7E+5TT2+5YJRM",
+        "www19"
+      ],
+      "bn": [
+        "4BGNCJ+1IRX7E+5TT2+5YZ75",
+        "www16",
+        "www23",
+        "261117235092",
+        "s00000027191001003000"
+      ]
+    },
+    "chiikiCc": {
+      "programId": "s00000024586001",
+      "status": "approved",
+      "text": [
+        "4BGNCJ+1KK80Q+59PG+5YJRM",
+        "www11"
+      ],
+      "bn": [
+        "4BGNCJ+1KK80Q+59PG+5YZ75",
+        "www19",
+        "www25",
+        "261117235095",
+        "s00000024586001003000"
+      ]
+    },
+    "cmcaCc": {
+      "programId": "s00000027279001",
+      "status": "approved",
+      "text": [
+        "4BGNCJ+1JDCT6+5UHI+5YJRM",
+        "www14"
+      ],
+      "bn": [
+        "4BGNCJ+1JDCT6+5UHI+5YZ75",
+        "www16",
+        "www29",
+        "261117235093",
+        "s00000027279001003000"
+      ]
+    }
+  }
+}
