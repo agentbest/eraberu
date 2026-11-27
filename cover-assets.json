@@ -1,0 +1,154 @@
+{
+  "generatedAt": "2026-11-27",
+  "tool": "built-in image_gen",
+  "design": "21 thematic AI artworks shared by article category; article-specific headlines are HTML text, not 2000 individually AI-generated illustrations.",
+  "assets": {
+    "rpo-kadai": {
+      "image": "/assets/media-covers/rpo-kadai.webp",
+      "social": "/assets/media-covers/rpo-kadai.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset type: premium Japanese recruitment editorial article cover illustration, landscape 3:2. For Eraberu, a calm practical recruiting/RPO information magazine. Scene: a striking tactile sculptural arrangement of an enormous cream inbox tray overwhelmed by coral orange applicant envelopes, a deep forest green magnifying lens finding one bright gold candidate card and a clean path emerging from the tangle. Communicate why hiring gets stuck and what to examine at thumbnail scale. Luxurious contemporary magazine art direction, hand-built paper and matte clay forms, crisp silhouettes, sophisticated tactile shadows, warm ivory background, forest green and vivid burnt orange accents with small pale yellow highlights. Strong single focal subject fills the RIGHT 55 percent; LEFT 45 percent is beautifully empty dark forest green negative space for a Japanese headline to be set later in the website. Full bleed, visually arresting but professional, no corporate stock-photo look. No text, no letters, no numbers, no logos, no arrows implying guaranteed results. This is a finished artwork, not a contact sheet or mockup."
+    },
+    "rpo-erabikata": {
+      "image": "/assets/media-covers/rpo-erabikata.webp",
+      "social": "/assets/media-covers/rpo-erabikata.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset type: finished landscape 3:2 editorial cover artwork for Eraberu, a Japanese recruiting and RPO practical magazine. Subject: Three distinct sculptural recruiting proposal folders stand side by side like doorways; a large magnifying glass inspects their different scope symbols, an elegant editorial metaphor for comparing outsourcing providers. Style: exceptional tactile paper sculpture and matte clay, sophisticated contemporary magazine illustration, bold readable silhouette, beautiful fine paper grain and architectural shadows, confidently art directed rather than stock illustration. Palette: warm ivory, deep forest green, vivid burnt orange and restrained pale gold. Composition: the sculptural scene fills RIGHT 55%; LEFT 45% is calm empty deep forest green negative space for an article headline added later by the website. Full bleed, close view, strong focal object, thumbnail readability. No text, letters, numbers, logos, watermarks, charts making promises, or contact sheet. One cohesive finished artwork."
+    },
+    "rpo-hiyou": {
+      "image": "/assets/media-covers/rpo-hiyou.webp",
+      "social": "/assets/media-covers/rpo-hiyou.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset type: finished landscape 3:2 editorial cover artwork for Eraberu, a Japanese recruiting and RPO practical magazine. Subject: A large ivory contract ledger beside carefully separated stacks of gold coins and an orange receipt ribbon; a magnifying lens separates included costs from extra costs, recruitment pricing and contracts without numerical claims. Style: exceptional tactile paper sculpture and matte clay, sophisticated contemporary magazine illustration, bold readable silhouette, beautiful fine paper grain and architectural shadows, confidently art directed rather than stock illustration. Palette: warm ivory, deep forest green, vivid burnt orange and restrained pale gold. Composition: the sculptural scene fills RIGHT 55%; LEFT 45% is calm empty deep forest green negative space for an article headline added later by the website. Full bleed, close view, strong focal object, thumbnail readability. No text, letters, numbers, logos, watermarks, charts making promises, or contact sheet. One cohesive finished artwork."
+    },
+    "rpo-phase": {
+      "image": "/assets/media-covers/rpo-phase.webp",
+      "social": "/assets/media-covers/rpo-phase.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset type: finished landscape 3:2 editorial cover artwork for Eraberu, a Japanese recruiting and RPO practical magazine. Subject: A small modular ivory company grows into three ascending architectural blocks; one tiny human-resources desk is connected to supporting orange building blocks, scaling a recruiting organization. Style: exceptional tactile paper sculpture and matte clay, sophisticated contemporary magazine illustration, bold readable silhouette, beautiful fine paper grain and architectural shadows, confidently art directed rather than stock illustration. Palette: warm ivory, deep forest green, vivid burnt orange and restrained pale gold. Composition: the sculptural scene fills RIGHT 55%; LEFT 45% is calm empty deep forest green negative space for an article headline added later by the website. Full bleed, close view, strong focal object, thumbnail readability. No text, letters, numbers, logos, watermarks, charts making promises, or contact sheet. One cohesive finished artwork."
+    },
+    "rpo-gyomu": {
+      "image": "/assets/media-covers/rpo-gyomu.webp",
+      "social": "/assets/media-covers/rpo-gyomu.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset type: finished landscape 3:2 editorial cover artwork for Eraberu, a Japanese recruiting and RPO practical magazine. Subject: An oversized sculptural paper calendar with blank colored squares connects to an envelope tray and an orange clock, a clear handoff of interview scheduling and recruiting administration. Style: exceptional tactile paper sculpture and matte clay, sophisticated contemporary magazine illustration, bold readable silhouette, fine paper grain and beautiful architectural shadows, not stock illustration. Palette: warm ivory, deep forest green, vivid burnt orange and restrained pale gold. Composition: subject on RIGHT 55%; LEFT 45% is completely calm empty deep forest green negative space for a website headline, no objects there. Full bleed, close view, thumbnail readability. No text, letters, numbers, logos, watermarks, promises, or contact sheet. One cohesive finished artwork."
+    },
+    "rpo-shokushu": {
+      "image": "/assets/media-covers/rpo-shokushu.webp",
+      "social": "/assets/media-covers/rpo-shokushu.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset type: finished landscape 3:2 editorial cover artwork for Eraberu, a Japanese recruiting and RPO practical magazine. Subject: A sculptural candidate profile card surrounded by distinct miniature professional tools: a computer chip, construction helmet and stethoscope, thoughtful role-specific recruitment without real people. Style: exceptional tactile paper sculpture and matte clay, sophisticated contemporary magazine illustration, bold readable silhouette, fine paper grain and beautiful architectural shadows, not stock illustration. Palette: warm ivory, deep forest green, vivid burnt orange and restrained pale gold. Composition: subject on RIGHT 55%; LEFT 45% is completely calm empty deep forest green negative space for a website headline, no objects there. Full bleed, close view, thumbnail readability. No text, letters, numbers, logos, watermarks, promises, or contact sheet. One cohesive finished artwork."
+    },
+    "rpo-gyokai": {
+      "image": "/assets/media-covers/rpo-gyokai.webp",
+      "social": "/assets/media-covers/rpo-gyokai.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset type: finished landscape 3:2 editorial cover artwork for Eraberu, a Japanese recruiting and RPO practical magazine. Subject: An elegant miniature world of an ivory office building, orange factory, simple neighborhood shop and medical building connected by candidate cards, industry-specific recruiting. Style: exceptional tactile paper sculpture and matte clay, sophisticated contemporary magazine illustration, bold readable silhouette, fine paper grain and beautiful architectural shadows, not stock illustration. Palette: warm ivory, deep forest green, vivid burnt orange and restrained pale gold. Composition: subject on RIGHT 55%; LEFT 45% is completely calm empty deep forest green negative space for a website headline, no objects there. Full bleed, close view, thumbnail readability. No text, letters, numbers, logos, watermarks, promises, or contact sheet. One cohesive finished artwork."
+    },
+    "rpo-chiiki": {
+      "image": "/assets/media-covers/rpo-chiiki.webp",
+      "social": "/assets/media-covers/rpo-chiiki.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset: finished landscape 3:2 editorial illustration for Eraberu recruitment magazine. Subject: A clean sculptural silhouette of the Japanese archipelago built in warm ivory with several large orange location pins and a single candidate profile token, regional hiring without labels or a data map. Premium tactile paper sculpture and matte clay, striking close-up silhouette, fine paper textures, soft sculptural shadows. Warm ivory, burnt orange, forest green and restrained gold. Subject stays in RIGHT 55%; LEFT 45% is calm empty deep forest green negative space for website headline overlay. Crisp and memorable at thumbnail scale, professional without looking like stock art. Full bleed. No text, letters, numbers, logos, watermarks, promises or contact sheets."
+    },
+    "rpo-baitai": {
+      "image": "/assets/media-covers/rpo-baitai.webp",
+      "social": "/assets/media-covers/rpo-baitai.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset: finished landscape 3:2 editorial illustration for Eraberu recruitment magazine. Subject: Three oversized browser-window-shaped paper frames contain candidate cards and a search lens; one orange envelope travels between frames, choosing and operating recruiting media without platform logos. Premium tactile paper sculpture and matte clay, striking close-up silhouette, fine paper textures, soft sculptural shadows. Warm ivory, burnt orange, forest green and restrained gold. Subject stays in RIGHT 55%; LEFT 45% is calm empty deep forest green negative space for website headline overlay. Crisp and memorable at thumbnail scale, professional without looking like stock art. Full bleed. No text, letters, numbers, logos, watermarks, promises or contact sheets."
+    },
+    "scout-unyo": {
+      "image": "/assets/media-covers/scout-unyo.webp",
+      "social": "/assets/media-covers/scout-unyo.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset: finished landscape 3:2 editorial illustration for Eraberu recruitment magazine. Subject: A tactile orange envelope passes through three large sculptural workflow rings beside an ivory clock and a stack of neatly organized candidate cards, sustained scout message operations. Premium tactile paper sculpture and matte clay, striking close-up silhouette, fine paper textures, soft sculptural shadows. Warm ivory, burnt orange, forest green and restrained gold. Subject stays in RIGHT 55%; LEFT 45% is calm empty deep warm rust red negative space for website headline overlay. Crisp and memorable at thumbnail scale, professional without looking like stock art. Full bleed. No text, letters, numbers, logos, watermarks, promises or contact sheets."
+    },
+    "scout-kaizen": {
+      "image": "/assets/media-covers/scout-kaizen.webp",
+      "social": "/assets/media-covers/scout-kaizen.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset: finished landscape 3:2 editorial cover for Eraberu Japanese recruitment magazine. Subject: One luminous ivory opened envelope with a vivid orange speech bubble rises from a pile of still-closed envelopes; a magnifying glass reveals the response, editorial metaphor for improving scout replies, no upward chart. Exquisite tactile paper sculpture and matte clay, graphic sculptural close-up, crisp memorable silhouettes, paper grain and rich shadows, sophisticated editorial art direction. Warm ivory, burnt orange, deep rust and pale gold. RIGHT 55 percent holds the subject. LEFT 45 percent must be completely empty deep warm rust red for a website headline overlay. Professional, distinctive, readable small. No text, letters, numbers, app logos, watermarks, charts or contact sheets."
+    },
+    "scout-baitai": {
+      "image": "/assets/media-covers/scout-baitai.webp",
+      "social": "/assets/media-covers/scout-baitai.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset: finished landscape 3:2 editorial cover for Eraberu Japanese recruitment magazine. Subject: A sculptural ivory laptop and phone displaying blank candidate cards; coral orange envelopes link the two screens, recruiting channels and scout media without any recognizable app branding. Exquisite tactile paper sculpture and matte clay, graphic sculptural close-up, crisp memorable silhouettes, paper grain and rich shadows, sophisticated editorial art direction. Warm ivory, burnt orange, deep rust and pale gold. RIGHT 55 percent holds the subject. LEFT 45 percent must be completely empty deep warm rust red for a website headline overlay. Professional, distinctive, readable small. No text, letters, numbers, app logos, watermarks, charts or contact sheets."
+    },
+    "scout-shinsotsu": {
+      "image": "/assets/media-covers/scout-shinsotsu.webp",
+      "social": "/assets/media-covers/scout-shinsotsu.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset: finished landscape 3:2 editorial cover for Eraberu Japanese recruitment magazine. Subject: A large ivory graduation cap sits beside an orange candidate portfolio and one carefully opened invitation envelope, first career opportunities and graduate recruiting. Exquisite tactile paper sculpture and matte clay, graphic sculptural close-up, crisp memorable silhouettes, paper grain and rich shadows, sophisticated editorial art direction. Warm ivory, burnt orange, deep rust and pale gold. RIGHT 55 percent holds the subject. LEFT 45 percent must be completely empty deep warm rust red for a website headline overlay. Professional, distinctive, readable small. No text, letters, numbers, app logos, watermarks, charts or contact sheets."
+    },
+    "scout-shokushu": {
+      "image": "/assets/media-covers/scout-shokushu.webp",
+      "social": "/assets/media-covers/scout-shokushu.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset: finished landscape 3:2 editorial cover artwork for Eraberu Japanese HR magazine. Subject: A striking large magnifying lens focuses on a candidate profile card with a small computer-chip and precision-tool motif, targeting professional skills rather than mass messaging. Premium sculptural paper and matte clay, sophisticated art direction, bold close-up shapes, tangible paper grain and beautiful shadows. Palette: warm ivory, burnt orange, pale gold, deep warm rust red. RIGHT 55 percent holds the subject, LEFT 45 percent is completely empty deep warm rust red space for website headline overlay. Full bleed, memorable at thumbnail scale, professional and considered. No text, letters, numbers, logos, watermarks, data claims or contact sheet."
+    },
+    "fukugyo-hajimekata": {
+      "image": "/assets/media-covers/fukugyo-hajimekata.webp",
+      "social": "/assets/media-covers/fukugyo-hajimekata.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset: finished landscape 3:2 editorial cover artwork for Eraberu Japanese HR magazine. Subject: An orange portfolio case sits on the first step of a warm ivory stair beside an inviting open doorway and small candidate card, taking a considered first step into HR side work. Premium sculptural paper and matte clay, sophisticated art direction, bold close-up shapes, tangible paper grain and beautiful shadows. Palette: warm ivory, burnt orange, pale gold, deep midnight navy. RIGHT 55 percent holds the subject, LEFT 45 percent is completely empty deep midnight navy space for website headline overlay. Full bleed, memorable at thumbnail scale, professional and considered. No text, letters, numbers, logos, watermarks, data claims or contact sheet."
+    },
+    "fukugyo-hatarakikata": {
+      "image": "/assets/media-covers/fukugyo-hatarakikata.webp",
+      "social": "/assets/media-covers/fukugyo-hatarakikata.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset: finished landscape 3:2 editorial cover artwork for Eraberu Japanese HR magazine. Subject: A beautifully balanced sculptural beam holds an ivory office calendar and an orange personal work notebook; simple sun and crescent moon shapes suggest managing two schedules calmly. Premium sculptural paper and matte clay, sophisticated art direction, bold close-up shapes, tangible paper grain and beautiful shadows. Palette: warm ivory, burnt orange, pale gold, deep midnight navy. RIGHT 55 percent holds the subject, LEFT 45 percent is completely empty deep midnight navy space for website headline overlay. Full bleed, memorable at thumbnail scale, professional and considered. No text, letters, numbers, logos, watermarks, data claims or contact sheet."
+    },
+    "fukugyo-hoshu": {
+      "image": "/assets/media-covers/fukugyo-hoshu.webp",
+      "social": "/assets/media-covers/fukugyo-hoshu.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset: finished landscape 3:2 editorial cover for Eraberu Japanese HR side-work magazine. Subject: An ivory freelance agreement and open notebook sit beside three modest gold coin stacks and an orange calculator with completely blank buttons, negotiating scope and compensation thoughtfully. Exquisite tactile paper sculpture and matte clay, striking readable silhouette, beautifully lit paper grain, sophisticated editorial composition. Warm ivory, vivid burnt orange, midnight navy and restrained pale gold. Subject fills RIGHT 55%; LEFT 45% is completely calm empty deep midnight navy negative space reserved for website headline text. Full bleed, distinctive at thumbnail scale. No text, letters, numbers, logos, watermarks, implied earnings guarantees or contact sheet."
+    },
+    "fukugyo-seido": {
+      "image": "/assets/media-covers/fukugyo-seido.webp",
+      "social": "/assets/media-covers/fukugyo-seido.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset: finished landscape 3:2 editorial cover for Eraberu Japanese HR side-work magazine. Subject: A large ivory protective shield and dark orange padlock protect a folded blank work agreement and a small candidate profile card, confidentiality, boundaries and side-work rules. Exquisite tactile paper sculpture and matte clay, striking readable silhouette, beautifully lit paper grain, sophisticated editorial composition. Warm ivory, vivid burnt orange, midnight navy and restrained pale gold. Subject fills RIGHT 55%; LEFT 45% is completely calm empty deep midnight navy negative space reserved for website headline text. Full bleed, distinctive at thumbnail scale. No text, letters, numbers, logos, watermarks, implied earnings guarantees or contact sheet."
+    },
+    "fukugyo-skill": {
+      "image": "/assets/media-covers/fukugyo-skill.webp",
+      "social": "/assets/media-covers/fukugyo-skill.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset: finished landscape 3:2 editorial cover for Eraberu Japanese HR side-work magazine. Subject: An open orange toolbox contains a magnifying lens, a blank interview note card and carefully interlocking ivory puzzle pieces, practical HR expertise and skills in an elegant concrete metaphor. Exquisite tactile paper sculpture and matte clay, striking readable silhouette, beautifully lit paper grain, sophisticated editorial composition. Warm ivory, vivid burnt orange, midnight navy and restrained pale gold. Subject fills RIGHT 55%; LEFT 45% is completely calm empty deep midnight navy negative space reserved for website headline text. Full bleed, distinctive at thumbnail scale. No text, letters, numbers, logos, watermarks, implied earnings guarantees or contact sheet."
+    },
+    "fukugyo-gyomu": {
+      "image": "/assets/media-covers/fukugyo-gyomu.webp",
+      "social": "/assets/media-covers/fukugyo-gyomu.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset: finished landscape 3:2 editorial cover for Eraberu Japanese HR side-work magazine. Subject: Two stylized sculptural hands carefully pass an orange work folder across three ivory task blocks, scope and handoff of human-resources freelance work, hands simple abstract mitten forms. Exquisite tactile paper sculpture and matte clay, bold clear silhouettes, warm sculptural lighting and fine paper grain, sophisticated contemporary magazine art direction. Warm ivory, burnt orange, midnight navy and pale gold. RIGHT 55% contains the sculptural scene; LEFT 45% is completely empty deep midnight navy for a website headline. Full bleed, striking at thumbnail scale. No text, letters, numbers, logos, watermarks, earnings claims or contact sheet."
+    },
+    "fukugyo-keireki": {
+      "image": "/assets/media-covers/fukugyo-keireki.webp",
+      "social": "/assets/media-covers/fukugyo-keireki.jpg",
+      "width": 1536,
+      "height": 1024,
+      "prompt": "Use case: illustration-story. Asset: finished landscape 3:2 editorial cover for Eraberu Japanese HR side-work magazine. Subject: An orange portfolio case and blank resume card stand at a fork of two elegant ivory paths rising into steps, connecting past HR experience to a thoughtful next working role. Exquisite tactile paper sculpture and matte clay, bold clear silhouettes, warm sculptural lighting and fine paper grain, sophisticated contemporary magazine art direction. Warm ivory, burnt orange, midnight navy and pale gold. RIGHT 55% contains the sculptural scene; LEFT 45% is completely empty deep midnight navy for a website headline. Full bleed, striking at thumbnail scale. No text, letters, numbers, logos, watermarks, earnings claims or contact sheet."
+    }
+  }
+}

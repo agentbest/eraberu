@@ -14,7 +14,14 @@
 <meta property="og:description" content="エラベルのメディア内を、キーワードで検索できます。">
 <meta property="og:url" content="https://eraberusaiyodaiko.com/media/search/">
 <meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://eraberusaiyodaiko.com/assets/media-covers/rpo-erabikata.jpg">
+<meta property="og:image:width" content="1536">
+<meta property="og:image:height" content="1024">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:alt" content="記事を検索｜エラベル">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://eraberusaiyodaiko.com/assets/media-covers/rpo-erabikata.jpg">
+
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="/media/assets/media.css">
 
@@ -66,7 +73,7 @@
       /* 容量を削るため [slug, title, desc, 柱番号, ハブ番号, target, タグ番号の配列] の配列で来る */
       loading=fetch('/media/search.json').then(function(r){if(!r.ok)throw new Error(r.status);return r.json();})
         .then(function(raw){index=raw.i.map(function(a){return{s:a[0],t:a[1],d:a[2],p:raw.p[a[3]],h:raw.h[a[4]],x:a[5]||'',
-          g:(a[6]||[]).map(function(i){return raw.g[i];}).join(' ')};});return index;});
+          g:(a[6]||[]).map(function(i){return raw.g[i];}).join(' '),cover:a[7]};});return index;});
     }
     return loading;
   }
@@ -90,8 +97,9 @@
     if(!hits.length){statusEl.textContent='「'+q+'」に一致する記事は見つかりませんでした。';list.innerHTML='';moreEl.hidden=true;return;}
     statusEl.textContent='「'+q+'」の検索結果：'+hits.length+'件';
     list.innerHTML=hits.slice(0,LIMIT).map(function(h){var it=h[1];return '<li><a href="/media/'+it.s+'/">'
+      +'<span class="th th--image th--search" aria-hidden="true"><img class="th__image" src="'+esc(it.cover)+'" width="1536" height="1024" alt="" loading="lazy" decoding="async"></span><span class="art__copy">'
       +'<span class="art__t">'+esc(it.t)+'</span><span class="art__d">'+esc(it.d)+'</span>'
-      +'<span class="art__m"><span class="chip chip--p">'+esc(it.p)+'</span><span class="chip">'+esc(it.h)+'</span></span></a></li>';}).join('');
+      +'<span class="art__m"><span class="chip chip--p">'+esc(it.p)+'</span><span class="chip">'+esc(it.h)+'</span></span></span></a></li>';}).join('');
     if(hits.length>LIMIT){moreEl.hidden=false;moreEl.textContent='上位'+LIMIT+'件を表示しています。絞り込むには語を足してください（例：「スカウト 新卒」）。';}
     else moreEl.hidden=true;
   }

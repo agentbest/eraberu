@@ -25,6 +25,12 @@ const fs = require('fs');
 const path = require('path');
 const {guideFor, profileFor, personGuideFor, articleAffiliateFor, services: SERVICES} = require('./service-guides');
 const OB = require('./own-promo');
+const COVER_ASSETS = require('./cover-assets.json').assets;
+for (const asset of Object.values(COVER_ASSETS)) {
+  for (const file of [asset.image, asset.social]) {
+    if (!fs.existsSync(path.join(__dirname, file.slice(1)))) throw Error(`Missing cover asset: ${file}`);
+  }
+}
 
 const DIR = __dirname;
 const SRC = path.join(DIR, 'media', '_articles');
@@ -261,6 +267,7 @@ const BRAND = `<a class="brand" href="/">
 function head(o) {
   const canon = SITE + o.url;
   const ld = [].concat(o.jsonld || []);
+  const cover = o.cover || COVER_ASSETS['rpo-erabikata'];
   return `<!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -277,7 +284,14 @@ function head(o) {
 <meta property="og:description" content="${escAttr(o.desc)}">
 <meta property="og:url" content="${escAttr(canon)}">
 <meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="${escAttr(SITE + cover.social)}">
+<meta property="og:image:width" content="${cover.width}">
+<meta property="og:image:height" content="${cover.height}">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:alt" content="${escAttr(o.title)}">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="${escAttr(SITE + cover.social)}">
+${o.cover ? `<link rel="preload" as="image" href="${escAttr(cover.image)}" fetchpriority="high">` : ''}
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230B1A32'/%3E%3Cpath d='M20 20h24M20 32h18M20 44h24' stroke='%23E4572E' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="/media/assets/media.css">
 ${ld.map(x => `<script type="application/ld+json">${JSON.stringify(x)}</script>`).join('\n')}
@@ -397,15 +411,18 @@ const AUTHOR = `<aside class="author">
 function artItem(a, opt = {}) {
   const p = PILLAR[a.pillar] || PILLARS[0];
   return `<li><a href="/media/${esc(a.slug)}/">
+      ${thumb(a, 'list')}
+      <span class="art__copy">
       <span class="art__t">${esc(a.title)}</span>
       <span class="art__d">${esc(a.description || '')}</span>
       <span class="art__m">${opt.noPillar ? '' : `<span class="chip chip--p">${esc(p.name)}</span>`}${a.target ? `<span class="chip">${esc(a.target)}</span>` : ''}</span>
+      </span>
     </a></li>`;
 }
 function artList(items, opt) { return `<ul class="art">${items.map(a => artItem(a, opt)).join('')}</ul>`; }
 
 /* ---------- ポータル風の部品（記事トップ・記事ページ） ----------
-   記事にアイキャッチ画像は無いので、サムネイルはCSSだけで作る（ハブ＝カテゴリごとに固定の色の面＋カテゴリ名＋テーマ）。
+   アイキャッチは21ハブのAI生成イラストと記事ごとの見出しを組み合わせる。画像の記録は cover-assets.json。
    色はハブの並び（HUBS）で決まる固定表。柱ごとに色の系統を分けている（採用代行＝緑系、スカウト代行＝朱系、人事副業＝紺系）。
    ⚠ アクセス数のデータは無い。「人気」「ランキング」「よく読まれている」とは書かない。 */
 const THUMB_COLORS = {
@@ -420,7 +437,18 @@ const thumbCss = () => HUBS.map(h => {
 }).join('\n');
 function thumb(a, size) {
   const hub = hubOf(a);
-  return `<span class="th th--${hub.slug}${size ? ' th--' + size : ''}" aria-hidden="true"><span class="th__c">${esc(hub.name)}</span><span class="th__k">${esc(a.target || hub.series)}</span></span>`;
+  const cover = coverFor(a);
+  const eager = size === 'hero' || size === 'lg';
+  return `<span class="th th--image th--${hub.slug}${size ? ' th--' + size : ''}" aria-hidden="true"><img class="th__image" src="${cover.image}" width="${cover.width}" height="${cover.height}" alt="" loading="${eager ? 'eager' : 'lazy'}" decoding="async"${eager ? ' fetchpriority="high"' : ''}><span class="th__shade"></span><span class="th__copy"><span class="th__c">${esc(hub.name)}</span><span class="th__k">${esc(coverHeadline(a))}</span><span class="th__brand">エラベル <span>ERABERU</span></span></span></span>`;
+}
+function coverFor(a) {
+  const hub = hubOf(a);
+  const cover = hub && COVER_ASSETS[hub.slug];
+  if (!cover) throw Error(`Missing article cover: ${a.slug}`);
+  return cover;
+}
+function coverHeadline(a) {
+  return a.title.split(/[｜|]/)[0].trim();
 }
 /* カード（サムネ＋カテゴリ＋タイトル＋日付）。日付は記事にある pubDate をそのまま出す */
 function card(a, opt = {}) {
@@ -576,11 +604,12 @@ function articleHtml(a, ctx) {
     mainEntityOfPage: { '@type': 'WebPage', '@id': SITE + url }, url: SITE + url,
     headline: a.title, description: a.description, inLanguage: 'ja',
     datePublished: a.pubDate, dateModified: a.reviewedAt || a.pubDate,
+    image: SITE + coverFor(a).social,
     author: { '@type': 'Organization', name: 'エラベル編集部', url: SITE + '/editorial.html' },
     publisher: { '@type': 'Organization', name: '株式会社エージェントベスト', url: 'https://www.agent-best.net/' },
   }, crumbLd(cr.concat({ name: a.title }), url)];
 
-  return head({ title: `${a.title}｜エラベル`, desc: a.description, url, ogType: 'article', jsonld })
+  return head({ title: `${a.title}｜エラベル`, desc: a.description, url, ogType: 'article', jsonld, cover: coverFor(a) })
     + `<main class="wrap art-page">
   ${crumbs(cr)}
   <div class="art-layout">
@@ -594,6 +623,7 @@ function articleHtml(a, ctx) {
     ${a.target ? `<span class="chip">${esc(a.target)}</span>` : ''}
     <span class="meta__date">情報の基準日 ${esc(a.reviewedAt || a.pubDate)}</span>
   </p>
+  <div class="article-cover">${thumb(a, 'hero')}</div>
   ${toc}
   <div class="body">
 ${html}
@@ -736,7 +766,7 @@ function searchHtml() {
       /* 容量を削るため [slug, title, desc, 柱番号, ハブ番号, target, タグ番号の配列] の配列で来る */
       loading=fetch('/media/search.json').then(function(r){if(!r.ok)throw new Error(r.status);return r.json();})
         .then(function(raw){index=raw.i.map(function(a){return{s:a[0],t:a[1],d:a[2],p:raw.p[a[3]],h:raw.h[a[4]],x:a[5]||'',
-          g:(a[6]||[]).map(function(i){return raw.g[i];}).join(' ')};});return index;});
+          g:(a[6]||[]).map(function(i){return raw.g[i];}).join(' '),cover:a[7]};});return index;});
     }
     return loading;
   }
@@ -760,8 +790,9 @@ function searchHtml() {
     if(!hits.length){statusEl.textContent='「'+q+'」に一致する記事は見つかりませんでした。';list.innerHTML='';moreEl.hidden=true;return;}
     statusEl.textContent='「'+q+'」の検索結果：'+hits.length+'件';
     list.innerHTML=hits.slice(0,LIMIT).map(function(h){var it=h[1];return '<li><a href="/media/'+it.s+'/">'
+      +'<span class="th th--image th--search" aria-hidden="true"><img class="th__image" src="'+esc(it.cover)+'" width="1536" height="1024" alt="" loading="lazy" decoding="async"></span><span class="art__copy">'
       +'<span class="art__t">'+esc(it.t)+'</span><span class="art__d">'+esc(it.d)+'</span>'
-      +'<span class="art__m"><span class="chip chip--p">'+esc(it.p)+'</span><span class="chip">'+esc(it.h)+'</span></span></a></li>';}).join('');
+      +'<span class="art__m"><span class="chip chip--p">'+esc(it.p)+'</span><span class="chip">'+esc(it.h)+'</span></span></span></a></li>';}).join('');
     if(hits.length>LIMIT){moreEl.hidden=false;moreEl.textContent='上位'+LIMIT+'件を表示しています。絞り込むには語を足してください（例：「スカウト 新卒」）。';}
     else moreEl.hidden=true;
   }
@@ -779,7 +810,7 @@ function searchHtml() {
 }
 
 /* 検索インデックス。キー名とラベルの繰り返しを削ってサイズを抑える。
-   { p: [柱名], h: [ハブ名], g: [タグ名], i: [[slug, title, desc, 柱番号, ハブ番号, target, [タグ番号]]] } */
+   { p: [柱名], h: [ハブ名], g: [タグ名], i: [[slug, title, desc, 柱番号, ハブ番号, target, [タグ番号], カバー画像URL]] } */
 function searchJson(all, ctx) {
   const DESC_MAX = 90;
   const pl = PILLARS.map(p => p.name), hl = HUBS.map(h => h.name), gl = [];
@@ -788,7 +819,7 @@ function searchJson(all, ctx) {
     const d = a.description || '';
     return [a.slug, a.title, d.length > DESC_MAX ? d.slice(0, DESC_MAX) + '…' : d,
       PILLARS.findIndex(p => p.key === a.pillar), HUBS.indexOf(hubOf(a)), a.target || '',
-      a.tags.filter(t => { const x = TAG_BY_LABEL.get(t); return x && ctx.liveTags.has(x.slug); }).map(gid)];
+      a.tags.filter(t => { const x = TAG_BY_LABEL.get(t); return x && ctx.liveTags.has(x.slug); }).map(gid), coverFor(a).image];
   });
   return JSON.stringify({ p: pl, h: hl, g: gl, i: items });
 }
@@ -1164,6 +1195,28 @@ footer{background:var(--navy);color:var(--on-navy-soft);border-top:1px solid var
 .meta--top .meta__hub:hover{background:var(--th,var(--navy));opacity:.88}
 .block .more{margin-top:1.1em}
 ${thumbCss()}
+
+/* AI生成のカテゴリ別イラスト＋記事ごとの見出し。文字はHTMLなので拡大・修正できる。 */
+.th--image{display:block;padding:0;isolation:isolate;container-type:inline-size;aspect-ratio:3/2;overflow:hidden;border-radius:9px;background:#123b30}
+.th--image::before,.th--image::after{display:none}
+.th__image{position:absolute;inset:0;display:block;width:100%;height:100%;object-fit:cover;max-width:100%}
+.th__shade{position:absolute;inset:0;background:linear-gradient(90deg,rgba(2,15,19,.4),rgba(2,15,19,.18) 42%,transparent 70%)}
+.th__copy{position:absolute;inset:10% 6% 8%;width:48%;display:flex;flex-direction:column;align-items:flex-start;justify-content:space-between;gap:6px;color:#fff}
+.th--image .th__c{display:block;max-width:100%;font-size:clamp(8px,2.7cqw,12px);padding:3px 6px;border:1px solid rgba(255,255,255,.5);border-radius:3px;opacity:1}
+.th--image .th__k{margin:0;font-size:clamp(13px,6cqw,28px);font-weight:900;line-height:1.4;letter-spacing:-.025em;text-wrap:pretty;-webkit-line-clamp:4;text-shadow:0 1px 6px rgba(0,0,0,.18)}
+.th__brand{font-size:clamp(8px,2.7cqw,12px);font-weight:800;letter-spacing:.06em}.th__brand span{font-size:.7em;font-weight:500;letter-spacing:.12em;margin-left:.3em;opacity:.75}
+.th--hero .th__k{font-size:clamp(20px,5.5cqw,44px)}
+.th--hero .th__c,.th--hero .th__brand{font-size:clamp(11px,2.2cqw,16px)}
+.article-cover{margin:1.6rem 0 2rem}.article-cover .th{border-radius:12px;box-shadow:0 10px 28px rgba(11,26,50,.09)}
+.th--sm .th__copy,.th--sm .th__shade{display:none}
+.th--sm.th--image{padding:0;aspect-ratio:3/2}
+.art>li>a{display:grid;grid-template-columns:minmax(140px,30%) minmax(0,1fr);gap:18px;align-items:center;padding:1.1rem 0}
+.art__copy{display:block;min-width:0}
+.th--list .th__brand{display:none}.th--list .th__copy{inset:9% 5%;width:49%;justify-content:center;gap:7px}
+.th--list .th__c{font-size:clamp(7px,2.5cqw,10px);padding:1px 4px}
+.th--list .th__k{font-size:clamp(10px,5.5cqw,21px);-webkit-line-clamp:3}
+.art--compact>li>a{grid-template-columns:none}
+@media(max-width:600px){.art>li>a{grid-template-columns:120px minmax(0,1fr);gap:12px}.article-cover{margin:1.2rem 0 1.6rem}.th--list .th__c{display:none}.th--image .th__k{-webkit-line-clamp:3}.th--hero .th__k{-webkit-line-clamp:4}.th--image .th__copy{gap:4px}}
 `;
 
 /* ---------- 出力 ---------- */
